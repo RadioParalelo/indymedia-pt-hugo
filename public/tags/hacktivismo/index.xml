@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hacktivismo on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/hacktivismo/</link>
+    <link>http://localhost:1313/tags/hacktivismo/</link>
     <description>Recent content in Hacktivismo on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sat, 28 Oct 2023 18:06:49 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/hacktivismo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hacktivismo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hacktivistas interrompem canal de televisão Israelita.</title>
-      <link>https://blog.indymedia.pt/news/2023-10-28-hacktivistas-interrompem-canal-de-televisao-israelitas/</link>
+      <link>http://localhost:1313/news/2023-10-28-hacktivistas-interrompem-canal-de-televisao-israelitas/</link>
       <pubDate>Sat, 28 Oct 2023 18:06:49 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-28-hacktivistas-interrompem-canal-de-televisao-israelitas/</guid>
+      <guid>http://localhost:1313/news/2023-10-28-hacktivistas-interrompem-canal-de-televisao-israelitas/</guid>
       <description>Ontem a noite um serviço noticioso do canal 13 israelita foi interrompido por um vídeo em apoio a palestina.&#xA;De alguma forma o grupo de Hacktivista conseguiu substituir tanto a imagem do estúdio bem como a do directo com mensagens de apoio a causa palestiniana.&#xA;Pela soberania da informação,</description>
     </item>
   </channel>

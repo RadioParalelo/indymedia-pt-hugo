@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teatro on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/teatro/</link>
+    <link>http://localhost:1313/tags/teatro/</link>
     <description>Recent content in Teatro on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Fri, 15 Dec 2023 21:07:21 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/teatro/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/teatro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Israel invade o Freedom Theatre no campo de refugiados de Jenin; o diretor fala depois de ter sido preso e espancado</title>
-      <link>https://blog.indymedia.pt/news/2023-12-15-israel-invade-o-freedom-theatre-no-campo-de-refugiados-de-jenin-o-diretor-fala-depois-de-ter-sido-preso-e-espancado/</link>
+      <link>http://localhost:1313/news/2023-12-15-israel-invade-o-freedom-theatre-no-campo-de-refugiados-de-jenin-o-diretor-fala-depois-de-ter-sido-preso-e-espancado/</link>
       <pubDate>Fri, 15 Dec 2023 21:07:21 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-12-15-israel-invade-o-freedom-theatre-no-campo-de-refugiados-de-jenin-o-diretor-fala-depois-de-ter-sido-preso-e-espancado/</guid>
+      <guid>http://localhost:1313/news/2023-12-15-israel-invade-o-freedom-theatre-no-campo-de-refugiados-de-jenin-o-diretor-fala-depois-de-ter-sido-preso-e-espancado/</guid>
       <description>DECLARAÇÃO DO FREEDOM THEATRE:&#xA;Na manhã do dia 13 de dezembro, o exército israelita começou a atacar e a saquear o Teatro da Liberdade. Dispararam do interior do teatro, destruindo os escritórios e derrubando uma parede.&#xA;De seguida, o exército dirigiu-se às casas de Ahmed Tobasi e Mustafa Sheta, vendou os olhos, algemou-os e levou-os.&#xA;Nessa noite, o exército deslocou-se a casa de Jamal Abu Joas, espancou-o severamente e depois levou-o.</description>
     </item>
   </channel>

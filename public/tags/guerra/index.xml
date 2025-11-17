@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guerra on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/guerra/</link>
+    <link>http://localhost:1313/tags/guerra/</link>
     <description>Recent content in Guerra on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sat, 15 Nov 2025 22:41:28 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/guerra/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/guerra/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Navio com pavilhão português suspeito de transportar material militar para Israel</title>
-      <link>https://blog.indymedia.pt/news/2025-11-15-navio-com-pavilhao-portugues-suspeito-de-transportar-material-militar-para-israel/</link>
+      <link>http://localhost:1313/news/2025-11-15-navio-com-pavilhao-portugues-suspeito-de-transportar-material-militar-para-israel/</link>
       <pubDate>Sat, 15 Nov 2025 22:41:28 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2025-11-15-navio-com-pavilhao-portugues-suspeito-de-transportar-material-militar-para-israel/</guid>
+      <guid>http://localhost:1313/news/2025-11-15-navio-com-pavilhao-portugues-suspeito-de-transportar-material-militar-para-israel/</guid>
       <description>O MPPM tomou conhecimento de que o navio Holger G., com pavilhão português, estará a transportar material militar com destino a Israel. O Holger G. transportará 440 toneladas de material militar, incluindo 175 toneladas de projécteis de 155 mm, com destino às empresas israelitas Elbit Systems e IMI – Israel Military Industries. O navio Holger G. é propriedade da empresa alemã Reederei Gerdes, está registado no MAR &amp;8211; Registo Internacional de Navios da Madeira e tem o IMO 9995894.</description>
     </item>
     <item>
       <title>Palestina Israel Live Streams</title>
-      <link>https://blog.indymedia.pt/news/2023-10-14-palestina-israel-live-streams/</link>
+      <link>http://localhost:1313/news/2023-10-14-palestina-israel-live-streams/</link>
       <pubDate>Sat, 14 Oct 2023 11:32:01 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-14-palestina-israel-live-streams/</guid>
+      <guid>http://localhost:1313/news/2023-10-14-palestina-israel-live-streams/</guid>
       <description>Se tal como nós gostas de ver o que se esta a passar, gostava-mos de partilhar contigo o link de um canal de Youtube onde podes acompanhar 3 câmaras de Gaza, 1 na fronteira e 1 em Israel.&#xA;E recomendamos pesquisas com as seguintes hashtags FreePalestine PalestinaLivre PalestineLivesMatter FreeGaza&#xA;Pela soberania da informação.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clima on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/clima/</link>
+    <link>http://localhost:1313/tags/clima/</link>
     <description>Recent content in Clima on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Fri, 08 Dec 2023 22:51:20 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/clima/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/clima/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intervenção artística do Superlinox pelo ambiente</title>
-      <link>https://blog.indymedia.pt/news/2023-12-08-intervencao-artistica-do-superlinox-pelo-ambiente/</link>
+      <link>http://localhost:1313/news/2023-12-08-intervencao-artistica-do-superlinox-pelo-ambiente/</link>
       <pubDate>Fri, 08 Dec 2023 22:51:20 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-12-08-intervencao-artistica-do-superlinox-pelo-ambiente/</guid>
+      <guid>http://localhost:1313/news/2023-12-08-intervencao-artistica-do-superlinox-pelo-ambiente/</guid>
       <description>Carcavelos acordou hoje com uma nova habitante. Alice (Superlinox, 2023) veio mostrar-se à vila munida de uma máscara de oxigénio. Se continuarmos a destruir as árvores ao ritmo e leveza com que o fazemos, que futuro prometemos às nossas &amp;amp;8220;Alices&amp;amp;8221;, às nossas crianças? Que ar irão elas respirar? A Quinta dos Ingleses é o maior, único e último pulmão verde que existe entre Lisboa e Cascais e não pode desaparecer!</description>
     </item>
   </channel>

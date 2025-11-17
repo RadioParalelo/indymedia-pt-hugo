@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ISCTE on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/iscte/</link>
+    <link>http://localhost:1313/tags/iscte/</link>
     <description>Recent content in ISCTE on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Thu, 16 Nov 2023 10:44:25 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/iscte/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/iscte/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3º Dia das Ações Estudantis contra o Fóssil – O último inverno do Gás.</title>
-      <link>https://blog.indymedia.pt/news/2023-11-16-3o-dia-das-acoes-estudantis-contra-o-fossil-o-ultimo-inverno-do-gas/</link>
+      <link>http://localhost:1313/news/2023-11-16-3o-dia-das-acoes-estudantis-contra-o-fossil-o-ultimo-inverno-do-gas/</link>
       <pubDate>Thu, 16 Nov 2023 10:44:25 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-11-16-3o-dia-das-acoes-estudantis-contra-o-fossil-o-ultimo-inverno-do-gas/</guid>
+      <guid>http://localhost:1313/news/2023-11-16-3o-dia-das-acoes-estudantis-contra-o-fossil-o-ultimo-inverno-do-gas/</guid>
       <description>Ontem foi o 3º dia das ocupas nas universidades e secundárias e foi um dia marcado pela entrada da polícia para interromper e deter estudantes que estavam a ministrar palestras e até apenas a ouvir as mesmas.&#xA;Estas visitas da polícia as universidades a pedido das suas reitorias são nitidamente tácticas intimidatórias para com manifestantes/estudantes pacíficos que apenas querem colocar o tema das alterações climáticas na agenda já que as demais evidencias dos estudos científicos e opinião de cientistas e investigadores não são suficientes para o tema ser tratado com a seriedade que deve, bem como trazer a debate deste tema para as Universidades, aquele que se quer que seja um espaço de debate de ideias e partilha de conhecimentos, algo que foi negado ontem em mais que um momento.</description>
     </item>
     <item>
       <title>3º dia das Ocupações pelo Fim ao Fóssil</title>
-      <link>https://blog.indymedia.pt/news/2023-11-15-3o-dia-das-ocupacoes-pelo-fim-ao-fossil/</link>
+      <link>http://localhost:1313/news/2023-11-15-3o-dia-das-ocupacoes-pelo-fim-ao-fossil/</link>
       <pubDate>Wed, 15 Nov 2023 10:48:11 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-11-15-3o-dia-das-ocupacoes-pelo-fim-ao-fossil/</guid>
+      <guid>http://localhost:1313/news/2023-11-15-3o-dia-das-ocupacoes-pelo-fim-ao-fossil/</guid>
       <description>Começa o 3º dia das ocupações em Universidades e Secundárias, em Lisboa e Coimbra e estas são as novidades.&#xA;&amp;amp;8220;A FCSH resiste com força e determinação, mesmo após várias ameaças dd a direção voltar a chamar a policia para deter as estudantes. Não nos calarão. Lutar pelo clima Não é crime.&amp;amp;8221;&#xA;Na FPUL íamos pendurar uma faixa e a direção ameaçou chamar a polícia.&#xA;A colorir as paredes brancas do ISCTE</description>
     </item>
   </channel>

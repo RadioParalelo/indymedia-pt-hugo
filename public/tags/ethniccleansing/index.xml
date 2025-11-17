@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ethniccleansing on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/ethniccleansing/</link>
+    <link>http://localhost:1313/tags/ethniccleansing/</link>
     <description>Recent content in Ethniccleansing on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sat, 04 Oct 2025 10:38:37 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/ethniccleansing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ethniccleansing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O Porto também se juntou à mobilização internacional em defesa da Palestina e da flotilha</title>
-      <link>https://blog.indymedia.pt/news/2025-10-04-o-porto-tambem-se-juntou-a-mobilizacao-internacional-em-defesa-da-palestina-e-da-flotilha/</link>
+      <link>http://localhost:1313/news/2025-10-04-o-porto-tambem-se-juntou-a-mobilizacao-internacional-em-defesa-da-palestina-e-da-flotilha/</link>
       <pubDate>Sat, 04 Oct 2025 10:38:37 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2025-10-04-o-porto-tambem-se-juntou-a-mobilizacao-internacional-em-defesa-da-palestina-e-da-flotilha/</guid>
+      <guid>http://localhost:1313/news/2025-10-04-o-porto-tambem-se-juntou-a-mobilizacao-internacional-em-defesa-da-palestina-e-da-flotilha/</guid>
       <description>@ativismoemfoco no Instagram:&#xA;«O Porto também se juntou à mobilização internacional em defesa da Palestina e da flotilha e seus membros sequestrados pelo Estado terrorista e genocida de Israel.&#xA;Perante a cumplicidade do governo português com Israel e mais um dos seus múltiplos crimes, mhares de pessoas se manifestaram e praticaram desobediência civil, bloqueando várias ruas durante horas e também a linha amarela do metro. Seguranças do Metro do Porto e agentes policiais agrediram diversas pessoas.</description>
     </item>
   </channel>

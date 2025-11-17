@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MovRioDouro on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/movriodouro/</link>
+    <link>http://localhost:1313/tags/movriodouro/</link>
     <description>Recent content in MovRioDouro on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Mon, 16 Oct 2023 16:21:43 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/movriodouro/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/movriodouro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Porto] Contra a construção do Cais do Cavaco para navios-hotel</title>
-      <link>https://blog.indymedia.pt/news/2023-10-16-porto-contra-a-construcao-do-cais-do-cavaco-para-navios-hotel/</link>
+      <link>http://localhost:1313/news/2023-10-16-porto-contra-a-construcao-do-cais-do-cavaco-para-navios-hotel/</link>
       <pubDate>Mon, 16 Oct 2023 16:21:43 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-16-porto-contra-a-construcao-do-cais-do-cavaco-para-navios-hotel/</guid>
+      <guid>http://localhost:1313/news/2023-10-16-porto-contra-a-construcao-do-cais-do-cavaco-para-navios-hotel/</guid>
       <description>As II Jornadas do Douro decorreram em Gaia esta semana. Durante as jornadas decorreram mesas redondas e conversas sobre vários problemas que afetam o Rio Douro. O MovRioDouro também organizou um protesto contra a construção do Cais do Cavaco.&#xA;Comunicado MovRioDouro [Julho, 2023]:&#xA;Um mês após o encerramento do processo de consulta pública &amp;amp;8211; que&#xA;resultou em 128 participações -, o MovRioDouro manifesta-se contra a obra do Cais do Cavaco e considera que a APDL e a Agência Portuguesa do Ambiente devem apresentar um estudo dos reais impactos dos navios-hotel no rio Douro.</description>
     </item>
   </channel>

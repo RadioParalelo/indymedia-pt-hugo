@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portugal on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/portugal/</link>
+    <link>http://localhost:1313/tags/portugal/</link>
     <description>Recent content in Portugal on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sat, 01 Nov 2025 12:32:07 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/portugal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/portugal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NOFACHODAY</title>
-      <link>https://blog.indymedia.pt/news/2025-11-01-nofachoday/</link>
+      <link>http://localhost:1313/news/2025-11-01-nofachoday/</link>
       <pubDate>Sat, 01 Nov 2025 12:32:07 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2025-11-01-nofachoday/</guid>
+      <guid>http://localhost:1313/news/2025-11-01-nofachoday/</guid>
       <description>O NoFachoDay chega a 1 de dezembro, o dia em que a Restauração da Independência ganha outro significado: restaurar a liberdade, a empatia e a resistência cultural.&#xA;Inspirado no espírito do NoKingsDay, este é um gesto coletivo que une arte, música, humor e ação cívica contra o autoritarismo e a normalização do ódio.&#xA;Portugal precisa de um novo tipo de celebração, uma que não se limite a recordar o passado, mas que lute pelo presente.</description>
     </item>
     <item>
       <title>O Porto também se juntou à mobilização internacional em defesa da Palestina e da flotilha</title>
-      <link>https://blog.indymedia.pt/news/2025-10-04-o-porto-tambem-se-juntou-a-mobilizacao-internacional-em-defesa-da-palestina-e-da-flotilha/</link>
+      <link>http://localhost:1313/news/2025-10-04-o-porto-tambem-se-juntou-a-mobilizacao-internacional-em-defesa-da-palestina-e-da-flotilha/</link>
       <pubDate>Sat, 04 Oct 2025 10:38:37 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2025-10-04-o-porto-tambem-se-juntou-a-mobilizacao-internacional-em-defesa-da-palestina-e-da-flotilha/</guid>
+      <guid>http://localhost:1313/news/2025-10-04-o-porto-tambem-se-juntou-a-mobilizacao-internacional-em-defesa-da-palestina-e-da-flotilha/</guid>
       <description>@ativismoemfoco no Instagram:&#xA;«O Porto também se juntou à mobilização internacional em defesa da Palestina e da flotilha e seus membros sequestrados pelo Estado terrorista e genocida de Israel.&#xA;Perante a cumplicidade do governo português com Israel e mais um dos seus múltiplos crimes, mhares de pessoas se manifestaram e praticaram desobediência civil, bloqueando várias ruas durante horas e também a linha amarela do metro. Seguranças do Metro do Porto e agentes policiais agrediram diversas pessoas.</description>
     </item>
     <item>
       <title>Queres ser Ninja por um dia?</title>
-      <link>https://blog.indymedia.pt/news/2023-09-25-queres-ser-ninja-por-um-dia/</link>
+      <link>http://localhost:1313/news/2023-09-25-queres-ser-ninja-por-um-dia/</link>
       <pubDate>Mon, 25 Sep 2023 15:54:11 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-09-25-queres-ser-ninja-por-um-dia/</guid>
+      <guid>http://localhost:1313/news/2023-09-25-queres-ser-ninja-por-um-dia/</guid>
       <description>Casa para Viver {.wp-block-heading}&#xA;Dia 30 de Setembro saímos as ruas numa manifestação pela habitação e por justiça climática, contra a precariedade e o aumento do custo de vida.&#xA;Queremos aproveitar esta oportunidade para fazer uma cobertura a nível nacional deste protesto tão importante.&#xA;Como tal segue o apelo a todos aqueles que gostam de informar e reportar para saírem a rua neste dia e fazerem registos fotográficos, vídeo, ou escritos do ocorrido no teu bairro.</description>
     </item>
   </channel>

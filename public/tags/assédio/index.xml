@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Assédio on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/ass%C3%A9dio/</link>
+    <link>http://localhost:1313/tags/ass%C3%A9dio/</link>
     <description>Recent content in Assédio on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Mon, 30 Oct 2023 13:48:53 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/ass%C3%A9dio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ass%C3%A9dio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Academia Não Assedia: Manifestação Nacional a 7 de Novembro</title>
-      <link>https://blog.indymedia.pt/news/2023-10-30-manifesto-academia-nao-assedia-e-manifestacao-nacional-a-7-de-novembro/</link>
+      <link>http://localhost:1313/news/2023-10-30-manifesto-academia-nao-assedia-e-manifestacao-nacional-a-7-de-novembro/</link>
       <pubDate>Mon, 30 Oct 2023 13:48:53 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-30-manifesto-academia-nao-assedia-e-manifestacao-nacional-a-7-de-novembro/</guid>
+      <guid>http://localhost:1313/news/2023-10-30-manifesto-academia-nao-assedia-e-manifestacao-nacional-a-7-de-novembro/</guid>
       <description>O assédio no meio académico dura há demasiado tempo e com a complacência da comunidade académica. Juntamo-nos para dizer basta. O assédio não tem lugar nas nossas universidades.&#xA;Todes sabemos o que se passa nas nossas faculdades. Todes sabemos porque o assédio está institucionalizado; está sistematizado. E as nossas instituições calam &amp;amp;8211; por todo o país. Nos últimos dois anos têm-se sabido inúmeros casos de assédio moral e sexual de norte a sul do país.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Imigrantes on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/imigrantes/</link>
+    <link>http://localhost:1313/tags/imigrantes/</link>
     <description>Recent content in Imigrantes on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Wed, 27 Sep 2023 23:43:40 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/imigrantes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/imigrantes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Organizações da sociedade civil que trabalham com populações imigrantes estão em risco de fechar portas a 1 de Janeiro</title>
-      <link>https://blog.indymedia.pt/news/2023-09-27-organizacoes-da-sociedade-civil-que-trabalham-com-populacoes-imigrantes-estao-em-risco-de-fechar-portas-a-1-de-janeiro/</link>
+      <link>http://localhost:1313/news/2023-09-27-organizacoes-da-sociedade-civil-que-trabalham-com-populacoes-imigrantes-estao-em-risco-de-fechar-portas-a-1-de-janeiro/</link>
       <pubDate>Wed, 27 Sep 2023 23:43:40 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-09-27-organizacoes-da-sociedade-civil-que-trabalham-com-populacoes-imigrantes-estao-em-risco-de-fechar-portas-a-1-de-janeiro/</guid>
+      <guid>http://localhost:1313/news/2023-09-27-organizacoes-da-sociedade-civil-que-trabalham-com-populacoes-imigrantes-estao-em-risco-de-fechar-portas-a-1-de-janeiro/</guid>
       <description>São muitos os serviços de apoio a populações imigrantes, essenciais para a sua integração social e para a salvaguarda dos Direitos Humanos, que são garantidos por organizações da sociedade civil: apoio à regularização e contactos com entidades como o SEF, transmissão de informação fidedigna sobre direitos e deveres, ensino de Português, apoio à empregabilidade e no acesso a serviços públicos de educação e saúde. Sendo assim, o Estado Português está em grave falta para com as organizações da sociedade civil que trabalham com pessoas imigrantes e com coletivos e associações de imigrantes cuja intervenção está prevista nas suas políticas públicas relativas à imigração e na sua estratégia de acolhimento, com destaque para os Centros Locais de Apoio à Inclusão de Migrantes (CLAIM).</description>
     </item>
   </channel>

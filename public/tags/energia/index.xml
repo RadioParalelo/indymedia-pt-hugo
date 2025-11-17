@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Energia on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/energia/</link>
+    <link>http://localhost:1313/tags/energia/</link>
     <description>Recent content in Energia on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sat, 30 Dec 2023 08:43:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/energia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/energia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Movimentos de cidadãos pedem suspensão imediata dos projetos de licenciamento das centrais fotovoltaicas previstas para as freguesias do Cercal do Alentejo e de S. Domingos e Parque Eólico de Morgavel</title>
-      <link>https://blog.indymedia.pt/news/2023-12-30-movimentos-de-cidadaos-pedem-suspensao-imediata-dos-projetos-de-licenciamento-das-centrais-fotovoltaicas-previstas-para-as-freguesias-do-cercal-do-alentejo-e-de-s-domingos-e-parque-eolico-de-morgavel/</link>
+      <link>http://localhost:1313/news/2023-12-30-movimentos-de-cidadaos-pedem-suspensao-imediata-dos-projetos-de-licenciamento-das-centrais-fotovoltaicas-previstas-para-as-freguesias-do-cercal-do-alentejo-e-de-s-domingos-e-parque-eolico-de-morgavel/</link>
       <pubDate>Sat, 30 Dec 2023 08:43:00 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-12-30-movimentos-de-cidadaos-pedem-suspensao-imediata-dos-projetos-de-licenciamento-das-centrais-fotovoltaicas-previstas-para-as-freguesias-do-cercal-do-alentejo-e-de-s-domingos-e-parque-eolico-de-morgavel/</guid>
+      <guid>http://localhost:1313/news/2023-12-30-movimentos-de-cidadaos-pedem-suspensao-imediata-dos-projetos-de-licenciamento-das-centrais-fotovoltaicas-previstas-para-as-freguesias-do-cercal-do-alentejo-e-de-s-domingos-e-parque-eolico-de-morgavel/</guid>
       <description>Os movimentos ligados à contestação dos projetos para as centrais fotovoltaicas previstas para o Concelho de Santiago do Cacém pedem a suspensão imediata dos licenciamentos em curso, seja qual for o estado em que se encontrem. Irão também constituir-se assistentes no processo de inquérito n.º581/19.5 TELSB e enviar para esse inquérito um conjunto de informação que o titular da ação penal ajuizará quanto à sua relevância.&#xA;Durante mais de três anos o governo ignorou e desrespeitou os inúmeros apelos dos movimentos signatários para os impactos negativos, significativos e muito significativos que estas centrais fotovoltaicas e eólica teriam na vida das populações locais pelo que chegou agora o momento de cumprir os direitos mais elementares de quem vive no terreno.</description>
     </item>
     <item>
       <title>“Não podemos consentir com empresas que matam.” Duas apoiantes do Climáximo estilhaçam fachada da REN.</title>
-      <link>https://blog.indymedia.pt/news/2023-10-07-nao-podemos-consentir-com-empresas-que-matam-duas-apoiantes-do-climaximo-estilhacam-fachada-da-ren/</link>
+      <link>http://localhost:1313/news/2023-10-07-nao-podemos-consentir-com-empresas-que-matam-duas-apoiantes-do-climaximo-estilhacam-fachada-da-ren/</link>
       <pubDate>Sat, 07 Oct 2023 10:52:16 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-07-nao-podemos-consentir-com-empresas-que-matam-duas-apoiantes-do-climaximo-estilhacam-fachada-da-ren/</guid>
+      <guid>http://localhost:1313/news/2023-10-07-nao-podemos-consentir-com-empresas-que-matam-duas-apoiantes-do-climaximo-estilhacam-fachada-da-ren/</guid>
       <description>Hoje o Climáximo realizou mais uma acção nas ruas de Lisboa e desta vez o alvo foi a sede da REN.&#xA;Deixamos abaixo o comunicado de imprensa que nos chegou:&#xA;&amp;amp;8220;Não podemos consentir com empresas que matam.&amp;amp;8221; Duas apoiantes do Climáximo estilhaçam fachada da REN.&#xA;Hoje pelas 07:45, duas apoiantes do Climáximo estilhaçaram a fachada de vidro da REN. &amp;amp;8220;Não está tudo bem. A própria OMS diz que as a crise climática está a matar centenas de milhares de pessoas todos os anos, e os culpados não têm qualquer plano viável para parar.</description>
     </item>
   </channel>

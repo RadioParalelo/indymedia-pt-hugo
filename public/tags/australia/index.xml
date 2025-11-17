@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Australia on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/australia/</link>
+    <link>http://localhost:1313/tags/australia/</link>
     <description>Recent content in Australia on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sun, 26 Nov 2023 13:24:43 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/australia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/australia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PeoplesBlockade – Canoas vs Cargueiros</title>
-      <link>https://blog.indymedia.pt/news/2023-11-26-peoplesblockade-canoas-vs-cargueiros/</link>
+      <link>http://localhost:1313/news/2023-11-26-peoplesblockade-canoas-vs-cargueiros/</link>
       <pubDate>Sun, 26 Nov 2023 13:24:43 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-11-26-peoplesblockade-canoas-vs-cargueiros/</guid>
+      <guid>http://localhost:1313/news/2023-11-26-peoplesblockade-canoas-vs-cargueiros/</guid>
       <description>Decorreu durante este fim de semana um mega protesto contra a industria do carvão na Austrália com o bloqueio do porto de NewCastle, o maior porto de carvão do mundo.&#xA;https://twitter.com/i/status/1728195874243961189 Momento da primeira partida para o mar dos activistas. Cerca de 1500 pessoas juntaram-se e a vez com o recurso de 100 pequenas embarcações, que variam entre canoas, pranchas e outros, bloquearam o porto por um período de 32 horas, o que provocou constrangimentos na navegação de pelo menos 7 navios.</description>
     </item>
   </channel>

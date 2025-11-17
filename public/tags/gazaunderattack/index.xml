@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gazaunderattack on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/gazaunderattack/</link>
+    <link>http://localhost:1313/tags/gazaunderattack/</link>
     <description>Recent content in Gazaunderattack on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Tue, 07 Nov 2023 21:14:32 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/gazaunderattack/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/gazaunderattack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Manifestação pela Palestina e contra o genocídio em Gaza | Porto, 05.11.2023</title>
-      <link>https://blog.indymedia.pt/news/2023-11-07-manifestacao-pela-palestina-e-contra-o-genocidio-em-gaza-porto-05-11-2023/</link>
+      <link>http://localhost:1313/news/2023-11-07-manifestacao-pela-palestina-e-contra-o-genocidio-em-gaza-porto-05-11-2023/</link>
       <pubDate>Tue, 07 Nov 2023 21:14:32 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-11-07-manifestacao-pela-palestina-e-contra-o-genocidio-em-gaza-porto-05-11-2023/</guid>
+      <guid>http://localhost:1313/news/2023-11-07-manifestacao-pela-palestina-e-contra-o-genocidio-em-gaza-porto-05-11-2023/</guid>
       <description> </description>
     </item>
   </channel>

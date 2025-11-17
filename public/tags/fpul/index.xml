@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FPUL on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/fpul/</link>
+    <link>http://localhost:1313/tags/fpul/</link>
     <description>Recent content in FPUL on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Thu, 16 Nov 2023 10:44:25 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/fpul/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/fpul/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3º Dia das Ações Estudantis contra o Fóssil – O último inverno do Gás.</title>
-      <link>https://blog.indymedia.pt/news/2023-11-16-3o-dia-das-acoes-estudantis-contra-o-fossil-o-ultimo-inverno-do-gas/</link>
+      <link>http://localhost:1313/news/2023-11-16-3o-dia-das-acoes-estudantis-contra-o-fossil-o-ultimo-inverno-do-gas/</link>
       <pubDate>Thu, 16 Nov 2023 10:44:25 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-11-16-3o-dia-das-acoes-estudantis-contra-o-fossil-o-ultimo-inverno-do-gas/</guid>
+      <guid>http://localhost:1313/news/2023-11-16-3o-dia-das-acoes-estudantis-contra-o-fossil-o-ultimo-inverno-do-gas/</guid>
       <description>Ontem foi o 3º dia das ocupas nas universidades e secundárias e foi um dia marcado pela entrada da polícia para interromper e deter estudantes que estavam a ministrar palestras e até apenas a ouvir as mesmas.&#xA;Estas visitas da polícia as universidades a pedido das suas reitorias são nitidamente tácticas intimidatórias para com manifestantes/estudantes pacíficos que apenas querem colocar o tema das alterações climáticas na agenda já que as demais evidencias dos estudos científicos e opinião de cientistas e investigadores não são suficientes para o tema ser tratado com a seriedade que deve, bem como trazer a debate deste tema para as Universidades, aquele que se quer que seja um espaço de debate de ideias e partilha de conhecimentos, algo que foi negado ontem em mais que um momento.</description>
     </item>
     <item>
       <title>As estudantes da Faculdade de Psicologia bloqueiam o anfiteatro.</title>
-      <link>https://blog.indymedia.pt/news/2023-11-13-as-estudantes-da-faculdade-de-psicologia-bloqueiam-o-anfiteatro/</link>
+      <link>http://localhost:1313/news/2023-11-13-as-estudantes-da-faculdade-de-psicologia-bloqueiam-o-anfiteatro/</link>
       <pubDate>Mon, 13 Nov 2023 15:56:11 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-11-13-as-estudantes-da-faculdade-de-psicologia-bloqueiam-o-anfiteatro/</guid>
+      <guid>http://localhost:1313/news/2023-11-13-as-estudantes-da-faculdade-de-psicologia-bloqueiam-o-anfiteatro/</guid>
       <description>As estudantes da faculdade de psicologia bloqueiam o anfiteatro e dão uma palestra sobre emergência climática. Já depois do bloqueio ter terminado, a faculdade chamou a polícia para parar com a palestra. Segundo a polícia &amp;amp;8220;A estudante podia defender as suas causas mas não dentro de um espaço privado, e se não saísse ia ser detida&amp;amp;8221; FPUL Pela soberania da informação.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Loures on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/loures/</link>
+    <link>http://localhost:1313/tags/loures/</link>
     <description>Recent content in Loures on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Thu, 12 Dec 2024 22:37:58 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/loures/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/loures/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Camara de Loures despeja 100 pessoas em Santa Iria da Azóia</title>
-      <link>https://blog.indymedia.pt/news/2024-12-12-camara-de-loures-despeja-100-pessoas-em-santa-iria-da-azoia/</link>
+      <link>http://localhost:1313/news/2024-12-12-camara-de-loures-despeja-100-pessoas-em-santa-iria-da-azoia/</link>
       <pubDate>Thu, 12 Dec 2024 22:37:58 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2024-12-12-camara-de-loures-despeja-100-pessoas-em-santa-iria-da-azoia/</guid>
+      <guid>http://localhost:1313/news/2024-12-12-camara-de-loures-despeja-100-pessoas-em-santa-iria-da-azoia/</guid>
       <description>O movimento Vida Justa tomou conhecimento que a Câmara Municipal de Loures irá despejar cerca de 100 pessoas, entre as quais 21 crianças, quatro pessoas doentes e uma mulher grávida, a viver precariamente na Rua das Marinhas do Tejo e junto à fábrica da Sidul Açúcares, na Estrada Nacional 10, Santa Iria da Azóia.&#xA;A Câmara de Loures apenas informou com uma antecedência de 48 horas, sem averiguar a situação social ou garantir qualquer alternativa habitacional viável.</description>
     </item>
   </channel>

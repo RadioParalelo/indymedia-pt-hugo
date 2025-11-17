@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gentrificação on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/gentrifica%C3%A7%C3%A3o/</link>
+    <link>http://localhost:1313/tags/gentrifica%C3%A7%C3%A3o/</link>
     <description>Recent content in Gentrificação on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Tue, 01 Oct 2024 16:14:25 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/gentrifica%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/gentrifica%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Casa Para Viver | Porto, 28.09.2024</title>
-      <link>https://blog.indymedia.pt/news/2024-10-01-casa-para-viver-porto-28-09-2024/</link>
+      <link>http://localhost:1313/news/2024-10-01-casa-para-viver-porto-28-09-2024/</link>
       <pubDate>Tue, 01 Oct 2024 16:14:25 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2024-10-01-casa-para-viver-porto-28-09-2024/</guid>
+      <guid>http://localhost:1313/news/2024-10-01-casa-para-viver-porto-28-09-2024/</guid>
       <description> </description>
     </item>
     <item>
       <title>Fotorreportagem da Manifestação Casa Para Viver | Porto, 27.01.2024</title>
-      <link>https://blog.indymedia.pt/news/2024-01-29-fotorreportagem-da-manifestacao-casa-para-viver-porto-27-01-2024__trashed/</link>
+      <link>http://localhost:1313/news/2024-01-29-fotorreportagem-da-manifestacao-casa-para-viver-porto-27-01-2024__trashed/</link>
       <pubDate>Mon, 29 Jan 2024 20:31:44 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2024-01-29-fotorreportagem-da-manifestacao-casa-para-viver-porto-27-01-2024__trashed/</guid>
+      <guid>http://localhost:1313/news/2024-01-29-fotorreportagem-da-manifestacao-casa-para-viver-porto-27-01-2024__trashed/</guid>
       <description> </description>
     </item>
   </channel>

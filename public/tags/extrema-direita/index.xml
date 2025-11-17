@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extrema-Direita on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/extrema-direita/</link>
+    <link>http://localhost:1313/tags/extrema-direita/</link>
     <description>Recent content in Extrema-Direita on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Tue, 21 Oct 2025 12:54:28 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/extrema-direita/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/extrema-direita/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Membro de extrema direita detido após ameaças de morte a jornalista brasileira em Portugal</title>
-      <link>https://blog.indymedia.pt/news/2025-10-21-membro-de-extrema-direita-detido-apos-ameacas-de-morte-a-jornalista-independente-em-portugal/</link>
+      <link>http://localhost:1313/news/2025-10-21-membro-de-extrema-direita-detido-apos-ameacas-de-morte-a-jornalista-independente-em-portugal/</link>
       <pubDate>Tue, 21 Oct 2025 12:54:28 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2025-10-21-membro-de-extrema-direita-detido-apos-ameacas-de-morte-a-jornalista-independente-em-portugal/</guid>
+      <guid>http://localhost:1313/news/2025-10-21-membro-de-extrema-direita-detido-apos-ameacas-de-morte-a-jornalista-independente-em-portugal/</guid>
       <description>Membro de extrema direita detido pela PJ por ameaças de morte a jornalista brasileira. Ameaças foram cometidas em setembro. A Unidade de Contraterrorismo da Polícia Judiciária deteve na manhã desta terça-feira um elemento de extrema-direita por incitamento ao ódio e ameaças de morte à jornalista brasileira Stefani Costa, que trabalha em Portugal, apurou a CNN Portugal. Na rede social X, entre outras publicações onde faz comentários nomeadamente de apologia neonazi, Bruno Silva afirmou oferecer dinheiro “a quem realizar um massacre e exterminar pelo menos 100 brasileiros em Portugal”.</description>
     </item>
     <item>
       <title>A paz, o pão, saúde, educação, habitação: Orgulho e Resistência em 2023</title>
-      <link>https://blog.indymedia.pt/news/2023-10-16-a-paz-o-pao-saude-educacao-habitacao-orgulho-e-resistencia-em-2023/</link>
+      <link>http://localhost:1313/news/2023-10-16-a-paz-o-pao-saude-educacao-habitacao-orgulho-e-resistencia-em-2023/</link>
       <pubDate>Mon, 16 Oct 2023 10:23:44 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-16-a-paz-o-pao-saude-educacao-habitacao-orgulho-e-resistencia-em-2023/</guid>
+      <guid>http://localhost:1313/news/2023-10-16-a-paz-o-pao-saude-educacao-habitacao-orgulho-e-resistencia-em-2023/</guid>
       <description>O título é de uma famosa música de intervenção de Sérgio Godinho. Editada em 1974, fruto da revolução democrática dos cravos, Liberdade, é não só o nome de uma longínqua cantiga, referência de uma luta antiga, mas, na ordem do dia, labuta do movimento LGBTQIA+ português. Desde 2000 que o movimento ativista LGBTQIA+ em Portugal tem mostrado um crescendo. Somando-lhe diferentes causas e reivindicações, alianças, geografias e conquistas e desafios chegamos a Outubro de 2023 com o número inédito e exemplar de 27 cidades portuguesas a saírem à rua e manifestarem o seu orgulho contra o conservadorismo, pelo direito a ter direitos, pela liberdade em se ser e amar quem quiser, por uma sociedade mais tolerante e menos desigual.</description>
     </item>
   </channel>

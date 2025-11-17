@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Borralha on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/borralha/</link>
+    <link>http://localhost:1313/tags/borralha/</link>
     <description>Recent content in Borralha on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sat, 18 Oct 2025 18:30:34 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/borralha/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/borralha/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Como participar na Consulta Pública do EIA da Mina da Borralha</title>
-      <link>https://blog.indymedia.pt/news/2025-10-18-como-participar-na-consulta-publica-do-eia-da-mina-da-borralha/</link>
+      <link>http://localhost:1313/news/2025-10-18-como-participar-na-consulta-publica-do-eia-da-mina-da-borralha/</link>
       <pubDate>Sat, 18 Oct 2025 18:30:34 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2025-10-18-como-participar-na-consulta-publica-do-eia-da-mina-da-borralha/</guid>
+      <guid>http://localhost:1313/news/2025-10-18-como-participar-na-consulta-publica-do-eia-da-mina-da-borralha/</guid>
       <description>➡️ Foi aberta a Consulta Pública da Avaliação de Impacte Ambiental (AIA) sobre o Estudo de Impacte Ambiental (EIA) apresentado pela Minerália &amp;amp;8211; Minas, Geotécnia e Construções Lda para a Mina da Borralha à APA – Agência Portuguesa do Ambiente.&#xA;🚨 ATENÇÃO: esta consulta não é sobre a decisão de conceder ou não a exploração — esta concessão mineira de volfrâmio foi atribuída em 2021! O que está agora em causa é o Estudo de Impacte Ambiental, que a empresa apresentou e que a APA vai avaliar.</description>
     </item>
     <item>
       <title>Contaminação grave por metais pesados na antiga Mina da Borralha</title>
-      <link>https://blog.indymedia.pt/news/2025-10-18-contaminacao-grave-por-metais-pesados-na-antiga-mina-da-borralha/</link>
+      <link>http://localhost:1313/news/2025-10-18-contaminacao-grave-por-metais-pesados-na-antiga-mina-da-borralha/</link>
       <pubDate>Sat, 18 Oct 2025 18:27:05 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2025-10-18-contaminacao-grave-por-metais-pesados-na-antiga-mina-da-borralha/</guid>
+      <guid>http://localhost:1313/news/2025-10-18-contaminacao-grave-por-metais-pesados-na-antiga-mina-da-borralha/</guid>
       <description>Estudo confirma contaminação grave por metais pesados na antiga Mina da Borralha Arsénio, chumbo e cobre entre os elementos tóxicos detetados em níveis muito superiores aos limites legais. Poluição já afeta também freguesias de Vieira do Minho. {.wp-block-heading.fittexted_for_content_h2}&#xA;Foi divulgado recentemente o Estudo Hidrogeológico de Base, incluído no Anexo 5 do Estudo de Impacte Ambiental da Mina da Borralha, em Montalegre. O documento revela que as águas e os solos da antiga exploração mineira continuam contaminados por metais pesados, confirmando suspeitas antigas sobre a persistência da poluição no local.</description>
     </item>
   </channel>

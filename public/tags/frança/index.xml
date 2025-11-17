@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>França on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/fran%C3%A7a/</link>
+    <link>http://localhost:1313/tags/fran%C3%A7a/</link>
     <description>Recent content in França on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sun, 29 Oct 2023 16:19:58 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/fran%C3%A7a/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/fran%C3%A7a/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La CremZAD em nascimento em França.</title>
-      <link>https://blog.indymedia.pt/news/2023-10-29-la-cremzad-em-nascimento-em-franca/</link>
+      <link>http://localhost:1313/news/2023-10-29-la-cremzad-em-nascimento-em-franca/</link>
       <pubDate>Sun, 29 Oct 2023 16:19:58 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-29-la-cremzad-em-nascimento-em-franca/</guid>
+      <guid>http://localhost:1313/news/2023-10-29-la-cremzad-em-nascimento-em-franca/</guid>
       <description>ZAD La Cremzad em nascimento em França.&#xA;É cada vez mais evidente a existência de uma nova ZAD no horizonte das lutas ambientais em França, a CREMZAD que surge em resposta a construção de uma nova autoestrada em Saix, no sul de França.&#xA;Um dos pontos apontados por quem esta contra o projecto é o facto de que a A69 será uma das mais caras de França e que a sua construção provocara a construção de várias rotundas na estrada nacional alternativa, o que vai aumentar o tempo de viagem para quem não tem capacidade para pagar o preço da autoestrada.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machismo on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/machismo/</link>
+    <link>http://localhost:1313/tags/machismo/</link>
     <description>Recent content in Machismo on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sun, 24 Sep 2023 13:35:22 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/machismo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/machismo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apresentação do livro “No meu Bairro”, com linguagem inclusiva,  atacada por fascistas</title>
-      <link>https://blog.indymedia.pt/news/2023-09-24-apresentacao-do-livro-no-meu-bairro-com-linguagem-inclusiva-atacada-por-fascistas/</link>
+      <link>http://localhost:1313/news/2023-09-24-apresentacao-do-livro-no-meu-bairro-com-linguagem-inclusiva-atacada-por-fascistas/</link>
       <pubDate>Sun, 24 Sep 2023 13:35:22 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-09-24-apresentacao-do-livro-no-meu-bairro-com-linguagem-inclusiva-atacada-por-fascistas/</guid>
+      <guid>http://localhost:1313/news/2023-09-24-apresentacao-do-livro-no-meu-bairro-com-linguagem-inclusiva-atacada-por-fascistas/</guid>
       <description>A apresentação do livro &amp;8220;No Meu Bairro&amp;8221;, de Lúcia Vicente e com ilustração de Tiago M, que é o primeiro livro infanto-juvenil a ser editado com o sistema de lingugem neutra ELU em Portugal foi ontem, dia 23, atacada por um grupo de 10 homens machistas e queerfobicos. O grupo tinha estado durante a sessão, mas a certo ponto, mais três entraram com um megafone e iniciaram um ato de censura e ataque à apresentação, tentando que esta terminasse e mandando calar as pessoas presentes com insultos machistas e homofóbicos.</description>
     </item>
   </channel>

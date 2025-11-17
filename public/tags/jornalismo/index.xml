@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jornalismo on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/jornalismo/</link>
+    <link>http://localhost:1313/tags/jornalismo/</link>
     <description>Recent content in Jornalismo on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Thu, 07 Dec 2023 20:46:17 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/jornalismo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/jornalismo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Porto] Redação do Jornal de Notícias em protestos nas ruas, dois dias de greve e sem publicar o jornal.</title>
-      <link>https://blog.indymedia.pt/news/2023-12-07-porto-redacao-do-jornal-de-noticias-em-protestos-nas-ruas-dois-dias-de-greve-e-sem-publicar-o-jornal/</link>
+      <link>http://localhost:1313/news/2023-12-07-porto-redacao-do-jornal-de-noticias-em-protestos-nas-ruas-dois-dias-de-greve-e-sem-publicar-o-jornal/</link>
       <pubDate>Thu, 07 Dec 2023 20:46:17 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-12-07-porto-redacao-do-jornal-de-noticias-em-protestos-nas-ruas-dois-dias-de-greve-e-sem-publicar-o-jornal/</guid>
+      <guid>http://localhost:1313/news/2023-12-07-porto-redacao-do-jornal-de-noticias-em-protestos-nas-ruas-dois-dias-de-greve-e-sem-publicar-o-jornal/</guid>
       <description>Depois da notícia que o JN iria abandonar o centro do Porto (no mesmo dia em que o CC STOP saiu às ruas contra o despejo de 500 músicos, os jornalistas do JN voltaram às ruas.&#xA;A Global Media Group, é agora a mesma empresa que detendo 47% da Agência Lusa, tem uma dívida de quase 10 milhões para com a agência, depois de vários anos sem pagar os conteūdos produzidos pelos jornalistas, numa notícia avançada pelo Página Um.</description>
     </item>
   </channel>

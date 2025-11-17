@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Responsabilidadesocial on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/responsabilidadesocial/</link>
+    <link>http://localhost:1313/tags/responsabilidadesocial/</link>
     <description>Recent content in Responsabilidadesocial on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Thu, 07 Dec 2023 13:19:19 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/responsabilidadesocial/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/responsabilidadesocial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Festival Eco 2023 – SMUP, Parede</title>
-      <link>https://blog.indymedia.pt/news/2023-12-07-festival-eco-2023-smup-parede/</link>
+      <link>http://localhost:1313/news/2023-12-07-festival-eco-2023-smup-parede/</link>
       <pubDate>Thu, 07 Dec 2023 13:19:19 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-12-07-festival-eco-2023-smup-parede/</guid>
+      <guid>http://localhost:1313/news/2023-12-07-festival-eco-2023-smup-parede/</guid>
       <description>No fim-de-semana de dia 2 e 3 de dezembro aconteceu a edição 2023 do Festival Eco, uma organização Cultura no Muro. Este evento, cujo sobrenome é Festival Ecológico da Parede, é dedicado à divulgação e discussão de novas formas sustentabilidade e estilos de vida saudáveis e repete-se há alguns anos, sempre de modo inovador.&#xA;A edição deste ano teve início com uma caminhada meditativa pela Quinta dos Ingleses, na vila contígua, em Carcavelos.</description>
     </item>
   </channel>

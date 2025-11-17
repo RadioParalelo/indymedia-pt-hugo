@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coletivos on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/coletivos/</link>
+    <link>http://localhost:1313/tags/coletivos/</link>
     <description>Recent content in Coletivos on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Tue, 14 Oct 2025 15:28:56 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/coletivos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/coletivos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Caderno Reivindicativo das Coletividades em Luta</title>
-      <link>https://blog.indymedia.pt/news/2025-10-14-caderno-reivindicativo-das-coletividades-em-luta/</link>
+      <link>http://localhost:1313/news/2025-10-14-caderno-reivindicativo-das-coletividades-em-luta/</link>
       <pubDate>Tue, 14 Oct 2025 15:28:56 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2025-10-14-caderno-reivindicativo-das-coletividades-em-luta/</guid>
+      <guid>http://localhost:1313/news/2025-10-14-caderno-reivindicativo-das-coletividades-em-luta/</guid>
       <description>Caderno Reivindicativo das Colectividades em Luta Quem somos As colectividades, ou associações sem fins lucrativos, sejam elas de cariz cultural, desportivo, ou recreativo, são iniciativas populares que promovem o acesso à cultura, ao desporto, à sociabilização, ao lazer em comunidade, à actividade política, e são verdadeiras escolas de vida colectiva. Contribuem muito para a vida nas cidades, constituindo autênticos centros de gravidade para comunidades inteiras. O que enfrentamos A especulação imobiliária tem devastado o tecido associativo.</description>
     </item>
   </channel>

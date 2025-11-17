@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SW Alentejano on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/sw-alentejano/</link>
+    <link>http://localhost:1313/tags/sw-alentejano/</link>
     <description>Recent content in SW Alentejano on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Thu, 05 Oct 2023 17:57:20 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/sw-alentejano/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sw-alentejano/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tirem as mãos do Litoral Alentejano – Manifestação</title>
-      <link>https://blog.indymedia.pt/news/2023-10-05-tirem-as-maos-do-litoral-alentejano-manifestacao/</link>
+      <link>http://localhost:1313/news/2023-10-05-tirem-as-maos-do-litoral-alentejano-manifestacao/</link>
       <pubDate>Thu, 05 Oct 2023 17:57:20 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-05-tirem-as-maos-do-litoral-alentejano-manifestacao/</guid>
+      <guid>http://localhost:1313/news/2023-10-05-tirem-as-maos-do-litoral-alentejano-manifestacao/</guid>
       <description>Hoje decorreu em Sines um protesto em defesa do Sudoeste Alentejano em especial contra os mega projectos de hotelaria e campos de golfe na península de Troia.&#xA;Recebemos o vídeo e mensagem que partilhamos abaixo.&#xA;&amp;amp;8220;‼️Hoje saímos à rua, para exigir justiça ambiental e social no Litoral Alentejano.&#xA;Saímos à rua para dizer à República que a região está a ser sacrificada em nome dos interesses económicos, com graves consequências para o ambiente e para quem aqui vive e trabalha.</description>
     </item>
   </channel>

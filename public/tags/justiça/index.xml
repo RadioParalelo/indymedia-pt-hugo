@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Justiça on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/justi%C3%A7a/</link>
+    <link>http://localhost:1313/tags/justi%C3%A7a/</link>
     <description>Recent content in Justiça on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Thu, 16 Nov 2023 15:24:16 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/justi%C3%A7a/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/justi%C3%A7a/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Justiça para Cláudia Simões! Reportagem da primeira sessão em tribunal</title>
-      <link>https://blog.indymedia.pt/news/2023-11-16-justica-para-claudia-simoes-reportagem-da-primeira-sessao-em-tribunal/</link>
+      <link>http://localhost:1313/news/2023-11-16-justica-para-claudia-simoes-reportagem-da-primeira-sessao-em-tribunal/</link>
       <pubDate>Thu, 16 Nov 2023 15:24:16 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-11-16-justica-para-claudia-simoes-reportagem-da-primeira-sessao-em-tribunal/</guid>
+      <guid>http://localhost:1313/news/2023-11-16-justica-para-claudia-simoes-reportagem-da-primeira-sessao-em-tribunal/</guid>
       <description>Justiça para C****láudia Simões!&#xA;S****olidariedade com todas as vítimas da violência policial racista!&#xA;19/01/2020&#xA;Ocorrência da agressão e posterior apresentação de queixa contra o agente da psp carlos canha.&#xA;20/01/2020&#xA;Post de facebook do sindicato unificado da policia de segurança pública, então liderado por peixoto rodrigues.&#xA;Fevereiro, 2022&#xA;O Juíz Carlos Alexandre defende que o polícia seja julgado por sequestro e agressões: o ministério público acusa Canha de três crimes de ofensa à integridade física qualificada, três de sequestro agravado, um de abuso de poder e outro de injúria agravada contra Cláudia Simões.</description>
     </item>
   </channel>

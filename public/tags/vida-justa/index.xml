@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vida Justa on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/vida-justa/</link>
+    <link>http://localhost:1313/tags/vida-justa/</link>
     <description>Recent content in Vida Justa on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sun, 22 Oct 2023 12:36:58 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/vida-justa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/vida-justa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vida Justa – Reportagem</title>
-      <link>https://blog.indymedia.pt/news/2023-10-22-vida-justa-reportagem/</link>
+      <link>http://localhost:1313/news/2023-10-22-vida-justa-reportagem/</link>
       <pubDate>Sun, 22 Oct 2023 12:36:58 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-22-vida-justa-reportagem/</guid>
+      <guid>http://localhost:1313/news/2023-10-22-vida-justa-reportagem/</guid>
       <description>Ontem saímos as ruas ao teu lado e ao lado de muitos.&#xA;É verdade que devíamos ser mais, muito mais, mas mesmo assim foi bom voltar as ruas cheias e a Praça de S. Bento cheia num protesto muito diverso e a mostrar o descontentamento generalizado em relação a vida dos nossos dias.&#xA;A PTrevolutionTV esteve com 3 Ninjas nas ruas e abaixo podes encontrar os links para os nossos directos, sendo que posteriormente serão todos arquivados no nosso Youtube bem como a galeria de fotos abaixo.</description>
     </item>
     <item>
       <title>Vais a manifestação da Vida Justa hoje?? Espreita isto</title>
-      <link>https://blog.indymedia.pt/news/2023-10-21-vais-a-manifestacao-da-vida-justa-hoje-espreita-isto/</link>
+      <link>http://localhost:1313/news/2023-10-21-vais-a-manifestacao-da-vida-justa-hoje-espreita-isto/</link>
       <pubDate>Sat, 21 Oct 2023 12:21:03 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-21-vais-a-manifestacao-da-vida-justa-hoje-espreita-isto/</guid>
+      <guid>http://localhost:1313/news/2023-10-21-vais-a-manifestacao-da-vida-justa-hoje-espreita-isto/</guid>
       <description>CMI VidaJusta AltPt&#xA;Let&amp;amp;8217;s get connected! Se gostas de andar com os teus audiovisuais e vais Hoje a manifestação Vida Justa, quando voltares para casa e publicares os teus registos nas redes sociais não te esqueças de usar as hashtag.&#xA;CMI VidaJusta AltPt&#xA;Ou podes ir a https://cmi.indymedia.pt/ usar a publicação livre e partilhar nas nossas redes.&#xA;Pela soberania da informação.&#xA;Todo o nosso trabalho é auto financiado se puderes ajudar entra em contacto connosco.</description>
     </item>
     <item>
       <title>Onde vamos andar?</title>
-      <link>https://blog.indymedia.pt/news/2023-10-17-onde-vamos-andar/</link>
+      <link>http://localhost:1313/news/2023-10-17-onde-vamos-andar/</link>
       <pubDate>Tue, 17 Oct 2023 11:54:32 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-17-onde-vamos-andar/</guid>
+      <guid>http://localhost:1313/news/2023-10-17-onde-vamos-andar/</guid>
       <description>Se não puderes marcar presença podes seguir estes eventos nos nossos directos.&#xA;Não te esqueças de usar a hash tag vidajusta dia 21 de Outurbro.&#xA;Todo o nosso trabalho é auto financiado se puderes nos ajudar a cobrir custos relacionados com deslocações, alimentação e internet, entra em contacto connosco.&#xA;https://eventos.coletivos.org/event/manifestacao-pela-paz-no-medio-oriente&#xA;https://eventos.coletivos.org/event/queremos-uma-vida-justa&#xA;Sem tretas</description>
     </item>
     <item>
       <title>Dia 21 Vamos às ruas na Manifestação Vida Justa</title>
-      <link>https://blog.indymedia.pt/news/2023-10-12-dia-21-vamos-as-rua-manifestacao-vida-justa/</link>
+      <link>http://localhost:1313/news/2023-10-12-dia-21-vamos-as-rua-manifestacao-vida-justa/</link>
       <pubDate>Thu, 12 Oct 2023 15:56:35 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-12-dia-21-vamos-as-rua-manifestacao-vida-justa/</guid>
+      <guid>http://localhost:1313/news/2023-10-12-dia-21-vamos-as-rua-manifestacao-vida-justa/</guid>
       <description>Manifestação Vida Justa&#xA;Em Lisboa, do Rossio até à Assembleia da República, em São Bento, no sábado, 21 de Outubro de 2023, pelas 15h00.&#xA;Queremos uma vida justa&#xA;Somos a maioria. Temos dificuldade em ter casa, vivemos em habitações sem condições, hoje o aluguer de um quarto custa o que se pagava por uma casa há dez anos; trabalhamos com salários que nunca aumentam e não chegam para os 30 dias do mês; os nossos bairros têm falta de transportes públicos, os grandes investimentos são feitos para linhas circulares para turistas,</description>
     </item>
   </channel>

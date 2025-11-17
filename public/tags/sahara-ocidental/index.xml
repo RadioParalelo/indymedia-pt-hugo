@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sahara Ocidental on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/sahara-ocidental/</link>
+    <link>http://localhost:1313/tags/sahara-ocidental/</link>
     <description>Recent content in Sahara Ocidental on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sun, 02 Nov 2025 15:50:48 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/sahara-ocidental/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sahara-ocidental/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Guerra contra o Sahara Ocidental</title>
-      <link>https://blog.indymedia.pt/news/2025-11-02-a-guerra-contra-o-sahara-ocidental/</link>
+      <link>http://localhost:1313/news/2025-11-02-a-guerra-contra-o-sahara-ocidental/</link>
       <pubDate>Sun, 02 Nov 2025 15:50:48 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2025-11-02-a-guerra-contra-o-sahara-ocidental/</guid>
+      <guid>http://localhost:1313/news/2025-11-02-a-guerra-contra-o-sahara-ocidental/</guid>
       <description>Três meses de guerra de desgaste no Sahara Ocidental (agosto a outubro de 2025)&#xA;O Exército de Libertação do Povo Saharaui (ELPS) manteve, entre agosto e outubro de 2025, uma intensa campanha militar contra as forças marroquinas no Sahara Ocidental, com mais de 30 ataques registados em diferentes frentes. A ofensiva, concentrada ao longo do chamado “muro da vergonha” — a barreira de 2.700 quilómetros construída por Marrocos na década de 1980 — confirma a continuidade da guerra de desgaste iniciada em novembro de 2020, após o colapso do cessar-fogo mediado pela ONU.</description>
     </item>
   </channel>

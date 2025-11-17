@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PalestineUnderAttack on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/palestineunderattack/</link>
+    <link>http://localhost:1313/tags/palestineunderattack/</link>
     <description>Recent content in PalestineUnderAttack on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sat, 14 Oct 2023 11:32:01 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/palestineunderattack/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/palestineunderattack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Palestina Israel Live Streams</title>
-      <link>https://blog.indymedia.pt/news/2023-10-14-palestina-israel-live-streams/</link>
+      <link>http://localhost:1313/news/2023-10-14-palestina-israel-live-streams/</link>
       <pubDate>Sat, 14 Oct 2023 11:32:01 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-14-palestina-israel-live-streams/</guid>
+      <guid>http://localhost:1313/news/2023-10-14-palestina-israel-live-streams/</guid>
       <description>Se tal como nós gostas de ver o que se esta a passar, gostava-mos de partilhar contigo o link de um canal de Youtube onde podes acompanhar 3 câmaras de Gaza, 1 na fronteira e 1 em Israel.&#xA;E recomendamos pesquisas com as seguintes hashtags FreePalestine PalestinaLivre PalestineLivesMatter FreeGaza&#xA;Pela soberania da informação.</description>
     </item>
     <item>
       <title>Onde vai andar a equipa de Ninjas da PTrevolutionTV?</title>
-      <link>https://blog.indymedia.pt/news/2023-10-10-onde-vai-andar-a-equipa-de-ninjas-da-ptrevolutiontv/</link>
+      <link>http://localhost:1313/news/2023-10-10-onde-vai-andar-a-equipa-de-ninjas-da-ptrevolutiontv/</link>
       <pubDate>Tue, 10 Oct 2023 16:52:53 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-10-onde-vai-andar-a-equipa-de-ninjas-da-ptrevolutiontv/</guid>
+      <guid>http://localhost:1313/news/2023-10-10-onde-vai-andar-a-equipa-de-ninjas-da-ptrevolutiontv/</guid>
       <description>No próximo dia 11 de Outubro a nossa equipa de Ninjas vai estar no Martim Moniz para acompanhar mais uma manifestação Pro Palestina a partir das 18h00.&#xA;Não te esqueças de acompanhar o nosso directo na nossa página do Facebook e posteriormente nas nossas outras redes.&#xA;Pela soberania da informação</description>
     </item>
   </channel>

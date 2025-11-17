@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>8m on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/8m/</link>
+    <link>http://localhost:1313/tags/8m/</link>
     <description>Recent content in 8m on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sun, 10 Mar 2024 11:05:46 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/8m/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/8m/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dia Internacional das Mulheres | Coimbra, 08.03.2024</title>
-      <link>https://blog.indymedia.pt/news/2024-03-10-dia-internacional-das-mulheres-coimbra-08-03-2024/</link>
+      <link>http://localhost:1313/news/2024-03-10-dia-internacional-das-mulheres-coimbra-08-03-2024/</link>
       <pubDate>Sun, 10 Mar 2024 11:05:46 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2024-03-10-dia-internacional-das-mulheres-coimbra-08-03-2024/</guid>
+      <guid>http://localhost:1313/news/2024-03-10-dia-internacional-das-mulheres-coimbra-08-03-2024/</guid>
       <description>Dia 8 saímos novamente às ruas para lutar e celebrar com a luta!&#xA;Por um futuro trans-feminista, livre de discriminação, num planeta habitável, fizemos ouvir as nossas vozes num momento em que nos tentam abafar cada vez mais.&#xA;A 50 anos do 25 de Abril, dizemos que a luta continua, que se faz todos os dias e nas ruas, não apenas nas urnas. </description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quinta Dos Ingleses on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/quinta-dos-ingleses/</link>
+    <link>http://localhost:1313/tags/quinta-dos-ingleses/</link>
     <description>Recent content in Quinta Dos Ingleses on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Tue, 30 Sep 2025 19:23:17 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/quinta-dos-ingleses/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/quinta-dos-ingleses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Um copo de chá com xs guardiões da floresta da Quinta dos Ingleses</title>
-      <link>https://blog.indymedia.pt/news/2025-09-30-um-copo-de-cha-com-xs-guardioes-da-floresta-da-quinta-dos-ingleses/</link>
+      <link>http://localhost:1313/news/2025-09-30-um-copo-de-cha-com-xs-guardioes-da-floresta-da-quinta-dos-ingleses/</link>
       <pubDate>Tue, 30 Sep 2025 19:23:17 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2025-09-30-um-copo-de-cha-com-xs-guardioes-da-floresta-da-quinta-dos-ingleses/</guid>
+      <guid>http://localhost:1313/news/2025-09-30-um-copo-de-cha-com-xs-guardioes-da-floresta-da-quinta-dos-ingleses/</guid>
       <description>No sábado, 17 de maio de 2025, a Quinta dos Ingleses foi reentrada e ocupada por uma multidão de ativistas ambientais locais. A Quinta é um espaço verde de mais de 50 hectares muito controverso junto ao mar em Carcavelos, nos arredores de Lisboa, que a Câmara Municipal deu recentemente permissão para “desenvolver”, apesar da oposição maciça da comunidade local, das leis ambientais locais não serem ouvidas, da tomada de decisão democrática e das recomendações para não procederem do Governo Nacional.</description>
     </item>
   </channel>

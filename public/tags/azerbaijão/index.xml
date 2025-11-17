@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azerbaijão on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/azerbaij%C3%A3o/</link>
+    <link>http://localhost:1313/tags/azerbaij%C3%A3o/</link>
     <description>Recent content in Azerbaijão on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sun, 15 Oct 2023 13:35:20 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/azerbaij%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/azerbaij%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vozes anarquistas da Arménia e do Azerbaijão: Sobre a violência no Nagorno-Karabakh [CrimethInc]</title>
-      <link>https://blog.indymedia.pt/news/2023-10-15-vozes-anarquistas-da-armenia-e-do-azerbaijao-sobre-a-violencia-no-nagorno-karabakh-crimethinc/</link>
+      <link>http://localhost:1313/news/2023-10-15-vozes-anarquistas-da-armenia-e-do-azerbaijao-sobre-a-violencia-no-nagorno-karabakh-crimethinc/</link>
       <pubDate>Sun, 15 Oct 2023 13:35:20 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-15-vozes-anarquistas-da-armenia-e-do-azerbaijao-sobre-a-violencia-no-nagorno-karabakh-crimethinc/</guid>
+      <guid>http://localhost:1313/news/2023-10-15-vozes-anarquistas-da-armenia-e-do-azerbaijao-sobre-a-violencia-no-nagorno-karabakh-crimethinc/</guid>
       <description>Uma nova ronda de violência eclodiu na zona contestada de Nagorno-Karabakh, também conhecida como Artsakh, um enclave arménio no Azerbaijão. Os anarquistas da Arménia e do Azerbaijão analisam a situação.&#xA;Publicado no CrimethInc em Inglês &amp;amp;8211; 2023-09-23&#xA;Antecedentes {.wp-block-heading}&#xA;O genocídio arménio lança uma longa sombra sobre a região entre os mares Egeu e Cáspio. Há um século, o governo do Império Otomano supervisionou o assassinato de mais de um milhão de arménios, abrindo caminho para a emergência da Turquia como Estado etnonacionalista.</description>
     </item>
   </channel>

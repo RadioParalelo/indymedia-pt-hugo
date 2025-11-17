@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joana Brinca on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/joana-brinca/</link>
+    <link>http://localhost:1313/tags/joana-brinca/</link>
     <description>Recent content in Joana Brinca on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Wed, 04 Oct 2023 17:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/joana-brinca/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/joana-brinca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uma Visão Interdisciplinar sobre Transexualidade no séc. XXI</title>
-      <link>https://blog.indymedia.pt/news/2023-10-04-uma-visao-interdisciplinar-sobre-transexualidade-no-sec-xxi/</link>
+      <link>http://localhost:1313/news/2023-10-04-uma-visao-interdisciplinar-sobre-transexualidade-no-sec-xxi/</link>
       <pubDate>Wed, 04 Oct 2023 17:00:00 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-04-uma-visao-interdisciplinar-sobre-transexualidade-no-sec-xxi/</guid>
+      <guid>http://localhost:1313/news/2023-10-04-uma-visao-interdisciplinar-sobre-transexualidade-no-sec-xxi/</guid>
       <description>coord. Joana Brinca&#xA;“O reconhecimento da identidade de género integra em si uma importante conquista no campo dos direitos humanos, mas ao mesmo tempo coloca novos desafios que necessitam ser conhecidos e ultrapassados para que as pessoas e as sociedades colham os benefícios práticos da apologia da justiça social e especialmente da dignidade humana.” Joana Vale Guerra, Uma Visão Interdisciplinar sobre Transexualidade no séc. XXI (ed. Húmus, 2022) Existe um corpo crescente de literatura que documenta as formas de estigmatização, marginalização e exclusão de pessoas trans, de género diverso e não binárias devido à sua expressão e/ou identidade de género.</description>
     </item>
   </channel>

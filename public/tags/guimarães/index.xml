@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guimarães on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/guimar%C3%A3es/</link>
+    <link>http://localhost:1313/tags/guimar%C3%A3es/</link>
     <description>Recent content in Guimarães on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Thu, 05 Oct 2023 11:50:39 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/guimar%C3%A3es/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/guimar%C3%A3es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Via rodoviária do ‘Ave Park’ embargada em Tribunal</title>
-      <link>https://blog.indymedia.pt/news/2023-10-05-via-rodoviaria-do-ave-park-embargada-em-tribunal/</link>
+      <link>http://localhost:1313/news/2023-10-05-via-rodoviaria-do-ave-park-embargada-em-tribunal/</link>
       <pubDate>Thu, 05 Oct 2023 11:50:39 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-05-via-rodoviaria-do-ave-park-embargada-em-tribunal/</guid>
+      <guid>http://localhost:1313/news/2023-10-05-via-rodoviaria-do-ave-park-embargada-em-tribunal/</guid>
       <description>O Ministério Público impugnou em tribunal o projecto da via do Ave park, em Guimarães. A acção foi motivada pela &amp;amp;8220;implantação do trajeto em consideráveis áreas da Estrutura Ecológica Municipal e da Reserva Agrícola Nacional&amp;amp;8221;.&#xA;Esta auto-estrada planeada com um custo de 40 milhões e 7km de comprimento, seriviria para acelerar a ligação rodoviária da cidade ao AvePark, uma suposta zona industrial e tecnológica, no entanto, práticamente abandonada, e inútil.</description>
     </item>
   </channel>

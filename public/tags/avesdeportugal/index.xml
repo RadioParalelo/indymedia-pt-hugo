@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Avesdeportugal on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/avesdeportugal/</link>
+    <link>http://localhost:1313/tags/avesdeportugal/</link>
     <description>Recent content in Avesdeportugal on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Wed, 24 Jan 2024 16:02:31 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/avesdeportugal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/avesdeportugal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Queixa nas instâncias europeias contra a construção do teleférico do Curral das Freiras</title>
-      <link>https://blog.indymedia.pt/news/2024-01-24-queixa-nas-instancias-europeias-contra-a-construcao-do-teleferico-do-curral-das-freiras/</link>
+      <link>http://localhost:1313/news/2024-01-24-queixa-nas-instancias-europeias-contra-a-construcao-do-teleferico-do-curral-das-freiras/</link>
       <pubDate>Wed, 24 Jan 2024 16:02:31 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2024-01-24-queixa-nas-instancias-europeias-contra-a-construcao-do-teleferico-do-curral-das-freiras/</guid>
+      <guid>http://localhost:1313/news/2024-01-24-queixa-nas-instancias-europeias-contra-a-construcao-do-teleferico-do-curral-das-freiras/</guid>
       <description>Queixa nas instâncias europeias contra a construção do teleférico do Curral das Freiras formulada pela associação IRIS&#xA;&amp;amp;8211; A Associação Nacional de Ambiente IRIS vai oficializar uma queixa nas instâncias europeias contra a construção do teleférico do Curral das Freiras. Caroline Gouveia, representante desta associação, fala numa obra megalómana num atentado ao património natural da Madeira e que vai trazer grande impacto ecológico e paisagístico, ao mesmo tempo que vai prejudicar algumas espécies endémicas.</description>
     </item>
   </channel>

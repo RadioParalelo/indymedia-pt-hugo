@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A12Blokkade on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/a12blokkade/</link>
+    <link>http://localhost:1313/tags/a12blokkade/</link>
     <description>Recent content in A12Blokkade on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Thu, 12 Oct 2023 08:55:15 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/a12blokkade/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/a12blokkade/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A12blokkade Afinal vale a pena bloquear</title>
-      <link>https://blog.indymedia.pt/news/2023-10-12-a12blokkade-afinal-vale-a-pena-bloquear/</link>
+      <link>http://localhost:1313/news/2023-10-12-a12blokkade-afinal-vale-a-pena-bloquear/</link>
       <pubDate>Thu, 12 Oct 2023 08:55:15 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-12-a12blokkade-afinal-vale-a-pena-bloquear/</guid>
+      <guid>http://localhost:1313/news/2023-10-12-a12blokkade-afinal-vale-a-pena-bloquear/</guid>
       <description>&amp;amp;8220;💥💥💥&#xA;Que NOTÍCIAS!&#xA;🙌 Numa votação histórica, a segunda câmara ordenou hoje ao gabinete que apresentasse cenários para a eliminação progressiva dos subsídios fósseis. Esta é uma grande vitória!&#xA;🚀 Porque embora isto ainda não elimine os subsídios fósseis, a importância deste passo não pode ser subestimada. No passado, com os bloqueios da A12, provocámos ondas de choque na sociedade e fizemos com que as pessoas olhassem para os subsídios fósseis de forma diferente.</description>
     </item>
   </channel>

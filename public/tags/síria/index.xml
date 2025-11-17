@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Síria on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/s%C3%ADria/</link>
+    <link>http://localhost:1313/tags/s%C3%ADria/</link>
     <description>Recent content in Síria on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sat, 07 Oct 2023 11:02:41 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/s%C3%ADria/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/s%C3%ADria/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ATAQUE AÉREO DA TURQUIA AO NORTE E LESTE DA SÍRIA OUTUBRO DE 2023</title>
-      <link>https://blog.indymedia.pt/news/2023-10-07-ataque-aereo-da-turquia-ao-norte-e-leste-da-siria-outubro-de-2023/</link>
+      <link>http://localhost:1313/news/2023-10-07-ataque-aereo-da-turquia-ao-norte-e-leste-da-siria-outubro-de-2023/</link>
       <pubDate>Sat, 07 Oct 2023 11:02:41 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-07-ataque-aereo-da-turquia-ao-norte-e-leste-da-siria-outubro-de-2023/</guid>
+      <guid>http://localhost:1313/news/2023-10-07-ataque-aereo-da-turquia-ao-norte-e-leste-da-siria-outubro-de-2023/</guid>
       <description>PONTOS-CHAVE&#xA;&amp;amp;8211; Mais de 20 ataques aéreos turcos visam a eletricidade, a água, o petróleo e outras infra-estruturas humanitárias básicas em todo o Norte e Leste da Síria, sob controlo curdo (NES)&#xA;&amp;amp;8211; Refugiados fogem dos ataques aéreos e o pessoal das ONGI retira-se do campo; oito mortos Hoje, o número total de mortos em ataques aéreos turcos ascende a mais de 80 só em 2023&#xA;&amp;amp;8211; Não há eletricidade nem água nas regiões curdas do NES, incluindo nos hospitais; teme-se agora um colapso humanitário na região que alberga milhões de pessoas que já sofrem de milhões de pessoas que já sofrem de escassez de água e cortes de eletricidade</description>
     </item>
   </channel>

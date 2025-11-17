@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eucaliptos on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/eucaliptos/</link>
+    <link>http://localhost:1313/tags/eucaliptos/</link>
     <description>Recent content in Eucaliptos on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Thu, 31 Aug 2023 16:53:52 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/eucaliptos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/eucaliptos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>As embalagens de papel de Eucalipto Ajudaram a Incendiar a minha casa</title>
-      <link>https://blog.indymedia.pt/news/2023-08-31-as-embalagens-de-papel-de-eucalipto-ajudaram-a-incendiar-a-minha-casa/</link>
+      <link>http://localhost:1313/news/2023-08-31-as-embalagens-de-papel-de-eucalipto-ajudaram-a-incendiar-a-minha-casa/</link>
       <pubDate>Thu, 31 Aug 2023 16:53:52 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-08-31-as-embalagens-de-papel-de-eucalipto-ajudaram-a-incendiar-a-minha-casa/</guid>
+      <guid>http://localhost:1313/news/2023-08-31-as-embalagens-de-papel-de-eucalipto-ajudaram-a-incendiar-a-minha-casa/</guid>
       <description>Publicado originalmente por Climate Change News em inglês a 31/08/2023&#xA;Por Fernando Amaral&#xA;Como as plantações de eucaliptos em Portugal desempenham um papel nos incêndios florestais&#xA;As embalagens de papel são defendidas como uma alternativa ao plástico, mas as plantações de eucalipto que alimentam o sector estão a alimentar o desastre em Portugal&#xA;Fernando Amara fotografado na sua casa ardida em 2017 (Foto: Fornecido pelo autor)&#xA;Os incêndios florestais que têm assolado partes da Europa este verão não pouparam Portugal.</description>
     </item>
   </channel>

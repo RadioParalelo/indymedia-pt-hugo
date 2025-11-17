@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Genocídio on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/genoc%C3%ADdio/</link>
+    <link>http://localhost:1313/tags/genoc%C3%ADdio/</link>
     <description>Recent content in Genocídio on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Thu, 02 Oct 2025 11:47:28 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/genoc%C3%ADdio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/genoc%C3%ADdio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Relatório: O número de mortos em Gaza atinge 680.000, mas o apartheid Israel tenta nos dizer “Não há genocídio”</title>
-      <link>https://blog.indymedia.pt/news/2025-10-02-relatorio-o-numero-de-mortos-em-gaza-atinge-680-000-mas-o-apartheid-israel-tenta-nos-dizer-nao-ha-genocidio/</link>
+      <link>http://localhost:1313/news/2025-10-02-relatorio-o-numero-de-mortos-em-gaza-atinge-680-000-mas-o-apartheid-israel-tenta-nos-dizer-nao-ha-genocidio/</link>
       <pubDate>Thu, 02 Oct 2025 11:47:28 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2025-10-02-relatorio-o-numero-de-mortos-em-gaza-atinge-680-000-mas-o-apartheid-israel-tenta-nos-dizer-nao-ha-genocidio/</guid>
+      <guid>http://localhost:1313/news/2025-10-02-relatorio-o-numero-de-mortos-em-gaza-atinge-680-000-mas-o-apartheid-israel-tenta-nos-dizer-nao-ha-genocidio/</guid>
       <description>«De acordo com o relatório de &amp;amp;8220;História Tendenciosa: A Odiosa Política de Contar os Mortos de Gaza&amp;amp;8221; pelo Dr. Richard Hil e pelo Dr. Gideon Polya, um relatório sobre o número de mortos palestinos em Gaza até agora, cerca de 680 mil pessoas foram mortas no genocídio de Gaza, com um número estimado de 380.000 crianças estando entre este número.&#xA;Gaza é um dos lugares mais densamente povoados do mundo, e nos últimos dois anos o território tem sido sujeito a uma implacável campanha de bombardeio das forças do Apartheid Israel.</description>
     </item>
   </channel>

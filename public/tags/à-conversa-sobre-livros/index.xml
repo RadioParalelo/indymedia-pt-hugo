@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>À Conversa Sobre Livros on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/%C3%A0-conversa-sobre-livros/</link>
+    <link>http://localhost:1313/tags/%C3%A0-conversa-sobre-livros/</link>
     <description>Recent content in À Conversa Sobre Livros on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sat, 11 Nov 2023 14:29:06 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/%C3%A0-conversa-sobre-livros/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%C3%A0-conversa-sobre-livros/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pergunta-nos Tudo, O que defendemos. Climaximo Largo S Carlos</title>
-      <link>https://blog.indymedia.pt/news/2023-11-11-pergunta-nos-tudo-o-que-defendemos-climaximo-largo-s-carlos-ptrevolutiontv-cmi/</link>
+      <link>http://localhost:1313/news/2023-11-11-pergunta-nos-tudo-o-que-defendemos-climaximo-largo-s-carlos-ptrevolutiontv-cmi/</link>
       <pubDate>Sat, 11 Nov 2023 14:29:06 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-11-11-pergunta-nos-tudo-o-que-defendemos-climaximo-largo-s-carlos-ptrevolutiontv-cmi/</guid>
+      <guid>http://localhost:1313/news/2023-11-11-pergunta-nos-tudo-o-que-defendemos-climaximo-largo-s-carlos-ptrevolutiontv-cmi/</guid>
       <description>Estamos no Largo S Carlos com o Climáximo, se quiseres fazer algum pergunta aproveita os comentários nos directos que eles respondem. https://www.facebook.com/ptrevolutiontv.live/videos/199562883190875&#xA;soberania da informação.</description>
     </item>
   </channel>

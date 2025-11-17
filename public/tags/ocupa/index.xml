@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ocupa on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/ocupa/</link>
+    <link>http://localhost:1313/tags/ocupa/</link>
     <description>Recent content in Ocupa on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Thu, 16 Nov 2023 14:25:56 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/ocupa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ocupa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Centenas de estudantes expulsam fascistas que foram para a FCSH fazer propaganda</title>
-      <link>https://blog.indymedia.pt/news/2023-11-16-fascistas-na-fcsh-expulsos-por-centenas-de-estudantes/</link>
+      <link>http://localhost:1313/news/2023-11-16-fascistas-na-fcsh-expulsos-por-centenas-de-estudantes/</link>
       <pubDate>Thu, 16 Nov 2023 14:25:56 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-11-16-fascistas-na-fcsh-expulsos-por-centenas-de-estudantes/</guid>
+      <guid>http://localhost:1313/news/2023-11-16-fascistas-na-fcsh-expulsos-por-centenas-de-estudantes/</guid>
       <description>A juventude do Chega está no campus da FCSH a fazer propaganda fascista contra a ocupa. FCSH&#xA;A faculdade abriu precedentes para fascistas se sentirem confortaveis e protegitos dentro do campus da FCSH. Valores de abril, só ma fechada. Não nos calarão, lutar pelo Clima, não é crime.&#xA;A direção e os seguranças da FCSH ao depararem se com o protesto dos alunos contra os militantes fascistas na sua faculdade, não só não os expulsam como impedem que alunos os empurrem para fora do campus!</description>
     </item>
   </channel>

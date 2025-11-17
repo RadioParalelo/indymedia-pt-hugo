@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sudão on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/sud%C3%A3o/</link>
+    <link>http://localhost:1313/tags/sud%C3%A3o/</link>
     <description>Recent content in Sudão on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Wed, 05 Nov 2025 12:44:47 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/sud%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sud%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uma declaração do grupo anarquista no Sudão e como ajudar</title>
-      <link>https://blog.indymedia.pt/news/2025-11-05-uma-declaracao-do-grupo-anarquista-no-sudao-e-como-ajudar/</link>
+      <link>http://localhost:1313/news/2025-11-05-uma-declaracao-do-grupo-anarquista-no-sudao-e-como-ajudar/</link>
       <pubDate>Wed, 05 Nov 2025 12:44:47 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2025-11-05-uma-declaracao-do-grupo-anarquista-no-sudao-e-como-ajudar/</guid>
+      <guid>http://localhost:1313/news/2025-11-05-uma-declaracao-do-grupo-anarquista-no-sudao-e-como-ajudar/</guid>
       <description>Publicada a 2 de Novembro&#xA;A todos os revolucionários do mundo, a todos os socialistas libertadores, a todos os anarquistas:&#xA;Hoje lamentamos o martírio dos nossos camaradas em Al-Fashir que caíram defendendo sua cidade, suas famílias e eles mesmos. Eles são:&#xA;Faisal Adam Ali&#xA;Radwan Abdel Jabbar (“Kahraba”)&#xA;Adam Kibir Musa&#xA;Abdel Ghaffar Al-Tahir (“Al-Sini”)&#xA;Também lamentamos uma série de jovens voluntários que foram mortos pela milícia das Forças de Apoio Rápidas terroristas, enquanto seu único “crime” foi trazer comida para os moradores da cidade.</description>
     </item>
   </channel>

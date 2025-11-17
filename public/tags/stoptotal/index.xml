@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>StopTotal on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/stoptotal/</link>
+    <link>http://localhost:1313/tags/stoptotal/</link>
     <description>Recent content in StopTotal on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sun, 17 Dec 2023 17:31:51 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/stoptotal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/stoptotal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code Rouge-Rood, cá foi um avião na Bélgica foram 2 aeroportos.</title>
-      <link>https://blog.indymedia.pt/news/2023-12-17-code-rouge-rood-ca-foi-um-aviao-na-belgica-foram-2-aeroportos/</link>
+      <link>http://localhost:1313/news/2023-12-17-code-rouge-rood-ca-foi-um-aviao-na-belgica-foram-2-aeroportos/</link>
       <pubDate>Sun, 17 Dec 2023 17:31:51 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-12-17-code-rouge-rood-ca-foi-um-aviao-na-belgica-foram-2-aeroportos/</guid>
+      <guid>http://localhost:1313/news/2023-12-17-code-rouge-rood-ca-foi-um-aviao-na-belgica-foram-2-aeroportos/</guid>
       <description>São cada vez mais as ações de desobediência civil contra a aviação, em especial a direcionada para as pequenas elites como é o caso dos jatos privados.&#xA;Depois do Climáximo fazer uma ação contra um jato estacionado no aeródromo de Tires, desta vez foi na Bélgica que se realizou uma grande uma ação de desobediência civil convocada pelo Coletivo Code Rouge-Rood.&#xA;&amp;amp;8220;Code Red é um movimento de desobediência civil criado por ativistas e apoiado por diferentes organizações e grupos de ação.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Romance on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/romance/</link>
+    <link>http://localhost:1313/tags/romance/</link>
     <description>Recent content in Romance on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Wed, 04 Oct 2023 10:33:40 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/romance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/romance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Cadela</title>
-      <link>https://blog.indymedia.pt/news/2023-10-04-a-cadela/</link>
+      <link>http://localhost:1313/news/2023-10-04-a-cadela/</link>
       <pubDate>Wed, 04 Oct 2023 10:33:40 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-04-a-cadela/</guid>
+      <guid>http://localhost:1313/news/2023-10-04-a-cadela/</guid>
       <description>Pilar Quintana&#xA;“Durante o dia, Damaris andava com a cadela metida no sutiã, entre os seus seios macios e generosos, para a manter quente. A noite, deixava-a na caixa de cartão que o senhor Jaime lhe tinha oferecido, com uma botija de água quente e a camisa que tinha usado durante o dia, para que não sentisse a falta do seu cheiro.” Pilar Quintana, A Cadela (ed. Dom Quixote, 2021) Pilar Quintana é uma das mais aplaudidas e lidas escritoras de toda a América Latina.</description>
     </item>
   </channel>

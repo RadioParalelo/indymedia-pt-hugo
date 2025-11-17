@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WeWillReturn on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/wewillreturn/</link>
+    <link>http://localhost:1313/tags/wewillreturn/</link>
     <description>Recent content in WeWillReturn on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Tue, 07 Oct 2025 20:36:14 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/wewillreturn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/wewillreturn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>9 embarcações da Global Sumud Flotilla aproximam-se de Gaza com 150 pessoas a bordo entre muitos jornalistas e médicos</title>
-      <link>https://blog.indymedia.pt/news/2025-10-07-11-embarcacoes-da-gaza-sumud-flotilla-aproximam-se-de-gaza/</link>
+      <link>http://localhost:1313/news/2025-10-07-11-embarcacoes-da-gaza-sumud-flotilla-aproximam-se-de-gaza/</link>
       <pubDate>Tue, 07 Oct 2025 20:36:14 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2025-10-07-11-embarcacoes-da-gaza-sumud-flotilla-aproximam-se-de-gaza/</guid>
+      <guid>http://localhost:1313/news/2025-10-07-11-embarcacoes-da-gaza-sumud-flotilla-aproximam-se-de-gaza/</guid>
       <description>WE’LL NEVER STOP: 9 More Ships Now 140 Nautical Miles from Gaza.&#xA;The mission continues! Despite the illegal abduction of the Global Sumud Flotilla crew, a powerful new fleet is now critically close to the shores of Gaza.&#xA;This collaborative fleet, a union of the Freedom Flotilla Coalition (@gazafreedomflotilla) and Thousand Madleens to Gaza (@thousandmadleenstogaza), is sailing with nearly 150 people from 30 countries. They are just 140 nautical miles from Gaza right now.</description>
     </item>
   </channel>

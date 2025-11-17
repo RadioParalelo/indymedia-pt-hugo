@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cantoneiros on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/cantoneiros/</link>
+    <link>http://localhost:1313/tags/cantoneiros/</link>
     <description>Recent content in Cantoneiros on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Thu, 09 Nov 2023 18:30:03 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/cantoneiros/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/cantoneiros/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Lisboa] Cantoneiros da freguesia de Penha de França em Luta</title>
-      <link>https://blog.indymedia.pt/news/2023-11-09-lisboa-cantoneiros-da-freguesia-de-penha-de-franca-em-luta/</link>
+      <link>http://localhost:1313/news/2023-11-09-lisboa-cantoneiros-da-freguesia-de-penha-de-franca-em-luta/</link>
       <pubDate>Thu, 09 Nov 2023 18:30:03 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-11-09-lisboa-cantoneiros-da-freguesia-de-penha-de-franca-em-luta/</guid>
+      <guid>http://localhost:1313/news/2023-11-09-lisboa-cantoneiros-da-freguesia-de-penha-de-franca-em-luta/</guid>
       <description>Hoje, ao abrigo do plenário convocado pelo STML, os trabalhadores-cantoneiros deslocaram-se das suas instalações até à Sede da Junta de Freguesia onde entregaram um abaixo-assinado, subscrito por mais de 90% dos trabalhadores da limpeza urbana, exigindo ao Executivo respostas a três reivindicações, nomeadamente:&#xA;** &amp;amp;8211; Respeito pelo ACEP em vigor, nomeadamente do seu nº.6 do Art.14 que determina a atribuição de um dia de descanso compensatório (folga) pelo trabalho realizado em dia-feriado;</description>
     </item>
   </channel>

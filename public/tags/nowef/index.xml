@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NoWEF on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/nowef/</link>
+    <link>http://localhost:1313/tags/nowef/</link>
     <description>Recent content in NoWEF on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Wed, 17 Jan 2024 18:30:42 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/nowef/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/nowef/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Koalas, Ninja e Neve… a história toda.</title>
-      <link>https://blog.indymedia.pt/news/2024-01-17-koalas-ninja-e-neve-a-historia-toda/</link>
+      <link>http://localhost:1313/news/2024-01-17-koalas-ninja-e-neve-a-historia-toda/</link>
       <pubDate>Wed, 17 Jan 2024 18:30:42 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2024-01-17-koalas-ninja-e-neve-a-historia-toda/</guid>
+      <guid>http://localhost:1313/news/2024-01-17-koalas-ninja-e-neve-a-historia-toda/</guid>
       <description>No Sábado passado, 13 de Janeiro, iniciou-se mais uma NO WEF, uma caminhada pelas montanhas da Suíça contra a Cimeira Mundial Económica, a decorrer neste momento, que se realiza em Davos todos os anos por esta altura, com exceção durante a pandemia de COVID 19.&#xA;Com ponto de início marcado para a estação de comboio de Küblis as 10h00 do dia 13 deu-se início a uma marcha de 2 dias por estradas e trilhos pelas montanhas com pernoita no Complexo Desportivo de Klosters Platz para estar as 14h00 de Domingo 13 em Davos para uma manifestação contra o &amp;amp;8220;World Economic Forum&amp;amp;8221;.</description>
     </item>
     <item>
       <title>Koalas, Ninjas e muita, muita Neve… o que terão em comum?</title>
-      <link>https://blog.indymedia.pt/news/2024-01-16-koalas-ninjas-e-muita-muita-neve-o-que-terao-em-comum/</link>
+      <link>http://localhost:1313/news/2024-01-16-koalas-ninjas-e-muita-muita-neve-o-que-terao-em-comum/</link>
       <pubDate>Tue, 16 Jan 2024 16:24:07 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2024-01-16-koalas-ninjas-e-muita-muita-neve-o-que-terao-em-comum/</guid>
+      <guid>http://localhost:1313/news/2024-01-16-koalas-ninjas-e-muita-muita-neve-o-que-terao-em-comum/</guid>
       <description>Faz agora 4 anos que ia-mos a caminho de Davos na Suíça para participar num marcha pelas montanhas nevadas par participar num protesto contra o Worl Economic Forum.&#xA;Estamos a juntar os vários lives que fizemos tudo num artigo mas não queríamos deixar de partilhar convosco alguns momentos que vamos revivendo neste processo de construção do artigo.&#xA;Este ano não conseguimos marcar presença mas se alguém quiser começar a ida de ativistas portugueses para o ano temos todo o prazer em participar e ajudar.</description>
     </item>
   </channel>

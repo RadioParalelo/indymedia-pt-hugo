@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interseccionais on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/interseccionais/</link>
+    <link>http://localhost:1313/tags/interseccionais/</link>
     <description>Recent content in Interseccionais on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Fri, 22 Sep 2023 16:50:21 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/interseccionais/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/interseccionais/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Brochura] Ponto de viragem na luta contra a mIneração e o lítio em 2023</title>
-      <link>https://blog.indymedia.pt/news/2023-09-22-brochura-ponto-de-viragem-na-luta-contra-a-mineracao-e-o-litio-em-2023/</link>
+      <link>http://localhost:1313/news/2023-09-22-brochura-ponto-de-viragem-na-luta-contra-a-mineracao-e-o-litio-em-2023/</link>
       <pubDate>Fri, 22 Sep 2023 16:50:21 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-09-22-brochura-ponto-de-viragem-na-luta-contra-a-mineracao-e-o-litio-em-2023/</guid>
+      <guid>http://localhost:1313/news/2023-09-22-brochura-ponto-de-viragem-na-luta-contra-a-mineracao-e-o-litio-em-2023/</guid>
       <description>Ponto de viragem na luta contra a mineração e o lítio em 2023&#xA;Brochura para impressão em anexo&#xA;Esta é uma análise crua enquanto ao busílis da inquietante passividade e falta de iniciativas difusas e directas contra a mineração no último ano. Pretende dar pistas para inverter este processo, multiplicar as formas e os focos da luta, apelar à acção difusa e directa contra as empresas, instituições e projectos relacionados, nas zonas rurais, urbanas e periféricas.</description>
     </item>
   </channel>

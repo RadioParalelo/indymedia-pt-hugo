@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mulheres on indymedia.pt</title>
-    <link>https://blog.indymedia.pt/tags/mulheres/</link>
+    <link>http://localhost:1313/tags/mulheres/</link>
     <description>Recent content in Mulheres on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Mon, 16 Oct 2023 17:22:52 +0000</lastBuildDate>
-    <atom:link href="https://blog.indymedia.pt/tags/mulheres/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/mulheres/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mulheres Fazem a Paz! Posicionamento comum das mulheres Judias e Árabes.</title>
-      <link>https://blog.indymedia.pt/news/2023-10-16-mulheres-fazem-a-paz-posicionamento-comum-das-mulheres-judias-e-arabes/</link>
+      <link>http://localhost:1313/news/2023-10-16-mulheres-fazem-a-paz-posicionamento-comum-das-mulheres-judias-e-arabes/</link>
       <pubDate>Mon, 16 Oct 2023 17:22:52 +0000</pubDate>
-      <guid>https://blog.indymedia.pt/news/2023-10-16-mulheres-fazem-a-paz-posicionamento-comum-das-mulheres-judias-e-arabes/</guid>
+      <guid>http://localhost:1313/news/2023-10-16-mulheres-fazem-a-paz-posicionamento-comum-das-mulheres-judias-e-arabes/</guid>
       <description>“Nós, mães palestinianas e israelitas, estamos determinadas a parar o ciclo vicioso de derramamento de sangue e a mudar a realidade do difícil conflito entre ambas as nações, para o benefício dos nossos filhos”&#xA;Milhares de mulheres do movimento israelense “Mulheres pela Paz” e do movimento palestino “Mulheres do Sol” realizaram um evento conjunto no dia 4 de outubro exigindo o fim do ciclo de derramamento de sangue e a promoção da “Chamada das Mães”, formulado por ambos movimentos e apela aos povos de ambas as nações – palestinos e israelenses, e aos povos da região para que se juntem ao nosso apelo e demonstrem o seu apoio à resolução do conflito.</description>
     </item>
   </channel>
