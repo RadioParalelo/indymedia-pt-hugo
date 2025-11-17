@@ -1,0 +1,31 @@
+name: Import RSS Feed
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run RSS import script
+        run: node import-rss.js
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "paralelo@riseup.net"  # Replace with your email
+          git config --local user.name "RadioParalelo"           # Replace with your name
+          git add content/posts/*
+          git commit -m "Update posts from RSS" || echo "No changes to commit"
+          git push
