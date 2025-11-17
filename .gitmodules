@@ -1,0 +1,3 @@
+[submodule "themes/az-indymedia-theme"]
+    path = themes/az-indymedia-theme
+    url = https://github.com/pgsimpso/az-indymedia-theme.git
