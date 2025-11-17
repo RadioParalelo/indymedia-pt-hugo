@@ -1,0 +1,198 @@
+---
+title: Demolições na Jamaica e abusos policiais, 6 famílias sem realojamento
+author: Publicação Comunitária
+type: post
+date: 2024-02-06T17:32:43+00:00
+url: /?p=218169
+autopostToMastodon-post-status:
+  - on
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111885731401777762
+enclosure:
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2024/02/lalaberekai-20240206-0002-1301106.mp4
+        47390854
+        video/mp4
+        
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2024/02/lalaberekai-20240206-0001-6850741.mp4
+        46306393
+        video/mp4
+        
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2024/02/YouCut_20240206_171348741-9745501.mp4
+        18189994
+        video/mp4
+        
+mf2_syndication:
+  - 'a:1:{i:0;s:61:"https://climatejustice.social/@indymediapt/111885742955043629";}'
+burst_page_id_upgraded:
+  - 1
+embed_privacy_thumbnail_youtube_f3EM8xZ3P_c:
+  - youtube-f3EM8xZ3P_c-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_f3EM8xZ3P_c_url:
+  - https://youtu.be/f3EM8xZ3P_c
+embed_privacy_thumbnail_youtube_1dLn7qGj68s:
+  - youtube-1dLn7qGj68s-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_1dLn7qGj68s_url:
+  - https://www.youtube.com/watch?v=1dLn7qGj68s
+embed_privacy_thumbnail_youtube_Pbhsq1OHvVo:
+  - youtube-Pbhsq1OHvVo-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_Pbhsq1OHvVo_url:
+  - https://www.youtube.com/watch?v=Pbhsq1OHvVo
+categories:
+  - Habitação
+  - Indymedia
+tags:
+  - AltPT
+  - Demolições
+  - Despejos
+  - Habita!
+  - Jamaica
+  - PTrevolutionTV
+  - STOP Despejos
+
+---
+<nav class="wp-block-table-of-contents">
+
+  1. [Imagens de um Despejo hoje e entrevista com moradora][1]{.wp-block-table-of-contents__entry}
+  2. [Abusos Policiais, moradora levada para a esquadra:][2]{.wp-block-table-of-contents__entry}
+      1. [Entrevista com moradora detida][3]{.wp-block-table-of-contents__entry}
+  3. [Hoje, mais Demolições na Jamaica:][4]{.wp-block-table-of-contents__entry} 
+  4. [Live Streams PTrevolutionTV][5]{.wp-block-table-of-contents__entry}</nav> 
+
+#### Imagens de um Despejo hoje e entrevista com moradora {#imagens-de-um-despejo-hoje-e-entrevista-com-moradora.wp-block-heading}<figure class="wp-block-image size-full">
+
+<img alt='img_20240206_221343_156-2869114-7975065-5847649' alt='img_20240206_221343_156-2869114-7975065' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/IMG_20240206_221343_156-2869114-7975065-5847649.jpg' class="wp-image-218300" /> <figcaption class="wp-element-caption">Isto foi como ficou a casa da Elsa Cílio, onde ficámos desde as 7h30 e onde a Alda Pontes foi detida.</figcaption></figure> 
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+  <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+    <figure class="wp-block-video"><video controls src="http://localhost:8000/wp-content/uploads/2024/02/lalaberekai-20240206-0002-1301106.mp4"></video></figure>
+  </div>
+  
+  <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+    <figure class="wp-block-video"><video controls src="http://localhost:8000/wp-content/uploads/2024/02/lalaberekai-20240206-0001-6850741.mp4"></video></figure>
+  </div>
+</div>
+
+**Despejos no Bairro da Jamaica. Entrevista com Elsa Cílio.**  
+  
+Somos os únicos que estamos com a família e que não fomos expulsos pela polícia por estarmos em casa da Elsa desde as 7h30 até agora. Todo o grupo que veio prestar apoio foi expulso, também a comunicação social foi proibida de registar estes eventos.
+
+Via: <a href="https://www.instagram.com/p/C3AUa9nslg2" target="_blank" rel="noreferrer noopener">https://www.instagram.com/p/C3AUa9nslg2</a>
+
+[@stopdespejos][6] [@em.luta.lit][7] [@sosracismopt][8] [@ptrevolutiontv][9] [@vidajusta.pt][10] [@habita.colectivo][11]
+
+#### Abusos Policiais, moradora levada para a esquadra: {#abusos-policiais-moradora-levada-para-a-esquadra.wp-block-heading}
+
+A Alda, uma moradora do bairro que, apesar de ter sido realijada, não parou de lutar ao lado das suas vizinhas excluídas do realojamento, numa demonstração emocionante de solidariedade, foi agredida e detida à pouco pela PSP.
+
+Foi levada para a esquadra da Cruz de Pau, onde não deixam entrar a sua advogada porque, segundo as justificações mirabolantes da PSP, &#8220;não está detida&#8221;.
+
+As companheiras que foram até à esquadra em solidariedade foram todas identificadas porque segundo a PSP, estavam &#8220;a resistir&#8221;.
+
+RESISTIR É UM DIREITO  
+<a href="https://www.instagram.com/habita.colectivo/" target="_blank" rel="noreferrer noopener">Habita!</a>
+
+###### **Entrevista com moradora detida** {#entrevista-com-moradora-pelo-jornal-em-luta.wp-block-heading}
+
+Video: <https://imginn.com/p/C3AbQ1UMAzc>  
+via: <a href="https://instagram.com/em.luta.lit/" target="_blank" rel="noreferrer noopener">@em.luta.lit</a>
+
+#### Hoje, mais Demolições na Jamaica:  {#hoje-mais-demolicoes-na-jamaica.wp-block-heading}
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    <a href="https://www.instagram.com/habita.colectivo/" target="_blank" rel="noreferrer noopener">Via: Habita! no Instagram</a><br /><br /><strong>Hoje: Mais demolições no Bairro da Jamaica </strong>
+  </p>
+  
+  <p>
+    A Câmara Municipal do Seixal (CDU) tem feito demolições sem garantir alternativa habitacional digna a todas as famílias desalojadas.
+  </p>
+  
+  <p>
+    Desde 17/10/23, uma providência cautelar impedia a Câmara de avançar com a demolição das habitações de 4 famílias a quem o direito ao realojamento tem sido negado.
+  </p>
+  
+  <p>
+    No dia 22/01, uma nova decisão do tribunal voltou a deixar desprotegidas estas famílias que enfrentam a demolição das suas casas.
+  </p>
+  
+  <p>
+    Quando soube da decisão judicial que impedia as demolições das casas de quem não tinha alternativa, a Câmara decidiu suspender também o realojamento das outras mais de 20 famílias que vivem no mesmo prédio. A estas a Câmara disse que não estavam a ser realojadas por culpa dos vizinhos, tentando que sejam os próprios moradores do bairro a pressionar os seus vizinhos a aceitarem ir para a rua.
+  </p>
+  
+  <p>
+    <strong>São quase 30 famílias que vivem desde Outubro na incerteza sobre o seu futuro.</strong>
+  </p>
+  
+  <p>
+    <strong>Para levar a cabo estas demolições sem alternativa, a Câmara tem recorrido a muita repressão!</strong>
+  </p>
+  
+  <p>
+    Além de não notificar por escrito as datas das demolições, ordena à Polícia que feche todos os acessos ao Bairro nos dias em que estas vão acontecer: só entra e sai quem for autorizado, proibindo familiares, advogados, jornalistas e ativistas de se aproximarem.
+  </p>
+  
+  <p>
+    Denunciamos o racismo da Câmara Municipal do Seixal, que tem tratado de forma desumana e violenta os mordaores do Bairro da Jamaica, mostrando nos bairros negros, probres e de imigrantes que não há Constituição ou lei que garanta os direitos das pessoas.
+  </p>
+  
+  <p>
+    É urgente cercar de solidariedade os moradores da Jamaica que estão a lutar pelo seu direito à habitação! Se os realojamentos garantidos até hoje foram fruto da luta coletiva, agora não será diferente!
+  </p>
+  
+  <p>
+    Basta de Demolições e Despejos sem Alternativa!
+  </p>
+  
+  <p>
+    Basta de Racismo e cerco Policial aos Bairros!
+  </p>
+  
+  <p>
+    Realojamento para todos os moradores da Jamaica já!
+  </p>
+  
+  <p>
+    <a href="https://www.instagram.com/habita.colectivo/" target="_blank" rel="noreferrer noopener">Habita!</a>
+  </p>
+</blockquote><figure class="wp-block-video"><video controls loop src="http://localhost:8000/wp-content/uploads/2024/02/YouCut\_20240206\_171348741-9745501.mp4"></video><figcaption class="wp-element-caption">
+
+<a href="https://www.instagram.com/reel/C3AbV-RMlgX/?utm_source=ig_web_copy_link" target="_blank" rel="noreferrer noopener">via: STOP Despejos</a></figcaption></figure> <figure class="wp-block-image size-large"><img alt='danilo-taslogado-20240206-0001-9183143-1024x804-1759109-8472126-8194288-4798310-7651491-9441413-2743992-7298870-7431552-8218658-4254489-2040877-2258699-1735479-9538467-5106371' alt='danilo-taslogado-20240206-0001-9183143-1024x804-1759109-8472126-8194288-4798310-7651491-9441413-2743992-7298870-7431552-8218658-4254489-2040877-2258699-1735479-9538467' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/danilo.taslogado-20240206-0001-9183143-1024x804-1759109-8472126-8194288-4798310-7651491-9441413-2743992-7298870-7431552-8218658-4254489-2040877-2258699-1735479-9538467-5106371.jpg' class="wp-image-218172" /></figure> <figure class="wp-block-image size-full"><img alt='post425751887_17978438084644355_4958148413163163897_n-6396300-4263354-4486083-4260371-2438040-9939477-3591735-8732388-8912712-8945958-9836585-9209462-1497855-4466924-9162453' alt='post425751887_17978438084644355_4958148413163163897_n-6396300-4263354-4486083-4260371-2438040-9939477-3591735-8732388-8912712-8945958-9836585-9209462-1497855-4466924' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/post425751887_17978438084644355_4958148413163163897_n-6396300-4263354-4486083-4260371-2438040-9939477-3591735-8732388-8912712-8945958-9836585-9209462-1497855-4466924-9162453.jpg' class="wp-image-218186" /></figure> 
+
+**<a href="https://www.instagram.com/p/C3AqbLvMosv/?igsh=NTc4MTIwNjQ2YQ==" target="_blank" rel="noreferrer noopener">via: Lisboa Invisível</a>**
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    “Vamos ser despejados?”<br /><br />Alô, alô, maltinha. Emergência!! Utilidade Pública!!<br /><br />Hoje, há pouquíssimas horas atrás, começou a tentativa no bairro JAMAIKA, no Fogueteiro, Seixal, de mais demolições e desalojamentos. Mais e mais famílias em total vulnerabilidade em risco de serem vítimas de despejo sem respostas alternativas.<br /><br />Seis famílias do bairro a presenciar a possibilidade de suas casas irem em ruínas e insegurança habitacional. Em uma das casa vivem 3 menores de idade.<br /><br />Famílias inteiras não estão a ser incluídas no Plano de Realojamento da Câmara Municipal do Seixal.<br /><br />Jornalistas, advogados e próprios moradores foram impedidos de entrar no bairro, pois não constam na “lista de autorizados pela Câmara Municipal do Seixal”.<br /><br />Pressão da Câmara Municipal do Seixal e falta de respostas? Nossa contra reposta para isto é pressão do lado de cá. Não vamos nos calar!<br /><br />Nosso repúdio!<br /><br /><a href="https://www.instagram.com/stopdespejos/">@stopdespejos</a><br /><a href="https://www.instagram.com/vidajusta.pt/">@vidajusta.pt</a><br /><a href="https://www.instagram.com/habita.colectivo/">@habita.colectivo</a><br /><a href="https://www.instagram.com/ptrevolutiontv/">@ptrevolutiontv</a><br /><br /><a href="https://www.instagram.com/explore/tags/pt/">#pt</a> <a href="https://www.instagram.com/explore/tags/portugal/">#portugal</a> <a href="https://www.instagram.com/explore/tags/lisboa/">#lisboa</a> <a href="https://www.instagram.com/explore/tags/lisbon/">#lisbon</a> <a href="https://www.instagram.com/explore/tags/despejos/">#despejos</a> <a href="https://www.instagram.com/explore/tags/homelessness/">#homelessness</a> <a href="https://www.instagram.com/explore/tags/casa/">#casa</a> <a href="https://www.instagram.com/explore/tags/home/">#home</a> <a href="https://www.instagram.com/explore/tags/desalojados/">#desalojados</a> <a href="https://www.instagram.com/explore/tags/demolicao/">#demolicao</a> <a href="https://www.instagram.com/explore/tags/demolition/">#demolition</a> <a href="https://www.instagram.com/explore/tags/seixal/">#seixal</a> <a href="https://www.instagram.com/explore/tags/jamaika/">#jamaika</a>
+  </p>
+  
+  <cite><a href="https://www.instagram.com/p/C3AqbLvMosv/?igsh=NTc4MTIwNjQ2YQ==" target="_blank" rel="noreferrer noopener">Lisboa Invisível, no Instagram</a></cite>
+</blockquote>
+
+#### Live Streams PTrevolutionTV {#live-streams-ptrevolutiontv.wp-block-heading}<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure>
+
+ [1]: http://localhost:8000/2024/02/06/demolicoes-na-jamaica-e-abusos-policiais/#imagens-de-um-despejo-hoje-e-entrevista-com-moradora
+ [2]: http://localhost:8000/2024/02/06/demolicoes-na-jamaica-e-abusos-policiais/#abusos-policiais-moradora-levada-para-a-esquadra
+ [3]: http://localhost:8000/2024/02/06/demolicoes-na-jamaica-e-abusos-policiais/#entrevista-com-moradora-pelo-jornal-em-luta
+ [4]: http://localhost:8000/2024/02/06/demolicoes-na-jamaica-e-abusos-policiais/#hoje-mais-demolicoes-na-jamaica
+ [5]: http://localhost:8000/2024/02/06/demolicoes-na-jamaica-e-abusos-policiais/#live-streams-ptrevolutiontv
+ [6]: https://www.instagram.com/stopdespejos/
+ [7]: https://www.instagram.com/em.luta.lit/
+ [8]: https://www.instagram.com/sosracismopt/
+ [9]: https://www.instagram.com/ptrevolutiontv/
+ [10]: https://www.instagram.com/vidajusta.pt/
+ [11]: https://www.instagram.com/habita.colectivo/

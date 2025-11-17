@@ -1,0 +1,27 @@
+---
+title: 'COMUNICADO: ESTUDANTES EM “VISITA DE ESTUDO” VÃO OCUPAR O MINISTÉRIO DO AMBIENTE PELO FIM AOS FÓSSEIS'
+author: Publicação Comunitária
+type: post
+date: 2023-11-24T08:48:11+00:00
+url: /?p=211523
+admin_form_source:
+  - form65033c1176054
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+
+---
+<img loading="lazy" decoding="async" class="alignnone size-medium wp-image-208619" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/402881302_18072673003428016_3498193282790872977_n-240x300.jpg" alt="" width="240" height="300" />
+
+_Estudantes convocam marcha para as 11h na praça do Camões. Vão ocupar para “responsabilizar quem está a condenar o seu futuro”._
+
+Esta manhã, estudantes e apoiantes do movimento fim ao fóssil vão marchar até ao Ministério do Ambiente e da Ação Climática, com o intuito de o ocupar. A concentração está marcada para a praça Camões às 11h. Com este protesto, denominado “Visita de Estudo” os estudantes reivindicam o fim aos combustíveis fósseis até 2030 e eletricidade 100% renovável e acessível até 2025, fazendo deste o último inverno em que gás fóssil é utilizado para produzir eletricidade em Portugal.
+
+“Vivemos em crise climática, provocada pela economia fóssil e consentida pelas instituições que nos deviam representar​​”, diz Beatriz Xavier, porta-voz desta manifestação. “Este ministério representa a inação geral do governo e de todas as instituições. O sistema fóssil que rege as instituições está a falhar-nos. Não podemos deixar que este sistema que coloca o lucro à frente das pessoas continue a existir impune”.
+
+Os estudantes estão desde dia 13 a fazer uma onda de ações para reivindicar que o governo forme um plano de como se pode transitar para o fim do uso dos combustíveis fósseis “nos prazos ditados pela ciência e pela justiça mundial”, através de um serviço público de energias renováveis. Deixaram já um plano para esta transição justa no Ministério do Ambiente e em vários partidos. Beatriz afirma que &#8220;qualquer governo que não siga estes termos é ilegítimo, pois está a escolher ignorar a maior crise que a humanidade já enfrentou, em nome do lucro fóssil&#8221;.
+
+Os estudantes pararam as suas escolas e faculdades e hoje reúnem-se na rua para “responsabilizar aqueles que nos estão a roubar o futuro” diz Leonor Penha, estudante de 17 anos e porta-voz desta manifestação. “Quando o lutar pelo clima se torna crime, mas condenar pessoas à morte não, o inteiro sistema torna-se ilegítimo, e a desobediência uma obrigação”.
+
+“Vamos parar o normal funcionamento deste espaço, pois não o governo não pode continuar a condenar milhares de pessoa à morte impunemente.”, diz Beatriz. “O nosso futuro não é um negócio, não pode ser vendido a troco de lucro às empresas fósseis ou nunca teremos uma transição justa.”

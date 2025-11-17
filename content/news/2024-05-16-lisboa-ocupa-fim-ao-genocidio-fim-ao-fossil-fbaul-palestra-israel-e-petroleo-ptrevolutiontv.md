@@ -1,0 +1,43 @@
+---
+title: '[Lisboa] Ocupa Fim ao Genocídio, Fim ao Fóssil FBAUL – Palestra Israel e Petróleo #PTrevolutionTV'
+author: Publicação Comunitária
+type: post
+date: 2024-05-16T15:05:58+00:00
+url: /?p=223391
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+[Lisboa] Ocupa Fim ao Genocídio, Fim ao Fóssil FBAUL &#8211; Palestra Israel e Petróleo #PTrevolutionTV
+
+<figure class="wp-block-audio"><audio controls src="https://vid.puffyan.us/latest_version?id=oqA0rsvbMOg&itag=140"></audio></figure> 
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <p>
+    <a href="https://vid.puffyan.us/watch?v=oqA0rsvbMOg">https://vid.puffyan.us/watch?v=oqA0rsvbMOg</a>
+  </p>
+</div>
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  </div>
+  
+  <p>
+    <a href="https://youtube.com/watch?v=oqA0rsvbMOg"> https://youtube.com/watch?v=oqA0rsvbMOg </a>
+  </p>
+</div>
+
+Instâncias [Invidious][1] alternativas:  
+<https://redirect.invidious.io/watch?v=oqA0rsvbMOg>
+
+**Este stream foi criado pela [PTrevolutionTV][2].**<figure class="wp-block-image size-large">
+
+![][3] </figure>
+
+ [1]: https://invidious.io/
+ [2]: https://www.youtube.com/@ptrevolutiontv
+ [3]: https://cmi.indymedia.pt/wp-content/uploads/2024/05/maxres-3493611.jpg

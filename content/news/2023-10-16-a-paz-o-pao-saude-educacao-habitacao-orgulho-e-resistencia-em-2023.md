@@ -1,0 +1,65 @@
+---
+title: 'A paz, o pão, saúde, educação, habitação: Orgulho e Resistência em 2023'
+author: Publicação Comunitária
+type: post
+date: 2023-10-16T10:23:44+00:00
+excerpt: 'O título é de uma famosa música de intervenção de Sérgio Godinho. Editada em 1974, fruto da revolução democrática dos cravos, Liberdade, é não só o nome de uma longínqua cantiga, referência de uma luta antiga, mas, na ordem do dia, labuta do movimento LGBTQIA+ português.  Desde 2000 que o movimento ativista LGBTQIA+ em Portugal […]'
+url: /?p=32929
+syndication_source:
+  - LeiturasQueer
+syndication_source_uri:
+  - https://leiturasqueer.wordpress.com
+syndication_source_id:
+  - https://leiturasqueer.wordpress.com/feed
+syndication_feed:
+  - https://leiturasqueer.wordpress.com/feed
+syndication_permalink:
+  - https://leiturasqueer.wordpress.com/2023/10/15/a-paz-o-pao-saude-educacao-habitacao-a-luta-lgbtqia-em-2023/
+syndication_item_hash:
+  - 21cf8ffd727b35f5454a80042f1e549a
+  - 5e6208b43fd7c3588debd8f582d3bfb0
+  - 8423cb11d3ce46941a87a5aa765b0f25
+  - aa45478e4339d7ece6ad1e0bf26405b1
+  - a1505ae5ed99be87130d9e72e7d2f11c
+  - 5d64e7984ed2c16756723e45e29724f0
+  - b71116a1ae029bc58b1b85d593a18ddf
+  - 738590a31bbf93280adba3647eab8d6d
+classic-editor-remember:
+  - block-editor
+categories:
+  - Habitação
+  - Indymedia
+  - Poder e Autodeterminação
+  - Queer Feminismo
+tags:
+  - Artigos
+  - Extrema-Direita
+  - IDAHOT
+  - Ideologia de Género
+  - LGBTQIA+
+  - Lúcia Vicente
+  - Marchas LGBTQIA+
+  - No Meu Bairro
+  - Queer
+  - Trans
+
+---
+O título é de uma famosa música de intervenção de Sérgio Godinho. Editada em 1974, fruto da revolução democrática dos cravos, Liberdade, é não só o nome de uma longínqua cantiga, referência de uma luta antiga, mas, na ordem do dia, labuta do movimento LGBTQIA+ português.&nbsp;
+
+Desde 2000 que o movimento ativista LGBTQIA+ em Portugal tem mostrado um crescendo. Somando-lhe diferentes causas e reivindicações, alianças, geografias e conquistas e desafios chegamos a Outubro de 2023 com o número inédito e exemplar de 27 cidades portuguesas a saírem à rua e manifestarem o seu orgulho contra o conservadorismo, pelo direito a ter direitos, pela liberdade em se ser e amar quem quiser, por uma sociedade mais tolerante e menos desigual.
+
+Em retrospetiva, começamos o ano de 2023 com a 1ª Marcha da Visibilidade Trans no Porto, uma marcha inaugural que contando com mais de 500 participantes contestou a visibilidade e direitos das comunidades Trans na cidade que fora paco de um dos assassinatos mais vis que a sociedade portuguesa assistiu este século. Prosseguiu-se, a 17 de Maio, &nbsp;Dia Internacional contra a Homofobia e Transfobia, a 14ª Marcha contra a Homofobia e Transfobia de Coimbra, seguindo-lhe Vila Real, Covilhã, Algarve, Braga, Peniche, Aveiro, Sintra, Lisboa, entre tantas outras, do norte ao sul do país, no continente e ilhas, que celebrando conquistas não se esqueceram do que falta cumprir.
+
+Terminamos o calendário de marchas LGBTQIA+ na cidade de Viseu com a 6ª Marcha de Viseu pelos Direitos LGBTQIA+ sobe o mote “Pela justiça interseccional, contra a opressão estrutural**”.** Uma marcha no interior do país, outrora capital nacional da Homofobia, que relembra como o caminho da igualdade mostra tardar em cumprir-se. Como apesar de nas últimas duas décadas se ter assistido ao desenrolar de leis em prol da igualdade e não discriminação com base na orientação sexual, identidade e ou expressão de género, as práticas sociais continuam a mostrar o símbolo da diferença entre as leis e as práticas.<figure class="wp-block-image">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/rni-films-img-38d0e898-1a4a-4d48-9c68-9a4bc351a18c.jpg" alt="" class="wp-image-1883" /> <figcaption class="wp-element-caption">**6.ª Marcha de Viseu Pelos Direitos LGBTQIA+**</figcaption></figure> 
+
+Num momento de polarizações e de fundamentalismos, do uso dos _social media_ e plataformas digitais para propagar conteúdos de desinformação e diabolização LGBTQIA+, da proliferação do medo e normalização das formas de violência no espaço público, não foram esquecidos pelo movimento ativista episódios como os protestos “transfake” de Keyla Brasil e Dusty Whistles no Teatro São Luiz em Lisboa; os ataques da “ideologia de género” nas escolas por Rita Matias, deputada da extrema-direita no Parlamento; e por último, a manifestação&nbsp;«Não há orgulho no apartheid!» contra o&nbsp;_pinkwashing&nbsp;_colonial israelita que continua a explorar, matar e oprimir as pessoas LGBTQIA+ palestinianas.
+
+Certamente que também não foram esquecidas as formas de intolerância e violência homofóbica e transfóbica assistidas no 1ª Pride de Évora, nas marchas de Leiria e Bragança, ou mais recentemente, do boicote à apresentação do livro “No Meu Bairro”, o livro&nbsp;infanto-juvenil de Lúcia Vicente, episódios que mostram como a liberdade de expressão de grupos minoritários continuam a ser alvo de tentativas de inviabilização e censura.<figure class="wp-block-image">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/230929_20230929190619__mb_8280-01.jpg" alt="" class="wp-image-1886" /> <figcaption class="wp-element-caption">Manifestações contra a apresentação do livro “No Meu Bairro” de Lúcia Vicente</figcaption></figure> 
+
+Acontecimentos tais que mostram o retrocesso democrático assistido nos últimos anos&nbsp; e a evolução de dialéticas morais que colocam nas identidades e corpos LGBTQIA+ a ameaça ao futuro da sociedade/humanidade. Portugal, mostra cada vez mais não o distanciamento desejável mas a proximidade com&nbsp; o retrocesso legal assistido em países como Itália, Polónia e Hungria. A deputada do Chega, Rita Matias, declarara publicamente que se o seu partido formasse governo em Portugal, todas as leis produzidas em torno da igualdade e não discriminação da identidade e/ou expressão de género, orientação sexual e características sexuais seriam revertidas.
+
+Sem querer criar alarmismos, talvez fosse melhor refletirmos sobre a importância de continuar a marchar. A necessidade de construção de alianças entre diferentes movimentos sociais, numa luta interseccional contra a opressão estrutural. Num país periférico, pobre, de democracia frágil como Portugal, o movimento ativista LGBTQIA+ mostra enfrentar-se com novos desafios políticos e sociais em torno de velhas causas como o direito à paz, ao pão, à&nbsp; saúde, educação e habitação. Bem sabemos sobre quem recaem as consequências de uma crise social, política e económica, alimentada por um contexto de guerra. Também sabemos que, se o calendário de marchas LGBTQIA+ mostrara chegar ao fim deste ano, as nossas lutas mostram estar longe do seu fim.

@@ -1,0 +1,19 @@
+---
+title: “A nossa missão é garantir a sua segurança” – PSP publica foto com 1143
+author: Publicação Comunitária
+type: post
+date: 2024-03-13T22:49:10+00:00
+url: /?p=221752
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+ <figure class="wp-block-image size-large"><img alt='photo_2024-03-13_18-23-54-2708845-858x1024-3415705-2298761' alt='photo_2024-03-13_18-23-54-2708845-858x1024-3415705' src='https://cmi.indymedia.pt/wp-content/uploads/2024/03/photo_2024-03-13_18-23-54-2708845-858x1024-3415705-2298761.jpg' alt="photo_2024-03-13_18-23-54-2708845" class="wp-image-221772" /></figure> 
+
+<https://cnnportugal.iol.pt/psp/manifestacao/psp-apaga-post-polemico-nas-redes-sociais-pelo-meio-ainda-defendeu-a-publicacao/20240313/65f1a935d34e87e0c08ab18a>
+
+<https://www.rtp.pt/noticias/pais/psp-apaga-post-polemico-nas-redes-sociais_a1557463>

@@ -1,0 +1,50 @@
+{{ define "title" }}{{ .Site.Title }}{{ end }}
+{{ define "main" }}
+<div align="left"><b>ALL STORIES:</b></div>
+<br>
+
+{{ $paginator := .Paginate .Site.RegularPages 20 }}
+
+{{ range $paginator.Pages }}
+<div id="{{ .File.UniqueID }}">
+    <table width="100%" border="0" cellpadding="2" class="feature-story">
+        <tr>
+            <td bgcolor="#770000" align="left" width="80%" class="feature-title">
+                <font size="-1" color="white" face="Helvetica, Arial">
+                    <b>{{ .Title | upper }}</b>
+                </font>
+            </td>
+            <td align="right" valign="top" bgcolor="#770000" width="20%" class="feature-date">
+                <font size="-1" color="white" face="Helvetica, Arial">
+                    <b>{{ .Date.Format "Jan 2 2006" }}</b>
+                </font>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" class="feature-content">
+                {{ .Summary }}
+                <p><a href="{{ .Permalink }}">Read more...</a></p>
+            </td>
+        </tr>
+    </table>
+</div>
+{{ end }}
+
+<!-- Pagination -->
+{{ if gt $paginator.TotalPages 1 }}
+<div style="text-align: center; margin: 20px 0;">
+    {{ if $paginator.HasPrev }}
+        <a href="{{ $paginator.Prev.URL }}">&laquo; Newer Posts</a>
+    {{ end }}
+    
+    <span style="margin: 0 20px;">
+        Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}
+    </span>
+    
+    {{ if $paginator.HasNext }}
+        <a href="{{ $paginator.Next.URL }}">Older Posts &raquo;</a>
+    {{ end }}
+</div>
+{{ end }}
+
+{{ end }}

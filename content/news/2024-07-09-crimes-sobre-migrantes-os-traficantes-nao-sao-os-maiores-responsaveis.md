@@ -1,0 +1,48 @@
+---
+title: 'Crimes sobre migrantes: Os traficantes não são os maiores responsáveis'
+author: Publicação Comunitária
+type: post
+date: 2024-07-09T11:43:44+00:00
+url: /?p=223621
+activitypub_status:
+  - federated
+fpsm_author_email:
+  - geral@jornalmapa.pt
+fpsm_author_name:
+  - Jornal MAPA
+links:
+  - https://www.jornalmapa.pt/2024/07/09/crimes-sobre-migrantes-os-traficantes-nao-sao-os-maiores-responsaveis/
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Discriminação
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+  - Repressão
+
+---
+<h3 align="left">
+  Um novo relatório desmente que os contrabandistas de seres humanos sejam os maiores responsáveis pelos abusos e crimes a que estão sujeitas as pessoas em trânsito nas rotas entre a África Oriental e Ocidental e a costa mediterrânica.
+</h3>
+
+Na complexa paisagem da migração, o segundo volume do relatório “Nesta viagem, ninguém se importa se vives ou morres” [_On This Journey, No One Cares if You Live or Die_] é um trabalho crucial que lança luz sobre as duras realidades enfrentadas pelos refugiados e migrantes que atravessam a perigosa Rota do Mediterrâneo Central (desde a África Oriental e Corno de África e África Ocidental até à costa norte-africana do Mediterrâneo e, depois, através do mar).
+
+Publicado conjuntamente pela Organização Internacional para as Migrações (OIM), pelo MMC (Mixed Migration Center) e pelo ACNUR, este relatório analisa os riscos de protecção enfrentados pelos refugiados e migrantes durante estas viagens e é a actualização de um outro de um relatório conjunto do ACNUR e do MMC publicado em 2020, abrangendo o período 2018-2019.
+
+Neste novo documento pode ler-se:
+
+«A primeira edição deste relatório, publicada em 2020, revelou padrões de violações generalizadas dos direitos humanos e abusos generalizados ao longo das rotas da África Oriental e do Corno de África e da África Ocidental para o Norte de África. O relatório salientou o desfasamento entre as narrativas dos traficantes e as realidades dramáticas que as pessoas enfrentam nestas viagens perigosas em que a vida humana é apenas o mero objetco de uma transacção comercial. Forneceu dados claros para que os Estados e os seus parceiros pudessem conceber soluções baseadas nas rotas e deslocar serviços e os mecanismos de prevenção/resposta para os locais onde se verificavam os problemas de protecção.
+
+«Infelizmente, três anos mais tarde, as conclusões do primeiro relatório são reconfirmadas e, nalguns locais, ultrapassadas. Tal como os dados sugerem, os riscos e a lista de horrores inimagináveis que as pessoas enfrentam em alguns países ao longo da rota não desapareceram, pelo contrário. Novos conflitos eclodiram no Sahel, elevando a população deslocada para quase 5 milhões de pessoas, o dobro do registado no relatório anterior. No Leste e no Corno de África, as secas e as inundações provocadas pelas alterações climáticas estão a ter um impacto dramático em situações de emergência novas e prolongadas, enquanto o número de pessoas deslocadas devido ao conflito no Sudão atingiu 8,8 milhões em Maio de 2024.
+
+«A deterioração da situação em muitos países de origem e de acolhimento está a levar um número crescente de pessoas a embarcarem em viagens perigosas em direcção à costa sul do Mediterrâneo, acabando muitos deles em situações extremamente vulneráveis. (…)
+
+«Apesar de alguns progressos, este novo relatório sugere uma degradação do ambiente de protecção ao longo das rotas do Mediterrâneo Central, com insuficiência de respostas centradas na protecção. Infelizmente, a experiência ensinou-nos que o aumento dos riscos não impedirá que os refugiados e os migrantes se desloquem (…).
+
+«Infelizmente, esta segunda versão do relatório pode não ser a última a documentar as violações e os abusos dos direitos humanos dos refugiados e migrantes ao longo destas rotas. Continuam a faltar redes de segurança de protecção essenciais em áreas essenciais. Além disso, muitos interlocutores habituaram-se à prevalência de riscos de protecção, aos abusos e à inexorável erosão da esperança, como se nada pudesse ser tentado para os resolver. (…)»
+
+Uma das conclusões deste relatório é que, ao contrário do que a UE e os meios de comunicação de massas nos querem fazer crer, os traficantes de seres humanos não são os principais responsáveis pela violência contra os migrantes. No geral, os _gangs_ criminosos são vistos como os principais perpetradores, seguidos pelos grupos armados, traficantes, entidades estatais, outros migrantes, pessoas das comunidades locais e membros da família. No entanto, se deitarmos os olhos apenas para a África Ocidental, Oriental e Corno de África, poderemos concluir que os traficantes são menos frequentemente vistos como autores do crime do que as forças militares ou policiais e do que as polícias fronteiriças.
+
+Num contexto de conflito, instabilidade, pobreza, desigualdade, alterações climáticas, e abusos nos países de origem e de trânsito, bem como a grande necessidade de mão de obra migrante em muitos dos países de destino, as pessoas continuarão a deslocar-se ao longo das rotas de circulação mista que atravessam África em direcção à costa mediterrânica. Estas pessoas continuarão a enfrentar horrores inimagináveis e inaceitáveis, pelo que é necessário fazer mais para proporcionar protecção e assistência adaptadas, bem como mecanismos de busca e salvamento para os refugiados e migrantes em movimento, especialmente ao longo da parte menos visível da viagem que se estende ao longo do deserto do Sara.
+
+**<a href="https://mixedmigration.org/resource/on-this-journey-no-one-cares-if-you-live-or-die-2/" target="_blank" rel="noopener noreferrer">Download do relatório</a>**

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobilidade on indymedia.pt</title>
+    <link>http://localhost:1313/tags/mobilidade/</link>
+    <description>Recent content in Mobilidade on indymedia.pt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Thu, 05 Oct 2023 11:50:39 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mobilidade/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Via rodoviária do ‘Ave Park’ embargada em Tribunal</title>
+      <link>http://localhost:1313/?p=32386/</link>
+      <pubDate>Thu, 05 Oct 2023 11:50:39 +0000</pubDate>
+      <guid>http://localhost:1313/?p=32386/</guid>
+      <description>O Ministério Público impugnou em tribunal o projecto da via do Ave park, em Guimarães. A acção foi motivada pela “implantação do trajeto em consideráveis áreas da Estrutura Ecológica Municipal e da Reserva Agrícola Nacional”.&#xA;Esta auto-estrada planeada com um custo de 40 milhões e 7km de comprimento, seriviria para acelerar a ligação rodoviária da cidade ao AvePark, uma suposta zona industrial e tecnológica, no entanto, práticamente abandonada, e inútil.</description>
+    </item>
+  </channel>
+</rss>

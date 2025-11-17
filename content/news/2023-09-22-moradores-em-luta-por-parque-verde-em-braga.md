@@ -1,0 +1,35 @@
+---
+title: '[Braga] Moradores em Luta por um Parque Verde'
+author: Publicação Comunitária
+type: post
+date: 2023-09-22T00:53:34+00:00
+url: /?p=1346
+enclosure:
+  - |
+    |
+        https://archive.org/download/rua-luis-soares-barbosa/format=VBR+MP3&ignore=x.mp3
+        0
+        audio/mpeg
+        
+activitypub_status:
+  - federated
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+tags:
+  - Radio
+
+---
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <figure class="wp-block-audio"><audio controls src="https://archive.org/download/rua-luis-soares-barbosa/format=VBR+MP3&ignore=x.mp3"></audio></figure> 
+  
+  <p>
+    <strong>Hoje dia 22 de Setembro 2023, es Moradores estarão em manifestação pelas 21h no Forum Braga, na assembleia municipal extraordinária, onde planeam fazer uma intervenção. Todes estão convidades a juntar-se à manifestação. Aparece e traz um cartaz!</strong>
+  </p>
+  
+  <p>
+    <a href="https://www.facebook.com/profile.php?id=100094713770412">https://www.facebook.com/profile.php?id=100094713770412</a>
+  </p>
+</div>

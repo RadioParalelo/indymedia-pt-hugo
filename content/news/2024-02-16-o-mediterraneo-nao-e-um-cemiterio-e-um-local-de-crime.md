@@ -1,0 +1,102 @@
+---
+title: O Mediterrâneo não é um cemitério, é um local de crime
+author: Publicação Comunitária
+type: post
+date: 2024-02-16T01:26:34+00:00
+excerpt: A União Europeia volta a ter as mãos sujas de sangue. Tornar as migrações ainda mais difíceis a afastar gente das costas europeias, agora através de acordos com a Tunísia, parece ser a única ideia que existe.
+url: /?p=219071
+fpsm_author_email:
+  - dsudbndb@sharklasers.com
+fpsm_author_name:
+  - Jornal Mapa
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Discriminação
+  - Guerra e Paz
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+  - Repressão
+
+---
+#### Uma traineira proveniente da Líbia naufragou na madrugada de 13 para 14 de Junho na costa grega, a 80 quilómetros de Pylos, na ilha grega Pelopones, no Mediterrâneo. Cerca de 100 pessoas foram resgatadas com vida. Cerca de 600 morreram. A União Europeia volta a ter as mãos sujas de sangue. Tornar as migrações ainda mais difíceis a afastar gente das costas europeias, agora através de acordos com a Tunísia, parece ser a única ideia que existe.
+
+O pesqueiro saíra vazio do Egipto e fizera escala em Tobruk, no leste da Líbia, para recolher pessoas antes de zarpar com destino a Itália. Dentro do barco viajavam entre 750 (números da Reuters, que cita uma Organização Não Governamental de resgate de refugiados), 700 (números do jornal francês _Libération_, citando sobreviventes) e 400 pessoas (números da Organização Internacional para as Migrações da ONU).
+
+Dias depois de ter sido alcançado um «acordo histórico» no Conselho de Ministros da União Europeia (UE) sobre a gestão da migração e do asilo, tanto a Frontex como a Guarda Costeira grega, que tinham a responsabilidade de coordenar a busca e o salvamento, não prestaram assistência adequada a um navio sobrelotado e sem condições, em perigo durante quase um dia inteiro, apesar de terem sido avisadas com horas de antecedência.
+
+**«Deixaram que se afogassem»  
+** «Na manhã de 13 de Junho, recebi uma mensagem de socorro via Twitter de um refugiado que dizia estar num navio com 750 pessoas. Em seguida, enviou-nos uma localização GPS e disse que as autoridades italianas, gregas e maltesas tinham sido contactadas. À tarde, nós próprios alertámos as autoridades gregas, a agência Frontex e o Alto Comissariado das Nações Unidas para os Refugiados», explica um voluntário da associação Alarm Phone, que recebe os pedidos de socorro dos migrantes. A própria Frontex sobrevoou o navio horas antes do naufrágio e captou as imagens que deram a volta ao mundo, com a embarcação a transbordar de pessoas no Mediterrâneo durante o dia de terça-feira. Não foi por falta de conhecimento que estas pessoas não foram socorridas a tempo.
+
+O porta-voz do Ministério grego das Migrações afirma que os meios foram rapidamente accionados, mas que a questão era que, num primeiro momento, a ajuda tinha sido recusada. A Frontex reconhece que nem chegou a oferecer apoio, argumentando que não viu nenhum sinal de socorro. «Como é que se pode dizer uma coisa dessas quando se vê o barco nas fotografias aéreas, uma velha barcaça repleta de gente, que já se sabia que não ia chegar ao destino?», indigna-se Iasonas Apostolopoulos, da organização Mediterranea Saving Humans. A traineira já não estava a seguir em qualquer direcção concreta, já não se dirigia para território europeu há mais de seis horas e tinha começado a navegar em círculos. Houve vários pedidos de ajuda – contaram os sobreviventes –, tendo até alguns tentado saltar para um navio comercial que tinha parado para lhes dar água. Nessa altura, já teriam morrido, a bordo, seis pessoas.
+
+Esta inacção, ou melhor, esta acção por ausência, resultou no afundamento da traineira e no afogamento de centenas de pessoas no que é já considerado o maior naufrágio desde 2016. Uma inacção que o advogado especialista em fluxos migratórios Dimitris Choulis resume da seguinte forma: «Deixaram que se afogassem.» Adriana Tidona, investigadora sobre migrações da Amnistia Internacional, concorda: esta é uma «tragédia de proporções inimagináveis, completamente evitável».
+
+O naufrágio, por mais que se tente atribuí-lo às próprias vítimas, a erros humanos e a contrabandistas de seres humanos, tem o carimbo e a assinatura das políticas fronteiriças da União Europeia, que são aplicadas com grande empenho e coerência pelos governos dos países das fronteiras exteriores da Europa, como é o caso da Grécia. Neste país, são frequentes as notícias confirmadas de _pushbacks_ ilegais – como são todos – e decorrem neste momento vários julgamentos de voluntários de busca e salvamento acusados de serem contrabandistas por terem ajudado migrantes em perigo.
+
+As reacções dos representantes da UE não se fizeram esperar e variaram, como era expectável, entre o «choque», a «perturbação» e a «tristeza profunda». São as mesmas palavras que se ouviram em 2015, quando o corpo de 3 anos de Aylan Kurdi deu à costa, ou em 2020, aquando do incêndio do Campo de Moria, em Lesbos, ou em 2022, após o massacre de Melilla. As mesmas palavras que se ouvirão após a próxima tragédia evitável. E este «choque» seguirá o caminho de todas os anteriores, uma nota de rodapé na história mortífera das políticas da UE, que visam sistematicamente a externalização da sua responsabilidade em matéria de protecção dos refugiados para países terceiros – que se caracterizam frequentemente por um historial de violações dos direitos humanos –, de forma a, em última análise, afogarem as pessoas ou as suas possibilidades de obterem efectivamente protecção na UE.
+
+Políticas que nos pretendem fazer crer que basta o desaparecimento dos traficantes de seres humanos para que as mortes no Mediterrâneo passem a ser uma memória histórica. Como se os migrantes fossem uma mole de carneiros enviados contra a sua vontade para barcos sobrelotados. Na verdade, o embarque não é uma imposição dos traficantes: é uma escolha das pessoas. Uma escolha arriscada, quase desesperada, que só é tomada por ser a única alternativa. Os traficantes de seres humanos merecem desaparecer da face da Terra, sim. Mas agitá-los como responsáveis únicos (ou até principais) pelas mortes no Mediterrâneo não é mais do que uma capa para cobrir a culpa.
+
+Na verdade, este naufrágio – e tantas outras tragédias, antes e depois desta – é consequência directa da decisão política de evitar a chegada de pessoas a fronteiras europeias, o resultado lógico da impunidade com que os Estados têm abusado da repressão nas fronteiras e da legalização de práticas que negam qualquer direito às pessoas em movimento, desde os _pushbacks_ ao atraso propositado nos salvamentos, passando pela criminalização da solidariedade ou pela cooperação com países cujos governos são tudo menos aconselháveis.
+
+Nesse sentido, 180 organizações e iniciativas de defesa dos direitos humanos lançaram uma carta aberta, logo a 20 de Junho, onde afirmavam: «Com o imperdoável naufrágio ao largo da Grécia, vemos que o Mar Mediterrâneo não é apenas um cemitério, é um local de crime. Um cenário de crimes contra a humanidade, com milhões de turistas privilegiados a continuarem a navegar livremente por lá todos os anos. Por isso, exigimos o fim imediato da violência (sistémica) nas fronteiras.»
+
+**Solidariedade _à la carte  
+_** Esta tragédia evitável aconteceu, conforme já foi referido, meia dúzia de dias depois de um acordo político alcançado, a 8 de Junho, no Luxemburgo pelos ministros do Interior (Administração Interna) da UE sobre o Pacto de Migrações e Asilo (ou melhor, sobre a reforma do Sistema Europeu Comum de Asilo), apresentado pela primeira vez em Setembro de 2020. Foram quase três anos para chegar a um entendimento que ainda não é final: o Conselho teria ainda de negociar com o Parlamento Europeu para chegar a uma posição comum que se tornaria lei.
+
+Nesse acordo, os Estados-membros traçaram um «labirinto de regras processuais, bizantinas na sua complexidade e baseadas na tentativa de limitar o número de pessoas a quem é concedida protecção internacional na Europa», nas palavras do Conselho Europeu para os Refugiados e Exilados (CERE). Que acrescenta: «O acordo reduz as normas de protecção na Europa, o que é mais ou menos o objectivo. Resta saber se cumprirá os seus outros objectivos de dissuasão das chegadas, de regresso rápido ou de redução dos chamados movimentos secundários.»
+
+Apesar de se manterem as regras de Dublin [o «primeiro país de acolhimento» continua a ser responsável último pelo migrante, mesmo que já haja familiares a viver e em situação regular noutros Estados-membros], foi acordado um novo sistema que permite a redistribuição de migrantes por toda a UE, com uma quota de quantas pessoas os Estados fronteiriços devem processar por ano antes de pedirem ajuda. A «solidariedade» diz-se obrigatória, mas comporta uma flexibilidade que coloca esse adjectivo em causa. Ou seja: todos os países da UE têm de receber migrantes ao abrigo desse mecanismo de realocação, mas apenas se quiserem. Se não quiserem, podem escolher entre pagar 20 mil euros por cada migrante recusado ou praticar a «solidariedade alternativa», por exemplo, destacando pessoal para fronteiras externas da UE ou apoiando o reforço das capacidades dessas fronteiras. Em suma, uma obrigatoriedade à escolha do freguês.
+
+Dentro do espaço europeu, o foco principal deste acordo é a utilização alargada dos procedimentos nas fronteiras – dos procedimentos de inadmissibilidade e dos procedimentos de repatriamento acelerados –, com a consequência previsível de aumentar o preço que os traficantes cobram pelas viagens, de serem construídos mais campos de refugiados ao estilo _hotspots_ gregos, uma vez que esses «procedimentos» e a falta de informações sobre eles reduzem ainda mais as hipóteses de os refugiados obterem proteção na UE e aumentam os períodos em que a vida destas pessoas é suspensa em campos de refugiados onde é quase proibido sonhar.
+
+Um objectivo subjacente desponta ainda neste acordo: a externalização das responsabilidades para países de fora da UE, apesar de, como lembra o CERE, «85% dos refugiados do mundo serem acolhidos fora da Europa, principalmente em países extremamente pobres». E acrescenta: «Os alvos são os países dos Balcãs Ocidentais e do Norte de África, através da utilização de instrumentos jurídicos como o conceito de “país terceiro seguro”. No entanto, as reformas não contribuem em nada para aumentar a probabilidade de estes países aceitarem acolher pessoas devolvidas pela UE.» Acrescente-se que ficou também estabelecido que cada Estado-membro (e não a UE como um todo) determina qual é o país que considera «seguro».
+
+Para as pessoas que procuram protecção, a perda seria grande. O acesso a um processo de asilo justo iria ser dificultado. O risco de detenção aumentaria. Os procedimentos iriam aumentar em complexidade e morosidade. A possibilidade de acabarem num «país terceiro seguro», onde é provável que tenham dificuldades em sobreviver livremente, dispararia.
+
+Entretanto, no passado dia 26 de Julho, os 27 países da União Europeia não conseguiram chegar a acordo, apesar das tentativas da presidência espanhola para alcançar um consenso. A Polónia, a Hungria, a República Checa e a Áustria mostraram-se contra a proposta, enquanto a Alemanha, a Eslováquia e os Países Baixos se abstiveram. Em Setembro, talvez mais tarde, o debate continuará. O desacordo tem uma origem dupla: por um lado, as normas a aplicar em caso de «crise migratória» e, por outro, a própria definição de «crise migratória». Os países do leste da UE insistiram na necessidade de considerar também como «crise» as situações em que Estados terceiros utilizem a chegada de migrantes para travar batalhas políticas, tomando a Bielorrússia como precedente. O eixo de Visegrado apelou igualmente a medidas mais rigorosas em caso de crise migratória. Muito para além das exigências da linha dura, representada por países como a Polónia e a Hungria, o endurecimento dos procedimentos já faz parte do pacto alcançado em Junho, cujos pormenores terão de ser negociados depois das férias de Verão ou, pelo menos, antes das eleições para o Parlamento Europeu, em Junho de 2024. Nessa data, depois de Espanha e Bélgica, será a vez de a Hungria assumir a presidência da UE, abrindo um quadro ainda menos favorável para os direitos dos migrantes.
+
+**Consequências para quem mata ou para quem migra?  
+** Um mês depois do naufrágio, os familiares das vítimas continuavam a sentir-se sozinhos e abandonados. Afirmavam que não estavam a receber apoio suficiente por parte das autoridades gregas na procura dos seus. Ou seja, apesar de os familiares terem dado todos os passos necessários para a identificação de cadáveres, a verdade é que o governo grego não os ajudava no processo de reconhecimento. Por essa altura, também não havia informação sobre as pessoas cujos corpos ainda não tinham aparecido e a guarda costeira grega informava que terminara as buscas.
+
+Entretanto, a reconstrução forense do naufrágio, publicada a 7 de Julho pela Forensis, juntamente com a Solomon, o _The Guardian_ e a STRG_F/ARD **[<sup>1</sup>][1]{#return-note-15862-1.simple-footnote}**, com contribuições da Alarm Phone e do Conselho Grego para os Refugiados, revela «inconsistências» no relatório divulgado pelas autoridades gregas, as mesmas que a Alarm Phone já tinha denunciado nos dias a seguir ao naufrágio. Esta investigação também demonstra o cinismo da narrativa da guarda costeira helénica, que tem culpado as próprias vítimas pelas suas mortes. No final, depois de se juntarem as provas e os testemunhos dos sobreviventes, fica claro que cerca de 600 pessoas morreram como consequência directa das acções (e inacções) da Guarda Costeira grega.
+
+Um mês mais tarde, ou seja, quase dois meses depois do naufrágio, mais concretamente no início de Agosto, a Amnistia Internacional (AI) e a Human Rights Watch (HRW) apelavam conjuntamente para que houvesse uma investigação credível, sublinhando que o contraste entre as versões dos sobreviventes e da Guarda Costeira é «extremamente preocupante».
+
+Depois de ter optado por ficar a observar em vez de resgatar as pessoas em perigo, a Guarda Costeira enviou uma embarcação para as proximidades da traineira em apuros que, pouco depois, se virou e afundou. A HRW e a AI afirmam que «os sobreviventes entrevistados dizem consistentemente que a embarcação da Guarda Costeira grega se prendeu ao _Adriana_ [o nome da traineira] e começou a rebocá-lo, fazendo-o balançar e depois virar-se». As autoridades gregas afirmam que nunca houve tentativa de arrastar o barco.
+
+A Lighthouse Reports (que já tinha acusado Itália de mentir – com a cobertura da Frontex – sobre o papel que tinha tido num outro naufrágio, este de Fevereiro passado e que resultou na morte de 94 pessoas), afirma desta vez que há depoimentos oficiais propositadamente alterados para que a responsabilidade não caia sobre costas europeias. De acordo com este grupo de investigação jornalística, um dos sobreviventes apercebeu-se de que a parte sobre o que achava ter sido a causa do naufrágio não estava no depoimento quando o assinou, mas estava demasiado «aterrorizado» para se recusar a assinar.
+
+O próprio _The New York Times_ afirma que «a escala de mortes era evitável». E continua: «Dezenas de responsáveis e equipas da Guarda Costeira estavam a monitorizar o navio, mas o governo grego tratou a situação como uma operação policial, não como um resgate. Em vez de enviarem um navio-hospital, ou especialistas em salvamento, as autoridades mandaram uma equipa que incluía quatro homens armados, de cara tapada de uma unidade de operações especiais.»
+
+**Tunísia  
+** Com pormenores que poderão balançar mais para um lado ou para o outro, o caminho no novo Pacto é o alargar da noção de «crise migratória», em cujo quadro se permite a não aplicação dos famosos direitos humanos. Uma das imagens de marca é a de Von der Leyen, Meloni e Mark Rutte, primeiro-ministro dos Países Baixos, a assinarem um memorando de entendimento com Tunes, nos primeiros dias de Junho, depois de meses de violência contra a população negra na cidade de Sfax, enformada pelas declarações racistas do presidente tunisino, Kais Sayed. Entretanto, os corpos encontrados na fronteira com a Líbia e as inúmeras imagens de forças de segurança tunisinas a abandonarem pessoas negras nos confins do país sem água sem comida não chegaram para dissuadir o trio de mandatários europeus a viajarem uma segunda vez para a Tunísia, a 14 de Julho, para fazerem avançar uns acordos que ainda se mantêm, na sua generalidade, no segredo dos deuses.
+
+Nesse mesmo dia, a organização Euromed Rights denunciava o objectivo da UE de transformar a Tunísia numa «guarda fronteiriça, responsável por conter a migração “indesejável” e mantê-la tão longe do território europeu quanto possível». A mesma organização acusava ainda o bloco europeu de impor o acordo de entendimento: «Denunciamos com veemência as pressões exercidas pela União Europeia sobre a Tunísia, no âmbito de uma cooperação desigual e negociada, com o objectivo de impor a este país mediterrânico as suas políticas ultra-securitárias de imigração e de asilo, à revelia do direito internacional e dos direitos dos refugiados.»
+
+Nos inícios de Agosto, mais quatro dezenas de pessoas se afogaram ao tentarem chegar a Itália e outras 27 morreram por complicações relacionadas com o excesso de calor no deserto líbio. No final desse mês, Itália assumiu a dianteira na utilização da Tunísia, exigindo a três navios de salvamento que desembarcassem as pessoas nesse país. Uma pressão que surgia quando se sabia que a perseguição violenta a migrantes negros continuava a ser prática constante e patrocinada pelo estado tunisino. O que, como é simples de compreender, provoca um êxodo ainda maior desse país em direcção à Europa.
+
+* * *
+
+_**Artigo publicado no JornalMapa, edição #39, Outubro|Dezembro 2023.**_
+
+<div class="simple-footnotes">
+  <p class="notes">
+    Notas:
+  </p>
+  
+  <ol>
+    <li id="note-15862-1">
+      Reconstrução da Forensis: <a href="https://bit.ly/3Qlo0hG" target="_blank" rel="noopener noreferrer">https://bit.ly/3Qlo0hG</a>;<br /> Investigação da Solomon: <a href="https://bit.ly/3M1wYxH" target="_blank" rel="noopener noreferrer">https://bit.ly/3M1wYxH</a>;<br /> Vídeo da STRG_F/ARD: <a href="https://bit.ly/3Qiaona" target="_blank" rel="noopener noreferrer">https://bit.ly/3Qiaona</a>;<br /> Investigação do The Guardian: <a href="https://bit.ly/3Qlo40U" target="_blank" rel="noopener noreferrer">https://bit.ly/3Qlo40U</a>. <a href="https://www.jornalmapa.pt/2024/02/15/o-mediterraneo-nao-e-um-cemiterio-e-um-local-de-crime/#return-note-15862-1">↩</a>
+    </li>
+  </ol>
+</div>
+
+ [1]: https://www.jornalmapa.pt/2024/02/15/o-mediterraneo-nao-e-um-cemiterio-e-um-local-de-crime/#note-15862-1 "Reconstrução da Forensis: https://bit.ly/3Qlo0hG;
+Investigação da Solomon: https://bit.ly/3M1wYxH;
+Vídeo da STRG_F/ARD: https://bit.ly/3Qiaona;
+Investigação do The Guardian: https://bit.ly/3Qlo40U."

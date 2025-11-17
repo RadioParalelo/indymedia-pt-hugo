@@ -1,0 +1,47 @@
+---
+title: Concentração contra o Teleférico de Curral das Freiras
+author: Publicação Comunitária
+type: post
+date: 2023-11-29T15:31:00+00:00
+url: /?p=213699
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111494553217237652
+categories:
+  - Indymedia
+tags:
+  - AltPT
+  - Ecologia
+  - Indymedia
+  - Madeira
+  - Protesto
+  - PTrevolutionTV
+
+---
+ 
+
+O [@movimentoimpediradestruicao][1] vai organizar uma concentração dia 1 de Dezembro, às 11horas, no miradouro da Eira do Serrado, contra o projecto do Teleférico no Curral das Freiras.<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/405259852_264359813305011_7655314469077689808_n-819x1024.jpg" alt="" class="wp-image-213704" /> </figure> 
+
+Pedimos a todos os que estejam na Madeira e que possam, para se juntarem e juntos mostrarmos que não aceitamos a privatização dos últimos redutos de Biodiversidade em Portugal.
+
+É inaceitável o desvirtuamento de Zonas Especiais de Conservação, que são por lei as zonas com maior proteção ambiental.
+
+O teleférico do Curral das Freiras marca o princípio do fim das zonas de conservação em Portugal.
+
+Contamos convosco para partilharmos a revolta desta perda, esperando que no fim, a verdade, a ciência, e a dignidade das nossas terras protegidas prevaleçam mais que os interesses privados.  
+[#madeira][2][#madeirataotua][3][#madeiraisland][4][#madeiraforest][5][#madeirabelongstoall][6][#madeiralovers][7][#ilhadamadeira][8][#laurissilva][9]<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-194 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="213703" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/405119502_372575855167604_3774811745024311289_n-819x1024.jpg" alt="" class="wp-image-213703" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="213701" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/405182032_372575888500934_6471068272417836150_n-819x1024.jpg" alt="" class="wp-image-213701" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="213700" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/405216803_372575811834275_746156477779940582_n.jpg" alt="" class="wp-image-213700" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="213702" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/405216954_372575831834273_6810403050217749880_n-1024x691.jpg" alt="" class="wp-image-213702" /></figure> </figure>
+
+ [1]: https://www.instagram.com/movimentoimpediradestruicao/?hl=en
+ [2]: https://www.instagram.com/explore/tags/madeira/?hl=en
+ [3]: https://www.instagram.com/explore/tags/madeirataotua/?hl=en
+ [4]: https://www.instagram.com/explore/tags/madeiraisland/?hl=en
+ [5]: https://www.instagram.com/explore/tags/madeiraforest/?hl=en
+ [6]: https://www.instagram.com/explore/tags/madeirabelongstoall/?hl=en
+ [7]: https://www.instagram.com/explore/tags/madeiralovers/?hl=en
+ [8]: https://www.instagram.com/explore/tags/ilhadamadeira/?hl=en
+ [9]: https://www.instagram.com/explore/tags/laurissilva/?hl=en

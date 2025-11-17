@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Migrantes on indymedia.pt</title>
+    <link>http://localhost:1313/tags/migrantes/</link>
+    <description>Recent content in Migrantes on indymedia.pt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Sun, 03 Mar 2024 14:18:34 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/migrantes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recuos nos direitos das pessoas migrantes – não aceitamos, não calamos!</title>
+      <link>http://localhost:1313/?p=220515/</link>
+      <pubDate>Sun, 03 Mar 2024 14:18:34 +0000</pubDate>
+      <guid>http://localhost:1313/?p=220515/</guid>
+      <description>As pessoas migrantes têm sido gravemente penalizadas pelo incumprimento do Estado. Continuamos a assistir a uma flagrante violação da lei da imigração, mediante o incumprimento dos prazos máximos de resposta estipulados no que concerne ao processo de regularização, e a imposição de burocracias infindáveis. Esta situação, que atenta contra os direitos humanos, condena os trabalhadores migrantes a todo o tipo de esquemas fraudulentos e abusos laborais, e condiciona o seu acesso a bens e serviços essenciais.</description>
+    </item>
+  </channel>
+</rss>

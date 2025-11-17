@@ -1,0 +1,49 @@
+---
+title: Edição 41 do Jornal MAPA acaba de sair
+author: Publicação Comunitária
+type: post
+date: 2024-04-18T18:09:11+00:00
+url: /?p=222675
+fpsm_author_name:
+  - Jornal MAPA
+links:
+  - https://www.jornalmapa.pt/
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+tags:
+  - Jornal Mapa
+
+---
+<p align="justify">
+  Nos 50 anos daquela a que Phil Mailer chamou a revolução impossível, o <a href="https://www.jornalmapa.pt/" target="_blank" rel="noopener noreferrer">Jornal MAPA</a> orientou o olhar para mais algumas das memórias que interessa preservar e reanalisar, lembrando a cartografia radical dos anos 70 em Coimbra, o 25 de Abril em Leiria, ou o SAAL, sem esquecer que foi em África, e com as mulheres, que Abril começou.
+</p>
+
+<p align="justify">
+  Num planeta em que, como nos diz Vandana Shiva, os novos desastres ambientais estão a ser cometidos em nome da economia verde, e perante um número crescente de ações diretas, para além de uma conversa com esta ativista, uma entrevista ao Climáximo e à Greve Climática Estudantil faz, com toda a lógica, parte do menu desta edição, ainda que a crise possa ser mais ecológica do que climática, como se refere no regresso da rubrica <i>A</i> <i>Cabeça do Avesso</i>.
+</p>
+
+<p align="justify">
+  Tempo também para refletir sobre sindicalismo em tempos soturnos, com um olhar de Jorge Valadas a partir dos EUA em pré-campanha eleitoral. Em território mais próximos, continuamos a analisar o processo de gentrificação previsto para a zona oriental do Porto e damos destaque central ao ataque que a especulação lança também sobre o movimento associativo. Olhamos ainda para as Cooperativas de habitação como possibilidade de fazer frente a essa guerra especulativa.
+</p>
+
+<p align="justify">
+  Não falta a este número alegria de viver, tristeza e revolta de quem está presa e uma biosfera onde as <i>startups</i> não são um ecossistema: são uma plantação. Tudo isto e ainda outras notícias, crónicas, entrevistas, poesia, literatura, ilustração e BD, no número 41 do Jornal MAPA, que podes adquirir em qualquer dos <a href="https://www.jornalmapa.pt/distribuicao/" target="_blank" rel="noopener noreferrer"><u>pontos habituais de venda</u></a> ou, melhor ainda, <a href="https://www.jornalmapa.pt/assinatura-do-jornal/" target="_blank" rel="noopener noreferrer"><u>assinar</u></a>, ajudando, assim, à continuação sustentada deste projeto voluntário de informação crítica.
+</p>
+
+**[Editorial Jornal MAPA 41]**
+
+**Antes que um novo Novembro dê cabo da gente, um outro 25 de Abril é urgente**
+
+Cinquenta anos depois de um Abril que se abriu a um Maio que iluminou vidas até bastante depois do Novembro que os tentou apagar, o Parlamento português tem 50 deputados que defendem que um outro antigamente é possível. Essa coincidência de números, apresentada como espantosa, não nos espanta. Mais não é que a expressão de modos estruturais que Abril não apagou – do racismo à misoginia – de uma visão masculina do mundo – da história e da própria revolução – que se manteve e de um fatalismo que se democratizou de viver mandado por quem pode, obedecendo quem deve. Mais não é, enfim, do que a resposta habitual, expectável e repetitiva do capitalismo em tempos de aprofundamento de crises sistémicas e planetárias.
+
+O quotidiano à nossa volta, esse do capitalismo triunfante, promove a infantilização das populações de forma a prolongar os seus ciclos de consumo, pintando de verde o extrair cada vez mais de cada vez mais coisas e alienando um número crescente de pessoas da possibilidade de acção concreta nas questões que afectam as suas vidas à margem dos freios do Estado e do poder. No fio da navalha, o capitalismo tem momentos em que precisa de libertar tensões, de deitar mão da extrema-direita, acolhendo-a ao mesmo tempo que a ostraciza, acabando a pôr em prática as suas políticas sob a justificação de não lhe deixar espaço.
+
+O capitalismo está (de novo) numa encruzilhada que aparenta ser final. Já várias vezes se disse o mesmo com a mesma certeza e, em todas, se falhou. No entanto, a união de várias crises, das que afectam directamente o funcionamento do sistema às que colocam em causa a viabilidade do próprio planeta para humanos e muitas outras espécies, parece tornar este momento histórico especialmente explosivo. O aumento da miséria e da repressão são o presente de muitas geografias e, num futuro próximo, poderão sê-lo de muitas mais. O crescimento da extrema-direita é apenas a antecâmara desse futuro projectado e distópico.
+
+As melodias da História vão variando conforme os gostos culturais da época, as letras vão-se adaptando ao inimigo preferido de cada momento, mas as notas-base são sempre as mesmas, tal como o são as ideias veiculadas. A dissonância custa a romper na monotonia dos nossos ouvidos. Há, no entanto, alturas em que a gente se intromete e, ainda que por breves instantes, conseguimos vislumbrar que há outra música a tocar e eis-nos a dançar juntos. O 25 de Abril de 1974 foi um desses momentos.
+
+E, se os fascistas de antanho se transformaram em populistas modernos, nós, as que ainda não tinham idade para fazer Abril acontecer, apresentamo-nos, aqui, no Jornal MAPA, como eternas anti-fascistas, exactamente por sermos, acima de tudo, anti-capitalistas querendo reinventar novas formas de viver em comum e horizontalmente. Trazendo, por isso, neste número, um conjunto de memórias e reflexões acerca do que despertou nessa manhã de 1974. Olhando para a vida de forma diferente de quem viveu aqueles dias, continuamos, ainda assim, a partilhar o querer a terra a quem a trabalha, a casa a quem nela habita, a cidade a quem nela vive. E um planeta onde fazer a festa da vida. Outros 50 são possíveis.

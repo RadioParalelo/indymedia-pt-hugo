@@ -1,0 +1,54 @@
+---
+title: “O governo e empresas emissoras declararam guerra.” Ativista do Climáximo cola-se a um avião da TAP Lisboa-Porto
+author: Publicação Comunitária
+type: post
+date: 2023-10-18T09:08:20+00:00
+url: /?p=33050
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111255231464838155
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/10/IMG_8949.mp4
+        3409832
+        video/mp4
+        
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/10/IMG_8945.mp4
+        7278476
+        video/mp4
+        
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - Acção Directa
+  - AltPT
+  - Climaximo
+  - Ecologia
+  - Indymedia
+  - Protesto
+  - PTrevolutionTV
+
+---
+<figure class="wp-block-image size-large"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/photo_2023-10-18_10-03-11-1024x576.jpg" alt="" class="wp-image-33051" /></figure> 
+
+COMUNICADO DE IMPRENSA  
+&#8220;O governo e empresas emissoras declararam guerra.&#8221; Ativista do Climáximo cola-se a um avião da TAP Lisboa-Porto  
+Uma ativista do Climáximo colou-se a um avião que ia fazer o voo Lisboa-Porto. Acusam o governo e a indústria da aviação de estarem a matar descaradamente todos os dias milhares de pessoas com voos inúteis.<figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/IMG_8949.mp4"></video></figure> 
+
+Esta manhã, no aeroporto da Portela, dois ativistas do Climáximo colaram-se a um avião que ia fazer o trajeto Lisboa-Porto. Os ativistas impediram a normalidade devido às emissões &#8220;absurdas, mortíferas&#8221; e, segundo os ativistas &#8220;completamente desnecessárias&#8221; que estas ligações provocam, quando existem alternativas mais baratas e rápidas.<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/photo_2023-10-18_10-05-34-768x1024.jpg" alt="" class="wp-image-33055" /> </figure> 
+
+Alice Gato, uma das ativistas que se colou ao avião, afirmou que &#8220;É um ato de insanidade permitir que estes voos continuem, é estar a ver a nossa casa a arder e atirar gasolina para o fogo. Este tipo de voos inúteis tem de ser a primeira coisa a ser travada na indústria genocida da aviação, incentivada pelo nosso governo a continuar a sua expansão &#8211; agora com a construção de um novo aeroporto &#8211; quando sabemos que precisamos de cortar emissões urgentemente, e que cada dia que não o fazemos estamos a condenar à morte mais pessoas em Portugal.&#8221;
+
+A porta-voz acrescenta que &#8220;O nosso governo não só continua a atirar gasolina para a fogueira, como ainda atira areia para os nossos olhos. Em Portugal há hoje menos ferrovia que no século passado, encerraram-se mais de 100 estações quando nós precisamos de transportes públicos renováveis, gratuitos e de qualidade. Eles não têm qualquer plano para garantir a nossa sobrevivência. Se estamos entregues a governantes que conscientemente condenam milhares à morte, temos o dever de resistir.&#8221;
+
+O coletivo Climáximo, que já realizou múltiplas de ações só neste mês, afirmou em comunicado que esta ação faz parte do seu plano de desarmamento, que passa inicialmente por cortar drasticamente as emissões que estão a condenar milhares de pessoas à morte, enfatizando as emissões que considera mais desnecessárias e possíveis de cortar hoje, e o cancelamento do novo aeroporto que visa expandir a capacidade de matar, ao aumentar emissões. O grupo afirma que o fim imediato destes voos necessita de ser seguido por uma redução drástica na indústria da aviação, acompanhada pela expansão da ferrovia e criação de um serviço público de transportes coletivos públicos, renováveis e gratuitos, garantindo a transição justa dos trabalhadores do setor da aviação para um setor de transportes seguro.<figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/IMG_8945.mp4"></video></figure>

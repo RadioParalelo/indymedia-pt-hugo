@@ -1,0 +1,59 @@
+---
+title: Ponte 25 de Abril vira Ponta da Liberdade
+author: Publicação Comunitária
+type: post
+date: 2025-10-19T14:59:51+00:00
+url: /?p=228284
+activitypub_status:
+  - federated
+categories:
+  - Repressão
+tags:
+  - '#MovimentoPalestinaLivre #Lisboa'
+  - Ação Direta
+  - AllEyesOnGaza Palestina
+
+---
+Today a activist climbed the Bridge in Lisbon &#8211; 25th of April Bridge for Palestine
+
+Hoje um activista subiu à Ponte em Lisboa &#8211; Ponte 25 de Abril pela Palestina
+
+via [isantarino][1]  [occupyforgaza_pt][2]
+
+&#8220;Neste momento, um camarada ativista pela Palestina está a fazer este protesto na Ponte 25 de Abril.
+
+Desde o início do Cessar-Fogo que Israhell o violou 47 vezes, matando civis, dos quais crianças.
+
+Continua a haver escassez de alimentos, de água e de medicamentos.
+
+Há quem continue a achar que este genocídio é o resultado do 7 de outubro. Não é e não me irei calar enquanto não convencer quem me rodeia. Porque isto é História. A Palestina é ocupada desde 1948 e o judaísmo foi e continua a ser usado como desculpa para o sionismo e o imperialismo.
+
+Há muitas maneiras de ajudar a Palestina. Continuo disponível para quem quiser conversar.
+
+Palestina Sempre!
+
+Partilhem este vídeo pelas vossas redes.&#8221;
+
+&#8220;a da Palestina nas mãos. Não é apenas um gesto. É um grito. Um grito de resistência, de coragem, de luta pela liberdade. Um simbolismo pela luta que continua a ter que ser lutada diariamente.
+
+A Palestina, hoje, continua a ser silenciada. Gaza arde sem cessar-fogo. A cada dia, vidas são ceifadas e promessas de paz quebradas. Israel viola repetidamente os acordos, mantendo a opressão. Na Cisjordânia, a ocupação avança, enquanto os palestinianos têm suas terras arrancadas e seus direitos negados.
+
+Mas não podemos virar os olhos. Não podemos deixar que o eco do silêncio se torne mais forte que o nosso grito. Não podemos aceitar uma paz construída sobre as ruínas da injustiça. Sem justiça, não há paz. E sem liberdade, não há dignidade.
+
+Não nos calaremos. Não pararemos.
+
+Até que a Palestina seja livre e soberana. Até que cada palestiniano tenha o direito de viver em paz, sem medo. Até que o mundo entenda que lutar por justiça nunca é um ato de violência, mas de humanidade.
+
+🔻🔻🔻🔻🔻&#8221;
+
+&nbsp;
+
+Recordar que hoje às 15h30 arranca a Marcha pela Palestina com início no Rossio a terminar na Largo José Saramago em Lisboa
+
+[https://eventos.coletivos.org/event/marcha-pela-palestina ][3]
+
+#FreePalestine  #indymediaPT
+
+ [1]: https://www.instagram.com/isantarino
+ [2]: https://www.instagram.com/p/DP_SB3HDM6y/
+ [3]: https://eventos.coletivos.org/event/marcha-pela-palestina

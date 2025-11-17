@@ -1,0 +1,27 @@
+---
+title: '[Lisboa] Carnaval é um Ato Político 1/2'
+author: Publicação Comunitária
+type: post
+date: 2023-09-29T11:25:45+00:00
+url: /?p=22256
+classic-editor-remember:
+  - block-editor
+categories:
+  - Cultura e Arte
+  - Discriminação
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - PTrevolutionTV
+
+---
+<figure class="wp-block-video"><video controls src="https://invidious.fdn.fr/latest_version?id=ykYd01dUqN8&itag=18"></video></figure> <figure class="wp-block-audio"><audio controls src="https://invidious.fdn.fr/latest_version?id=ykYd01dUqN8&itag=140"></audio></figure> 
+
+Marcha em defesa do Carnaval de rua sem taxas.<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/2_mqdefault.jpg" alt="" /> </figure> 
+
+[https://invidious.fdn.fr/watch?v=ykYd01dUqN8][1]
+
+ [1]: https://vid.puffyan.us/watch?v=ykYd01dUqN8

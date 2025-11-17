@@ -1,0 +1,77 @@
+---
+title: SJ Madeira denuncia pressões e restrições no acesso à informação durante cobertura dos incêndios
+author: Publicação Comunitária
+type: post
+date: 2024-08-27T16:27:20+00:00
+excerpt: 'Publicado pelo Sindicato de Jornalistas da Madeira, 22 de Agosto, 2024 A Direção Regional da Madeira do Sindicato dos Jornalistas (DRM-SJ) vem por este meio denunciar um clima de pressões e restrições que estão a prejudicar a atividade dos jornalistas que fazem a cobertura dos incêndios na Madeira. As pressões atingem também os responsáveis pelos […]'
+url: /?p=223913
+enclosure:
+  - |
+    |
+        
+        
+        
+syndication_source:
+  - Rede de Contra Informação
+syndication_source_uri:
+  - https://rcinfo.noblogs.org
+syndication_source_id:
+  - https://rcinfo.noblogs.org/feed
+syndication_feed:
+  - https://rcinfo.noblogs.org/feed
+syndication_feed_id:
+  - 14
+syndication_permalink:
+  - https://rcinfo.noblogs.org/sj-madeira-denuncia-pressoes-e-restricoes-no-acesso-a-informacao-durante-cobertura-dos-incendios/
+syndication_item_hash:
+  - 64958773364fcfd5c2abe634931434a3
+  - 4e5cb27c9422b51311f45aae6929700d
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+tags:
+  - Protesto
+
+---
+[Publicado pelo Sindicato de Jornalistas da Madeira, 22 de Agosto, 2024][1] 
+
+A Direção Regional da Madeira do Sindicato dos Jornalistas (DRM-SJ) vem por este meio denunciar um clima de pressões e restrições que estão a prejudicar a atividade dos jornalistas que fazem a cobertura dos incêndios na Madeira.<figure class="wp-block-post-featured-image">
+
+<img fetchpriority="high" decoding="async" width="1920" height="1280" src="https://rcinfo.noblogs.org/files/2024/08/mw-1920.webp" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" style="object-fit:cover;" srcset="https://rcinfo.noblogs.org/files/2024/08/mw-1920.webp 1920w, https://rcinfo.noblogs.org/files/2024/08/mw-1920-300x200.webp 300w, https://rcinfo.noblogs.org/files/2024/08/mw-1920-1024x683.webp 1024w, https://rcinfo.noblogs.org/files/2024/08/mw-1920-768x512.webp 768w, https://rcinfo.noblogs.org/files/2024/08/mw-1920-1536x1024.webp 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /> </figure> 
+
+As pressões atingem também os responsáveis pelos órgãos de comunicação social que são pressionados a desmentir notícias que depois confirmam-se serem verdadeiras.
+
+Um dos casos aconteceu nesta quarta-feira, aquando&nbsp;da notícia publicada pelo **DN Madeira.** Os jornalistas deste matutino deram conta de que tinha sido ativado o mecanismo europeu de proteção civil e por isso, a Madeira iria receber a ajuda da Força Aérea de Espanha. Com base em factos e declarações, os jornalistas noticiaram que os ‘Canadair’, dois meios aéreos provenientes de Espanha, seriam utilizados no combate aos incêndios na Madeira.
+
+Após a publicação da notícia, fontes do Governo Regional apressaram-se a desmentir a informação numa tentativa de «assassinato profissional», como refere o diretor, Ricardo Miguel Oliveira. Duas horas depois, é o próprio Miguel Albuquerque, presidente do Governo Regional, a confirmar a vinda dos dois meios aéreos para a Madeira.
+
+Outra das situações reportadas à DRM-SJ aconteceu no sábado, com a restrição de jornalistas, operadores de imagem e fotojornalistas no acesso à freguesia do Curral das Freiras.
+
+Houve indicações claras por parte da PSP para não permitir o acesso da Comunicação Social ao local, sendo que esta dificuldade só foi superada, após vários contactos para que pudessem permitir a passagem dos jornalistas.
+
+Outra situação idêntica aconteceu no domingo, também no Curral das Freiras, mais precisamente no sítio da Fajã dos Cardos.
+
+A equipa de reportagem da **RTP Madeira**&nbsp;foi a primeira a chegar ao local, por volta das 21:30. Iniciou de imediato o trabalho com a recolha de imagens e depoimentos dos moradores. Depois, chegou a equipa da **CNN /TVI** que também tratou de recolher informações sobre o incêndio.
+
+As duas equipas estavam em locais privados, a falar com moradores e foram obrigadas a abandonar o local. O jornalista da **RTP Madeira**&nbsp;ainda tentou saber por que motivo teria de abandonar o local e obteve como resposta: «São as ordens que temos de não deixar a comunicação social ficar no local, só os moradores». Os jornalistas da Televisão&nbsp;Pública saíram do local assim que terminaram as entrevistas com os populares, a equipa da **CNN/TVI&nbsp;**foi escoltada pela PSP.
+
+O que esta Direção não entende é a dualidade de critérios na permissão de passagem na estrada encerrada pelos agentes da PSP. Permitiram um deputado do JPP circular, em ação de campanha, e impediram os jornalistas de passar para exercer a sua atividade: informar.
+
+A Direção Regional da Madeira entende que é necessário criar um perímetro de segurança para que as operações possam ser feitas com a máxima eficácia. Entende, também, que temos de salvaguardar as vidas, os bens pessoais e patrimoniais e que o jornalista não pode e nunca será um elemento perturbador nas operações de socorro; Sabemos os nossos direitos e deveres, e, em nosso entender, nada justifica estes comportamentos.
+
+Não podemos aceitar que o acesso à informação – um dos direitos do jornalista no exercício da atividade – possa ser posto em causa. Também não vamos admitir que os jornalistas sejam alvo de pressões ou ataques à liberdade de informar. Iremos estar muito atentos e não deixaremos que tais situações voltem a repetir-se.
+
+Numa altura em que a Madeira está, novamente, a passar pelo flagelo dos incêndios, apresentamos a nossa solidariedade a todos quantos estão a sofrer com este drama. Aproveitamos, também, para endereçar uma palavra de coragem e resiliência às mulheres e homens que estão no terreno a fazer de tudo para salvar a nossa Madeira.
+
+Também solidarizamo-nos com todos os camaradas que estão horas a fio a fazer a cobertura dos incêndios e exercem a atividade com brio, profissionalismo e cumprindo o Código Deontológico. Bem hajam.
+
+Filipe Alexandre Gonçalves
+
+Presidente da Direção Regional da Madeira do Sindicato dos Jornalistas
+
+<https://jornalistas.eu/sj-madeira-denuncia-pressoes-e-restricoes-no-acesso-a-informacao-durante-cobertura-dos-incendios/>
+
+ [1]: https://jornalistas.eu/sj-madeira-denuncia-pressoes-e-restricoes-no-acesso-a-informacao-durante-cobertura-dos-incendios/

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autoestradas on indymedia.pt</title>
+    <link>http://localhost:1313/tags/autoestradas/</link>
+    <description>Recent content in Autoestradas on indymedia.pt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Wed, 04 Oct 2023 18:14:38 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/autoestradas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Petição contra o alargamento do IC20</title>
+      <link>http://localhost:1313/?p=32350/</link>
+      <pubDate>Wed, 04 Oct 2023 18:14:38 +0000</pubDate>
+      <guid>http://localhost:1313/?p=32350/</guid>
+      <description>Assina agora: https://peticaopublica.com/?pi=PT117774&#xA;A população foi surpreendida na reunião de Câmara Municipal de Almada, do dia 18 de Setembro de 2023, em plena Semana Europeia da Mobilidade, com informação sobre o alargamento do IC20 para 4 vias por sentido, conforme consta nos media locais [1,2]. Esta obra é um compromisso que resulta de um contrato caduco, que deveria já ter sido renegociado pelo Estado junto da concessionária Baixo Tejo, de modo a ir ao encontro daquilo que são os objetivos estabelecidos a nível ambiental.</description>
+    </item>
+  </channel>
+</rss>

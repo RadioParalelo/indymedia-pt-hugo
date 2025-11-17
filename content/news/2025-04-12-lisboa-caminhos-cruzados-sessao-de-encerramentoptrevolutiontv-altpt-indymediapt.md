@@ -1,0 +1,44 @@
+---
+title: '[Lisboa] Caminhos Cruzados Sessão de Encerramento#PTrevolutionTV #AltPT #indymediaPT'
+author: Publicação Comunitária
+type: post
+date: 2025-04-12T14:54:56+00:00
+url: /?p=225452
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+tags:
+  - AltPT
+
+---
+[Lisboa] Caminhos Cruzados Sessão de Encerramento#PTrevolutionTV #AltPT #indymediaPT
+
+
+
+  
+
+
+ <https://youtube.com/watch?v=xWqlxV11SQ8> 
+
+<!-- /wp:post-content --></div> 
+
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+
+Instâncias [Invidious][1] alternativas:  
+<https://redirect.invidious.io/watch?v=xWqlxV11SQ8>
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+**[@PTrevolutionTV][2]**
+
+<!-- /wp:paragraph -->
+
+ [1]: https://invidious.io/
+ [2]: https://www.youtube.com/@ptrevolutiontv

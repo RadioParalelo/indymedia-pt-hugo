@@ -1,0 +1,37 @@
+---
+title: '[Lisboa Live]. Vigília de apoio as estudantes da FCSH no Campus da Justiça [1/2]'
+author: Publicação Comunitária
+type: post
+date: 2023-11-14T10:19:24+00:00
+url: /?p=201249
+classic-editor-remember:
+  - block-editor
+mf2_syndication:
+  - 'a:1:{i:0;s:61:"https://climatejustice.social/@indymediapt/111408407642500238";}'
+embed_privacy_thumbnail_youtube_OSZhZtHPJVo:
+  - youtube-OSZhZtHPJVo-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_OSZhZtHPJVo_url:
+  - https://www.youtube.com/watch?v=OSZhZtHPJVo
+iworks_yt_thumbnails:
+  - 'a:1:{s:11:"OSZhZtHPJVo";a:5:{s:3:"url";s:55:"http://img.youtube.com/vi/OSZhZtHPJVo/maxresdefault.jpg";s:10:"secure_url";s:56:"https://img.youtube.com/vi/OSZhZtHPJVo/maxresdefault.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:4:"type";s:10:"image/jpeg";}}'
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+  - Repressão
+tags:
+  - AltPT
+  - Livestream
+  - PTrevolutionTV
+
+---
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> <figure class="wp-block-audio"><audio controls src="https://invidious.fdn.fr/latest_version?id=OSZhZtHPJVo&itag=140"></audio></figure> 
+
+This stream is created with #PRISMLiveStudio<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://invidious.fdn.fr/vi/OSZhZtHPJVo/mqdefault.jpg" alt="" /> </figure> 
+
+<https://invidious.fdn.fr/watch?v=OSZhZtHPJVo>

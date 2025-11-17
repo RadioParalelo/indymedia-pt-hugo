@@ -1,0 +1,66 @@
+---
+title: Grupo queerfóbico impedido de entrar em evento LGBTQIA+
+author: Publicação Comunitária
+type: post
+date: 2024-10-12T20:51:50+00:00
+url: /?p=224563
+post_list_status:
+  - off
+activitypub_status:
+  - federated
+enclosure:
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2024/10/9A40E0BB86173DFD6E315177055F5CBA_video_dashinit-9006571.mp4
+        16499568
+        video/mp4
+        
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+Comunicado | [União Libertária][1]<figure class="wp-block-video"><video controls src="http://localhost:8000/wp-content/uploads/2024/10/9A40E0BB86173DFD6E315177055F5CBA\_video\_dashinit-9006571.mp4"></video></figure> 
+
+#### Dia 10 de outubro de 2024, o grupo neonazi queerfóbico, Habeas Corpus, foi impedido de invadir o evento LGBTQIA+ de apresentação do livro “Dar e Receber Amor em Todas as Suas Formas”, graças à organização colectiva de grupos e pessoas queer antifascistas. {.wp-block-heading}
+
+#### **Como sempre e sem nenhuma surpresa, a polícia defendeu quem tentava impedir a entrada de neonazis LGBTQfóbicos.** {.wp-block-heading}
+
+Original: <https://uniaolibertaria.pt/grupo-queerfobico-impedido-de-entrar-em-evento-lgbtqia/>
+
+Dia 10 de outubro de 2024, o grupo neonazi queerfóbico, Habeas Corpus, foi impedido de invadir o evento LGBTQIA+ de apresentação do livro “Dar e Receber Amor em Todas as Suas Formas”, graças à organização colectiva de grupos e pessoas queer antifascistas. Os cinco membros desta organização fascista, entre eles Djalme Santos e José Pinto Coelho (Ergue-te), tentaram aceder à Livraria Buchholz, onde se realizava a apresentação do livro, organizada pela AMPLOS – Associação de Mães e Pais pela Liberdade de Orientação Sexual e Identidade de Género, sendo impedidos por um cordão humano à porta do local.
+
+**&nbsp;&nbsp;&nbsp;&nbsp;Como sempre e sem nenhuma surpresa, a polícia agrediu quem tentava impedir a entrada de neonazis LGBTQfóbicos.  
+** 
+
+Essa mesma Polícia de Segurança Pública, que se encontrava a escassos metros da Livraria, em nenhum momento tentou impedir os membros queerfóbicos de entrar no local, tendo apenas intervido quando se formou o cordão à porta da livraria. Nesse momento, viveram-se “momentos de tensão”, como os media apelidaram, em que a PSP, para espanto de absolutamente ninguém, afasta à força as pessoas que estavam no cordão, atirando pelo menos uma pessoa ao chão e agredindo algumas outras, em vez de proteger o público e oradores dos membros fascistas.
+
+Depois de terem afastado todas aquelas que não aparentavam ser do grupo Habeas Corpus, &nbsp;a Equipa de Intervenção Rápida chegou e fez um perímetro de (in)segurança na entrada da livraria, onde passaram a estar os fascistas, convivendo pacificamente e cordialmente com os jornalistas, que se divertiam a gravar as caras de militantes antifascistas que os fascistas ainda não tinham conseguido gravar.
+
+Apesar disto, a missão foi cumprida: mostrámos que é possível a defesa ativa e aberta contra a violência queerfóbica. O evento não deixou de acontecer, nem foi interrompido, ao contrário de todos os outros eventos que o grupo Habeas Corpus apareceu para espalhar ódio. Mais de cinquenta pessoas estiveram presentes, do lado de fora, para garantir que a organização de extrema-direita não repetia a tática disruptiva que já empregou várias vezes.
+
+Os fascistas decidem, finalmente, abandonar o local e a polícia decide também que esse é o momento perfeito para efetuar uma detenção completamente aleatória a uma pessoa que estava presente com um megafone. Motivo? Como estava a utilizar um megafone, seria ela a promotora da “manifestação” (leia-se defesa de um evento LGBTQIA+). Fica a questão&nbsp;se ser portador de um megafone constitui um ato ilegal ou uma “conduta inadequada”, como disse a autoridade. No entretanto, a polícia desmobilizou violentamente todos os ativistas que defendiam o evento.
+
+Este dia permitiu-nos, então, retirar alguns pensamentos, conclusões e aprendizagens.
+
+Espantou-nos o papel inexistente, ou pelo menos invisível, que a&nbsp;Livraria Buchholz decidiu ter relativamente à defesa do evento LGBTQIA+, quando no evento de apresentação do livro de Passos Coelho “Identidade e Família” nesse mesmo local, manifestantes queer que se encontravam à porta foram rapidamente afastados pela&nbsp;polícia. Irónico, não é?
+
+Também ouvimos algumas pessoas que se encontravam no evento a defender o “trabalho”&nbsp;da PSP, mesmo após terem visto com os seus próprios olhos que não foi a polícia que impediu os neonazis de entrar na Livraria – aliás, nunca foi intenção deles sequer -, mas sim os inúmeros membros defensores do evento.
+
+Como Kuwasi Balagoon,&nbsp;membro do Partido dos Panteras Negras e Exército de Libertação Negra, disse:  
+**“When a gay group protests lack of police protection by making an alliance with police to form a gay task force, they ain’t making a stand against the system, they are joining it. Putting more power in the hands of those who attack them for being what they are in the first place.”** (1)
+
+**&nbsp;&nbsp;&nbsp;&nbsp;Devemos ser nós e apenas nós a garantir a segurança dos protestos e eventos LGBTQIA+, diminuindo a dependência da polícia para resolver os problemas das nossas comunidades e, consequentemente, diminuindo a violência policial. Temos que estar na luta pela libertação queer, seja enquanto pessoas queer, seja enquanto cúmplices da luta. E para tal precisamos de movimentos sociais, baseados na solidariedade, autodefesa e resistência. Precisamos de confiar em nós próprias e estabelecer relações organizadas e solidárias com grupos que se aliem à luta contra ideologias, ataques e violências queerfóbicas. E a solução não está na polícia ou num governo queer friendly, já que estes são e sempre serão perpetuadores de violência institucional.**
+
+E aqui, tanto é ingénuo quem reclamava “isto não é democracia”, exigindo às forças de violência policial uma tomada de posição agresiva sobre os neonazis que ali se encontravam – como se essas forças não convivessem plenamente com o fascismo -, como é ingénuo quem reclamava “isto é democracia”, enquanto abria o diálogo com alguns dos neonazis presentes sobre temas sobre orientação e identidade, como se o ódio fosse debatível. É precisamente porque “isto é democracia” que a democracia burguesa e capitalista não nos serve.
+
+Não nos servem também os meios de comunicação social que normalizam o fascismo, a queerfobia e o racismo. Os mídia reproduzem o discurso de ódio e a ideologia normativa, que valoriza o parecer das instituições, da política formal e da cultura instituída – afastando as comunidades marginalizadas duma identidade partilhada que é branca, cisgénero e heterosexual. Não são nossos aliados – são nossos inimigos.
+
+**&nbsp;&nbsp;&nbsp;&nbsp;Não queremos ser mais vítimas da queerfobia, nem precisamos que outros nos defendam, quando nos temos a nós próprias. Muitas de nós somos queer, mulheres, trans, trabalhadoras, estudantes e recusamos a lógica vitimizante que nos é constantemente imposta. Não estamos “em risco”, não precisamos de ser protegides, muito menos pela polícia ou pelo Estado. Repetimos as vezes que forem necessárias: “A nós não nos cuida a polícia, cuidam-nos as nossas companheiras”. Porque nos atacam, iremos contra-atacar. E para tal, precisamos de construir os nossos próprios grupos autónomos queer, órgãos de apoio mútuo, autodefesa e cuidado.**
+
+### **Ⓐ solução: organização – auto-defesa – e contra-ataque!** {.wp-block-heading}
+
+###### Vídeo completo da ação disponível em: <https://www.instagram.com/p/DBBiNkFIPVs/> {.wp-block-heading}
+
+ [1]: https://uniaolibertaria.pt/grupo-queerfobico-impedido-de-entrar-em-evento-lgbtqia/

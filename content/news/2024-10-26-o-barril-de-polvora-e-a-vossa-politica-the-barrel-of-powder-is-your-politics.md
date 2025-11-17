@@ -1,0 +1,74 @@
+---
+title: O “barril de pólvora” é a vossa política | The “barrel of powder” is your politics.
+author: Publicação Comunitária
+type: post
+date: 2024-10-26T11:50:01+00:00
+url: /?p=224731
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+O &#8220;barril de pólvora&#8221; é a vossa política | The &#8220;barrel of powder&#8221; is your politics.
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+</div>
+
+<!-- /wp:post-content -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+
+<div class="wp-block-group">
+  <!-- wp:lightweight-accordion/lightweight-accordion {"title":"YouTube","title_text_color":null,"title_background_color":"#cf2e2e","accordion_open":true} -->
+  
+  <!-- wp:group {"layout":{"type":"constrained"}} -->
+  
+  <div class="wp-block-group">
+    <!-- wp:html -->
+    
+    <!-- /wp:html -->
+  </div>
+  
+  <!-- /wp:group -->
+  
+  <!-- wp:paragraph -->
+  
+  <p>
+    <a href="https://youtube.com/watch?v=r-Yv9AD204c"> https://youtube.com/watch?v=r-Yv9AD204c </a>
+  </p>
+  
+  <!-- /wp:paragraph -->
+  
+  <!-- /wp:lightweight-accordion/lightweight-accordion -->
+</div>
+
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+
+Instâncias [Invidious][1] alternativas:  
+<https://redirect.invidious.io/watch?v=r-Yv9AD204c>
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+**[@PTrevolutionTV][2]**
+
+<!-- /wp:paragraph -->
+
+<!-- wp:lightweight-accordion/lightweight-accordion {"title":"Imagem","title_text_color":null,"title_background_color":"#000000"} -->
+
+<!-- wp:image {"sizeSlug":"large"} --><figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://invidious.fdn.fr/vi/r-Yv9AD204c/maxres.jpg" alt="" /> </figure> <!-- /wp:image -->
+
+<!-- /wp:lightweight-accordion/lightweight-accordion -->
+
+ [1]: https://invidious.io/
+ [2]: https://www.youtube.com/@ptrevolutiontv

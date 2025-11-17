@@ -1,0 +1,101 @@
+---
+title: Criminalizam 16 defensores que lutam contra o Corredor Interoceânico em Oaxaca
+author: Publicação Comunitária
+type: post
+date: 2023-12-11T16:42:54+00:00
+url: /?p=214206
+enclosure:
+  - |
+    |
+        https://archive.org/download/entrevista-con-una-compa-de-la-assamblea-de-los-pueblos/Entrevista_con_una_compa_de_la_Assamblea_De_Los_Pueblos.mp3
+        0
+        audio/mpeg
+        
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Poder e Autodeterminação
+  - Repressão
+tags:
+  - Ambiente
+  - Ecologia
+  - Istmo
+  - México
+
+---
+#### Corredor Interoceânico apresentou uma queixa criminal contra 16 defensores ambientais pelo crime de &#8220;Ataque às vias gerais de comunicação&#8221; {.wp-block-heading}
+
+<div class="wp-block-group has-vivid-green-cyan-background-color has-background has-global-padding is-layout-constrained wp-container-core-group-is-layout-a35945ca wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)">
+  <p>
+    Ouve também a <a href="https://archive.org/details/entrevista-con-una-compa-de-la-assamblea-de-los-pueblos">entrevista</a> que fizemos com uma compa da <a href="https://tierrayterritorio.wordpress.com/">Assamblea de los pueblos de Istmo</a>, em Covas do Barroso, durante a acampada em defesa do Barroso de 2023:
+  </p><figure class="wp-block-audio"><audio controls src="https://archive.org/download/entrevista-con-una-compa-de-la-assamblea-de-los-pueblos/Entrevista_con_una_compa_de_la_Assamblea_De_Los_Pueblos.mp3"></audio></figure>
+</div>
+
+Cidade do México | Desinformémonos. 
+
+[desinformemonos.org][1]  
+Redação Desinformémonos
+
+16 de novembro de 2023
+
+A União das Comunidades Indígenas da Zona Norte do Istmo (Ucizoni) denunciou que o Corredor Interoceânico apresentou uma queixa criminal contra 16 membros da organização pelo crime de &#8220;Ataque às vias gerais de comunicação&#8221;, que descreveu como &#8220;actos de criminalização&#8221; da defesa do território em Oaxaca.
+
+Ucizoni explicou que, a partir das queixas criminais, serão realizadas duas audiências iniciais, a primeira no dia 17 de novembro na cidade de Oaxaca e a segunda no dia 28 de dezembro, uma vez que foram abertos dois processos de investigação para o processo.
+
+A criminalização do megaprojeto federal, que acusam de não ter sido consultado junto das comunidades e de promover a expropriação do território, surge depois de os habitantes e ejidatarios da comunidade Mixe Ayuuk de Mogoñé Viejo terem sido violentamente expulsos do acampamento &#8220;Tierra y Libertad&#8221;, a 28 de abril, que mantiveram durante 62 dias em protesto contra a violação dos seus direitos face à modernização da linha férrea do Corredor.
+
+Ucizoni exigiu que as autoridades federais e estaduais e os directores do mega-projeto deixem de criminalizar os defensores territoriais e respeitem a autodeterminação das comunidades indígenas, e recordou ao Presidente Andrés Manuel López Obrador que &#8220;o comboio inter-oceânico não pode ser inaugurado em dezembro&#8221; devido à violação dos seus direitos e à expropriação das suas terras.
+
+Abaixo está o comunicado completo:
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    Desde 2018 que mulheres e homens do Istmo de Tehuantepec Oaxaca se têm manifestado para exigir o respeito pelos nossos direitos face à imposição do megaprojeto do corredor interoceânico, nunca fomos informados dos impactos negativos que este projeto causaria nas nossas terras, nem consultados de acordo com os protocolos estabelecidos pela Convenção 169 da OIT.
+  </p>
+  
+  <p>
+    Em fevereiro de 2023, a comunidade Mixe Ayuuk de Mogoñe Viejo, Guichicovi, Oaxaca, entre ejidatarios e aldeões, decidiu levantar a voz contra a violação dos seus direitos face à modernização da linha férrea, onde o Ferrocarril del Istmo de Tehuantepec S.A. de C.V. começou a trabalhar, desapossando famílias das suas terras. Os habitantes e ejidatarios de Mogoñé Viejo realizaram uma manifestação pacífica de 62 dias em suas terras, onde estabeleceram o acampamento &#8220;Tierra y Libertad&#8221;, sempre exigindo diálogo com os governos federal e estadual e com o proprietário do Corredor Interoceânico, Durante este tempo de manifestação pacífica os habitantes e ejidatarios foram sempre ameaçados por elementos da SEMAR e no dia 28 de abril foram violentamente despejados do acampamento por elementos da SEMAR e da Polícia do Estado de Oaxaca, neste despejo foram detidas 4 mulheres e 2 homens.
+  </p>
+  
+  <p>
+    Denunciamos através deste comunicado que o Corredor Interoceânico apresentou uma queixa criminal com dois números de investigação Oax/000201/2023 e Oax/ 000294/2023 pelo crime de &#8220;Ataque aos meios gerais de comunicação&#8221; contra 16 companheiros e companheiras da UCIZONI, A partir destas queixas-crime, serão realizadas duas audiências iniciais no dia 17 de novembro na cidade de Oaxaca e a segunda audiência inicial correspondente à segunda investigação no dia 28 de dezembro deste ano. Estas queixas-crime são actos de criminalização, exigimos um diálogo respeitoso e apelamos às organizações internacionais, nacionais e regionais para que se solidarizem com a nossa luta.
+  </p>
+  
+  <p>
+    Apelamos ao Presidente Andrés Manuel López Obrador que não estamos fechados ao diálogo e que os nossos direitos sejam respeitados, que dê instruções ao Governador de Oaxaca Salomón Jara Cruz, ao Secretário de Governo de Oaxaca Jesús Romero López e ao responsável do Corredor Interoceânico para atender aos problemas que o mega-projeto do Corredor Interoceânico tem gerado. Senhor Presidente, o Comboio Interoceânico não pode ser inaugurado em dezembro devido à violação dos nossos direitos e à desapropriação das nossas terras.
+  </p>
+  
+  <p>
+    Parem de criminalizar os defensores do ambiente!!!!
+  </p>
+  
+  <p>
+    Exigimos a retirada das acusações criminais contra 16 camaradas da UCIZONI!!!!
+  </p>
+  
+  <p>
+    NÃO À MILITARIZAÇÃO, NÃO MAIS PILHAGEM!!!!
+  </p>
+</blockquote>
+
+_Este material jornalístico é de livre acesso e reprodução. Não é financiado pela Nestlé ou pela Monsanto. A Desinformémonos não depende deles ou de outros como eles, mas de si. Apoie o jornalismo independente. É seu._
+
+Original:<figure class="wp-block-embed is-type-wp-embed is-provider-desinform-monos wp-block-embed-desinform-monos">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="wp-embedded-content" data-secret="oj8JGqqAVv">
+    <a href="https://desinformemonos.org/criminalizan-a-16-defensores-que-luchan-contra-corredor-interoceanico-en-oaxaca/">Criminalizan a 16 defensores que luchan contra Corredor Interoceánico en Oaxaca</a>
+  </blockquote>
+</div></figure> 
+
+Via:
+
+<https://derechos.culturalsurvival.org/noticiero-regional-sobre-pueblos-indigenas-noviembre-2023><figure class="wp-block-embed is-type-wp-embed is-provider-noticias-de-abajo wp-block-embed-noticias-de-abajo">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="wp-embedded-content" data-secret="sgUQxDtVZK">
+    <a href="https://noticiasdeabajoml.wordpress.com/2023/12/07/noticias-de-abajo-7-de-diciembre-2023/">Noticias de abajo 7 de diciembre&nbsp;2023</a>
+  </blockquote>
+</div></figure>
+
+ [1]: https://desinformemonos.org/criminalizan-a-16-defensores-que-luchan-contra-corredor-interoceanico-en-oaxaca/

@@ -1,0 +1,37 @@
+---
+title: Estudantes do Técnico fazem noite de Artivismo
+author: Publicação Comunitária
+type: post
+date: 2023-11-14T19:57:17+00:00
+url: /?p=202260
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111410665529207450
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - Ecologia
+  - Indymedia
+  - Lisboa
+  - ocupapeloclima
+  - Protesto
+  - PTrevolutionTV
+
+---
+Esta noite estudantes do Instituto Superior Técnico fizeram uma visita a uma loja da Galp para deixar mensagens sobre o papel desta empresa no contributo nacional para as alterações climáticas.<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-14_19-18-49-473x1024.jpg" alt="" class="wp-image-202261" /> </figure> 
+
+&#8220;Estudante do Instituto Superior Técnico pinta loja da Galp&#8221;<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-14_19-18-57-473x1024.jpg" alt="" class="wp-image-202263" /> </figure> <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-155 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large"><img decoding="async" data-id="202262" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-14_19-42-58-473x1024.jpg" alt="" class="wp-image-202262" /></figure> </figure> 
+
+Todo o nosso trabalho é auto financiado, se puderes ajudar a cobrir as despesas entra em contacto connosco.
+
+Pela soberania da informação.

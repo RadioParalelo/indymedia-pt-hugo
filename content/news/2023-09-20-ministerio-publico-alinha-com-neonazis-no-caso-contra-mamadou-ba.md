@@ -1,0 +1,187 @@
+---
+title: Ministério Público alinha com Neonazis em “processo de manipulação política” contra Mamadou Ba
+author: Publicação Comunitária
+type: post
+date: 2023-09-20T13:17:46+00:00
+url: /?p=741
+classic-editor-remember:
+  - block-editor
+categories:
+  - Uncategorized
+
+---
+<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+  <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+    <h5 class="wp-block-heading">
+      <strong>Alegações finais de Mamadou Ba, proferidas a 20 de Setembro, de 2023, no processo que o opõe ao cadastrado nazi Mário Machado</strong>:
+    </h5>
+    
+    <p class="has-secondary-color has-text-color">
+      «Meritíssima,
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      Não fosse eu sentindo, durante este julgamento, uma incompreensível insistência em restringir, senão mesmo diminuir, o significado e alcance da pronúncia do supremo tribunal relativamente à responsabilidade coletiva de todos quantos participaram na “caça ao preto” na noite de 10 de junho de 1995, em que Alcindo Monteiro foi barbaramente assassinado, nada mais teria eu a acrescentar ao que disse na primeira audiência.
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      E, mais ainda, fiquei profundamente indignado com a desconexão e, sobretudo, a surpreendente desvalorização do entendimento consolidado que existe na sociedade portuguesa de que o militante neonazi Mário Machado teve um papel central na promoção da violência política que esteve na origem da morte de Alcindo Monteiro e, ainda, continua a ter no contexto atual. Certamente que o ministério público e a defesa do Mário Machado não podem ignorar que este sentimento é real e é baseado na imagem que o próprio procura insistentemente projetar publicamente. Ele assume-se como um combatente nacionalista, orgulhosamente filiado ao supremacismo nazi, como aqui repetiu o próprio em tribunal e a sua ex-companheira e camarada hammerskin também confirmou. A afirmação desta filiação à ideologia da morte responsabiliza-o inequivocamente para as consequências da promoção desta ideologia. Daí que me mantenha convictamente vinculado à ideia de que a responsabilidade coletiva de uma ação política é imprescritível, independentemente da moldura jurídica que enquadra o seu juízo.
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      Aliás, se o juiz Carlos Alexandre, que sustentou em sede de instrução a pretensa difamação aqui em julgamento, admitisse para o criminoso neo-nazi Mário Machado o mesmo que admitiu para os seus comparsas do crime, os Hells Angels, ao dizer que:
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      <strong>a)</strong>“este conjunto de elementos assim agrupados não é um simples clube recreativo ‘motard’, mas um conjunto de pessoas que se organizam em moldes paramilitares ou semelhantes ao modo de atuação de uma milícia”;
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      <strong>b)</strong>“Qualquer pessoa pode ser ‘motard’ ou não (…) mas para se fazer parte desta associação tem de se obedecer aos estatutos, o que implica obedecer às decisões do ‘chapter’ ou ‘charter’, o que for, e mesmo que isso inclua, pasme-se, agressões/castigos (…) dos quais ninguém está a salvo.”
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      Foi exatamente nos mesmos termos que o acórdão do Supremo Tribunal analisou a atuação grupal no dia 10 de junho de 1995 em que Mário Machado, com o seu taco de basebol que deixou várias pessoas inanimadas, desempenhou um papel central no festival de horrores e violência.
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      É por isso que violentam a minha consciência e agridem a minha ética as várias tentativas, aqui durante o julgamento, de desconectar e afastar qualquer responsabilidade do militante neonazi às ações que conduziram ao espancamento de pessoas negras, em que Alcindo acabaria morto, apenas por ser negro.
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      Constituem para mim uma insuportável violência todos os esforços de absolvição de alguém que, não só nunca demonstrou nenhum arrependimento por ter participado numa caça ao preto que resultou no assassinato de um homem negro, como ainda se vangloria publicamente, sempre que pode, de ter participado nessa caçada.
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      Mário Machado nunca abandonou a sua ideologia mortífera e continuou até hoje empenhadíssimo na sua atividade política criminosa que, só por milagre, não resulta em mortes, como aconteceu com Alcindo. Quantas vezes, no âmbito das suas atividades criminosas, foi Mário Machado condenado em cúmulo jurídico por crimes vários, quase todos envolvendo violência física extrema que poderia resultar em morte? Que honra tem alguém que nunca se preocupou com a salvaguarda da integridade física e da dignidade humana das suas vítimas? Que bom nome tem alguém a defender que continua a praticar atos social, moral e eticamente censuráveis? Como pode um tribunal honrar alguém que desonra o Estado de Direito ao sistematicamente atentar à dignidade humana, fazendo da prática da discriminação racial um modo de vida? Efetivamente, como bem se sublinha no acórdão do supremo tribunal, para além de nunca ter demonstrado nenhum arrependimento no seu envolvimento na violência grupal que ceifou a vida de Alcindo e deixou mazelas insuperáveis às outras vítimas, Mário Machado continua filiado e ativo na defesa de uma ideologia da morte, o nazismo.
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      Na verdade, fosse este julgamento sobre honradez e bom nome, teria o próprio advogado do neo-nazi de requerer a extração de certidão de denúncia de difamação contra a própria mãe que disse, neste tribunal, que não seria a primeira vez que o filho era tratado por assassino!
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      Para além de um insulto à memória de quem morreu por violência racial e uma ofensa à dignidade de quem sofreu e sofre todos os dias da violência racista, é fundamentalmente um atentado à própria democracia qualquer possibilidade de reabilitar alguém que cultiva, pratica, propaga e mobiliza o ódio, vangloriando-se sistematicamente disso no espaço público.
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      A pergunta que me coloquei, sempre que ouvi as tentativas de limpar a honra de Mário Machado aqui em tribunal – que é seguramente a pergunta que o comum dos mortais, que conhece os seus desmandos, se coloca quando se depara com a figura dele – é esta: como se pode qualificar alguém que defende a “morte de comunistas, pretos, paneleiros e mouros?”
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      A resposta é simples: quem defende como o Mário Machado faz, a morte de pessoas apenas pelas suas características biológicas ou orientações sexuais e/ou filiações políticas, remete para Hitler, o ídolo de Machado, que não terá morto diretamente os milhões de pessoas mortas pelo nazismo, mas foi e continuará sempre a ser o principal responsável pela morte dos milhões de judeus chacinados pelo regime nazi. Mais uma vez, tal como disse na primeira audiência e volto a repetir, Hitler não deu um único tiro na cabeça do meu tio-avô, Mamadou Hadi Ba, que os nazis cunharam como o “terrorista negro”. Mas Hitler é o principal responsável da sua morte, como é o principal responsável pela morte de todas as vítimas do nazismo.
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      E mais uma vez, para o caso vertente, volto a recuperar o acórdão do supremo tribunal que diz: “[…] (ocorreu um) fenómeno associativo: quer ao nível da idealização e preparação do crime quer ao nível da sua execução material, as vontades dos comparticipantes unem-se na prossecução do fim comum, da operação conjunta. A ação de cada comparticipante perde a sua individualidade própria e pertence não só ao seu autor, mas a todos os co-autores. A ação de cada co-autor é causal do crime, ainda que em concreto não se mostrem com nitidez todos os seus contornos. Cada co-autor é responsável pela totalidade do evento, pois sem a ação de cada um o evento não teria sobrevindo. Muitas vezes a simples presença de um agente no local do crime é suficiente para convencer outrem a praticá-lo.”
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      Portanto, tal como Hitler será sempre o principal responsável pelas mortes dos judeus assassinados pelo nazismo, Mário Machado será sempre uma das principais figuras do assassinato de Alcindo, por ter participado na elaboração e execução do plano de caça ao preto em que Alcindo Monteiro foi assassinado.
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      Se o cumprimento da pena é uma forma de pagar pela culpa dos atos cometidos, isso não anulará a responsabilidade pelo crime. A organização da sociedade e o governo das relações sociais permitem que o crime possa ser comutado pela pena como castigo, mas nunca o cumprimento da pena apagará o facto que consubstanciou o crime em si. Alguém que matou não deixa de ser quem matou por ter cumprido uma pena. É certo que, à luz do direito, se pode até dizer que Mário Machado e o seu bando pagaram pelos crimes que cometeram, através do cumprimento de penas, mas nunca deixarão de ser responsáveis pelos seus crimes. A culpa de um ato pode convencionalmente prescrever, mas a responsabilidade do mesmo continuará sempre vinculada a quem o praticou ou o motivou. Mário Machado será sempre responsável por todos os atos em que esteve direta ou indiretamente envolvido, independentemente de ter judicialmente pago pelos seus crimes. Porque um crime pode prescrever, mas uma responsabilidade nunca.
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      De modo que, seja com Mário Machado ou com qualquer outro responsável pela violência racial, sempre que tiver de apontar a responsabilidade da morte do Alcindo Monteiro e de qualquer outra vítima de violência racial, fá-lo-ei sem hesitar, nomeando taxativamente quem a endossou ou endossa.&nbsp;
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      Nesse sentido, à armadilhada pergunta de saber se toda e qualquer pessoa tem direito à honra, a minha resposta é, obviamente, inequívoca e é não. Quem atenta à dignidade humana não constrói a própria honra. Pois não tenho dúvida alguma que não se pode gozar de honradez alguma pelo exercício da violência. Quem deliberadamente mata ou cuja ação ou ideias levam propositadamente à morte, não tem honra nenhuma a defender ou a preservar. E as instituições, nomeadamente, o sistema judicial, não podem servir para apagar a memória dos crimes contra a democracia como é a violência racial. A honra não é nenhum atributo genético, é um compromisso ético. Quem não a tem e nada faz para a ter, não merece nem pode ter honra nenhuma.
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      O que mais me levou a pedir a palavra de novo é a consternação que sinto perante a postura do Ministério Público, que, representando o interesse geral, aqui se empenhou em defender um interesse particular, por essa via beneficiando um projeto de sociedade que não defende a dignidade humana. Ora, entre a honra que Mário Machado não tem e a obrigação de apontar a sua responsabilidade numa tragédia que não honrou a nossa democracia nem qualquer ideia de humanidade, a escolha é simples: nunca deixar de lhe apontar esta responsabilidade. Entre os vários bens jurídicos a preservar neste processo, o compromisso do Estado deve pautar-se pela preservação e respeito da memória das vítimas da violência racial em detrimento de estratégias políticas de legitimação de um fascista neonazi, autor moral de assassinato.
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      É doloroso ver a aceitação, por parte do Ministério Público, de um processo de manipulação política da extrema-direita, cuja existência em si é uma afronta à nossa ordem constitucional.
+    </p>
+    
+    <p class="has-secondary-color has-text-color">
+      Por todas as vítimas mortais e aquelas que estão vivas, mas continuam a lutar com as sequelas daquela trágica noite de 10 de junho de 1995, e ainda pelas vítimas atuais do racismo quotidiano, não podemos fugir à responsabilidade de nomear os seus carrascos, custe o que custar. É por isso que entendo que este processo não é entre mim e um criminoso neonazi, mas sim um processo do sistema de justiça contra si próprio, que se deve confrontar com a contradição de defender alguém que quer destruir a própria democracia ao serviço da qual está a justiça.»
+    </p>
+    
+    <ul class="wp-block-list">
+      <li>
+        Mamadou Ba, 20 de Julho 2023
+      </li>
+    </ul>
+    
+    <p>
+      <a href="https://afrolink.pt/mamadou-ba-e-doloroso-ver-a-aceitacao-de-um-processo-de-manipulacao-politica/">Publicado originalmente no AFROLINK</a>
+    </p>
+  </div>
+  
+  <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+    <p>
+      Num desenvolvimento preocupante, o Ministério Público decidiu <a href="https://rr.sapo.pt/noticia/pais/2023/09/20/ministerio-publico-pede-condenacao-de-mamadou-ba-por-difamacao/347469/">alinhar com os neonazis </a>contra Mamadou Ba, um notório ativista antirracista. O MP pede condenação e multa contra Mamadou Ba.
+    </p>
+    
+    <p>
+      <a href="https://afrolink.pt/mamadou-ba-e-doloroso-ver-a-aceitacao-de-um-processo-de-manipulacao-politica/">O AFROLINK PUBLICOU AS ALEGAÇÕES FINAIS DE MAMADOU BA</a><br />[ver do lado esquerdo]
+    </p>
+    
+    <p>
+      A última sessão de alegações está a decorrer agora em Lisboa, desde as 11h. A sentença será lida a 20 de Outubro.
+    </p>
+    
+    <p>
+      <a href="https://observador.pt/2023/09/20/ministerio-publico-pede-pena-de-multa-para-mamadou-ba-por-difamacao-do-neonazi-mario-machado/">Rita Pereira Carvalho relata no Observador que:</a>
+    </p>
+    
+    <blockquote class="wp-block-quote has-small-font-size is-layout-flow wp-block-quote-is-layout-flow">
+      <p class="has-medium-font-size">
+        <strong>Quando a advogada de Mamadou Ba, Isabel Duarte, começou a falar, Mário Machado levantou-se e saiu da sala do tribunal de Lisboa. </strong>
+      </p>
+      
+      <cite>Rita Pereira Carvalho, &#8220;Ministério Público pede pena de multa para Mamadou Ba por difamação de Mário&nbsp;Machado&#8221;, Observador</cite>
+    </blockquote>
+    
+    <p>
+      A acusação é baseada numa publicação no Facebook feita por Ba em 2020, na qual ele expôs Mário Machado, um militante neonazi, como uma figura chave no assassinato de Alcindo Monteiro.
+    </p>
+    
+    <p>
+      A procuradora Teresa Silveira Santos defendeu a condenação de Mamadou Ba, destacando que o ativista e líder do SOS Racismo &#8220;<em>é uma pessoa letrada. O arguido pondera, estrutura e esta não é um publicação numa rede social que é escrita no calor do momento. Os factos resumem-se a uma frase que foi publicada no Facebook”</em>.
+    </p>
+    
+    <p>
+      Teresa Silveira Santos argumentou que Mamadou Ba estava ciente de que a sua declaração era parcialmente verídica quando a escreveu. Ela insistiu que a interpretação da frase deveria ser feita estritamente com base em considerações legais dizendo que, &#8220;<em>quando o arguido escreve esta frase, ele sabe que isto é uma meia verdade, ele sabe que o assistente não foi condenado pelo assassinato de Alcindo Monteiro“</em> e levantando questões sobre se <em>&#8220;vamos dizer que um condenado não tem direito à honra? As pessoas que estão presas não têm direito à honra?&#8221;</em>.
+    </p>
+    
+    <p>
+      A defesa de Mamadou Ba disse que Mario Machado “é um nazi, um criminoso condenado em tribunal”. “Mário Machado tem direito à honra, como toda a gente. Mas tem direito a outro tipo de reputação, à de um homem que é publicamente conotado a crimes de violência”
+    </p>
+    
+    <p>
+      O caso contra Mamadou Ba veio à tona a 27 de outubro do ano passado, quando ele foi surpreendentemente levado a julgamento por difamação do ex-dirigente do grupo neonazi &#8220;Hammerskins Portugal&#8221;, Mário Machado. A decisão foi tomada pelo juiz de instrução criminal Carlos Alexandre. Este <em>juíz</em> <em>racista</em> é também testemunha contra Cláudia Simões, num julgamento que iniciará a 8 de novembro, depois de ter sido adiado esta semana passada. Carlos Alexandre será testemunha de um dos polícias que espancaram e torturaram Cláudia Simões.
+    </p>
+    
+    <p>
+      A defesa de Mamadou Ba convocou uma série de testemunhas influentes, incluindo a ex-ministra Francisca Van Dunem, a diplomata e política Ana Gomes, o ex-líder do Bloco de Esquerda Francisco Louçã, o renomado sociólogo Boaventura Sousa Santos, o deputado e líder do partido Livre Rui Tavares, o ex-deputado Miguel Vale de Almeida e os respeitados jornalistas Diana Andringa, Daniel Oliveira e Paulo Pena, entre outros.
+    </p>
+    
+    <p>
+      O caso contra Mamadou Ba é um grave exemplo da infiltração da extrema direita nos processos da democracia burguesa. Pretende, como sublinha Mamadou Ba, &#8220;<em>colocar o antirracismo no banco dos réus</em>&#8220;, sendo assim, uma tentativa racista de silênciar o ativismo e a expressão antirracistas na nossa sociedade, através da perseguição.
+    </p>
+    
+    <p>
+      Podes ler <a href="https://www.setentaequatro.pt/entrevista/mamadou-ba-extrema-direita-percebeu-que-pode-instrumentalizar-justica-para-calar-o">uma entrevista de Mamadou Ba ao Setenta e Quatro, sobre este processo aqui.</a>
+    </p>
+    
+    <p>
+      A campanha <a href="https://emcarneeosso.com/">&#8220;Em Carne e Osso, chamar os bois pelos nomes&#8221;</a> juntou centenas de pessoas em apoio a Mamadou Ba.
+    </p>
+    
+    <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+      <p>
+        &#8220;<strong>Mamadou não está sozinho porque este processo de que tem de se defender em tribunal é um processo contra todas as pessoas que lutam diariamente contra o racismo e todas as discriminações. Muitos dos depoimentos aqui recolhidos afirmaram-no claramente: Mamadou Ba são todas as pessoas que combatem o racismo e querem uma sociedade livre e de iguais. Este é um processo contra a inteligência elementar e contra o direito de livre expressão, é sintoma declarado de que&nbsp; as instâncias judiciais que levam Mamadou a tribunal se deixam instrumentalizar pela agenda da extrema-direita mais violenta, na defesa do “bom nome” de gente que mata, violenta e faz do ódio a sua bandeira. Mamadou Ba não está sozinho porque somos muitas as pessoas que não viram a cara à violência racial de que foi alvo Cláudia Simões, à barbaridade do assassinato de Bruno Candé ou à justa indignação dos jovens do Bairro da Jamaica. Mamadou Ba nunca estará sozinho porque a impunidade perante a violência policial como aquela que aconteceu na esquadra de Alfragide, acabou, ou porque as mortes sem explicação dentro das prisões, como a de Danijoy em 2020, não ficam mais sem resposta.</strong>
+      </p>
+      
+      <cite>Em Carne e Osso, Chamar os Bois Pelos Nomes</cite>
+    </blockquote>
+  </div>
+</div>

@@ -1,0 +1,110 @@
+---
+title: 3° DIA – ATAQUE AÉREO DA TURQUIA AO NORTE E LESTE DA SÍRIA OUTUBRO DE 2023
+author: Publicação Comunitária
+type: post
+date: 2023-10-08T08:41:03+00:00
+url: /?p=32516
+admin_form_source:
+  - form65033c1176054
+imagem_2:
+  - 32515
+Ligação:
+  - https://x.com/RojavaIC/status/1710722597405561042?s=20
+tags:
+  - AltPT
+  - Kurdistão
+  - PTrevolutionTV
+  - Turquia
+tema:
+  - 'a:2:{i:0;s:3:"110";i:1;s:3:"111";}'
+classic-editor-remember:
+  - classic-editor
+categories:
+  - Guerra e Paz
+  - Indymedia
+  - Poder e Autodeterminação
+
+---
+PONTOS-CHAVE
+
+– Cinco ataques aéreos durante a noite, atingindo um hospital, uma estação de bombagem de água e instalações industriais. Um ataque aéreo hoje, atingindo um poço de petróleo perto de Girke Lege  
+– Bombardeamentos pesados durante a noite e esta tarde ao longo da linha de contacto \”M4 Strip\”, ao longo da fronteira perto de Kobane, Amude, Tirbe Spi, bem como no exclave de Shehba região  
+– Uma mulher idosa foi morta por bombardeamentos turcos perto de Ayn Issa, e o seu marido e duas crianças ficaram feridas. O número total de mortos ascende assim a 17 (2 SDF, 6 Asayish, 9 civis)  
+– Manifestação popular marcha até à sede da Coligação Internacional perto de Girke Lege, exigindo uma intervenção  
+– O custo total da reparação da central de gás de Suwayda está estimado em mais de 50 milhões de dólares, e e muitas das peças necessárias não são facilmente substituíveis, uma vez que a AANES tem dificuldade em importá-las devido à situação política e económica na Síria  
+– Centro de Informação de Rojava disponível para fornecer comentários no terreno, mais fotos e vídeos dos locais dos ataques aéreos e contactos com representantes políticos e pessoal humanitário para comentários
+
+CONTEXTO
+
+– A campanha de ataques aéreos da Turquia contra o NES está em curso desde 2019 invasão, matando centenas de civis até à data  
+– A atual campanha de bombardeamento marca a pior escalada desde 2019, pondo em perigo a vida de milhões de civis  
+– A Turquia anunciou a sua intenção de tratar o que designou por \”infraestruturas das YPG como alvos legítimos na sequência de um recente ataque terrorista em Ancara, que feriu que feriu polícias e foi reivindicado pelo Partido dos Trabalhadores do Curdistão (PKK)  
+– Mas os dirigentes políticos e militares do NES sublinharam que não têm qualquer ligação alguma com o ataque de Ancara, acusando a Turquia de utilizar o o incidente como um casus belli  
+– O Departamento de Estado norte-americano reiterou a sua posição de que as YPG curdas YPG curdo sírio, formalmente aliado dos EUA na luta contra o ISIS, é distinto do do PKK, sublinhando ainda que os ataques turcos na região podem prejudicar a luta contínua contra o ISIS
+
+ÚLTIMOS ATAQUES
+
+– A Turquia atingiu um hospital de Covid-19 em Kobane, destruindo-o. Este é o segunda instalação deste género destruída por ataques recentes.  
+– Uma estação de bombagem de água perto de Derik foi atingida pela segunda vez  
+– Instalações industriais em toda a região: silos de cereais em Amude, uma fábrica de fábrica de tintas em Kobane e uma fábrica de nylon perto de Derik
+
+KOBANE FOI ALVO DE ATAQUES
+
+Aviões de guerra turcos atacaram ontem à noite dois locais em Kobane: um hospital de Covid-19 e uma fábrica de tintas, destruindo ambos. A cidade e os seus arredores são um alvo recorrente dos bombardeamentos aéreos turcos. Em novembro passado, assistiu-se ao mais recente episódio de ataques de aviões de guerra à cidade, com uma escola, uma clínica de saúde e uma fábrica atingidas, enquanto os bombardeamentos e os ataques de drones são frequentes. Em 2014, Kobane foi sitiada pelo ISIS durante seis meses, antes de as forças lideradas pelo YPG/YPJ conseguiram romper o cerco com o apoio internacional. Este foi o início da da aliança entre o YPG/YPJ e a Coligação, que conduziu à derrota territorial territorial do ISIS em março de 2019. Após o cerco, mais de 70 % da cidade de Kobane ficou em ruínas. Desde então, a cidade tem sido lentamente reconstruída, com o apoio das comunidades curdas curdas da Turquia e do Iraque. No entanto, nos últimos anos, os bombardeamentos e ataques de drones têm ameaçado a recuperação da cidade, criando instabilidade e instabilidade e provocando deslocações.
+
+CAÇAS F16
+
+– Os ataques aéreos turcos têm aviões de guerra tripulados e drones não tripulados  
+– Os aviões utilizados foram, muito provavelmente, caças F-16. A Turquia está atualmente está atualmente a negociar a compra de kits de modernização para estes aviões aos EUA. Alguns Alguns legisladores americanos opõem-se a este acordo, citando o historial da Turquia na utilização de F-16 contra civis e a sua contribuição para a escalada do conflito regional  
+– O jornalista local Baderkhan Ahmad filmou os danos num local bombardeado por por um destes aviões. A grande cratera é consistente com uma bomba contendo cerca de 200 kg de explosivos  
+– O hospital Covid-19, perto de Derik, também tem uma cratera de 10 metros de largura consistente com uma bomba de 200 kg, tal como documentado pelo RIC  
+– Os F16 turcos transportam maioritariamente bombas JDAM americanas com ogivas Mk 82 ou Mk 83 Mk 83. Estas contêm 89 kg ou 202 kg de explosivos  
+– Os mísseis MAM-L utilizados por drones turcos não tripulados contêm menos de 20 kg de explosivos. Não deixam crateras deste tamanho  
+– O local é um poço de petróleo nos arredores de Tirbe Spi, bombardeado a 5 de outubro. A localização do vídeo foi geolocalizado1.  
+– É provável que a Turquia esteja a utilizar caças F-16 americanos para atacar infra-estruturas civis em infra-estruturas civis no NES
+
+LISTA COMPLETA DOS ATAQUES AÉREOS ATÉ À DATA
+
+1. Zona de Mushairfah, Heseke;  
+2. Entroncamento Darbasiyah/Heseke/Tel Tamir;  
+3. A oeste do campo de deslocados internos de Washokani, Heseke; 4. zona de Mushairfah, Heseke;  
+5. perto da barragem de Cil Axa Tal Habash, Amude;  
+7. Al-Tawila, Tel Tamir;  
+8. Tirbespi;  
+9. instalações petrolíferas de Saida, Tirbespi;  
+10. Qasf, Sarrin;  
+11. instalações petrolíferas de Al Qaws, Cil Axa;  
+12. central eléctrica, Qamishlo;  
+13. Jalabiyah, Kobane;  
+14. Al-Rakbah, Tel Tamir;  
+15. Subestação de eletricidade, a oeste de Heseke;  
+16. Estação de eletricidade de Amude;  
+17. Instalação petrolífera de Al-Zarba, Tirbespi;  
+18. Dardara, Tel Tamir;  
+19. Instalação petrolífera de Odeh, Tirbespi;  
+20. Estaleiro de construção de Qamishlo;  
+21. Instalações hospitalares de Covid-19, Derik;  
+22. Poços de petróleo de Tel Khatoun, Tirbespi;  
+23. Central eléctrica de Teqil Beqil;  
+24. Kharbi Khoy, Amude;  
+25. Central eléctrica de Segirka Daro, Girke Lege;  
+26. Fábrica de gelo, Karbawi, Qamishlo;  
+27. Central de gás de Suwayda;  
+28. Central eléctrica de Qamishlo (2.a vez);  
+29. Aeroporto de Menagh, Shehba;  
+30. Malikiye, Shehba;  
+31. Poço de petróleo de Girke Lege poço de petróleo;  
+32. Instalação de bombagem de água de Xana Sere, Derik;  
+33. Fábrica de tintas, Kobane;  
+34. Fábrica de nylon Mirkamira, Derik;  
+35. Silos de cereais de Amude;  
+36. Instalações hospitalares de Covid-19, Kobane;  
+37. Poço de petróleo de Dugurka, Girke Lege;
+
+Houve também bombardeamentos intensos ao longo das linhas de contacto \”M4 Strip\”, Manbij e Shehba, e na fronteira perto de Kobane, Tirbespi, Amude e Girke Lege.
+
+CONTACTO
+
+Contactar o Centro de Informação de Rojava através do **WhatsApp: +963 992 461 683** para fotos, vídeos, comentários e contacto com os entrevistados no terreno.
+
+RIC- https://x.com/RojavaIC/status/1710722597405561042?s=20

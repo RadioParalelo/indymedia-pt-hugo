@@ -1,0 +1,86 @@
+---
+title: Block Cop City
+author: Publicação Comunitária
+type: post
+date: 2023-11-09T14:33:01+00:00
+url: /?p=173925
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111381078929573488
+embed_privacy_thumbnail_youtube_GRHkvKIMn6k:
+  - youtube-GRHkvKIMn6k-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_GRHkvKIMn6k_url:
+  - 'https://www.youtube.com/watch?v=GRHkvKIMn6k&list=PLySCgkjD0seI1hFDXs-tW8HTusHyyIpou&index=1&ab_channel=AtlantaCommunityPressCollective'
+categories:
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+tags:
+  - AltPT
+  - Bloqueio
+  - Cop City
+  - Direito à Cidade
+  - Ecologia
+  - Manifestação
+  - Protesto
+  - PTrevolutionTV
+
+---
+Nós marchamos no local da construção. Vamos salvar WEELA UNEE.
+
+&#8220;Em Novembro deste ano, os opositores da Cop City reunir-se-ão na Floresta de South River para uma acção directa não-violenta em massa.
+
+Durante dois anos, um movimento popular atrasou os trabalhos em Cop City, em Atlanta, Geórgia. Mas agora a construção está pronta para começar.
+
+Mais de cem mil residentes locais assinaram uma petição para um referendo sobre Cop City, que permitiria ao povo de Atlanta decidir o destino do projeto através de voto popular.
+
+No entanto, por enquanto, a administração municipal recusa-se até mesmo a contar as assinaturas da petição – protelando-se com problemas legais de má-fé. Se conseguir ultrapassar estes obstáculos, o referendo estará em votação nas próximas eleições, em Março. Sem uma ordem legal para interromper a construção, o que quer que aconteça nas urnas será tarde demais.
+
+É inútil esperar. Com o nosso futuro em jogo e o mundo inteiro a observar, tomaremos uma posição para alterar o curso da história. Se o governo municipal não interromper a construção para ouvir o povo, então teremos simplesmente que fazer isso nós mesmos: uma Ordem Popular de Parada de Trabalho.&#8221;
+
+Para saberes mais sobre o bloqueio visita <https://blockcopcity.org/call-to-action>.<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-139 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="174516" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/copcity-74ffa.jpg" alt="" class="wp-image-174516" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="174518" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/cop-city-lights-scaled-1-1024x576.jpeg" alt="" class="wp-image-174518" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="174517" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F-bIb-sXcAAZSbv-1024x768.jpg" alt="" class="wp-image-174517" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="174513" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/FnnII2RWIAAePTN.jpg" alt="" class="wp-image-174513" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="174519" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/FWrHf8GWIAolL3R-scaled-1-1024x768.jpg" alt="" class="wp-image-174519" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="174514" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/th-1.jpg" alt="" class="wp-image-174514" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="174515" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/th.jpg" alt="" class="wp-image-174515" /></figure> </figure> 
+
+Para os próximos dias 10 a 13 de Novembro está marcado um grande protesto pacífico contra a Cop City na Geórgia, Estados Unidos da America. 
+
+Colectivos dos mais variados sectores têm se mobilizado ao longo dos últimos 2 anos contra a construção da maior instalação de treino policial do Continente Americano.
+
+Em 29 de agosto de 2023, um grande júri do condado de Fulton proferiu uma acusação a 61 pessoas de conspiração criminosa contra um centro de treinamento policial nos arredores de Atlanta, o que aumentou ainda mais a indignação e levou então a este mega protesto a ocorrer nos próximos dias.
+
+No vídeo abaixo tens acesso a alguns vídeos que o colectivo  
+**[Atlanta Community Press Collective][1]** está a fazer com os acusados:<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> 
+
+**Manuel Teran** ou Manuel Tortuguita para os parceiros de luta e amigos foi morto na manhã de 16 de Janeiro de 2023 numa troca de tiros com a policia, em que segundo o relatório policial foi uma troca de tiros iniciada pelo suspeito, algo que não convence quem conhecia Tortuguita, já que ele era pacifista e pelo facto de nunca ter sido encontrada uma arma junto ao seu corpo. O facto das imagens da body cam do policial só terem sido disponibilizadas 2 dias após o incidente mediante grande pressão da opinião pública também não ajuda a posição das forças policias.
+
+Para saberes mais um pouco sobre o Tortuguita espreita aqui:
+
+<https://bittersoutherner.com/feature/2023/little-turtles-war-cop-city-atlanta><figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/IMG_1739-2-1024x639.jpg" alt="" class="wp-image-174512" /> </figure> 
+
+<ul class="wp-block-list">
+  <li>
+    Mas afinal o que é a Cop City?
+  </li>
+</ul>
+
+É o novo Centro de Treinamento em Segurança Pública de Atlanta, um plano para construir o maior centro de treinamento policial dos Estados Unidos. 
+
+O projeto ameaça mais de 300 hectares da Floresta South River, também conhecida pelo nome Muskogee, Weelaunee. A construção proposta inclui uma cidade simulada para a polícia treinar em guerra urbana e táticas de controle de protestos. A Floresta de South River, que é cercada principalmente por bairros negros, foi descrita por grupos ambientalistas como a &#8220;melhor esperança de resiliência contra os piores impactos das mudanças climáticas&#8221; de Atlanta.<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/Cop-City-Training-Center-_-Atlanta-Police-Foundation-1024x682.png" alt="" class="wp-image-174511" /> </figure> 
+
+Para saberes um pouco mais sobre a Cop City espreita este artigo <https://butteratl.com/a-guide-to-understanding-the-proposed-atlanta-public-safety-training-center-a-k-a-cop-city/>
+
+Vamos tentar te manter a par do que se vai passando lá na Cop City mas se nos quiseres ajudar a criar uma equipa para acompanharmos estes protestos entra em contacto connosco.
+
+Pela soberanida da Informação.
+
+ [1]: https://www.youtube.com/@AtlPressCollective

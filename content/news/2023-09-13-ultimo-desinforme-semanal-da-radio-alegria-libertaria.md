@@ -1,0 +1,90 @@
+---
+title: Último “Desinforme Semanal” da Radio Alegría Libertaria
+author: Publicação Comunitária
+type: post
+date: 2023-09-13T17:27:58+00:00
+url: /?p=331
+categories:
+  - Cultura e Arte
+  - Indymedia
+  - Movimentos Sociais
+
+---
+O Desinformativo Semanal acabou. 252 programas depois, o Desinformativo lançou o seu último programa de sempre. Agradecemos à Rádio Alegria Libertaria <a href="http://alegrialibertaria.org" target="_blank" rel="noreferrer noopener">alegrialibertaria.org</a> por todo o excelente trabalho realizado ao longo dos anos.
+
+Desde 2019, o desinforme saía semanalmente, recolhendo informações enviadas por companheires de todo o mundo. Ao longo dos últimos meses a Rádio Paralelo juntou-se ao grupo de rádios que transmitiram o programa semanalmente. Agora, fica um vazio no mundo da informação alternativa.
+
+Saudamos a equipa do desinformativo pela sua contribuição para a história do jornalismo independente.
+
+Fica aqui o seu último episódio:
+
+Display content from www.ivoox.com
+
+Click here to display content from www.ivoox.com
+
+Always display content from www.ivoox.com
+
+<a href="https://www.ivoox.com/player_es_podcast_622494_zp_1.html?c1=bdaa84" target="_blank" rel="noreferrer noopener">Open content directly</a>
+
+Este programa número 252 del des-informativo de Radio Alegría Libertaria ha sido preparado y montado en Aracena (Huelva) y la aldea de Betoñu (Araba).
+
+Puedes enviarnos tus notas de voz, noticias o propuestas a ilusionismosocial@gmail.com o a través de las redes sociales:
+
+_Twitter: <a href="https://twitter.com/librealegria" target="_blank" rel="noreferrer noopener">@librealegria</a>_
+
+_Telegram: <a href="https://t.me/alegrialibertaria" target="_blank" rel="noreferrer noopener">t.me/alegrialibertaria</a>_
+
+### Estas son las noticias que hemos seleccionado para esta semana: {.wp-block-heading}
+
+[ESTADO ESPAÑOL] El Gobierno ha aprobado más de 4.000 millones de gasto militar extra desde que está en funciones – Óscar F. Civieta en <a href="https://twitter.com/lamarea_com" target="_blank" rel="noreferrer noopener">@lamarea_com</a>  
+<a href="https://www.lamarea.com/2023/09/08/el-gobierno-ha-aprobado-mas-de-4-000-millones-de-gasto-militar-extra-desde-que-esta-en-funciones/" target="_blank" rel="noreferrer noopener">https://www.lamarea.com/2023/09/08/el-gobierno-ha-aprobado-mas-de-4-000-millones-de-gasto-militar-extra-desde-que-esta-en-funciones/</a>
+
+[GUATEMALA] El fantasma de la privatización de las semillas vuelve con fuerza – <a href="https://twitter.com/renatabessi" target="_blank" rel="noreferrer noopener">@renatabessi</a> en <a href="https://twitter.com/Avispa_Midia" target="_blank" rel="noreferrer noopener">@Avispa_Midia</a>  
+<a href="https://avispa.org/el-fantasma-de-la-privatizacion-de-las-semillas-vuelve-con-fuerza-en-guatemala/" target="_blank" rel="noreferrer noopener">https://avispa.org/el-fantasma-de-la-privatizacion-de-las-semillas-vuelve-con-fuerza-en-guatemala/</a>
+
+[REGIÓN ARGENTINA] Segmento de noticias desde Villa Escolar (Formosa) – Ariel Cóceres para <a href="https://www.twitter.com/librealegria" target="_blank" rel="noreferrer noopener">@librealegria</a>
+
+<ul class="wp-block-list">
+  <li>
+    Una audiencia pública para que a nadie le falte la tierra para vivir y trabajar – <a href="https://twitter.com/juanwahren" target="_blank" rel="noreferrer noopener">@juanwahren</a> en <a href="https://twitter.com/Tierra_Viva" target="_blank" rel="noreferrer noopener">@Tierra_Viva_</a><br /><a href="https://agenciatierraviva.com.ar/una-audiencia-publica-para-que-a-nadie-le-falte-la-tierra-para-vivir-y-trabajar/" target="_blank" rel="noreferrer noopener">https://agenciatierraviva.com.ar/una-audiencia-publica-para-que-a-nadie-le-falte-la-tierra-para-vivir-y-trabajar/</a>
+  </li>
+  <li>
+    El Tercer Malón de la Paz cumple 1 mes en Buenos Aires reclamando la nulidad de la reforma constitucional de Jujuy – <a href="https://www.twitter.com/farcoargentina" target="_blank" rel="noreferrer noopener">@farcoargentina</a> <a href="https://twitter.com/indyargentina" target="_blank" rel="noreferrer noopener">@indyargentina</a><br /><a href="https://argentina.indymedia.org/2023/09/01/el-tercer-malon-de-la-paz-cumple-1-mes-en-buenos-aires-reclamando-la-nulidad-de-la-reforma-constitucional-de-jujuy/" target="_blank" rel="noreferrer noopener">https://argentina.indymedia.org/2023/09/01/el-tercer-malon-de-la-paz-cumple-1-mes-en-buenos-aires-reclamando-la-nulidad-de-la-reforma-constitucional-de-jujuy/</a>
+  </li>
+</ul>
+
+[MUNDO] La Esperanza y el Temor. Tiempo vacío 9. Por Pedro García Olivo – <a href="https://twitter.com/PGarciaOlivo" target="_blank" rel="noreferrer noopener">@PGarciaOlivo</a> para <a href="https://www.twitter.com/librealegria" target="_blank" rel="noreferrer noopener">@librealegria</a>  
+<a href="http://pedrogarciaolivo.wordpress.com/" target="_blank" rel="noreferrer noopener">http://pedrogarciaolivo.wordpress.com/</a>  
+<a href="https://anchor.fm/pedro-garcia-olivo/" target="_blank" rel="noreferrer noopener">https://anchor.fm/pedro-garcia-olivo/</a>
+
+[ARANJUEZ] Encuentro de Cine Libertario ENCILI 2023 – <a href="https://twitter.com/CNTAranjuez/" target="_blank" rel="noreferrer noopener">@CNTAranjuez</a> para <a href="https://www.twitter.com/librealegria" target="_blank" rel="noreferrer noopener">@librealegria</a>  
+<a href="https://twitter.com/CNTAranjuez/status/1680569576277278721" target="_blank" rel="noreferrer noopener">https://twitter.com/CNTAranjuez/status/1680569576277278721</a>
+
+[LEÓN] VI Alcuentru d’escritos llibertarios, del 11 al 17 de septiembre – Alcuentru para <a href="https://www.twitter.com/librealegria" target="_blank" rel="noreferrer noopener">@librealegria</a>  
+<a href="https://alcuentrullibertariollion.wordpress.com/2023/09/06/vi-alcuentru-descritos-llibertarios/" target="_blank" rel="noreferrer noopener">https://alcuentrullibertariollion.wordpress.com/2023/09/06/vi-alcuentru-descritos-llibertarios/</a>
+
+[ONLINE] Último desinforme semanal de Radio Alegría Libertaria – <a href="https://www.twitter.com/librealegria" target="_blank" rel="noreferrer noopener">@librealegria</a>  
+<a href="https://alegrialibertaria.org/wp/ultimo-desinforme-semanal-de-radio-alegria-libertaria" target="_blank" rel="noreferrer noopener">https://alegrialibertaria.org/wp/ultimo-desinforme-semanal-de-radio-alegria-libertaria</a>  
+<a href="https://twitter.com/librealegria" target="_blank" rel="noreferrer noopener">https://twitter.com/librealegria</a>  
+Telegram: <a href="https://t.me/alegrialibertaria" target="_blank" rel="noreferrer noopener">t.me/alegrialibertaria</a>  
+<a href="https://soundcloud.com/felix-yanez-850746/entraadilla-al-a-macha-alonso" target="_blank" rel="noreferrer noopener">https://soundcloud.com/felix-yanez-850746/entraadilla-al-a-macha-alonso</a>
+
+Sintonía: El periódico – Topo
+
+Música interbloques de este des-informativo: Miriam Méndez.
+
+Podéis saber más sobre esta intérprete sevillana de piano flamenco, y escuchar su música, en La Alegre Corchea Libertaria: <a href="https://alegrialibertaria.org/wp/miriam-mendez-bach-mozart-y-paganini-al-piano-flamenco-reposicion/" target="_blank" rel="noreferrer noopener">https://alegrialibertaria.org/wp/miriam-mendez-bach-mozart-y-paganini-al-piano-flamenco-reposicion/</a>
+
+¡Hola! Bienvenidas y bienvenidos al des-informativo semanal de Radio Alegría Libertaria!
+
+No es un informativo con un orden, con un curso. No es un contrainformativo con un nuevo orden, un nuevo curso. Es un des-informativo para encontrarse con el caos creativo, que nos ayuda a transformar el mundo, que genera situaciones que facilitan el alumbramiento de un mundo nuevo, de mundos nuevos.
+
+Este espacio de des-información pretende abrirse, sin cerrar, a todas aquellas situaciones, individuales, grupales y colectivas, que tengan como referencia el espacio fundacional que dio origen a la Primera Internacional, y también aquellas que se generen en el seno de las culturas populares, o de las culturas alternativas no alineadas con el Estado o el Mercado.
+
+Este des-informativo semanal no responde a ninguna línea de ninguna organización política, a ningún interés de ningún estado, ni al negocio de ningún mercado.
+
+Es un espacio abierto a la participación. Podéis enviar vuestras noticias a ilusionismosocial@gmail.com, o, si lo preferís por wasap, podéis enviarnos un correo y os enviaremos nuestro número de teléfono.
+
+Se reemite por estas nuestras radios hermanas: <a href="http://radiotopo.org" target="_blank" rel="noreferrer noopener">Radio Topo</a> (Zaragoza), <a href="http://radioespiritrompa.blogspot.com/" target="_blank" rel="noreferrer noopener">Radio Espiritrompa</a> (Prepirineo de Huesca), la <a href="https://zintzilik.net/" target="_blank" rel="noreferrer noopener">Ke Huelga Radio</a> (Ciudad Monstruo, México), <a href="http://radiodiversidad.com.ar/" target="_blank" rel="noreferrer noopener">Radio Diversidad</a>&nbsp;(Villa Escolar, Formosa, Argentina), <a href="https://www.agorasolradio.org/" target="_blank" rel="noreferrer noopener">Agora Sol Radio</a> (Madrid), <a href="https://radioalmaina.org/" target="_blank" rel="noreferrer noopener">Radio Almaina</a> (Granada), <a href="https://www.radiotrama.cat/" target="_blank" rel="noreferrer noopener">Ràdio Trama</a> (Sabadell, Catalunya), &nbsp;<a href="https://laconquistadelpan.com.ar/" target="_blank" rel="noreferrer noopener">Radio La Conquista del Pan</a> (región argentina), <a href="https://www.zintzilik.net/" target="_blank" rel="noreferrer noopener">Zintzilik Irratia</a> (Orereta, Gipuzkoa),&nbsp;<a href="https://irolairratia.org/" target="_blank" rel="noreferrer noopener">Irola Irratia</a> (Bilbao, Bizkaia), <a href="https://radiomalva.org/" target="_blank" rel="noreferrer noopener">Ràdio Malva</a> (Cabanyal, València), <a href="https://radiogallinera.net/" target="_blank" rel="noreferrer noopener">Ràdio Gallinera</a> (Vall de Gallinera, Alicante), <a href="https://radioencadenada.org/" target="_blank" rel="noreferrer noopener">Radio Encadenada</a> (Linares, Jaén) y <a href="https://radiotirsolibertaria.cntmadrid.org/" target="_blank" rel="noreferrer noopener">Radio Tirso Libertaria</a> (Madrid).
+
+Saludos y… ¡comenzamos!

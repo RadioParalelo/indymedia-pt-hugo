@@ -1,0 +1,94 @@
+---
+title: 'Pseudo SIMPLEX Ambiental: desresponsabilizar sem desburocratizar'
+author: Publicação Comunitária
+type: post
+date: 2023-12-04T10:14:42+00:00
+url: /?p=213918
+admin_form_source:
+  - form65033c1176054
+categories:
+  - Ecologia e Animais
+  - Indymedia
+
+---
+**Trinta e Três Associações e Movimentos de Cidadãos emitiram uma Declaração Conjunta sobre o Simplex Ambiental**
+
+_MANIFESTO_
+
+A crise ecológica ameaça a civilização como a conhecemos, conforme indicado pelos relatórios do IPCC e do IPBES, destacando a urgência global de preservar os valores ambientais. Em Portugal, contrastando com essa necessidade, o governo aprovou o Decreto-Lei 11/2023, conhecido como Simplex Ambiental, visando simplificar os procedimentos administrativos para autorizações e licenças ambientais. Contudo, as entidades signatárias deste manifesto contestam vigorosamente este decreto, argumentando que, apesar de alguns aspectos positivos, ele compromete a qualidade e proteção ambiental, violando leis nacionais, europeias e acordos internacionais.
+
+As organizações destacam que o Simplex Ambiental, ao reduzir prazos e excluir avaliações e verificações necessárias, promove a desresponsabilização em detrimento do interesse coletivo, natureza, biodiversidade e desenvolvimento sustentável. Enumeram várias preocupações, desde a diminuição da obrigatoriedade de Avaliações de Impacte Ambiental até à automatização da revalidação de licenças, alertando para os riscos associados.
+
+Além disso, o manifesto aponta a falta de mecanismos de monitorização e transparência, enfatizando que a tentativa de agilizar processos não incentiva a criação de projetos ambientalmente conscientes. Salienta-se a importância da Avaliação de Impacte Ambiental (AIA) como ferramenta essencial para a melhoria da conceção de projetos e a participação pública na tomada de decisões.
+
+O Simplex Ambiental, ao comprometer o princípio da precaução e da participação, coloca em risco o interesse comum e a integridade ecológica para as gerações futuras. As associações e movimentos signatários apelam à revogação imediata deste Decreto-Lei em vigor desde março de 2023.
+
+_Associações e Movimentos Signatários:_
+
+Arméria &#8211; Movimento Ambientalista de Peniche
+
+AAMDA &#8211; Associação dos Amigos do Mindelo pela Defesa do Ambiente
+
+AP &#8211; Associação dos Proprietários da Urbanização Vila D Este IPSS
+
+ASE &#8211; Associação Cultural Amigos da Serra da Estrela
+
+Associação Famalicão em Transição
+
+Associação Natureza Portugal, em associação com a WWF
+
+BioPorto &#8211; Grupo de Ação Ambiental
+
+Campo Aberto Associação de Defesa do Ambiente
+
+Climáximo
+
+FAPAS &#8211; Associação Portuguesa para a Conservação da Biodiversidade
+
+GEOTA &#8211; Grupo de Estudos do Ordenamento do Território e Ambiente
+
+OnGaia &#8211; Associação de Defesa do Ambiente
+
+Palombar &#8211; Conservação da Natureza e do Património Rural
+
+PAS – Plataforma Água Sustentável, constituída por:
+
+A Rocha Portugal
+
+Água é Vida
+
+Al-Bio &#8211; Associação Agroecológica do Algarve
+
+Almargem &#8211; Associação de Defesa do Património Cultural e Ambiental do Algarve
+
+CIVIS &#8211; Associação para o Aprofundamento da Cidadania
+
+Dunas Livres
+
+Ecotopia Ativa &#8211; Associação Ambiental e de Desenvolvimento Sustentável
+
+FALA &#8211; Fórum do Ambiente do Litoral Alentejano
+
+Faro 1540 &#8211; Associação de Defesa e Promoção do Património Ambiental e Cultural de Faro
+
+Glocal Faro
+
+LPN &#8211; Liga para a Protecção da Natureza
+
+Probaal &#8211; Associação para o Barrocal Algarvio
+
+Quercus &#8211; Associação Nacional de Conservação da Natureza
+
+Regenerarte &#8211; Associação de Proteção e Regeneração dos Ecossistemas.
+
+Regar
+
+proTEJO &#8211; Movimento Pelo Tejo
+
+Sciaena
+
+SPEA &#8211; Sociedade Portuguesa para o Estudo das Aves
+
+SPECO &#8211; Sociedade Portuguesa de Ecologia
+
+ZERO &#8211; Associação Sistema Terrestre Sustentável

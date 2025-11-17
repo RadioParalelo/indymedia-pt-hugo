@@ -1,0 +1,75 @@
+---
+title: Academia Cidadã lança “Carta aberta pelo fim da repressão policial contra ativistas climáticos”. 
+author: Publicação Comunitária
+type: post
+date: 2023-12-12T14:03:25+00:00
+url: /?p=214347
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111567818802543178
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+  - Repressão
+tags:
+  - AltPT
+  - Indymedia
+  - Lisboa
+  - PTrevolutionTV
+
+---
+<figure class="wp-block-embed is-type-wp-embed is-provider-academia-cidad wp-block-embed-academia-cidad">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="wp-embedded-content" data-secret="x5BdvUymOH">
+    <a href="https://academiacidada.org/carta-aberta-pelo-fim-da-repressao-policial-contra-ativistas-climaticos/">Carta aberta pelo fim da repressão policial contra ativistas climáticos </a>
+  </blockquote>
+</div></figure> 
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    Caro Presidente da República, Marcelo Rebelo de Sousa,<br />Caras e caros deputados à Assembleia da República,&nbsp;
+  </p>
+</blockquote>
+
+Nas últimas semanas, testemunhámos perplexos uma série de incidentes perturbadores que envolvem&nbsp;<a href="https://www.dn.pt/sociedade/climaximo-denuncia-detencao-de-12-ativistas-sem-justificacao-legal-17131222.html" target="_blank" rel="noreferrer noopener">detenções arbitrárias</a>,&nbsp;<a href="https://expresso.pt/sustentabilidade/crise-climatica/2023-11-15-Esta-a-normalizar-se-uma-repressao-da-luta-estudantil-tres-estudantes-detidas-em-protesto-climatico-na-Faculdade-de-Psicologia-54e3cb89" target="_blank" rel="noreferrer noopener">repressão policial dentro de universidades</a>&nbsp;e até mesmo&nbsp;<a href="https://www.instagram.com/p/C0COKVpsRG3/?img_index=2" target="_blank" rel="noreferrer noopener">violência física</a>&nbsp;contra ativistas climáticos que têm exercido o seu direito fundamental de manifestação não violenta, consagrado na Constituição Portuguesa no artigo 45º.&nbsp;&nbsp;
+
+A crescente repressão policial, com relatos de detenções prolongadas, táticas intimidatórias e uso excessivo de força, não coloca apenas em risco a integridade física e emocional dos e das ativistas, como também representa uma ameaça à própria essência da democracia, da liberdade de expressão e do direito à manifestação.&nbsp;
+
+É imperativo sublinhar que todas as ações empreendidas pelos ativistas são não violentas sendo sim orientadas para a ação coletiva, com a finalidade de enfrentar a crise climática. Importa lembrar que todas estas ações e exigências se encontram, alinhadas com a melhor ciência climática disponível e a urgência preconizada pelo próprio Secretário-Geral das Nações Unidas, António Guterres, que afirmou recentemente e sem reservas que o “colapso climático começou”. A nossa sociedade precisa de espaço para o diálogo e para a construção coletiva de soluções, algo que estes ativistas têm tentado criar, mas que têm sido sistemática e incompreensivelmente ignorados.&nbsp;
+
+Enquanto decorria a COP28, presidida por um magnata dos combustíveis fósseis que&nbsp;<a href="https://www.politico.eu/article/uae-cop28-climate-oil-gas-deal-leak-sultan-ahmed-al-jaber/" target="_blank" rel="noreferrer noopener">irá aproveitar a cimeira para avançar declaradamente nas suas intenções de fechar negócios de petróleo e gás</a>, deparamo-nos, no nosso país, com violência e repressão policial para com ativistas climáticos não violentos.&nbsp;&nbsp;
+
+A violência contra aqueles que se dedicam ao combate às alterações climáticas é inaceitável e repudiamos qualquer tentativa de justificá-la.&nbsp;
+
+Rejeitamos que o adensamento da crise climática e o encurtamento dos prazos ditados pela ciência sirvam como pretexto para práticas antidemocráticas que alimentam a ideia de que a repressão é um caminho para silenciar ativistas não violentos que lutam pelo futuro de todas e todos.&nbsp;
+
+Na história recente do nosso país, a organização estudantil nas faculdades e universidades foi força catalisadora na formação de consciências críticas e absolutamente incontornável na busca pela liberdade e na resistência ao regime autoritário. Lá, foram levadas a cabo ações repressivas que nos envergonham a todos e é com assombro que voltamos a ver forças de segurança policial irromper pelas instituições públicas de Ensino Superior para interromper palestras e ações de protesto não violentas.&nbsp;
+
+Prestes a entrar no ano em que se celebrarão 50 anos do 25 Abril, que derrubou uma ditadura fascista e onde a resistência estudantil foi determinante, não podemos tolerar a repressão e violência policial a que temos assistido.&nbsp;
+
+Como defensores dos direitos humanos, da justiça social, climática e ambiental, instamos as autoridades a respeitarem e protegerem os direitos fundamentais de todos os cidadãos, incluindo o direito à liberdade de expressão, de reunião pacífica e de participação ativa na construção de um futuro digno.&nbsp;
+
+Como tal, exigimos que tais abusos da autoridade sejam interrompidos imediatamente e entendemos como urgente uma investigação completa e imparcial sobre os incidentes de repressão policial e violência contra ativistas climáticos.&nbsp;
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+**As entidades abaixo assinadas,  
+** Academia Cidadã  
+CIDAC (Centro de Intervenção Para o Desenvolvimento Amílcar Cabral)  
+Climáximo  
+Greve Climática Estudantil  
+Habita  
+Manas  
+MUBI (Associação pela Mobilidade Urbana em Bicicleta)  
+PATAV (Plataforma Anti Transporte de Animais Vivos)  
+Plataforma Troca  
+Poly Portugal  
+Rede Ex Aequo  
+Sciaena  
+Sirigaita  
+SOS Racismo  
+STCC (Sindicato dos Trabalhadores dos Call Centers)  
+UMAR (União de Mulheres Alternativa e Resposta)

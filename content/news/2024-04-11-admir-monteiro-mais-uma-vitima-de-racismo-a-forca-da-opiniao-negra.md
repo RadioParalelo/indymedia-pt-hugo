@@ -1,0 +1,47 @@
+---
+title: 'Ademir Moreno: mais uma vítima de racismo – A Força da Opinião Negra'
+author: Publicação Comunitária
+type: post
+date: 2024-04-11T12:12:27+00:00
+excerpt: Ella Stattmiller, e o coletivo do Lado Negro comentam o caso de mais um assassinado de motivação racial.
+url: /?p=222518
+activitypub_status:
+  - federated
+mf2_syndication:
+  - 'a:1:{i:0;s:48:"https://todon.eu/@indymediapt/112224047910410587";}'
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <p>
+    <a href="https://vid.puffyan.us/watch?v=Gk8AQ7Dl-3I">https://vid.puffyan.us/watch?v=Gk8AQ7Dl-3I</a>
+  </p>
+</div>
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  </div>
+  
+  <p>
+    <a href="https://youtube.com/watch?v=Gk8AQ7Dl-3I"> https://youtube.com/watch?v=Gk8AQ7Dl-3I </a>
+  </p>
+</div>
+
+Instâncias [Invidious][1] alternativas:  
+<https://redirect.invidious.io/watch?v=Gk8AQ7Dl-3I><figure class="wp-block-image size-large">
+
+![][2] </figure> 
+
+**O Lado Negro da Força** | A força da opinião negra  
+[Youtube][3] | [Facebook][4] | Também no [AfroLink][5]
+
+ [1]: https://invidious.io/
+ [2]: https://cmi.indymedia.pt/wp-content/uploads/2024/04/maxres-7990301-2182059-8592625.jpg
+ [3]: https://www.youtube.com/@OLadoNegrodaForca/videos
+ [4]: https://www.facebook.com/oladonegrodaforca2019/
+ [5]: https://afrolink.pt/?s=O+Lado+Negro+da+For%C3%A7a+

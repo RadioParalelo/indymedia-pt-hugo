@@ -1,0 +1,42 @@
+---
+title: 'Centro Social Okupado em Saragoça: o CSO Loira.'
+author: Publicação Comunitária
+type: post
+date: 2023-11-02T19:04:05+00:00
+url: /?p=95177
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111342508949492048
+categories:
+  - Indymedia
+  - Poder e Autodeterminação
+tags:
+  - AltPT
+  - Direito à Cidade
+  - Espanha
+  - okupa
+  - PTrevolutionTV
+
+---
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-132 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large"><img decoding="async" data-id="95180" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/397532465_1029946181386332_3788208363845594156_n-1024x1024.jpg" alt="" class="wp-image-95180" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="95178" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/398356686_1014589766494698_8515225426275844361_n.jpg" alt="" class="wp-image-95178" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="95181" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/398242353_1021090108937353_8757063999451051555_n-1024x1024.jpg" alt="" class="wp-image-95181" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="95179" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/397449438_839817714502396_8279248129998541481_n-1024x1024.jpg" alt="" class="wp-image-95179" /></figure> </figure> 
+
+Esta marcada para o próximo fim de semana a abertura do Centro Social Okupado CSO Loira na cidade de Saragoça, Espanha.
+
+De momento ainda não se sabe a localização exacta, algo que só será revelado no próximo Sábado.
+
+Para assinalar a data esta preparada um programação para festejar a abertura deste novo espaço no nosso país vizinho.
+
+Na página de Instagram https://www.instagram.com/cso_loira/ podes encontrar o comunicado abaixo.
+
+&#8220;Este fim de semana será a inauguração de um novo Centro Social Ocupado em Saragoça: o CSO Loira.
+
+Durante os dias 4 e 5, este novo espaço comunitário e autogerido abrirá suas portas e oferecerá atividades para todos os moradores da cidade.
+
+O endereço será revelado neste sábado, então nos acompanhe e fique atento nas redes!&#8221;
+
+Todo o nosso trabalho é auto-financiado se puderes ajudar entra em contacto connosco
+
+Pela soberania da informação.

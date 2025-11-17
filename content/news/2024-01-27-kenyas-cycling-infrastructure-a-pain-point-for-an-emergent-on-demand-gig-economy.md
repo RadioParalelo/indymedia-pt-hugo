@@ -1,0 +1,42 @@
+---
+title: 'Kenya’s cycling infrastructure: A pain point for an emergent on-demand gig economy'
+author: Publicação Comunitária
+type: post
+date: 2024-01-27T11:17:53+00:00
+url: /?p=216464
+fpsm_author_name:
+  - Alex Kanyi has been a member of Indymedia Kenya since 2018.
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Cultura e Arte
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+
+---
+<span style="font-weight: 400">By Alex Kanyi of Indymedia Kenya, IMC-Africa</span>
+
+<span style="font-weight: 400">It takes 21 minutes in Seoul, 32 minutes in New York, 40 minutes in London and 1 hour 18 minutes in Nairobi to cover 10 kilometers during peak hours of traffic aka rush hour. </span>
+
+<span style="font-weight: 400">Now imagine a pizza or prescription medicine getting to you an hour and a quarter after you placed an order. This is the growing pain of the online delivery economy in Nairobi. The industry is ballooning in Africa and is estimated to hit the $182,000 million mark by 2024, globally. Platform-to-Consumer delivery will be the highest-grossing food delivery sector, with 45% of online grocery shoppers being millennials. But all of this potential growth for the GDP hinges upon the one thing that Governments have been sleeping on, cycling infrastructure. </span>
+
+<span style="font-weight: 400">Most roads have either poor bike lanes or no lanes at all. And these are not roads made in the 1990s, no, these are roads being made today. With most industrialized western countries doing away with their overreliance on motorized transport for cycling, a far greener alternative, African countries are yet again slow to catch on.  </span>
+
+<span style="font-weight: 400">Secure, well demarcated bike ways are key to better quality of city life, less vehicular wear and tear on roads and a healthy populace. All these make money sense if you contrast the wage bill on maintaining the roads, combating climate change effects and relieving the overburdened healthcare system. But more importantly is the creation of an environment where delivery gig work thrives and steps up to being a big earner for young people, who majorly fall under the “untaxable” domain due to lack of gainful employment.</span>
+
+<span style="font-weight: 400">Currently, there are cycle-lanes only on a few major roads like Jogoo road, Outering road, and Ngong road. There was a bike lane along Mombasa road, but the Nairobi Expressway has erected pillars on it making it unusable. Nonetheless, these lanes face a plethora of issues from being derelict and littered with all manner of rubbish including broken bottles. At some sections, they are reappropriated by businessmen who put up shops or display their wares on them. It’s not a surprise to find a kiosk brazenly erected on the cycle-lane, or motorbikes using </span><span style="font-weight: 400">part of it as a boda boda rank. Motorists park on bike lanes with utmost impunity. County workers charged with the cleaning and maintaining of these pathways give them a wide berth and complete abandon. Just a stone throw away from Buruburu police station, cycling tracks along Rabai road have been converted to garages and auto spare parts shops.  </span>
+
+<span style="font-weight: 400">Back in 2020 Samburu West Member of Parliament, Naisula Lesuuda, sponsored the Non-Motorised Transport legislation to amend Kenya Roads Bill 2022, where it sought to penalize any motorist up to 1 million shillings for the unlawful use of a pedestrian lane or cycling track. Unfortunately, this piece of legislation is good on paper only than in actual practice. According to the most recently published National Police Annual Report 2020, no person was arrested for unlawful use of cycling lanes.</span>
+
+<span style="font-weight: 400">In 2021, National Transport and Safety Authority, NTSA conducted research and the data showed that 59% of cyclists decried lack of security, inadequate cycling lanes, non-existent traffic lamps and motorized congestion as the primary impediments curtailing a cycling culture.  That same year 1,477 pedestrians including cyclists were killed just shy of road fatalities amongst motorcyclists that came in first at 1,634. Among the contributing factors for cyclist mortality is being forced to share the road with other users who seem not to be sympathetic to their rights of equality on the road. With the majority of cyclists cycling to work every day at 67% and 11% for shopping trips, more work needs to be done to make Kenyan roads just and inclusive for all citizens. It is no wonder there are far fewer women cyclists in Kenya compared to other countries in the East African region. Issues of personal security and sexual harassment on the roads further contributes as to why cycling amongst women still lags behind. With a 99.6% to 0.4% male to female cyclists ratio, our roads have a long way to go to feel inclusive of all genders.</span>
+
+<span style="font-weight: 400">Emerging from the thralls of COVID-19 pandemic eCommerce has been stimulated more than ever. Consequently, the delivery gig economy can only grow in girth and metric from here on out. The number of users is expected to reach 32 million by 2025. And if the current business trend by platforms like Glovo, Jumia, MYDAWA, Phone Place Kenya and a bunch</span> <span style="font-weight: 400">of eatery places around Nairobi is anything to go by, cycling will be a major game changer for short distance delivery beats. </span>
+
+<span style="font-weight: 400">A white paper on facilitation and adoption of eCommerce via Postal and courier networks revealed that most in-house fleets are not tenurable for many start-up and medium-sized businesses due to the investment levels needed. Which presents an opportunity for independent courier networks to offer tailor-made, efficient and timely options. Most companies integrate outsourced services of motorbike riders for short distances and more traditional means like postal services for that national-wide reach. But with the prevailing high pump prices for petrol and the endemic traffic congestion in the city, more and more establishments are going for cycling delivery services. These services are not only cost-effective, but are fast and reliable. Nimble enough to wade through traffic for that timely delivery and agile enough to save overhead costs attributed to fuel inflation. </span>
+
+<span style="font-weight: 400">The sustainability of on-demand delivery services thus heavily depends on proper infrastructure for couriers, and industry stakeholders must begin to grapple with the fact that it is a major pain point for a million-dollar industry. Safety of delivery couriers and deliveries must be guaranteed if any real gains are to be made to the bottom line.  </span>
+
+<span style="font-weight: 400">While on-demand delivery services may have been the reserve of B2C Business-to-Consumer in the not so distant past, anecdotal data indicate that increasing demand in other forms of models is creeping up. For instance, B2B Business-to-Business, where businesses involve the services of a cycling  courier to deliver goods and services in a rapid fashion, for the ease of doing business and for that value-add component along the business supply-demand chain. C2C Customer-to-Customer, where two customers decide to do business privately and trade or buy amongst each other. Even G2C Government-to-Citizen has been tried, for example the delivery of vaccines in far-flung and remote areas of this country using bicycles.  </span>
+
+<span style="font-weight: 400">In order to make headway and penetrate the eCommerce on-demand delivery plateau, the answer lies in</span> <span style="font-weight: 400">improving cycling infrastructure. That will in turn improve the lives of the city dwellers and at the same time save the Exchequer a pretty penny.</span>

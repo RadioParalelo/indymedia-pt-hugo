@@ -1,0 +1,122 @@
+---
+title: Programação de Fevereiro na Tigre de Papel
+author: Publicação Comunitária
+type: post
+date: 2024-02-02T13:06:44+00:00
+excerpt: Programação de Fevereiro da Livraria Tigre de Papel, em Lisboa.
+url: /?p=218056
+fpsm_author_name:
+  - Tigre de Papel
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+tags:
+  - Tigre de Papel
+
+---
+<div class="" dir="auto">
+  <div id=":ra5:" class="x1iorvi4 x1pi30zi x1l90r2v x1swvt13" data-ad-comet-preview="message" data-ad-preview="message">
+    <div class="x78zum5 xdt5ytf xz62fqu x16ldp7u">
+      <div class="xu06os2 x1ok221b">
+        <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+          <div dir="auto">
+            <strong>Sábado, 3 de Fevereiro, às 16h</strong>
+          </div>
+          
+          <div dir="auto">
+            Clube de Leitura Anarco-Feminista | A Ficção como Cesta
+          </div>
+          
+          <div dir="auto">
+          </div>
+        </div>
+        
+        <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+          <div dir="auto">
+            <strong>Quinta-feira, 8 de Fevereiro, às 18h30</strong>
+          </div>
+          
+          <div dir="auto">
+            Apresentação do livro Jornalistas em Greve. Imprensa e Sindicalismo na Primeira República, de José Nuno Matos, com a participação do autor e de Luís Trindade
+          </div>
+          
+          <div dir="auto">
+          </div>
+        </div>
+        
+        <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+          <div dir="auto">
+            <strong>Sexta-feira, 16 de Fevereiro, às 18h30</strong>
+          </div>
+          
+          <div dir="auto">
+            Como viver num mundo submerso? Conversa em torno da publicação do projecto Waterworld e do conto Big Splash, de Joana Bértholo, e lançamento do site do projecto, com Ana Baliza, Bruno Caracol, Joana Bértholo e Lucinda Correia
+          </div>
+          
+          <div dir="auto">
+          </div>
+        </div>
+        
+        <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+          <div dir="auto">
+            <strong>Segunda-feira, 19 de Fevereiro, às 18h30</strong>
+          </div>
+          
+          <div dir="auto">
+            Argentina, um país à beira de um ataque de nervos. Conversa com Sergio Perelman (economista) e Andrés Malamud (politólogo)
+          </div>
+        </div>
+        
+        <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+          <div dir="auto">
+          </div>
+          
+          <div dir="auto">
+            <strong>Quinta-feira, 22 de Fevereiro, às 18h30</strong>
+          </div>
+          
+          <div dir="auto">
+            FICÇÃO-contra-FICÇÃO | Raul Brandão – a verdadeira história é a dos gritos | conversa com Vasco Medeiros Rosa
+          </div>
+        </div>
+        
+        <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+          <div dir="auto">
+          </div>
+          
+          <div dir="auto">
+            <strong>Sábado, 24 de Fevereiro, às 16h</strong>
+          </div>
+          
+          <div dir="auto">
+            Manchar com música a Tigre de Papel. Concerto Acústico Pedro_Julio
+          </div>
+        </div>
+        
+        <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+          <div dir="auto">
+          </div>
+          
+          <div dir="auto">
+            <strong>Quinta-feira, 29, às 18h30</strong>
+          </div>
+          
+          <div dir="auto">
+            Conversas com Editores | Isabel Minhós Martins (Planeta Tangerina)
+          </div>
+        </div>
+        
+        <div dir="auto">
+          ______
+        </div>
+        
+        <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+          <div dir="auto">
+            (Cartaz de Alejandro Levacov.)
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

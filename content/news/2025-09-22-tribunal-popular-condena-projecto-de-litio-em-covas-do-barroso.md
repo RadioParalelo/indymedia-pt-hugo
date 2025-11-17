@@ -1,0 +1,73 @@
+---
+title: Tribunal Popular condena projecto de Lítio em Covas do Barroso
+author: Publicação Comunitária
+type: post
+date: 2025-09-22T07:44:15+00:00
+url: /?p=226430
+activitypub_status:
+  - federated
+fpsm_author_name:
+  - 'Unidos em Defesa de Covas do Barroso - Comunicados de Imprensa'
+links:
+  - https://udcb.pt/
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Ecologia e Animais
+
+---
+<div>
+  <h4 id="v1m_-3066495488274056038gmail-docs-internal-guid-085d5dbf-7fff-e1af-3ef2-593bd4808adb" dir="ltr">
+    <strong>Tribunal Popular condena projecto de Lítio em Covas do Barroso</strong>
+  </h4>
+  
+  <p dir="ltr">
+    5ª edição do Acampamento em Defesa do Barroso culmina em protesto centrado no tema da justiça popular
+  </p>
+</div>
+
+<div>
+  No dia 9 de Agosto, a população de Covas do Barroso e Romainho levou ao banco dos réus o projecto mineiro previsto para a região, através de um momento performativo de justiça popular, parte da 5ª edição do Acampamento em Defesa do Barroso.
+</div>
+
+<div>
+</div>
+
+<div>
+  Há oito anos, a população de Covas do Barroso resiste a um projeto de mineração a céu aberto imposto pelos sucessivos governos, cuja persistência, apesar da forte contestação, tem alimentado uma profunda crise de confiança nas instituições.</p> 
+  
+  <p dir="ltr">
+    Foi esta sensação de abandono e a necessidade de se defenderem por si próprios que inspirou o protesto teatral realizado no Acampamento em Defesa do Barroso, este ano centrado no tema da justiça popular. No último ano, a empresa Savannah Resources, promotora do projeto de mina, obteve uma servidão administrativa que lhe permitiu entrar em terrenos baldios e privados contra a vontade dos proprietários, com autorização do governo, para efetuar trabalhos de prospeção. Perante esta situação, os moradores de Covas do Barroso e de Romainho organizaram um protesto sob a forma de um tribunal popular barrosão, no qual o &#8220;Sacana&#8221; — figura alegórica que representa o projeto de mina — foi colocado no banco dos réus.
+  </p>
+  
+  <p dir="ltr">
+    Nove moradores locais, muitos deles vítimas diretas da prospeção forçada nos seus terrenos, apresentaram as suas acusações ao &#8220;Sacana&#8221;, apoiados por uma multidão solidária. Entre eles, Lúcia Pires, residente de 20 anos em Romainho, declarou: &#8220;É um ataque direto às nossas vidas. Não nos ouviram. Não nos consultaram. E ainda tentam pôr-nos uns contra os outros. Quando a terra estiver destruída, o que fica? Esta mina não é para nós. É para exportar lucro e deixar o prejuízo. E eu recuso-me a ser cúmplice disso. Acuso a empresa. Acuso quem autorizou. E quem não está do lado da terra, das raízes, daquilo que levou gerações a construir, está do lado da destruição.&#8221;
+  </p>
+  
+  <p dir="ltr">
+    O &#8220;Sacana&#8221; teve direito a defesa, apresentada por uma advogada, antes de a multidão ser chamada a deliberar. Por unanimidade, o tribunal popular declarou-o culpado e sentenciou-o a &#8220;pagar pelos seus crimes&#8221;. Para Nélson Gomes, presidente da União de Defesa de Covas do Barroso (UDCB): &#8220;Foi uma maneira de darmos palco às pessoas da aldeia que mais têm sofrido com isto. E de criarmos aqui a justiça que tanto nos tem faltado.&#8221;
+  </p>
+  
+  <p dir="ltr">
+    Após o tribunal terrestre, realizou-se ainda o &#8220;tribunal do purgatório&#8221;, onde a alma do &#8220;Sacana&#8221; voltou a responder pelos danos causados à aldeia. Inspirado nas tradições carnavalescas locais, este protesto procurou criar um momento em que a comunidade pudesse, de forma coletiva, libertar e transformar as dores e indignações acumuladas ao longo de um ano marcado por inúmeras violências e injustiças.
+  </p>
+  
+  <p dir="ltr">
+    A iniciativa foi também uma oportunidade para reafirmar a posição da comunidade: a rejeição inequívoca de um projeto de mineração que ameaça o território e a vida em Covas do Barroso — a mesma mensagem que a população tem transmitido ao longo de oito anos de luta.
+  </p>
+</div>
+
+> &#8220;O Comité da Convenção de Aarhus deu razão à queixa apresentada em 2021 pela Fundação Montescola, concluindo que a Agência Portuguesa do Ambiente (APA), a Direção Geral de Energia e Geologia (DGEG) e a Comissão de Coordenação e Desenvolvimento Regional Norte (CCDR-N) retiveram de maneira deliberada e infundada informação essencial à participação pública no processo de avaliação ambiental da Mina do Barroso.
+> 
+> A queixa remonta ao período da consulta pública da primeira versão do Estudo de Impacto Ambiental em 2021 após terem sido negados vários pedidos de acesso a documentos ligados ao procedimento de Avaliação de Impacto Ambiental. A queixa continuou a ser alimentada com novos factos ligados ao período de consulta pública do Estudo de Impacto  
+> Ambiental reformulado (2023). Os motivos apresentados para recusar o acesso à informação por parte da APA, DGEG e  
+> CCDR-N foram invalidados pelo Comité da Convenção após um longo processo deliberatório que agora culmina.
+> 
+> A Fundação Montescola, a associação Unidos em Defesa de Covas do Barroso (UDCB) e a MiningWatch Portugal  observadoras no processo) consideram que o Comité vem corroborar aquilo que afirmam há anos: o processo de avaliação de impacte ambiental não garantiu o direito à participação pública, resultado da sobreposição de critérios políticos  
+> pouco escrutinados a processos de avaliação transparentes, ponderados e independentes. Isto conduz a falhas constantes das entidades públicas responsáveis pelas avaliações em assegurar o direito à informação e participação. A dimensão estrutural do incumprimento é aliás referida nas deliberações do Comité da Convenção&#8221;
+> 
+> <https://unece.org/env/pp/cc/accc.c.2021.186_portugal>
+> 
+> [https://unece.org/sites/default/files/2025-08/C186\_Portugal\_Findings\_advance\_unedited.pdf][1]
+
+ [1]: https://unece.org/sites/default/files/2025-08/C186_Portugal_Findings_advance_unedited.pdf

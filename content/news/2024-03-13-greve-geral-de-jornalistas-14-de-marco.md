@@ -1,0 +1,167 @@
+---
+title: 'Greve Geral de Jornalistas: 14 de março'
+author: Publicação Comunitária
+type: post
+date: 2024-03-13T22:18:03+00:00
+url: /?p=221749
+activitypub_status:
+  - federated
+mf2_syndication:
+  - 'a:1:{i:0;s:48:"https://todon.eu/@indymediapt/112090708503560884";}'
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+tags:
+  - JornalistasEmGreve
+
+---
+ 
+
+Chegou o momento de passarmos das palavras aos atos. Há muito que o diagnóstico está feito: degradou-se o exercício do jornalismo. Sobrevivemos com baixos salários, precariedade, sujeitos a uma irrazoável pressão para o imediatismo, à constante falta de tempo. Chegou o momento de exigirmos respeito.
+
+As conclusões do último Congresso de Jornalistas são claras: “a paixão dos jornalistas pela profissão não pode servir de pretexto para a exploração do seu trabalho por parte das empresas”. O nosso amor à profissão não pode ser instrumentalizado como salário emocional.
+
+Não é admissível expulsar quem tem décadas de redação por ganhar um pouco acima da média. Não é admissível ter fotojornalistas a pagar o seu próprio equipamento. Não é admissível condenar os repórteres de imagem e editores de imagem a uma eternidade como falsos recibos verdes. Não é admissível ter estagiários a receber 150 euros por mês. Não é admissível haver freelancer a receber 20 euros à peça. Não é admissível o país ter metade dos concelhos sem um jornal local.
+
+Decidimos em janeiro avançar para uma greve geral de jornalistas. Para momentos muito graves, atitudes e gestos consentâneos. É lamentável que, nos 50 anos do 25 de Abril, um pilar fundamental da democracia esteja tão ameaçado. Jornalismo precário não é jornalismo livre. Uma democracia não sobrevive sem jornalismo de qualidade. E nós, jornalistas, temos o dever de denunciar as “condições desumanas de trabalho” em que produzimos informação. Palavras do congresso.
+
+Há mais de 40 anos que não fazemos greve. Nestas quatro décadas, perdemos direitos, perdemos espaço, perdemos autonomia. Há um momento em que temos de fincar o pé. Esse momento chegou. É aqui e agora. A 14 de março, paramos. Junta-te à greve!
+
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-
+
+Sindicato dos Jornalistas anunciou esta segunda-feira, 19 de fevereiro a convocação de uma greve geral contra os baixos salários, a precariedade e a degradação acentuada das condições de exercício de Jornalismo. A greve foi convocada para 14 de março, quinta-feira.
+
+O V Congresso de Jornalistas, realizado em janeiro, mandatou por unanimidade o Sindicato dos Jornalistas para convocar e mobilizar a classe dos jornalistas para uma greve geral. Esta greve, sobre as condições gerais de trabalho no setor, surge depois de uma primeira (de uma hora) em solidariedade com os jornalistas e trabalhadores do Global Media Group, mais de 40 anos depois da última greve geral de jornalistas.
+
+O Sindicato dos Jornalistas considera que o “fluxo constante de notícias nas televisões, nos jornais, na rádio, na Internet é sustentado por práticas laborais que atropelam os direitos dos jornalistas”. “É lamentável que, nos 50 anos do 25 de Abril, um pilar fundamental da Democracia esteja tão ameaçado. Jornalismo precário não é Jornalismo livre. Uma Democracia não sobrevive sem jornalismo de qualidade”, disse o presidente do Sindicato, Luís Filipe Simões.
+
+“Há mais de 40 anos que não fazemos greve. Nestas quatro décadas, perdemos direitos, perdemos espaço, perdemos autonomia. Há um momento em que temos de fincar o pé. Esse momento chegou. É aqui e agora. A 14 de março, paramos”, continuou.
+
+Entre as exigências laborais da greve estão a necessidade de trabalho estáveis, uma vez que os vínculos laborais precários são uma prática corrente no sector; o aumento geral dos salários; o pagamento digno das horas extraordinárias; e a intervenção do Estado no financiamento do jornalismo.
+
+O Sindicato dos Jornalistas irá nas próximas semanas, até ao dia da greve, desenvolver esforços para a mobilização da classe dos profissionais, nomeadamente através de reuniões nos locais de trabalho.
+
+<https://jornalistas.eu/sindicato-dos-jornalistas-anunciou-a-convocacao-de-uma-greve-geral-para-14-de-marco>
+
+# Caderno reivindicativo da greve geral de jornalistas {.wp-block-heading}
+
+7 de Março, 2024
+
+A insegurança no emprego, a par com os salários baixos praticados no setor, é um grave obstáculo ao desenvolvimento pleno da profissão de jornalista. É um entrave ao próprio direito dos cidadãos de serem informados livremente.
+
+Um jornalista que não consegue pagar as contas ou ter um mínimo de estabilidade no emprego é um jornalista condicionado no exercício do seu trabalho. O fluxo constante de notícias nas televisões, nos jornais, na rádio e na internet é há anos sustentado por práticas laborais que atropelam os direitos dos jornalistas.
+
+**Nós, jornalistas, exigimos**:
+
+– Aumentos salariais em 2024 superiores à inflação acumulada desde 2022 e a melhoria substancial da remuneração dos freelancers;
+
+– A garantia de um salário digno à entrada na profissão e de progressão regular na carreira;
+
+– O pagamento de complementos por penosidade, trabalho por turnos e isenção de horário;
+
+– A remuneração por horas extraordinárias, trabalho noturno, e em fins de semana e feriados;
+
+– O fim da precariedade generalizada e fraudulenta no sector, pelo recurso abusivo a recibos verdes e contratos a termo;
+
+– O cumprimento escrupuloso das leis do Código de Trabalho, incluindo a garantia do equipamento técnico necessário, em particular para a captação de imagem e som;
+
+– O cumprimento escrupuloso do Contrato Coletivo de Trabalho da imprensa e a generalização da contratação coletiva para o setor audiovisual e da rádio;
+
+– A justa remuneração de quem cumpre o estágio obrigatório para o acesso à profissão;
+
+– Condições humanas e materiais para a produção noticiosa, cumprindo princípios éticos e deontológicos;
+
+– A intervenção do Estado na garantia da sustentabilidade financeira do jornalismo;
+
+– A revisão das estruturas regulatórias da comunicação social e do jornalismo, garantindo a sua atualização e capacidade para salvaguardar a qualidade da informação.
+
+Jornalismo, sempre!
+
+Liberdade não se escreve sem jornalismo
+
+Defende-o, junta-te à greve!
+
+#JornalistasEmGreve
+
+Consulta aqui o pré-aviso https://jornalistas.eu/pre-aviso-de-greve-geral-dos-jornalistas-de-24-horas/
+
+Perguntas e respostas sobre como podes exercer o teu direito à greve https://jornalistas.eu/perguntas-e-respostas-sobre-como-podes-exercer-o-teu-direito-a-greve/
+
+—
+
+#JornalistasEmGreve por contratos justos, salário digno, liberdade editorial
+
+Greve Geral nas Redações
+
+<https://chat.whatsapp.com/HVHnsw0lwTP4BHFnO3CxBN>
+
+Segue-nos nas redes:
+
+<https://www.instagram.com/sindicatojornalistas>
+
+<https://www.facebook.com/SindicatoJorn>
+
+# PRÉ-AVISO DE GREVE Geral dos Jornalistas de 24 horas {.wp-block-heading}
+
+28 de Fevereiro, 2024
+
+– Ao Ministério do Trabalho, Solidariedade e Segurança Social
+
+– À API – Associação Portuguesa de Imprensa
+
+– À APR – Associação Portuguesa de Radiodifusão
+
+– À AID – Associação da Imprensa Diária
+
+– Ao Conselho de Administração da Rádio e Televisão de Portugal, SA
+
+– Ao Conselho de Administração do Grupo Imprensa
+
+– Ao Conselho de Administração da Media Capital
+
+– Ao Conselho de Gerência da Rádio Renascença
+
+– Ao Conselho de Administração da Lusa – Agência de Notícias de Portugal
+
+– A todas as entidades singulares e coletivas proprietárias e/ou editoras de órgãos de
+
+comunicação social que empreguem jornalistas
+
+PRÉ-AVISO DE GREVE Geral dos Jornalistas de 24 horas
+
+**Início: 00h do dia 14 de março de 2024 até 24h do dia 14 de março de 2024.**
+
+A insegurança no emprego, os salários baixos praticados no setor, a falta de condições de trabalho e de segurança, representam um obstáculo grave ao desenvolvimento pleno da profissão de jornalista e constituem um entrave ao próprio direito dos cidadãos de serem informados livremente.
+
+Sem jornalistas, ou com jornalistas em perigo, a liberdade de imprensa, um dos mais determinantes pilares da nossa democracia, não existe.
+
+Os Jornalistas exigem:
+
+– Condições de trabalho dignas, nomeadamente remuneratórias;
+
+– Condições para o exercício da profissão em segurança;
+
+– O fim da precariedade generalizada e fraudulenta no setor;
+
+– O cumprimento escrupuloso das leis do trabalho e das relativas ao setor;
+
+– O cumprimento escrupuloso do Contrato Coletivo de Trabalho;
+
+– O fim dos despedimentos coletivos injustificados que têm como único objetivo enfraquecer a liberdade de informação e o pluralismo;
+
+– Aumentos salariais já para 2024, com retroatividade a 1 de janeiro, acima da inflação acumulada nos dois últimos anos.
+
+Porque não nos resta outra alternativa, apesar dos inúmeros apelos e tentativas,
+
+**O Sindicato dos Jornalistas vem proceder à convocação de uma greve de 24 horas de todos os jornalistas, independentemente do vínculo contratual, a partir das 00h00 do dia 14 de março de 2024 até às 24h00 do dia 14 de março de 2024.**
+
+O presente pré-aviso de greve abrange os jornalistas cujo horário de trabalho se inicie no dia 14 de março de 2023 e se prolongue para lá das 00.00h do dia 14 de março de 2024 e os jornalistas cujo horário de trabalho se inicia no dia 14 de março de 2024 e termina após as 00h00 15 de março de 2024.
+
+São, também, abrangidos pelo presente pré-aviso todos os jornalistas que se encontrem cedidos ou requisitados por terceiros.
+
+Nos termos e para os efeitos previstos nos artº 534º, nº 3 do Código do Trabalho, comunica-se que, durante a greve, serão observados os serviços necessários à segurança e manutenção do equipamento e das instalações, nos moldes usualmente assegurados pelos trabalhadores não aderentes ou, subsidiariamente pelos delegados e dirigentes sindicais, e a exemplo do que sucede durante os períodos de encerramento diário e/ou semanal.
+
+Lisboa, 28 de fevereiro de 2024
+
+Pela Direção do Sindicato dos Jornalistas

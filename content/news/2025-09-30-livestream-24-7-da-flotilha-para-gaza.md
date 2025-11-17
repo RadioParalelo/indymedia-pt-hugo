@@ -1,0 +1,93 @@
+---
+title: Mais de 50 barcos com ativistas de 44 nações estão a navegar em direção a Gaza
+author: Publicação Comunitária
+type: post
+date: 2025-09-30T19:35:42+00:00
+url: /?p=227385
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+  <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+    <p>
+      <a href="https://thousandmadleens.fr/tracker/">https://thousandmadleens.fr/tracker/ 👀</a>
+    </p>
+    
+    <ul class="has-dates has-authors wp-block-rss">
+      <li class='wp-block-rss__item'>
+        <div class='wp-block-rss__item-title'>
+          <a href='https://www.youtube.com/watch?v=__y807BdMVY'>Participants arrival at Athens Airport</a>
+        </div><time datetime="2025-10-06T17:00:45+00:00" class="wp-block-rss__item-publish-date">October 6, 2025</time> 
+        
+        <span class="wp-block-rss__item-author">by Global Sumud Flotilla</span>
+      </li>
+      <li class='wp-block-rss__item'>
+        <div class='wp-block-rss__item-title'>
+          <a href='https://www.youtube.com/watch?v=DXxYYayBq84'>Waiting for participants' arrival at Athens Airport</a>
+        </div><time datetime="2025-10-06T14:34:26+00:00" class="wp-block-rss__item-publish-date">October 6, 2025</time> 
+        
+        <span class="wp-block-rss__item-author">by Global Sumud Flotilla</span>
+      </li>
+      <li class='wp-block-rss__item'>
+        <div class='wp-block-rss__item-title'>
+          <a href='https://www.youtube.com/watch?v=U4KG_oiIzN8'>MARINETTE LIVESTREAM: STILL SAILIING STRONG</a>
+        </div><time datetime="2025-10-03T08:00:26+00:00" class="wp-block-rss__item-publish-date">October 3, 2025</time> 
+        
+        <span class="wp-block-rss__item-author">by Global Sumud Flotilla</span>
+      </li>
+      <li class='wp-block-rss__item'>
+        <div class='wp-block-rss__item-title'>
+          <a href='https://www.youtube.com/watch?v=oqFZ4Jey0j0'>MARINETTE LIVESTREAM: STILL SAILING STRONG</a>
+        </div><time datetime="2025-10-02T23:43:49+00:00" class="wp-block-rss__item-publish-date">October 2, 2025</time> 
+        
+        <span class="wp-block-rss__item-author">by Global Sumud Flotilla</span>
+      </li>
+      <li class='wp-block-rss__item'>
+        <div class='wp-block-rss__item-title'>
+          <a href='https://www.youtube.com/watch?v=lBLEWQhmWvg'>LIVESTREAM OF MARINETTE: STILL SAILING TO GAZA</a>
+        </div><time datetime="2025-10-02T20:45:53+00:00" class="wp-block-rss__item-publish-date">October 2, 2025</time> 
+        
+        <span class="wp-block-rss__item-author">by Global Sumud Flotilla</span>
+      </li>
+    </ul>
+    
+    <p>
+      <a href="https://globalsumudflotilla.org/t">https://globalsumudflotilla.org/</a>
+    </p>
+    
+    <p>
+      Keep your eyes on our boats as we sail to open a sea corridor to Gaza and challenge Israel’s illegal siege. Watching our boats and sharing updates if they are disconnected helps provide the civilians onboard protection. Track them via the link below, share our content, and demand our governments ensure safe passage for all flotillas and end Israel’s genocide in Gaza.
+    </p>
+    
+    <p>
+      Mais de 50 barcos com ativistas de 44 nações estão navegando em direção a Gaza, em um esforço para desafiar o bloqueio ilegal e levar esperança ao povo palestino. Esta é a maior flotilha civil da história moderna, reunindo delegações de diversos países.
+    </p>
+    
+    <p>
+      A missão visa estabelecer um corredor humanitário popular para Gaza e denunciar o processo de genocídio, além de buscar o direito humanitário para o povo palestino. A flotilha tem enfrentado ataques e interceptações em águas internacionais, com acusações de uso de drones e explosivos.
+    </p>
+    
+    <p>
+      Palestina Livre do Rio ao Mar!
+    </p>
+    
+    <p>
+      Jornalistas Livres &#8211; <a href="https://imginn.com/p/DPOU_82Dcig/">https://imginn.com/p/DPOU_82Dcig/</a>
+    </p><figure class="wp-block-image size-large">
+    
+    <img decoding="async" src="http://localhost:8000/wp-content/uploads/2025/09/photo_2025-09-30_20-34-20-723x1024.jpg" alt="" class="wp-image-227552" /></figure>
+  </div>
+</div>
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+  <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+  </div>
+  
+  <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+  </div>
+</div>

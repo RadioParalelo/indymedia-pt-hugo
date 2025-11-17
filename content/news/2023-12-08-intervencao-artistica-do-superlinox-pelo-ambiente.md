@@ -1,0 +1,26 @@
+---
+title: Intervenção artística do Superlinox pelo ambiente
+author: Publicação Comunitária
+type: post
+date: 2023-12-08T22:51:20+00:00
+url: /?p=214092
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111547245436305494
+categories:
+  - Indymedia
+tags:
+  - alice
+  - arte
+  - clima
+  - intervenção
+  - Protesto
+  - superlinox
+
+---
+ 
+
+Carcavelos acordou hoje com uma nova habitante. Alice (Superlinox, 2023) veio mostrar-se à vila munida de uma máscara de oxigénio. Se continuarmos a destruir as árvores ao ritmo e leveza com que o fazemos, que futuro prometemos às nossas &#8220;Alices&#8221;, às nossas crianças? Que ar irão elas respirar? A Quinta dos Ingleses é o maior, único e último pulmão verde que existe entre Lisboa e Cascais e não pode desaparecer!<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/12/alice-768x1024.jpg" alt="" class="wp-image-214093" /> </figure>

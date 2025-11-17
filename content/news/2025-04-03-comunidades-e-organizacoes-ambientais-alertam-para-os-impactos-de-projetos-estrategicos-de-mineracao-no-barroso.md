@@ -1,0 +1,42 @@
+---
+title: Comunidades e organizações ambientais alertam para os impactos de projetos estratégicos de mineração no Barroso
+author: Publicação Comunitária
+type: post
+date: 2025-04-03T23:48:04+00:00
+url: /?p=225405
+activitypub_status:
+  - federated
+post_list_status:
+  - off
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+Comunicado conjunto sobre a atribuição de designação estratégica a dois projetos de extração na região do Barroso.
+
+25 de março de 2025
+
+Comunidades e organizações ambientais alertam para os impactos de projetos estratégicos de mineração.
+
+Hoje, a Comissão Europeia anunciou o primeiro lote de projetos designados como estratégicos ao abrigo do Regulamento Europeu das Matérias-Primas Críticas (REMPC). Num contexto de agravamento das tensões geopolíticas, foram aprovadas 47 das 124 candidaturas nos países membros da UE. Os projetos selecionados beneficiam de mecanismos para operação acelerada e financiamento facilitado. Em Portugal, foram selecionados os seguintes projetos de extração e processamento: Os projetos de lítio da Mina do Barroso em Boticas e da Mina do Romano em Montalegre, bem como o projeto de extração e processamento de cobre da Mina de Neves-Corvo em Castro Verde. Além dos projetos de extração, a Comissão considera ainda de importância estratégica a refinaria de lítio da Bondalti e do Grupo José de Mello, anunciada para o estudo do projeto na Estarreja.
+
+Destinados a reforçar a independência da Europa em termos de matérias-primas para a defesa e a transição energética, um número significativo de projectos agora considerados estratégicos tem sido, desde há anos, contestado por ambientalistas e residentes. Em reação à decisão de hoje, ONGs e associações comunitárias da Sérvia, Roménia, Alemanha, Espanha e Portugal anunciaram que vão contestar a decisão da Comissão Europeia relativamente a projetos que apresentam riscos sociais e ambientais significativos. Os projectos contestados incluem grandes projectos de lítio como a Mina do Barroso (SAV) e a Mina do Romano em Portugal, Zinnwald na Alemanha (ZNWD), bem como a mina de lítio de San José em Espanha e o projeto de ouro-cobre Rovina na Roménia (ESM).
+
+“A exploração de matérias-primas baratas para a indústria automóvel na Alemanha e noutros países só traria desvantagens para nós. Vivemos da pecuária sustentável e dependemos da preservação dos rios limpos e das pastagens verdes. Isto não é uma transição justa. Minas em Portugal não cumprem as regras. E as autoridades estão de braços cruzados. As quatro minas a céu aberto e as escombreiras projetadas não seriam aceitáveis nem do ponto de vista ambiental nem social. Por isso, vamos pedir formalmente à Comissão que reveja a sua decisão”, afirma Nelson Gomes, da iniciativa Unidos em Defesa de Covas do Barroso, que se opõe aos planos da investidora britânica Savannah Resources.
+
+Já na reunião do Conselho das Matérias-Primas europeu em fevereiro, o Ministério do Ambiente e da Energia português deu luz verde à Comissão para os projetos anunciados, não exercendo o seu direito de veto. Dos quatro projetos estratégicos em Portugal, a maior parte, 75%, propõe a exploração mineira de matérias-primas, além de um projeto de tra sformação de metais, o projeto da refinaria de lítio da Lifthium Energy na Estarreja. Não foram aprovados projetos estratégicos de reciclagem e substituição em Portugal. Muitas organizações da defesa do ambiente criticam o facto de apenas uma fração de 25,5% dos projetos aprovados na UE se dedicarem à reciclagem e à substituição de matérias-primas.
+
+Michael Reckordt, especialista em matérias-primas da PowerShift e cofundador da rede europeia EU Raw Materials Coalition, comenta: “Os projetos estratégicos visam garantir o abastecimento da indústria europeia sem iniciar um repensar ecológico e social. Em vez de reduzir o consumo através de medidas como veículos mais pequenos ou a proibição de cigarros electrónicos descartáveis e produtos afins, o objetivo é simplesmente extrair mais matérias-primas. A proteção do ambiente, a participação democrática e a transparência desempenham aqui um papel secundário.”
+
+As matérias-primas críticas, como o lítio, o cobre, o tungsténio, o cobalto, o níquel ou os elementos de terras raras, são consideradas vitais para as tecnologias-chave da transição energética, por exemplo para a produção de energia renovável, o armazenamento de energia ou a eletrificação dos transportes. Prevê-se que a procura de determinados metais aumente consideravelmente até 2040, por exemplo, até 20 vezes no caso do níquel e do cobalto, ou 42 vezes no caso do lítio. Com projectos estratégicos, parcerias e planos de reindustrialização, a União Europeia esforça-se por ganhar mais independência em relação a fornecedores geopoliticamente dominantes, como a China. Outros projetos decisivos em países terceiros, como o de lítio em Jadar, na Sérvia, ainda aguardam a confirmação da Comissão Europeia. Other decisive projects in third countries, such as the lithium project in Jadar, Serbia, are still awaiting confirmation from the European Commission.
+
+COMUNICADO DE IMPRENSA CONJUNTO 
+
+**GEOTA | PowerShift | MiningWatch Portugal | Unidos em Defesa de Covas do Barroso**
+
+  
+Lista de projetos estratégicos aprovados em Portugal<figure class="wp-block-image size-full">
+
+<img alt='screenshot-2025-04-04-at-00-43-30-comunicado_pe-rempc_25-03-2025-pt-docx-comunicado-crma-pdf-3473980-6601334-6782155' alt='screenshot-2025-04-04-at-00-43-30-comunicado_pe-rempc_25-03-2025-pt-docx-comunicado-crma-pdf-3473980-6601334' src='https://cmi.indymedia.pt/wp-content/uploads/2025/04/Screenshot-2025-04-04-at-00-43-30-Comunicado_PE-REMPC_25-03-2025-Pt.docx-Comunicado-CRMA.pdf-3473980-6601334-6782155.png' alt="screenshot-2025-04-04-at-00-43-30-comunicado_pe-rempc_25-03-2025-pt-docx-comunicado-crma-pdf" class="wp-image-225406" /> </figure>

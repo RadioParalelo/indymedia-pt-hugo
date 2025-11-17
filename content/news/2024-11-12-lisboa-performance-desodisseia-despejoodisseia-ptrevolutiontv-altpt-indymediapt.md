@@ -1,0 +1,53 @@
+---
+title: '[Lisboa] Performance Desodisseia (Despejo+Odisseia) #PTrevolutionTV #AltPT #indymediaPT'
+author: Publicação Comunitária
+type: post
+date: 2024-11-12T14:21:39+00:00
+url: /?p=224770
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+tags:
+  - AltPT
+  - PTrevolutionTV
+
+---
+[Lisboa] Performance Desodisseia (Despejo+Odisseia) #PTrevolutionTV #AltPT #indymediaPT
+
+
+
+  
+
+
+ <https://youtube.com/watch?v=EvTzwtOl734> 
+
+<!-- /wp:post-content --></div> 
+
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+
+Instâncias [Invidious][1] alternativas:  
+<https://redirect.invidious.io/watch?v=EvTzwtOl734>
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+**[@PTrevolutionTV][2]**
+
+<!-- /wp:paragraph -->
+
+<!-- wp:lightweight-accordion/lightweight-accordion {"title":"Imagem","title_text_color":null,"title_background_color":"#000000"} -->
+
+<!-- wp:image {"sizeSlug":"large"} --><figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://invidious.fdn.fr/vi/EvTzwtOl734/maxres.jpg" alt="" /> </figure> <!-- /wp:image -->
+
+<!-- /wp:lightweight-accordion/lightweight-accordion -->
+
+ [1]: https://invidious.io/
+ [2]: https://www.youtube.com/@ptrevolutiontv

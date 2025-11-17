@@ -1,0 +1,120 @@
+---
+title: 'CC STOP e Largo das Residências:  A cultura comunitária contra a especulação imobiliária'
+author: Publicação Comunitária
+type: post
+date: 2023-09-20T15:19:42+00:00
+url: /?p=736
+categories:
+  - Cultura e Arte
+  - Indymedia
+  - Poder e Autodeterminação
+tags:
+  - Direito à Cidade
+
+---
+O Largo das Residências, em Lisboa, depois de um ano de atividade intensa, [entra agora na sua última semana de existência][1], com encerramento permanente marcado para dia 1 de Outubro. Entretanto, o STOP, no Porto, depois de 41 anos, será despejado pela segunda vez dentro de dois dias.
+
+A segunda manifestação em defesa do STOP está marcada para as 15h do dia 22 de setembro, na Câmara do Porto. Mais de 500 músicos, artistas e lojistas lutam pela resistência de um espaço, há muito abandonado pelo capital, como lugar de cultura feita a muitas mãos, em estúdios DIY montados ao longo de décadas.
+
+Alvo de uma campanha de difamação por parte de Rui Moreira, o STOP está agora a ser atacado por todos os lados. O objetivo: abrir caminho à CME imobiliária, detentora de todo o quarteirão onde o STOP existe, e de vários hotéis na mesma rua, a do Heroísmo. O projecto anunciado vale mais de 45 milhões e já tem desenho aprovado, concurso feito. Só falta retirar o empecilho, os 500 músicos, artistas e lojistas, que resistem no STOP. A petição que corre [conta com 6.900 assinaturas][2] à data.
+
+Entretanto em Lisboa, o Largo do Quartel das Residências foi um sonho. Durante um ano, este centro cultural recebeu mais de 50.000 pessoas, envolvendo 1000 trabalhadores culturais, criando centenas de postos de trabalho, recebendo dezenas de projectos e coletivos diferentes, de rádios a livrarias independentes. Também o Largo das Residências ainda sonhou um futuro, com uma [petição que recolheu 1.500 assinaturas][3] a pedir a continuidade do projecto. 
+
+No entanto, o poder de Lisboa (tal como o do Porto) tinha outros planos. Uma moção do PSD à assembleia municipal de Lisboa <a href="https://rcinfo.noblogs.org/files/2023/05/1684512002I9jZL1xr9Fw80NY8.pdf" data-type="link" data-id="https://rcinfo.noblogs.org/files/2023/05/1684512002I9jZL1xr9Fw80NY8.pdf">acusava estes artistas e trabalhadores da cultura de &#8220;Sedição&#8221;</a> e exigia o seu despejo imediato, por causa da presença de elementos da Climáximo e do movimento &#8220;Parar o Gás&#8221; depois da sua ação no Porto de Sines, citando as atividades &#8220;criminosas&#8221; do grupo. De forma alguma podemos considerar estes coletivos criminosos. O mesmo não podemos dizer do PSD de Lisboa, envolvido na máfia e cartelismo que tem destruído a cidade.
+
+No Porto, se não são considerados sedicionistas, os artistas também não são bem vistos. A Câmara do Porto tudo tem feito para enquadrar as suas atividades e permanência no espaço como &#8220;ilegais&#8221;, &#8220;inseguras&#8221; e apoiando-se nesta ilusão de que &#8220;[o STOP é uma bomba relógio][4] e uma ratoeira&#8221;, vai tentando empurrar a cidade para fora dela mesma. Chamar os bombeiros tem sido a sua atividade favorita, embora os Bombeiros não pareçam felizes com este seu novo papel de mercenários da máfia. O seu &#8220;vice&#8221; acaba de ser exposto por crimes de corrupção, e a polícia tem feito inúmeras buscas e prendido elementos da câmara municipal recentemente. A máfia está no poleiro.
+
+O que liga estes dois lugares além de serem espaços onde centenas de artistas e trabalhadores da cultura coexistem? Dois projectos imobiliários, ambos com valores de 45 milhões de euros.
+
+Em **Lisboa**, os coletivos residentes do Quartel lançaram uma mensagem de solidariedade, após o despejo do STOP em Julho, : [&#8220;Um Stop em Cada Esquina&#8221;][5]. A História do Largo já vem de trás, de um café no Intendente, relata o jornal [Mensagem de Lisboa][5], destruído aquando da permanência de António Costa na CML. 
+
+A Câmara de Lisboa [alterou o PDM][6] em 2020, para que passasse a ser considerado uma [área residêncial.][7]
+
+Agora, o fecho breve do Largo do Quartel, parece abrir as portas a um novo projecto imobiliário. O imóvel [foi vendido][8] por [42 milhões de euros][9] à [FUNDIESTAMO][10], num investimento de 65M, para um suposto projecto de &#8220;Habitação Acessível&#8221;. Neste caso, o estado atua como especulador, entregando contratos milionários às empresas. [Podes ler o concurso internacional][11], que supostamente já acabou, mas não conseguimos encontrar o projecto selecionado, se é que já existe.
+
+No **Porto**, a mesma história: O STOP está localizado num quarteirão contínuo à chamada Quinta do Ferro.
+
+No fim do ano passado, <a rel="noreferrer noopener" href="https://www.construir.pt/2022/07/14/porto-ime-lanca-concurso-de-ideias-para-quarteirao-da-oficina-do-ferro" target="_blank">decorreu um concurso</a> de “ideias” para o chamado “Quarteirão da Quinta do Ferro”. <a rel="noreferrer noopener" href="https://haengenharia.pt/noticias/vice-presidente-da-oern-jurada-do-concurso-para-quarteirao-da-oficina-do-ferro/" target="_blank">Este concurso</a> foi promovido pela IME, como noticiou <a href="https://portocanal.sapo.pt/noticia/332621?1561872915=&fv=s" target="_blank" rel="noreferrer noopener">hoje o Porto Canal</a>. Rui Moreira diz que não. Mas é claro que este concurso já tem <a rel="noreferrer noopener" href="https://www.linkedin.com/in/miguel-acosta-12b0351a/" target="_blank">vencedor</a>: <a rel="noreferrer noopener" href="https://espacodearquitetura.com/noticias/rafael-montes-e-miguel-acosta-vencem-concurso-para-o-quarteirao-da-oficina-do-ferro/" target="_blank">Rafael Montes e Miguel Acosta.</a>
+
+Desenharam o projecto, com muitas palmeiras. O relatório final <a rel="noreferrer noopener" href="https://www.concursosoasrn.com/uploads/RELATORIO_FINAL_JURI_signed_signed_2.pdf" target="_blank">está disponível</a>: “Em termos programáticos pretende-se a concepção de um hotel, de apartamentos turísticos e de habitação acessível, nos termos do estabelecido no Programa Preliminar do concurso.”
+
+O Largo das Residências deixa em aberto a possível continuação do projecto, noutro local. Esta semana, decorrerão as &#8220;celebrações de fecho&#8221;, com [dezenas de atividades][12] no dia 1 de Outubro. Lisboa resiste
+
+O STOP está agora envolvido numa luta pela permanência do espaço e da sua comunidade. Uma <a href="https://portocanal.sapo.pt/noticia/336454" data-type="link" data-id="https://portocanal.sapo.pt/noticia/336454">previdência cautelar foi avançada contra a Câmara Municipal</a> na semana passada. A manifestação [está marcada para dia 22][13]. Agora, Rui Moreira espera que o [Ministério da Cultura o ajude a institucionalizar][14] e provavelmente, gentrificar o STOP. O Porto resiste.<figure class="wp-block-image size-full">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Screenshot-2023-09-20-at-12-46-38-STOP-Manifesta-@stopmanifesta-•-Instagram-photos-and-videos-8453154.png" alt="screenshot-2023-09-20-at-12-46-38-stop-manifesta-stopmanifesta-instagram-photos-and-videos-8453154" class="wp-image-737" /> </figure> 
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    &#8220;E o que acontece a toda esta vida criada ao longo do ano?&#8221;
+  </p>
+  
+  <p>
+    &#8220;E depois das obras?&#8221;
+  </p>
+  
+  <p>
+    &#8220;Vão para onde?&#8221;
+  </p>
+  
+  <p>
+    Estas são as várias perguntas que já nos assaltavam a cabeça antes de começarmos esta experiência colectiva, cultural, social, comunitária e cívica. Parecia um cenário assustador por ser tão instável, mas, também por isso, foi vivido com a intensidade que se imaginava.
+  </p>
+  
+  <p>
+    Ao longo deste último ano, mais de 50 iniciativas trabalharam diariamente e regularmente no Quartel Largo do Cabeço de Bola com cerca de 150 postos de trabalho, acolhendo, pontualmente, outras. Conseguiu-se a proeza de envolver mais de mil trabalhadores/as da cultura e acção social em cerca de 900 actividades. Foram mais de 50.000 pessoas que visitaram aquele que, para nós, será sempre “O QUARTEL mais bonito da cidade”.
+  </p>
+  
+  <p>
+    Começamos este programa de aniversário ainda com várias questões por responder mas com a certeza de que nada foi em vão e que o LARGO ficou ainda mais fortalecido.
+  </p>
+  
+  <p>
+    Em 2022, saímos sozinhos do Largo do Intendente. Em 2023, temos uma família enorme, quer de iniciativas culturais, quer da economia social e solidária que não deixaram o território onde sempre actuaram. É aqui que o seu trabalho continua a ser essencial para a coesão territorial de uma zona da cidade tão cicatrizada .
+  </p>
+  
+  <p>
+    No dia 1 de Out. iremos fechar os portões do Quartel ao público, mantendo só a actividade interna dos projectos residentes, e, neste último dia de festa, iremos revelar qual o futuro e transição que estamos a preparar entre Out. &#8211; Dez. 2023.
+  </p>
+  
+  <p>
+    Pode um espaço devoluto, em transição, ser uma solução?
+  </p>
+  
+  <p>
+    Sabemos que esta não é uma solução definitiva. Nem para o LARGO, nem para as várias dezenas de iniciativas acolhidas neste ano de centro cultural e social pop up. Mas, seguramente, foi um exemplo “ao vivo” de como se pode construir a cidade e como pode o interesse pelo bem comum ser o caminho para outra forma de sustentabilidade das cidades.
+  </p>
+  
+  <p>
+    Fechar as portas já era do conhecimento de todos/as, desde o dia em que entrámos. Sempre soubemos que este lugar chegaria ao fim. O temporário valeu a pena?
+  </p>
+  
+  <p>
+    Sem dúvida!
+  </p>
+  
+  <p>
+    Vamos continuar, onde e como?
+  </p>
+  
+  <p>
+    Iremos revelar estas respostas até ao fim destas celebrações.
+  </p>
+  
+  <cite>Largo das Residências, no Instagram<br /><a href="https://www.instagram.com/p/CxYvfqOoJnk/?img_index=4">https://www.instagram.com/p/CxYvfqOoJnk/?img_index=4</a></cite>
+</blockquote>
+
+ [1]: https://www.instagram.com/p/CxYvfqOoJnk/?img_index=1
+ [2]: https://peticaopublica.com/pview.aspx?pi=PT117519
+ [3]: https://peticaopublica.com/pview.aspx?pi=PT116041
+ [4]: https://expresso.pt/blitz/2023-08-01-Rui-Moreira-sobre-o-Stop-Nao-vou-abrir-um-sitio-que-objetivamente-e-definido-pelos-bombeiros-como-uma-ratoeira-e-uma-bomba-relogio-574ef68b
+ [5]: https://amensagem.pt/2023/07/20/cultura-quartel-do-largo-lisboa-stop-do-porto/
+ [6]: https://www.lisboa.pt/fileadmin/cidade_temas/urbanismo/pdm/quartel_cabeco_bola/alt_PDM_quartel_cabeco_bola_sumario_2.pdf
+ [7]: https://www.publico.pt/2020/05/27/local/noticia/antigo-quartel-gnr-lisboa-vai-transformado-habitacao-1918389
+ [8]: https://www.idealista.pt/news/imobiliario/construcao/2020/06/01/43530-ex-quartel-da-gnr-em-lisboa-convertido-em-edificio-com-rendas-acessiveis
+ [9]: https://files.dre.pt/cp_hora/2022/12/232/415926029.pdf
+ [10]: https://fundiestamo.com/
+ [11]: https://cmi.indymedia.pt/wp-content/uploads/2023/09/1_CE_CB-4123938.pdf
+ [12]: https://www.instagram.com/p/CxYvfqOoJnk/?img_index=4
+ [13]: https://www.instagram.com/p/CxYPXX_Rrgi/
+ [14]: https://observador.pt/2023/09/19/camara-do-porto-precisa-de-declaracao-da-tutela-para-classificacao-do-stop/

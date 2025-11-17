@@ -1,0 +1,45 @@
+---
+title: '[Lisboa] Protesto pela Palestina em frente ao Cinema São Jorge #AltPT #PTrevolutionTV #indymediaPT'
+author: Publicação Comunitária
+type: post
+date: 2024-05-22T20:41:17+00:00
+url: /?p=223492
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+ 
+
+[Lisboa] Protesto pela Palestina em frente ao Cinema São Jorge #AltPT #PTrevolutionTV #indymediaPT
+
+<figure class="wp-block-audio"><audio controls src="https://vid.puffyan.us/latest_version?id=i5hjxtbFyWU&itag=140"></audio></figure> 
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <p>
+    <a href="https://vid.puffyan.us/watch?v=i5hjxtbFyWU">https://vid.puffyan.us/watch?v=i5hjxtbFyWU</a>
+  </p>
+</div>
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  </div>
+  
+  <p>
+    <a href="https://youtube.com/watch?v=i5hjxtbFyWU"> https://youtube.com/watch?v=i5hjxtbFyWU </a>
+  </p>
+</div>
+
+Instâncias [Invidious][1] alternativas:  
+<https://redirect.invidious.io/watch?v=i5hjxtbFyWU>
+
+**Este stream foi criado pela [PTrevolutionTV][2].**<figure class="wp-block-image size-large">
+
+![][3] </figure>
+
+ [1]: https://invidious.io/
+ [2]: https://www.youtube.com/@ptrevolutiontv
+ [3]: https://cmi.indymedia.pt/wp-content/uploads/2024/05/maxres-4945567.jpg

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drag on indymedia.pt</title>
+    <link>http://localhost:1313/tags/drag/</link>
+    <description>Recent content in Drag on indymedia.pt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Tue, 05 Mar 2024 16:40:38 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/drag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O evento Leiria Drag Festival foi alvo de tentativas de perseguição fascistas</title>
+      <link>http://localhost:1313/?p=220589/</link>
+      <pubDate>Tue, 05 Mar 2024 16:40:38 +0000</pubDate>
+      <guid>http://localhost:1313/?p=220589/</guid>
+      <description>COMUNICADO | Movimento LGBTI Leiria | Leiria Drag Festival&#xA;É público que existe uma onda de discurso de ódio exponenciado pela política de extrema-direita emergente em Portugal.&#xA;Em 2023, um grupo organizado invadiu espaços e eventos LGBTQIAP+, utilizando como argumento a erradicação da ideologia de género.&#xA;Seguindo os movimentos destas organizações, o evento ocorrido no passado dia 24 de fevereiro em Leiria foi alvo de perseguições semelhantes.&#xA;Na quinta edição do Leiria Drag Festival, sendo a segunda no Teatro José Lúcio da Silva, a Câmara Municipal de Leiria recebeu em Assembleia Municipal uma moção por deputados do Chega solicitando o fim do apoio ao evento.</description>
+    </item>
+  </channel>
+</rss>

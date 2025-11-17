@@ -1,0 +1,229 @@
+---
+title: Koalas, Ninja e Neve… a história toda.
+author: Publicação Comunitária
+type: post
+date: 2024-01-17T18:30:42+00:00
+url: /?p=215619
+burst_page_id_upgraded:
+  - 1
+embed_privacy_thumbnail_youtube_p89Np0MWu18:
+  - youtube-p89Np0MWu18-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_p89Np0MWu18_url:
+  - 'https://www.youtube.com/watch?v=p89Np0MWu18&list=PLjNRWCGVvTV4pax0erSp3go26juyFdi22&index=6'
+embed_privacy_thumbnail_youtube__J05JAfkCSc:
+  - youtube-_J05JAfkCSc-hqdefault.jpg
+embed_privacy_thumbnail_youtube__J05JAfkCSc_url:
+  - https://youtu.be/_J05JAfkCSc
+embed_privacy_thumbnail_youtube_tfo0eY90Nzg:
+  - youtube-tfo0eY90Nzg-hqdefault.jpg
+embed_privacy_thumbnail_youtube_tfo0eY90Nzg_url:
+  - https://youtu.be/tfo0eY90Nzg
+embed_privacy_thumbnail_youtube_3qEOtQx3-y8:
+  - youtube-3qEOtQx3-y8-hqdefault.jpg
+embed_privacy_thumbnail_youtube_3qEOtQx3-y8_url:
+  - 'https://www.youtube.com/watch?v=3qEOtQx3-y8&ab_channel=PTrevolutionTV'
+embed_privacy_thumbnail_youtube_Ih6L9zcjrB0:
+  - youtube-Ih6L9zcjrB0-hqdefault.jpg
+embed_privacy_thumbnail_youtube_Ih6L9zcjrB0_url:
+  - 'https://www.youtube.com/watch?v=Ih6L9zcjrB0&ab_channel=PTrevolutionTV'
+embed_privacy_thumbnail_youtube_DIoPENYEwng:
+  - youtube-DIoPENYEwng-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_DIoPENYEwng_url:
+  - 'https://www.youtube.com/watch?v=DIoPENYEwng&ab_channel=PTrevolutionTV'
+embed_privacy_thumbnail_youtube_fjPT4-OR7LM:
+  - youtube-fjPT4-OR7LM-hqdefault.jpg
+embed_privacy_thumbnail_youtube_fjPT4-OR7LM_url:
+  - 'https://www.youtube.com/watch?v=fjPT4-OR7LM&ab_channel=PTrevolutionTV'
+embed_privacy_thumbnail_youtube_yAIF0bCV2sk:
+  - youtube-yAIF0bCV2sk-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_yAIF0bCV2sk_url:
+  - 'https://www.youtube.com/watch?v=yAIF0bCV2sk&t=3938s&ab_channel=PTrevolutionTV'
+embed_privacy_thumbnail_youtube_r2BWUkkcXdk:
+  - youtube-r2BWUkkcXdk-hqdefault.jpg
+embed_privacy_thumbnail_youtube_r2BWUkkcXdk_url:
+  - 'https://www.youtube.com/watch?v=r2BWUkkcXdk&list=PLjNRWCGVvTV4pax0erSp3go26juyFdi22&index=7'
+embed_privacy_thumbnail_youtube_L7lSMi2aICA:
+  - youtube-L7lSMi2aICA-hqdefault.jpg
+embed_privacy_thumbnail_youtube_L7lSMi2aICA_url:
+  - https://youtu.be/L7lSMi2aICA
+categories:
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - Indymedia
+  - NoWEF
+  - Protesto
+  - PTrevolutionTV
+  - SnowRebellion
+  - StrikeWEF
+  - WorldEconomicFaillure
+
+---
+ 
+
+No Sábado passado, 13 de Janeiro, iniciou-se mais uma NO WEF, uma caminhada pelas montanhas da Suíça contra a Cimeira Mundial Económica, a decorrer neste momento, que se realiza em Davos todos os anos por esta altura, com exceção durante a pandemia de COVID 19.
+
+Com ponto de início marcado para a estação de comboio de Küblis as 10h00 do dia 13 deu-se início a uma marcha de 2 dias por estradas e trilhos pelas montanhas com pernoita no Complexo Desportivo de Klosters Platz para estar as 14h00 de Domingo 13 em Davos para uma manifestação contra o &#8220;World Economic Forum&#8221;.
+
+Em 2021 a PTrevolutionTV marcou presença nessa Marcha naquela que foi uma das experiencias mais enriquecedores para os Ninjas ao longo destes quase 11 anos de existência da PTrevolutionTV, fazemos 11 anos neste Janeiro, e essa experiencia que queremos partilhar contigo <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> 
+
+<ul class="wp-block-list">
+  <li>
+    E<em>s</em>preita aqui o vídeo que fizemo<em>s</em> para financiar e<em>s</em>ta viagem:
+  </li>
+</ul>
+
+<https://videos.coletivos.org/videos/embed/508ab8e8-c63c-44b4-848b-982e5ab9c5f9>
+
+<ul class="wp-block-list">
+  <li>
+    <em>ACTIVISMO PELO PLANETA &#8211; STRIKE WEF DAVOS 2020 &#8211; Há quatro anos alguns portugueses participaram numa enorme aventura e evento activista relativo ao Fórum Económico de Davos para protestar pela defesa da vida no mundo:</em>
+  </li>
+</ul>
+
+Este foi uma aventura especial que durou vários dias. Neste evento participaram alguns milhares de activistas de diversas partes da Europa, incluindo 3 portugueses que viajaram de Portugal para a Suiça, onde estiveram a caminhar durante algumas dezenas de quilómetros pelos Alpes Suiços, desde estradas até caminhos de montanha.  
+Este evento também se revelou ser um momento histórico no activismo relativo ao WEF DAVOS, pois 2020 foi primeiro ano desde que este evento começou, que foi possível para os activistas conseguirem penetrar o bloqueio polícial e chegar à cidade de Davos onde fizeram um protesto final. Greta Thunberg também esteve perto de se juntar ao protesto nesses dias, mas teve de ficar em Davos.
+
+Ao longo dos dias houve uma forte vigilância da polícia (incluindo diversos infiltrados na marcha), dos serviços secretos suíços e mesmo dos militares, inclusive com o uso de helicópteros militares, sendo que em alguns casos fizeram voos rasantes para intimidar os activistas, que não pararam por nada.  
+No último dia, depois de se sair de klosters (uma grande vila perto de Davos), o grupo também conseguiu realizar uma ação de desobediência civil e durante algumas horas bloqueou a estrada principal que liga Klosters a Davos, tendo depois prosseguido para a última etapa e chegada a Davos.
+
+Muitas coisas aconteceram durante esses dias, com diversas experiências que enriqueceram e muito todo o evento, com memórias especiais que quem participou não irá esquecer, e como homenagem fica aqui este lembrança dessa aventura e da importância que é fazer activismo em prol de tudo e todos.
+
+_POWER TO THE PEOPLE_
+
+_SYSTEM CHANGE NOT CLIMATE CHANGE_
+
+## DIA 1 {.wp-block-heading}
+
+<ul class="wp-block-list">
+  <li>
+    <strong>Vídeos do livestream do 1º dia de Marcha </strong>
+  </li>
+</ul><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> 
+
+<ul class="wp-block-list">
+  <li>
+    <strong>Conversa no Final do 1º Dia 1/2</strong>
+  </li>
+</ul><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> 
+
+<ul class="wp-block-list">
+  <li>
+    <strong>Conversa 1º Dia 2ª Parte </strong>
+  </li>
+</ul><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> 
+
+## Dia 2 {.wp-block-heading}
+
+<ul class="wp-block-list">
+  <li>
+    Vídeos do livestream do 2º dia de Marcha
+  </li>
+</ul><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> 
+
+Destacamos neste vídeo os melhores donuts que come-mos até hoje, espreita o minuto 4,32 do vídeo;
+
+<ul class="wp-block-list">
+  <li>
+    <strong>Conversa Final 2º dia de Marcha. </strong>
+  </li>
+</ul><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> 
+
+## Dia 3 {.wp-block-heading}
+
+<ul class="wp-block-list">
+  <li>
+    Vídeos do livestream do 3º dia de Marcha com a chegada a Davos.
+  </li>
+</ul><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> 
+
+Quando regressamos a Portugal fomos acolhidos na Bajouca para um dia de regeneração após uma visita rápida para um festa na Okupa na Alternadora em Setúbal.
+
+
+
+<ul class="wp-block-list">
+  <li>
+    <strong>Vídeos de entrevistas feitas no 3º dia de Marcha</strong>
+  </li>
+</ul><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> 
+
+<ul class="wp-block-list">
+  <li>
+    <strong>Fotos dia 1 da Marcha</strong>
+  </li>
+</ul><figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-238 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img data-id="215780" alt='20200119_094147-5987445-1024x576-3014331' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_094147-5987445-1024x576-3014331.jpg' alt="20200119_094147-5987445" class="wp-image-215780" /> </figure> <figure class="wp-block-image size-large"><img data-id="215781" alt='20200119_101925-6995681-1024x576-8172770' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_101925-6995681-1024x576-8172770.jpg' alt="20200119_101925-6995681" class="wp-image-215781" /></figure> <figure class="wp-block-image size-large"><img data-id="215784" alt='20200119_104312-4864735-1024x576-8871384' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_104312-4864735-1024x576-8871384.jpg' alt="20200119_104312-4864735" class="wp-image-215784" /></figure> <figure class="wp-block-image size-large"><img data-id="215785" alt='20200119_104453-6710983-1024x576-2374677' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_104453-6710983-1024x576-2374677.jpg' alt="20200119_104453-6710983" class="wp-image-215785" /></figure> <figure class="wp-block-image size-large"><img data-id="215782" alt='20200119_104540-3125671-1024x576-3139256' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_104540-3125671-1024x576-3139256.jpg' alt="20200119_104540-3125671" class="wp-image-215782" /></figure> <figure class="wp-block-image size-large"><img data-id="215783" alt='20200119_110445-5504254-1024x576-9414257' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_110445-5504254-1024x576-9414257.jpg' alt="20200119_110445-5504254" class="wp-image-215783" /></figure> <figure class="wp-block-image size-large"><img data-id="215786" alt='20200119_112222-5710732-1024x576-3023892' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_112222-5710732-1024x576-3023892.jpg' alt="20200119_112222-5710732" class="wp-image-215786" /></figure> <figure class="wp-block-image size-large"><img data-id="215787" alt='20200119_112356-7119696-1024x576-4012121' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_112356-7119696-1024x576-4012121.jpg' alt="20200119_112356-7119696" class="wp-image-215787" /></figure> <figure class="wp-block-image size-large"><img data-id="215790" alt='20200119_112424-4541832-1024x576-1689437' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_112424-4541832-1024x576-1689437.jpg' alt="20200119_112424-4541832" class="wp-image-215790" /></figure> <figure class="wp-block-image size-large"><img data-id="215788" alt='20200119_112445-3978385-1024x576-3266134' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_112445-3978385-1024x576-3266134.jpg' alt="20200119_112445-3978385" class="wp-image-215788" /></figure> <figure class="wp-block-image size-large"><img data-id="215789" alt='20200119_112508-2500468-1024x576-6923847' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_112508-2500468-1024x576-6923847.jpg' alt="20200119_112508-2500468" class="wp-image-215789" /></figure> <figure class="wp-block-image size-large"><img data-id="215794" alt='20200119_112621-3013603-1024x576-9695198' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_112621-3013603-1024x576-9695198.jpg' alt="20200119_112621-3013603" class="wp-image-215794" /></figure> <figure class="wp-block-image size-large"><img data-id="215791" alt='20200119_112706-1776756-1024x576-8820573' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_112706-1776756-1024x576-8820573.jpg' alt="20200119_112706-1776756" class="wp-image-215791" /></figure> <figure class="wp-block-image size-large"><img data-id="215793" alt='20200119_121403-6955175-1024x576-5962812' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_121403-6955175-1024x576-5962812.jpg' alt="20200119_121403-6955175" class="wp-image-215793" /></figure> <figure class="wp-block-image size-large"><img data-id="215792" alt='20200119_121545-5111451-1024x576-8036736' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_121545-5111451-1024x576-8036736.jpg' alt="20200119_121545-5111451" class="wp-image-215792" /></figure> <figure class="wp-block-image size-large"><img data-id="215796" alt='20200119_121732-5119156-1024x576-5575778' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_121732-5119156-1024x576-5575778.jpg' alt="20200119_121732-5119156" class="wp-image-215796" /></figure> <figure class="wp-block-image size-large"><img data-id="215798" alt='20200119_123508-9973562-1024x576-8029127' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_123508-9973562-1024x576-8029127.jpg' alt="20200119_123508-9973562" class="wp-image-215798" /></figure> <figure class="wp-block-image size-large"><img data-id="215795" alt='20200119_123640-9298832-1024x576-8719551' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_123640-9298832-1024x576-8719551.jpg' alt="20200119_123640-9298832" class="wp-image-215795" /></figure> <figure class="wp-block-image size-large"><img data-id="215797" alt='20200119_124942-7327715-1024x576-4611311' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_124942-7327715-1024x576-4611311.jpg' alt="20200119_124942-7327715" class="wp-image-215797" /></figure> <figure class="wp-block-image size-large"><img data-id="215801" alt='20200119_125050-6307357-1024x576-2592348' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_125050-6307357-1024x576-2592348.jpg' alt="20200119_125050-6307357" class="wp-image-215801" /></figure> <figure class="wp-block-image size-large"><img data-id="215800" alt='20200119_125547-6588894-1024x576-8782566' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_125547-6588894-1024x576-8782566.jpg' alt="20200119_125547-6588894" class="wp-image-215800" /></figure> <figure class="wp-block-image size-large"><img data-id="215799" alt='20200119_130532-7415812-1024x576-5851323' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_130532-7415812-1024x576-5851323.jpg' alt="20200119_130532-7415812" class="wp-image-215799" /></figure> <figure class="wp-block-image size-large"><img data-id="215802" alt='20200119_130555-7964061-1024x576-4747082' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_130555-7964061-1024x576-4747082.jpg' alt="20200119_130555-7964061" class="wp-image-215802" /></figure> <figure class="wp-block-image size-large"><img data-id="215803" alt='20200119_130941-5991515-1024x576-4445877' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_130941-5991515-1024x576-4445877.jpg' alt="20200119_130941-5991515" class="wp-image-215803" /></figure> <figure class="wp-block-image size-large"><img data-id="215805" alt='20200119_131909-1163462-1024x576-2444569' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_131909-1163462-1024x576-2444569.jpg' alt="20200119_131909-1163462" class="wp-image-215805" /></figure> <figure class="wp-block-image size-large"><img data-id="215804" alt='20200119_131921-2687638-1024x576-7093956' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_131921-2687638-1024x576-7093956.jpg' alt="20200119_131921-2687638" class="wp-image-215804" /></figure> <figure class="wp-block-image size-large"><img data-id="215811" alt='20200119_132201-2887599-1024x576-2514598' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_132201-2887599-1024x576-2514598.jpg' alt="20200119_132201-2887599" class="wp-image-215811" /></figure> <figure class="wp-block-image size-large"><img data-id="215806" alt='20200119_132250-8477741-1024x576-3473713' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_132250-8477741-1024x576-3473713.jpg' alt="20200119_132250-8477741" class="wp-image-215806" /></figure> <figure class="wp-block-image size-large"><img data-id="215807" alt='20200119_132358-3235439-1024x576-4193640' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_132358-3235439-1024x576-4193640.jpg' alt="20200119_132358-3235439" class="wp-image-215807" /></figure> <figure class="wp-block-image size-large"><img data-id="215808" alt='20200119_135613-8757973-1024x576-8937121' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_135613-8757973-1024x576-8937121.jpg' alt="20200119_135613-8757973" class="wp-image-215808" /></figure> <figure class="wp-block-image size-large"><img data-id="215809" alt='20200119_151600-9509045-1024x576-2944778' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_151600-9509045-1024x576-2944778.jpg' alt="20200119_151600-9509045" class="wp-image-215809" /></figure> <figure class="wp-block-image size-large"><img data-id="215813" alt='20200119_151650-9607627-1024x576-6908506' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_151650-9607627-1024x576-6908506.jpg' alt="20200119_151650-9607627" class="wp-image-215813" /></figure> <figure class="wp-block-image size-large"><img data-id="215810" alt='20200119_153552-3503784-1024x576-1723936' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_153552-3503784-1024x576-1723936.jpg' alt="20200119_153552-3503784" class="wp-image-215810" /></figure> <figure class="wp-block-image size-large"><img data-id="215812" alt='20200119_153601-3489300-576x1024-5750799' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_153601-3489300-576x1024-5750799.jpg' alt="20200119_153601-3489300" class="wp-image-215812" /></figure> <figure class="wp-block-image size-large"><img data-id="215814" alt='20200119_160200-1778378-1024x576-9586379' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200119_160200-1778378-1024x576-9586379.jpg' alt="20200119_160200-1778378" class="wp-image-215814" /></figure> </figure> 
+
+Fotos do dia 2 da Marcha<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-239 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img data-id="215815" alt='20200120_064210-6516297-1024x576-4253120' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_064210-6516297-1024x576-4253120.jpg' alt="20200120_064210-6516297" class="wp-image-215815" /> </figure> <figure class="wp-block-image size-large"><img data-id="215816" alt='20200120_080551-8498243-1024x576-1755198' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_080551-8498243-1024x576-1755198.jpg' alt="20200120_080551-8498243" class="wp-image-215816" /></figure> <figure class="wp-block-image size-large"><img data-id="215817" alt='20200120_081135-5626047-1024x576-6921335' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_081135-5626047-1024x576-6921335.jpg' alt="20200120_081135-5626047" class="wp-image-215817" /></figure> <figure class="wp-block-image size-large"><img data-id="215820" alt='20200120_082032-3183303-1024x576-9086245' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_082032-3183303-1024x576-9086245.jpg' alt="20200120_082032-3183303" class="wp-image-215820" /></figure> <figure class="wp-block-image size-large"><img data-id="215819" alt='20200120_083910-1395667-1024x576-7081367' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_083910-1395667-1024x576-7081367.jpg' alt="20200120_083910-1395667" class="wp-image-215819" /></figure> <figure class="wp-block-image size-large"><img data-id="215818" alt='20200120_091850-5101749-1024x576-2815342' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_091850-5101749-1024x576-2815342.jpg' alt="20200120_091850-5101749" class="wp-image-215818" /></figure> <figure class="wp-block-image size-large"><img data-id="215821" alt='20200120_101940-8358112-1024x576-4173721' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_101940-8358112-1024x576-4173721.jpg' alt="20200120_101940-8358112" class="wp-image-215821" /></figure> <figure class="wp-block-image size-large"><img data-id="215822" alt='20200120_112610-6464750-1024x576-8391599' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_112610-6464750-1024x576-8391599.jpg' alt="20200120_112610-6464750" class="wp-image-215822" /></figure> <figure class="wp-block-image size-large"><img data-id="215826" alt='20200120_125525-2119390-1024x576-7714322' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_125525-2119390-1024x576-7714322.jpg' alt="20200120_125525-2119390" class="wp-image-215826" /></figure> <figure class="wp-block-image size-large"><img data-id="215823" alt='20200120_125904-9891447-1024x576-5427085' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_125904-9891447-1024x576-5427085.jpg' alt="20200120_125904-9891447" class="wp-image-215823" /></figure> <figure class="wp-block-image size-large"><img data-id="215825" alt='20200120_130638-9004400-1024x576-7091913' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_130638-9004400-1024x576-7091913.jpg' alt="20200120_130638-9004400" class="wp-image-215825" /></figure> <figure class="wp-block-image size-large"><img data-id="215824" alt='20200120_134625-4940001-1024x576-7978403' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_134625-4940001-1024x576-7978403.jpg' alt="20200120_134625-4940001" class="wp-image-215824" /></figure> <figure class="wp-block-image size-large"><img data-id="215827" alt='20200120_135252-5493101-1024x576-9109439' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_135252-5493101-1024x576-9109439.jpg' alt="20200120_135252-5493101" class="wp-image-215827" /></figure> <figure class="wp-block-image size-large"><img data-id="215833" alt='20200120_141039-6822333-1024x576-9404170' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_141039-6822333-1024x576-9404170.jpg' alt="20200120_141039-6822333" class="wp-image-215833" /></figure> <figure class="wp-block-image size-large"><img data-id="215828" alt='20200120_142532-4027395-1024x576-1061170' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_142532-4027395-1024x576-1061170.jpg' alt="20200120_142532-4027395" class="wp-image-215828" /></figure> <figure class="wp-block-image size-large"><img data-id="215829" alt='20200120_151404-4892272-1024x576-4566775' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_151404-4892272-1024x576-4566775.jpg' alt="20200120_151404-4892272" class="wp-image-215829" /></figure> <figure class="wp-block-image size-large"><img data-id="215830" alt='20200120_151509-1967265-576x1024-8533098' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_151509-1967265-576x1024-8533098.jpg' alt="20200120_151509-1967265" class="wp-image-215830" /></figure> <figure class="wp-block-image size-large"><img data-id="215831" alt='20200120_153919-7489121-1024x576-5711942' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_153919-7489121-1024x576-5711942.jpg' alt="20200120_153919-7489121" class="wp-image-215831" /></figure> <figure class="wp-block-image size-large"><img data-id="215842" alt='20200120_154803-5090227-1024x576-7675277' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_154803-5090227-1024x576-7675277.jpg' alt="20200120_154803-5090227" class="wp-image-215842" /></figure> <figure class="wp-block-image size-large"><img data-id="215832" alt='20200120_154951-7750166-1024x576-7902270' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_154951-7750166-1024x576-7902270.jpg' alt="20200120_154951-7750166" class="wp-image-215832" /></figure> <figure class="wp-block-image size-large"><img data-id="215834" alt='20200120_155128-2949743-1024x576-5362827' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_155128-2949743-1024x576-5362827.jpg' alt="20200120_155128-2949743" class="wp-image-215834" /></figure> <figure class="wp-block-image size-large"><img data-id="215835" alt='20200120_155513-5811126-1024x576-1543762' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_155513-5811126-1024x576-1543762.jpg' alt="20200120_155513-5811126" class="wp-image-215835" /></figure> <figure class="wp-block-image size-large"><img data-id="215836" alt='20200120_155754-2200699-1024x576-3507812' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_155754-2200699-1024x576-3507812.jpg' alt="20200120_155754-2200699" class="wp-image-215836" /></figure> <figure class="wp-block-image size-large"><img data-id="215837" alt='20200120_174132-8205190-1024x576-7837813' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_174132-8205190-1024x576-7837813.jpg' alt="20200120_174132-8205190" class="wp-image-215837" /></figure> <figure class="wp-block-image size-large"><img data-id="215847" alt='20200120_174834-1944813-1024x576-2262263' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_174834-1944813-1024x576-2262263.jpg' alt="20200120_174834-1944813" class="wp-image-215847" /></figure> </figure> <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-240 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large"><img data-id="215843" alt='20200120_195846-7117723-1024x576-7917818' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200120_195846-7117723-1024x576-7917818.jpg' alt="20200120_195846-7117723" class="wp-image-215843" /></figure> <figure class="wp-block-image size-large"><img data-id="215844" alt='20200121_081843-4982331-1024x576-2993560' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200121_081843-4982331-1024x576-2993560.jpg' alt="20200121_081843-4982331" class="wp-image-215844" /></figure> <figure class="wp-block-image size-large"><img data-id="215845" alt='20200121_085909-7829639-1024x576-8535722' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200121_085909-7829639-1024x576-8535722.jpg' alt="20200121_085909-7829639" class="wp-image-215845" /></figure> <figure class="wp-block-image size-large"><img data-id="215846" alt='20200121_090122-1314914-1024x576-5299304' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200121_090122-1314914-1024x576-5299304.jpg' alt="20200121_090122-1314914" class="wp-image-215846" /></figure> <figure class="wp-block-image size-large"><img data-id="215848" alt='20200121_090334-5195004-1024x576-6918718' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200121_090334-5195004-1024x576-6918718.jpg' alt="20200121_090334-5195004" class="wp-image-215848" /></figure> <figure class="wp-block-image size-large"><img data-id="215941" alt='20200121_093304-9892931-1024x576-1706869' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200121_093304-9892931-1024x576-1706869.jpg' alt="20200121_093304-9892931" class="wp-image-215941" /></figure> <figure class="wp-block-image size-large"><img data-id="215850" alt='20200121_092543-4779688-1024x576-7106940' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200121_092543-4779688-1024x576-7106940.jpg' alt="20200121_092543-4779688" class="wp-image-215850" /></figure> <figure class="wp-block-image size-large"><img data-id="215849" alt='20200121_092657-2231414-1024x576-8108691' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200121_092657-2231414-1024x576-8108691.jpg' alt="20200121_092657-2231414" class="wp-image-215849" /></figure> <figure class="wp-block-image size-large"><img data-id="215939" alt='20200121_090122-6946226-1024x576-9834886' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200121_090122-6946226-1024x576-9834886.jpg' alt="20200121_090122-6946226" class="wp-image-215939" /></figure> <figure class="wp-block-image size-large"><img data-id="215851" alt='20200121_094521-6945934-1024x576-5422833' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200121_094521-6945934-1024x576-5422833.jpg' alt="20200121_094521-6945934" class="wp-image-215851" /></figure> <figure class="wp-block-image size-large"><img data-id="215940" alt='20200121_113000-1193227-1024x576-6155094' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200121_113000-1193227-1024x576-6155094.jpg' alt="20200121_113000-1193227" class="wp-image-215940" /></figure> <figure class="wp-block-image size-large"><img data-id="215942" alt='20200121_095909-4372223-1024x576-6378415' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200121_095909-4372223-1024x576-6378415.jpg' alt="20200121_095909-4372223" class="wp-image-215942" /></figure> </figure> <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-241 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large"><img data-id="215950" alt='20200121_101039-8138726-1024x576-4751311' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200121_101039-8138726-1024x576-4751311.jpg' alt="20200121_101039-8138726" class="wp-image-215950" /></figure> <figure class="wp-block-image size-large"><img data-id="215949" alt='20200121_104114-6104220-1024x576-4226891' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200121_104114-6104220-1024x576-4226891.jpg' alt="20200121_104114-6104220" class="wp-image-215949" /></figure> <figure class="wp-block-image size-large"><img data-id="215943" alt='20200121_113000-5673294-1024x576-6225953' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200121_113000-5673294-1024x576-6225953.jpg' alt="20200121_113000-5673294" class="wp-image-215943" /></figure> <figure class="wp-block-image size-large"><img data-id="215948" alt='20200121_113151-4240888-1024x576-6483270' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200121_113151-4240888-1024x576-6483270.jpg' alt="20200121_113151-4240888" class="wp-image-215948" /></figure> <figure class="wp-block-image size-large"><img data-id="215951" alt='20200121_115411-9420696-1024x576-4084587' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200121_115411-9420696-1024x576-4084587.jpg' alt="20200121_115411-9420696" class="wp-image-215951" /></figure> <figure class="wp-block-image size-large"><img data-id="215952" alt='20200121_120259-7794745-1024x576-2527187' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200121_120259-7794745-1024x576-2527187.jpg' alt="20200121_120259-7794745" class="wp-image-215952" /></figure> <figure class="wp-block-image size-large"><img data-id="215953" alt='20200121_124351-2559278-1024x576-4375124' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200121_124351-2559278-1024x576-4375124.jpg' alt="20200121_124351-2559278" class="wp-image-215953" /></figure> <figure class="wp-block-image size-large"><img data-id="215955" alt='20200121_125033-1893405-1024x576-3791937' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200121_125033-1893405-1024x576-3791937.jpg' alt="20200121_125033-1893405" class="wp-image-215955" /></figure> <figure class="wp-block-image size-large"><img data-id="215954" alt='20200121_132012-3696055-576x1024-3935399' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/20200121_132012-3696055-576x1024-3935399.jpg' alt="20200121_132012-3696055" class="wp-image-215954" /></figure> </figure> 
+
+<ul class="wp-block-list">
+  <li>
+    <strong>A nossa mensagem quando voltamos a Lisboa.</strong>
+  </li>
+</ul>
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    #WorldEconomicFaillure #SnowRebellion #StrikeWEF #PTrevolutionTV
+  </p>
+  
+  <p>
+    Depois de uma aventura fantástica é tempo de voltar a Portugal.<br />Um grande agradecimento a malta da Extinction Rebellion Switzerland por tão bem nos receber e a Strike WEF e NO WEF pela magnífica organização. Obrigado por nos deixarem fazer o que gostamos.
+  </p>
+  
+  <p>
+    <br />After a fantastic adventure it is time to return to Portugal.<br />A big thanks to the guys from Extinction Rebellion Switzerland for welcoming us and Strike WEF and NO WEF for their magnificent organization. Thank you for letting us do what we like.<br />If you can help please fund us, help us keep our work
+  </p>
+  
+  <p>
+    Knowledge is power
+  </p>
+  
+  <p>
+    if you have
+  </p>
+  
+  <p>
+    it share it.
+  </p>
+</blockquote>
+
+Muitas outras aventuras ficaram por contar nesta maravilhosa viagem.
+
+Se quiserem começar a planear a viagem de 2025 contem connosco.
+
+Pela soberania da informação.

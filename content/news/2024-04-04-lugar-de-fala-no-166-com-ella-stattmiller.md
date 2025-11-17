@@ -1,0 +1,29 @@
+---
+title: Lugar de Fala nº 166 com Ella Stattmiller
+author: Publicação Comunitária
+type: post
+date: 2024-04-04T14:43:06+00:00
+excerpt: Neste 4 de Abril em que se assinala o Dia da Paz e Reconciliação Nacional em Angola, o Lado Negro da Força recebe Ella Stattmiller, nascida e educada na terra das Palancas Negras. A viver em Portugal desde a adolescência, para onde se mudou em busca de melhores oportunidades académicas, Ella optou pela formação em Estudos Africanos, indo ao encontro de um “profundo amor e interesse” pela riqueza cultural do continente-berço da Humanidade. Viajante incansável, “dedica-se ao trabalho de pesquisa, explorando questões contemporâneas e históricas que moldam a África de hoje, especialmente na área das artes”. Com a sua intervenção pretende ajudar a construir novas narrativas sobre a realidade africana, “mais informadas e compassivas”.
+url: /?p=222490
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+ <figure class="wp-block-audio"><audio controls src="https://vid.puffyan.us/latest_version?id=6fGhztKYecY&itag=140"></audio></figure> <figure class="wp-block-video"><video controls src="https://invidious.protokolla.fi/latest_version?id=6fGhztKYecY&itag=18"></video></figure> 
+
+Neste 4 de Abril em que se assinala o Dia da Paz e Reconciliação Nacional em Angola, o Lado Negro da Força recebe Ella Stattmiller, nascida e educada na terra das Palancas Negras. A viver em Portugal desde a adolescência, para onde se mudou em busca de melhores oportunidades académicas, Ella optou pela formação em Estudos Africanos, indo ao encontro de um “profundo amor e interesse” pela riqueza cultural do continente-berço da Humanidade. Viajante incansável, “dedica-se ao trabalho de pesquisa, explorando questões contemporâneas e históricas que moldam a África de hoje, especialmente na área das artes”. Com a sua intervenção pretende ajudar a construir novas narrativas sobre a realidade africana, “mais informadas e compassivas”.
+
+Vê no Invidious: <https://vid.puffyan.us/watch?v=6fGhztKYecY>
+
+Vê no Youtube: <a href="https://youtube.com/watch?v=6fGhztKYecY" target="_blank" rel="noreferrer noopener">https://youtube.com/watch?v=6fGhztKYecY </a>
+
+[O Lado Negro da Força][1]<figure class="wp-block-image size-large">
+
+![][2] </figure>
+
+ [1]: https://www.youtube.com/@oladoNegrodaForca
+ [2]: https://cmi.indymedia.pt/wp-content/uploads/2024/04/maxres-2206674.jpg

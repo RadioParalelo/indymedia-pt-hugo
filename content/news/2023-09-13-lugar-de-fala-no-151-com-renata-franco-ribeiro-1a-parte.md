@@ -1,0 +1,34 @@
+---
+title: Lugar de Fala nº 151 com Renata Franco Ribeiro (1ª Parte)
+author: Publicação Comunitária
+type: post
+date: 2023-09-13T11:07:25+00:00
+url: /?p=1479
+enclosure:
+  - |
+    |
+        https://anchor.fm/s/53fb5678/podcast/play/75839186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-13%2Fe128a5b6-96cc-8e30-7cfc-d7d02f3b82cd.mp3
+        118
+        audio/mpeg
+        
+categories:
+  - Indymedia
+
+---
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <figure class="wp-block-audio"><audio controls src="https://anchor.fm/s/53fb5678/podcast/play/75839186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-13%2Fe128a5b6-96cc-8e30-7cfc-d7d02f3b82cd.mp3"></audio></figure> 
+  
+  <p>
+    Da História e Geografia para as relações étnico-raciais, passando pela Psicopedagogia, Administração Escolar, e Antropologia, a professora Renata Ribeiro continua a somar especializações à formação académica, agora direccionada para um doutoramento em Estudos Africanos. O caminho de conhecimento, iniciado no Brasil de origem, cruza-se com várias ocupações profissionais, num currículo inaugurado com apenas 12 anos, entre desafios de subsistência. A par de um já longo percurso de trabalho e de estudos, a vida de Renata é pontuada pela maternidade – é mãe do Esaú – e pela ligação a vários colectivos, nomeadamente anti-racistas. “Eu aprendi a fazer parte de movimentos sociais, a pensar que é possível um mundo digno através das minhas avós”, conta a convidada de hoje d’ O Lado Negro da Força.
+  </p>
+  
+  <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:15% auto">
+    <figure class="wp-block-media-text__media"><a href="/"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/13989806-1634130061216-ee3d161e67ed-4370536-scaled.jpg" alt="" /></a></figure>
+    
+    <div class="wp-block-media-text__content">
+      <p>
+        <a href="https://linktr.ee/oladonegrodaforca" data-type="link" data-id="https://linktr.ee/oladonegrodaforca">@oladonegrodaforca</a> &#8211; Um espaço onde a força negra é motor de mudança.
+      </p>
+    </div>
+  </div>
+</div>

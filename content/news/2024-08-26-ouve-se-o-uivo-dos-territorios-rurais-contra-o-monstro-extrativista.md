@@ -1,0 +1,34 @@
+---
+title: Ouve-se o uivo dos territórios rurais contra o monstro extrativista
+author: Publicação Comunitária
+type: post
+date: 2024-08-26T10:21:44+00:00
+url: /?p=223841
+activitypub_status:
+  - federated
+fpsm_author_email:
+  - geral@jornalmapa.pt
+fpsm_author_name:
+  - Jornal MAPA
+links:
+  - https://www.jornalmapa.pt/2024/08/23/ouve-se-o-uivo-dos-territorios-rurais-contra-o-monstro-extrativista/
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Ecologia e Animais
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+
+---
+<div class="single-post--header-classic -level-2">
+  <div class="post-info">
+  </div>
+</div>
+
+<div id="content-wrap">
+  <div id="post-content" class="" data-share-counter="{&quot;nonce&quot;:&quot;f98ae1daa2&quot;,&quot;adminUrl&quot;:&quot;https://www.jornalmapa.pt/wp-admin/admin-ajax.php&quot;,&quot;url&quot;:&quot;https://www.jornalmapa.pt/2024/08/23/ouve-se-o-uivo-dos-territorios-rurais-contra-o-monstro-extrativista/&quot;}" data-add-share-selection="false">
+    <h4>
+      Foi no passado 18 de agosto, uma noite de lua cheia, que nasceu para o mundo a Rede Global Anti-Extrativista. Movimentos anti-minas de países como Portugal, Espanha, França, Argentina e Sérvia recusam deixar as suas terras tornar-se “zonas de sacrifício”, em benefício de uma economia cada vez mais desconectada das realidades sociais e ecológicas do nosso planeta. Cada um à sua maneira, com as suas comunidades, celebraram em simultâneo a vida e a resistência rural. Em Covas do Barroso, onde centenas de pessoas se juntaram no <a href="https://www.jornalmapa.pt/2024/08/22/somos-muitas-e-nao-somos-numeros-um-relato-do-4o-acampamento-em-defesa-do-barroso/">quarto Acampamento em Defesa do Barroso</a>, revelou-se o manifesto da nova rede, que <a href="https://www.jornalmapa.pt/2024/08/23/ouve-se-o-uivo-dos-territorios-rurais-contra-o-monstro-extrativista/">aqui</a> reproduzimos.
+    </h4>
+  </div>
+</div>

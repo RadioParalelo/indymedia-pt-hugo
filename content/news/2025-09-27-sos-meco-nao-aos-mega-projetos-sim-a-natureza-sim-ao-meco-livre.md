@@ -1,0 +1,105 @@
+---
+title: 'SOS Meco: Não aos mega projetos! Sim à Natureza! Sim ao Meco livre!'
+author: Publicação Comunitária
+type: post
+date: 2025-09-27T11:15:57+00:00
+url:
+  - https://www.instagram.com/mecolivre/
+activitypub_status:
+  - federated
+fpsm_author_name:
+  - Meco Livre
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Ecologia e Animais
+
+---
+**Petição Pública:**
+
+**&#8220;SOS Meco: Não aos mega projetos! Sim à Natureza! Sim ao Meco livre!&#8221;  
+Meco e Azóia em Perigo: Salva o Coração da Arrábida!**
+
+Está em marcha um dos maiores atentados ambientais já vistos na região de Sesimbra. Quatro empreendimentos turísticos de grande escala – Etosoto, Idiluz, Pinhal da Prata e Pinhal do Atlântico – ameaçam descaracterizar irreversivelmente as aldeias do Meco e da Azóia, destruindo a sua identidade histórica, ambiental e cultural.
+
+Juntos, estes projetos preveem a criação de mais de 2.000 camas turísticas, distribuídas numa área total de ocupação de 260 ha, equivalente a aproximadamente 364 campos de futebol. Esta pressão urbanística, sem precedentes numa aldeia que em 2011 tinha menos de 500 habitantes, irá esmagar por completo a autenticidade e tranquilidade destas pequenas comunidades.
+
+Importa sublinhar que um dos empreendimentos se localiza no interior do Parque Natural da Arrábida – área protegida de reconhecido valor ecológico e paisagístico – e que todos os projetos se inserem na Zona Especial de Conservação (ZEC) Arrábida-Espichel, integrada na Rede Natura 2000, cujos objetivos são, precisamente, a salvaguarda de habitats e espécies em risco.
+
+Não obstante esta realidade, os projetos têm avançado sem a realização de uma Avaliação de Impacte Ambiental (AIA) cumulativa, instrumento legalmente exigível nos termos do Decreto-Lei n.º 151-B/2013, de 31 de outubro, quando estão em causa intervenções múltiplas e contíguas com potenciais impactos sinérgicos e acumulados sobre o meio ambiente.
+
+A ausência de uma avaliação rigorosa e integrada dos efeitos destas iniciativas contraria não apenas a legislação nacional e comunitária em matéria de conservação da natureza, como também compromete gravemente os compromissos de Portugal junto da União Europeia – tendo o país já sido advertido formalmente neste domínio, inclusive em maio de 2025.
+
+Os riscos associados a esta urbanização descontrolada incluem:
+
+• Destruição irreversível de ecossistemas sensíveis e habitats prioritários;
+
+• Aumento de pressão sobre recursos hídricos e energéticos;
+
+• Contaminação de solos e aquíferos, com repercussões diretas na zona costeira e na atividade piscatória local;
+
+• Comprometimento da identidade rural e paisagística do território;
+
+• Conversão de uma zona de elevado valor ecológico num destino de turismo massificado, com impacto social e ambiental duradouro.
+
+A diversificação económica que Sesimbra procura não pode sacrificar aquilo que lhe garante singularidade e sustentabilidade a longo prazo: o património ambiental e cultural. O equilíbrio delicado que ainda existe entre homem e natureza nestas comunidades deve ser protegido com coragem e visão.
+
+Acreditamos que o desenvolvimento económico e turístico do concelho de Sesimbra deve respeitar os princípios da sustentabilidade, da participação pública e da proteção do património natural e cultural. A diversidade biológica e a herança das comunidades locais não podem ser sacrificadas em nome de investimentos de curto prazo que ignoram o valor intrínseco e estratégico destes territórios.
+
+Neste sentido, exigimos:  
+1. A suspensão imediata de todos os processos de licenciamento associados aos referidos empreendimentos;  
+2. A realização de uma Avaliação de Impacte Ambiental cumulativa, abrangente e transparente, com consulta pública efetiva;  
+3. O reforço da fiscalização ambiental e urbanística nas áreas protegidas do concelho de Sesimbra;  
+4. A definição de uma estratégia de ordenamento do território que promova a valorização dos recursos locais e a proteção ativa da Rede Natura 2000.
+
+Apelamos ao Governo, às entidades reguladoras e às autarquias locais que assumam as suas responsabilidades nesta matéria e garantam o cumprimento da legislação vigente, protegendo os valores ambientais e socioculturais das aldeias do Meco e da Azóia.
+
+A proteção do coração da Arrábida é um dever coletivo. Assina, divulga e junte-te a esta causa. Ainda vamos a tempo.
+
+<https://peticaopublica.com/pview.aspx?pi=PT125714>
+
+### **Amianto na Serra da Arrábida**
+
+<img decoding="async" class="alignnone size-full wp-image-226760" src="http://localhost:8000/wp-content/uploads/2025/09/post555628305_122135846216906117_6113899152043417501_n.jpg" alt="post555628305_122135846216906117_6113899152043417501_n" /> 
+
+<div class="html-div xdj266r xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x9f619 xjbqb8w x78zum5 x15mokao x1ga7v0g x16uus16 xbiv7yw x2fvf9 x1n2onr6 x1plvlek xryxfnj x1c4vz4f x2lah0s xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1">
+  <div>
+    <a class="x1i10hfl xjqpnuy xc5r6h4 xqeqjp1 x1phubyo xdl72j9 x2lah0s x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1q0g3np x1a2a7pz x6s0dn4 xjyslct x1ejq31n x18oe1m7 x1sy0etr xstzfhl x9f619 x1ypdohk x1f6kntn xl56j7k x17ydfre x2b8uid xlyipyv x87ps6o x14atkfc x5c86q x18br7mf x1i0vuye x11q7cde xr5sc7 xf8g3cd x20cjte xt0b8zv x568u83 xjbqb8w xr9e8f9 x1e4oeot x1ui04y5 x6en5u8 x972fbf x10w94by x1qhh985 x14e42zd xt0psk2 xt7dq6l xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x1n5bzlp" role="link" href="https://www.instagram.com/mecolivre/">mecolivre:</a>
+  </div>
+</div>
+
+<div class="xt0psk2">
+  <p class="_ap3a _aaco _aacu _aacx _aad7 _aade" dir="auto">
+    O que é, afinal, um projeto que se vende como sustentável?
+  </p>
+  
+  <p>
+    No mínimo, deveria levar ao extremo as suas exigências relativamente ao impacto ambiental. Ser exemplar nas suas práticas.
+  </p>
+  
+  <p>
+    O que nunca imaginaríamos seria encontrar, na Azóia, em pleno Parque Natural da Arrábida, montes de entulho no interior do supostamente “sustentável” Etosoto entre os quais foram identificadas placas de amianto por cidadãos atentos, abandonadas há pelo menos um ano junto a um caminho pedestre, resultado das casas que deitaram a baixo.
+  </p>
+  
+  <p>
+    A presença deste tipo de resíduos num espaço natural protegido exige planos de gestão e prazos curtos de execução. Neste caso, o Etosoto falhou na obrigação de garantir a remoção adequada dos materiais presentes na sua área de intervenção, e a Câmara Municipal de Sesimbra falhou no seu dever de fiscalização e de resposta atempada à queixa apresentada.
+  </p>
+  
+  <p>
+    Importa sublinhar que a simples presença deste material no local representa uma séria ameaça à saúde pública. Este material só pode ser removido e depositado em aterros preparados para tal fim, através de processos específicos e controlados.
+  </p>
+  
+  <p>
+    Até ao momento, o caso foi reportado na plataforma IFAMA, tendo a CCDRLVT remetido o assunto para a Câmara Municipal de Sesimbra. Foi igualmente apresentada uma denúncia através da plataforma “Nós Sesimbra” e comunicada ao Parque Natural da Arrábida, atualmente em candidatura à Rede de Reservas da Biosfera da UNESCO.
+  </p>
+  
+  <p>
+    Perante a ausência de respostas concretas e de ações no terreno, perguntamos agora publicamente: como é possível esta situação manter-se há mais de um ano sem resolução, por parte de quem afirma estar profundamente comprometido com a natureza?
+  </p>
+  
+  <p dir="auto">
+    <a href="https://www.instagram.com/p/DPEJBJOCEo_/">https://www.instagram.com/p/DPEJBJOCEo_/</a>
+  </p>
+  
+  <p dir="auto">
+    </div>

@@ -1,0 +1,143 @@
+---
+title: Transferência “relâmpago” para uma estrutura militar “improvisada e provisória” em Lisboa
+author: Publicação Comunitária
+type: post
+date: 2024-04-03T18:00:00+00:00
+url: /?p=222450
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+Publicação no Instagram, da [Lisboa Invisível][1]. Vê o post original aqui: <https://www.instagram.com/p/C5EGWH8sk8b/> e aqui: <https://www.instagram.com/lisboainvisivel/reel/C5MQEiUM8bM/>.<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-293 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img data-id="222454" alt='whatsapp-image-2024-04-03-at-5-22-04-pm-6265590-1024x1024-5724328-1295110-6265904-4441573' alt='whatsapp-image-2024-04-03-at-5-22-04-pm-6265590-1024x1024-5724328-1295110-6265904' alt='whatsapp-image-2024-04-03-at-5-22-04-pm-6265590-1024x1024-5724328-1295110' alt='whatsapp-image-2024-04-03-at-5-22-04-pm-6265590-1024x1024-5724328' src='https://cmi.indymedia.pt/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-03-at-5.22.04-PM-6265590-1024x1024-5724328-1295110-6265904-4441573.jpeg' alt="whatsapp-image-2024-04-03-at-5-22-04-pm-6265590" class="wp-image-222454" /> </figure> <figure class="wp-block-image size-large"><img data-id="222453" alt='whatsapp-image-2024-04-03-at-5-22-05-pm1-5565314-1024x1024-2905183-4050447-3923240-4028548' alt='whatsapp-image-2024-04-03-at-5-22-05-pm1-5565314-1024x1024-2905183-4050447-3923240' alt='whatsapp-image-2024-04-03-at-5-22-05-pm1-5565314-1024x1024-2905183-4050447' alt='whatsapp-image-2024-04-03-at-5-22-05-pm1-5565314-1024x1024-2905183' src='https://cmi.indymedia.pt/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-03-at-5.22.05-PM1-5565314-1024x1024-2905183-4050447-3923240-4028548.jpeg' alt="whatsapp-image-2024-04-03-at-5-22-05-pm1-5565314" class="wp-image-222453" /></figure> <figure class="wp-block-image size-large"><img data-id="222455" alt='whatsapp-image-2024-04-03-at-5-22-05-pm-1937607-1024x1024-1429936-2937106-1524856' alt='whatsapp-image-2024-04-03-at-5-22-05-pm-1937607-1024x1024-1429936-2937106' alt='whatsapp-image-2024-04-03-at-5-22-05-pm-1937607-1024x1024-1429936' src='https://cmi.indymedia.pt/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-03-at-5.22.05-PM-1937607-1024x1024-1429936-2937106-1524856.jpeg' alt="whatsapp-image-2024-04-03-at-5-22-05-pm-1937607" class="wp-image-222455" /></figure> <figure class="wp-block-image size-large"><img data-id="222452" alt='whatsapp-image-2024-04-03-at-5-22-04-pm1-9369303-1024x1024-3268510-3163836-2550283' alt='whatsapp-image-2024-04-03-at-5-22-04-pm1-9369303-1024x1024-3268510-3163836' alt='whatsapp-image-2024-04-03-at-5-22-04-pm1-9369303-1024x1024-3268510' src='https://cmi.indymedia.pt/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-03-at-5.22.04-PM1-9369303-1024x1024-3268510-3163836-2550283.jpeg' alt="whatsapp-image-2024-04-03-at-5-22-04-pm1-9369303" class="wp-image-222452" /></figure> </figure> 
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    ⚠️ Transferência &#8220;relâmpago&#8221;? Despejo? Para agradar os interesses de quem? ⚠️
+  </p>
+  
+  <p>
+    O Centro de Acolhimento de Santa Bárbara está a ser transferido hoje para um edifício da Manutenção Militar, no Beato.
+  </p>
+  
+  <p>
+    Em 1 de Março, a Câmara Municipal de Lisboa anunciou que as pessoas em situação de sem-abrigo seriam transferidas. &#8220;O local em causa será alvo de obras profundas de intervenção e adaptação, e deverá estar operacional até ao final de 2024&#8221;.
+  </p>
+  
+  <p>
+    No entanto…⬇️
+  </p>
+  
+  <p>
+    15 dias depois, o presidente da CML, Carlos Moedas, anunciou que o novo centro abriria &#8220;antes da Páscoa&#8221;.
+  </p>
+  
+  <p>
+    Em menos de 20 dias, a CML decidiu que a estrutura do centro de acolhimento teria que ser transferida para um novo local improvisado. Sem a estrutura adequada, sem o preparo necessário, sem considerar que esta decisão arbitrária impacta diretamente na vida de pessoas, pessoas vulneráveis e trabalhadores.
+  </p>
+  
+  <p>
+    No centro de Santa Bárbara, as pessoas em situação de sem-abrigo questionam: &#8220;ISTO É UM DESPEJO! NEM DERAM TEMPO PARA AS COISAS SEREM FEITAS&#8221;.⛔️
+  </p>
+  
+  <p>
+    Importante destacar que o local para onde estas pessoas estão a ir NÃO é o local que a CML divulgou no dia 1 de Março. Embora sejam no mesmo espaço da Manutenção Militar, trata-se de outro edifício. Afinal, o prédio que será a estrutura definitiva precisa de profundas obras.
+  </p>
+  
+  <p>
+    A promessa da CML é de que até o final de 2024 a nova estrutura esteja finalizada.
+  </p>
+  
+  <p>
+    Na comunicação social, a Junta de Freguesia do Beato já anunciou a sua posição preconceituosa e estigmatizada sobre as pessoas em situação de sem-abrigo.
+  </p>
+  
+  <p>
+    Por que a população sem-abrigo causa tanta repulsa? Quem tem medo de pessoas vulneráveis? Quem defende os direitos desta população?
+  </p>
+  
+  <p>
+    Qual o interesse em transferir o centro às pressas &#8220;antes da Páscoa&#8221;?
+  </p>
+  
+  <p>
+    Não nos surpreenderia que, em plena Páscoa, políticos queiram se vangloriar de inaugurar uma estrutura improvisada, fruto de uma decisão arbitrária.
+  </p>
+  
+  <p>
+    Tem gente que gosta de fazer espetáculo às custas de pessoas vulneráveis. Aparecer nos media para fazer figura bonita em feriado cristão? Será?
+  </p>
+  
+  <p>
+    ⚠️ Fiquem atentos! Questionem, investiguem!⚠️
+  </p>
+  
+  <p>
+    Nós estaremos aqui para lutar pelos direitos das pessoas em situação de sem-abrigo e para cobrar respostas.
+  </p>
+  
+  <p>
+    ⛔️⛔️⛔️⛔
+  </p>
+  
+  <cite>Lisboa Invisível no Instagram<br /><a href="https://proxigram.lunar.icu/p/C5EGWH8sk8b">https://proxigram.lunar.icu/p/C5EGWH8sk8b</a></cite>
+</blockquote>
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    ‼️ Recebemos o depoimento da Vânia*, que estava no Centro de Acolhimento de Emergência Municipal de Santa Bárbara e foi transferida com outras dezenas de pessoas para um edifício da Manutenção Militar, na freguesia do Beato, na última quinta-feira (28).
+  </p>
+  
+  <p>
+    Por que os media não noticiam sobre as instalações para onde as pessoas foram levadas?
+  </p>
+  
+  <p>
+    Até quando vamos presenciar que pessoas vulneráveis sejam tratadas com falta de respeito e sensibilidade?
+  </p>
+  
+  <p>
+    Quem estará na luta pelos direitos das pessoas em situação de sem-abrigo?
+  </p>
+  
+  <p>
+    Por que negligenciam os serviços e atendimento para quem mais precisa?
+  </p>
+  
+  <p>
+    Não ficaremos quietos.🤜
+  </p>
+  
+  <p>
+    Queremos que a sociedade saiba o que acontece com quem sofre. Queremos respostas. Queremos condições dignas. Seremos mobilização e luta.
+  </p>
+  
+  <p>
+    Repassem. Partilhem. Divulguem.<br />Por quem mais precisa de apoio.
+  </p>
+  
+  <p>
+    *nome fictício para preservar a identidade.
+  </p>
+  
+  <cite>Lisboa Invisível no Instagram<br /><a href="https://proxigram.lunar.icu/p/C5MQEiUM8bM">https://proxigram.lunar.icu/p/C5MQEiUM8bM</a></cite>
+</blockquote>
+
+Imagens e textos da [Lisboa Invisível][2] no Instagram  
+<https://proxigram.lunar.icu/p/C5EGWH8sk8b>
+
+O assunto em outros jornais:
+
+<https://lisboaparapessoas.pt/2024/03/13/sem-abrigo-quartel-manutencao-militar-beato-lisboa>
+
+<https://lisboaparapessoas.pt/2024/03/13/sem-abrigo-quartel-manutencao-militar-beato-lisboa>
+
+<https://observador.pt/2023/07/11/camara-de-lisboa-assegura-acolhimento-de-pessoas-sem-abrigo-de-forma-digna-e-humana>
+
+ [1]: https://www.instagram.com/lisboainvisivel/
+ [2]: https://www.instagram.com/lisboainvisivel

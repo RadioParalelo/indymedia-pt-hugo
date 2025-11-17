@@ -1,0 +1,47 @@
+---
+title: Queixa nas instâncias europeias contra a construção do teleférico do Curral das Freiras
+author: Publicação Comunitária
+type: post
+date: 2024-01-24T16:02:31+00:00
+url: /?p=216138
+ficheiros:
+  - 216137
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - avesdeportugal
+  - laurissilva
+  - madeirabelongstoall
+  - madeiranowordsneeded
+
+---
+Queixa nas instâncias europeias contra a construção do teleférico do Curral das Freiras formulada pela associação IRIS
+
+&#8211; A Associação Nacional de Ambiente IRIS vai oficializar uma queixa nas instâncias europeias contra a construção do teleférico do Curral das Freiras. Caroline Gouveia, representante desta associação, fala numa obra megalómana num atentado ao património natural da Madeira e que vai trazer grande impacto ecológico e paisagístico, ao mesmo tempo que vai prejudicar algumas espécies endémicas.
+
+O géologo João Marques aponta falhas no projeto.
+
+David Francisco, porta-voz do movimento cívico de defesa da paisagem do vale do Curral das Freiras, acredita que ainda há tempo para travar o projeto.
+
+Depois da providência cautelar interposta pelo movimento cívico, agora é a vez da Associação Nacional de Ambiente IRIS anunciar que vai ser oficializada uma queixa nas instâncias europeias contra a construção do teleférico do Curral das Freiras.
+
+Ontem foi feita uma concentração na Boca da Corrida, seguida de caminhada, que juntou cerca de 30 pessoas.  
+@iris.ambiente @movimentoimpediradestruicao
+
+#madeirabelongstoall #madeiratãotua #madeiranowordsneeded #emergenciaclimática #laurissilva #avesdeportugal
+
+&nbsp;
+
+https://www.instagram.com/contratelefericocurralfreiras
+
+https://www.instagram.com/movimentoimpediradestruicao
+
+https://www.instagram.com/iris.ambiente
+
+&nbsp;
+
+&nbsp;

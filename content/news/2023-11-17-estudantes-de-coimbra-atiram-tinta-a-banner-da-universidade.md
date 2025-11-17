@@ -1,0 +1,30 @@
+---
+title: Estudantes de Coimbra atiram tinta a banner da Universidade
+author: Publicação Comunitária
+type: post
+date: 2023-11-17T11:39:58+00:00
+url: /?p=207366
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111425696946983149
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - Coimbra
+  - Ecologia
+  - Indymedia
+  - Lisboa
+  - ocupapeloclima
+  - Protesto
+  - PTrevolutionTV
+
+---
+COIMBRA Estudantes de Coimbra atiram tinta a banner da Universidade de Coimbra onde pode ser lido “Somos a universidade mais sustentável de Portugal e TOP 30 mundial” denunciando a sua parceria com o Banco Santander<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-171 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="207372" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-17_11-35-57-683x1024.jpg" alt="" class="wp-image-207372" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="207368" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-17_11-36-09-1024x683.jpg" alt="" class="wp-image-207368" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="207369" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-17_11-36-13-1024x683.jpg" alt="" class="wp-image-207369" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="207370" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-17_11-36-15-1024x683.jpg" alt="" class="wp-image-207370" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="207371" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-17_11-36-20-683x1024.jpg" alt="" class="wp-image-207371" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="207367" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-17_11-36-24-1024x683.jpg" alt="" class="wp-image-207367" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="207373" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-17_11-36-27-683x1024.jpg" alt="" class="wp-image-207373" /></figure> </figure>

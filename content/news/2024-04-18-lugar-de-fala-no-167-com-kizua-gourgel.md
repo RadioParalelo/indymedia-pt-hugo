@@ -1,0 +1,47 @@
+---
+title: Lugar de Fala nº 167 com Kizua Gourgel
+author: Publicação Comunitária
+type: post
+date: 2024-04-18T13:08:55+00:00
+excerpt: 'A arte está-lhe nos genes: filho de dois músicos, Kizua Gourgel cresceu entre pautas, concertos e gravações. Primeiro na sua Angola natal, no compasso das criações do pai, Beto Gourgel, e depois em Portugal, destino de emigração onde, aos 13 anos, compôs a primeira canção. No regresso a Luanda, retomou a ligação ao grupo coral “Patinhos”, que integrou na infância, e que reencontrou já como “Gingas do Maculusso”. Foi nesta formação que gravou os primeiros álbuns, antes de seguir a carreira a solo, abrilhantada por vários prémios. Actualmente a viver em Portugal, o músico angolano junta-se esta noite ao Lado Negro da Força.'
+url: /?p=222684
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+ 
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <p>
+    <a href="https://vid.puffyan.us/watch?v=o4jEXnAKnIk">https://vid.puffyan.us/watch?v=o4jEXnAKnIk</a>
+  </p>
+</div>
+
+A arte está-lhe nos genes: filho de dois músicos, Kizua Gourgel cresceu entre pautas, concertos e gravações. Primeiro na sua Angola natal, no compasso das criações do pai, Beto Gourgel, e depois em Portugal, destino de emigração onde, aos 13 anos, compôs a primeira canção. No regresso a Luanda, retomou a ligação ao grupo coral “Patinhos”, que integrou na infância, e que reencontrou já como “Gingas do Maculusso”. Foi nesta formação que gravou os primeiros álbuns, antes de seguir a carreira a solo, abrilhantada por vários prémios. Actualmente a viver em Portugal, o músico angolano junta-se esta noite ao Lado Negro da Força.
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  </div>
+  
+  <p>
+    <a href="https://youtube.com/watch?v=o4jEXnAKnIk"> https://youtube.com/watch?v=o4jEXnAKnIk </a>
+  </p>
+</div>
+
+Instâncias [Invidious][1] alternativas:  
+<https://redirect.invidious.io/watch?v=o4jEXnAKnIk><figure class="wp-block-image size-large">
+
+![][2] </figure> 
+
+**O Lado Negro da Força** | A força da opinião negra  
+[Youtube][3] | [Facebook][4] | Também no [AfroLink][5]
+
+ [1]: https://invidious.io/
+ [2]: https://cmi.indymedia.pt/wp-content/uploads/2024/04/maxres-5841396.jpg
+ [3]: https://www.youtube.com/@OLadoNegrodaForca/videos
+ [4]: https://www.facebook.com/oladonegrodaforca2019/
+ [5]: https://afrolink.pt/?s=O+Lado+Negro+da+For%C3%A7a+

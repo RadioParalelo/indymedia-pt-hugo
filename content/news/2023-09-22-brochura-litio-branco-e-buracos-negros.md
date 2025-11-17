@@ -1,0 +1,228 @@
+---
+title: '[Brochura] Lítio branco e buracos negros'
+author: Publicação Comunitária
+type: post
+date: 2023-09-22T17:43:48+00:00
+url: /?p=1440
+admin_form_source:
+  - form65033c1176054
+Ficheiros:
+  - 1437
+Ligação:
+  - https://nunatak.noblogs.org/files/2023/01/n.65-pp.45-54-Nuno-Bosque-Litio-bianco-e-buchi-neri-nelle-miniere-della-penisola-iberica.pdf
+categories:
+  - Ecologia e Animais
+  - Indymedia
+
+---
+<h2 align="”””CENTER”””">
+  <b>Lítio branco e buracos negros da mineração na península ibérica:</b><br /> <i><b>notas em torno da transição energética, da contínua destruição do território </b></i><i><b>e suas oposições</b></i>
+</h2>
+
+<p align="”””LEFT”””">
+  Por todo o mundo, comunidades organizam-se para resistir ao que são eufemisticamente chamados de projetos de mineração ”verdes” – projectos que têm por objectivo facilitarem uma espécie de ”transição energética verde” ou de ajudarem a expandir ”infra-estruturas verdes” como parte do <i>Green New Deal </i>e outras mitologias capitalistas verdes.
+</p>
+
+<p align="”””LEFT”””">
+  O lítio é um dos minerais de terras raras que se tornaram cruciais para as tecnologias que avançam como parte desta ”transição” – sistemas energéticos baixos em carbono e mobilidade eléctrica que requerem enormes quantidades de baterias (e minas!) para continuarem o <i>business as usual</i>.<br /> As baterias de lítio-ião (Li-ion) são consideradas o novo ouro branco – e o lítio é um dos minerais de terras raras que são considerados ”matérias-primas críticas” pela União Europeia.
+</p>
+
+<p align="”””LEFT”””">
+  Desde finais de 2018/início de 2019, as comunidades do centro e norte de Portugal e da Galiza têm-se organizado e lutado contra projectos mineiros simultâneos e extensivos para a pesquisa e exploração de lítio através de empresas multinacionais e das suas filiais locais. Ao mesmo tempo que procuram principalmente o lítio, estas empresas pretendem também explorar cobre, ouro, urânio e outros metais de terras raras.
+</p>
+
+<p align="”””LEFT”””">
+  As consequências ecológicas e sociais destes projectos estão previstas de ser horrendas – a extracção de lítio consome grandes quantidades de água e energia, em áreas onde hoje em dia estas já são escassas (aceleradas pela catástrofe climática) e dependentes da agricultura de pequenos agricultores para a sua subsistência.
+</p>
+
+<h4 align="”””LEFT”””">
+  <b>O Estado cavou o primeiro buraco.</b>
+</h4>
+
+<p align="”””LEFT”””">
+  Os projectos têm sido encorajados e apoiados pelo Estado e pela Comissão Europeia desde 2016, reforçados ideologicamente pelo <i>Green New Deal</i> da UE em 2020 e financeiramente pelos ”planos de recuperação” pós-Covid em 2021. Ao lado de enormes parques eólicos nas montanhas e no mar, estão a ser construídos e projetados painéis solares que cobrem lagos e pradarias do sul para exportarem a sua ”energia limpa” através de linhas elétricas de muito alta tensão.
+</p>
+
+<p align="”””LEFT”””">
+  A par da oposição directa e legal aos primeiros projectos mineiros apoiados pelo Estado anunciados para a região de Barroso, nos concelhos de Boticas (pela empresa inglesa Savannah Resources, tentando cavar a Mina do Barroso) e Montalegre (Lusorecursos, uma empresa para-estatal criada para receber fundos europeus, tentando impôr a Mina do Romano), já existiam algumas explorações de lítio em bruto em Gonçalo, Guarda, que é considerada uma das maiores explorações de lítio bruto da Europa.
+</p>
+
+<h4 align="”””LEFT”””">
+  <b>As comunidades estão a ripostar </b>
+</h4>
+
+<p align="”””CENTER”””">
+  <i>[Artistas folclóricos locais, ex-deputadas e vereadoras, e hippies na recepção ao presidente da república em Venade, Caminha, maio 2021]</i>
+</p>
+
+<p align="”””LEFT”””">
+  As comunidades têm estado ocupadas a organizar-se contra a imposição destes projectos, apoiadas por pessoas das maiores cidades ibéricas, bem como por gente de todo o mundo, desde indígenas da América Latina que vivem as consequências do extractivismo nas suas regiões, até companheiros de toda a Europa, ambientalistas, comunidades de migrantes portugueses, e académicos.
+</p>
+
+Tem sido aparente o desenvolvimento e crescimento dos movimentos locais e regionais contra a mineração, heterogéneos e em constante mutação e evolução. Esta é uma luta social e politicamente variada – muitas vezes encontraremos muitas situações curiosas, tais como líderes locais de partidos conservadores organizados com a sua comunidade hippie local. Um dos grupos minhotos, por exemplo, traz nas suas bandeiras a Maria da Fonte, personagem histórica local, associada à revolta camponesa de semblante ludita no Norte ao final do século XIX. Ao mesmo tempo, vemos a notória ausência das maiores associações ambientais e movimentos climáticos nacionais. Em vez disso, há uma miríade de indivíduos que na sua maioria compõem uma miríade de grupos em grande parte autónomos.
+
+<p align="”””LEFT”””">
+  Baldios e Mancomunidades – concelhos locais ancestrais do norte de Portugal e da Galiza – desempenham um papel importante nesta luta. Eles têm a tarefa de gerir as suas próprias terras comunitárias de monte e floresta, geralmente compostas por uma ou poucas aldeias. Isto tem provocado algumas novas dinâmicas interessantes de participação política local que se perderam durante a segunda metade do século XX, pois a industrialização transformou muitas destas terras comunitárias em monoculturas de pinheiro, eucalipto e, mais recentemente, em eólicas.<br /> Estes novos grupos de composição heterogénea têm formado grupos de reflorestação, por exemplo.
+</p>
+
+<h4 align="”””RIGHT”””">
+  <b>A composição heterogénea dos diferentes grupos de defesa dos territórios, a solidariedade internacional desde e dentro das áreas urbanas e a multiformidade das acções de oposição são fundamentais para uma luta bem sucedida.</b>
+</h4>
+
+<p align="”””LEFT”””">
+  Até hoje, as principais acções incluíram:
+</p>
+
+– bloqueios e boicotes eleitorais bem sucedidos, como em três eleições de 2019 a 2021, em que aldeias ao redor da Mina do Romano se recusaram a votar (apenas 7-12 dos 300 residentes foram para a cabine eleitoral depois de ter sido bloqueada);  
+– bloqueio ou agitação das visitas de secretários de Estado e ministros relacionados com os projectos, bem como para o primeiro-ministro e presidente, cada vez que se aproximam das regiões ameaçadas (muitas vezes acabam por cancelar);  
+– Tarjas/faixas, graffitis e sabotagem, como o da ”Centro de Informação” da Savannah Resources em Covas do Barroso, ou o primeiro a ser conhecido, durante Primavera de 2019, contra o veículo de um professor de investigação na Universidade do Porto, e a sua equipa da Direcção Geral de Energia e Geologia, que tentavam investigar o terreno em Amonde, serra d’Arga, cujos pneus foram esvaziados e tiveram de ser evacuados por uma dúzia de guardas da GNR por entre os populares revoltosos;  
+– caminhadas nas montanhas afectadas, e manifestações em aldeias e cidades;  
+– palestras nas principais cidades, que abriram caminho para uma participação muito importante dos jovens ambientalistas urbanos, que também abriram amplo espaço para a crítica da transição energética e dos conflitos que a acompanham.
+
+<h4 align="”””RIGHT”””">
+  <b><br /> Colaborar com o invasor:<br /> </b><b>Métodos de contra-insurgência suave, traidores à terra e a questão dos partidos de esquerda.</b>
+</h4>
+
+<p align="”””LEFT”””">
+  Para o conjunto daqueles que apoiam estes projectos, são geralmente compostos pelos característicos caciques locais – o caciquismo é uma forma de clientelismo, que pode ser entendido como poder através de influentes pessoas locais, mas também pode ser interpretado como corrupção institucional, também podendo ser interpretado como corrupção institucional.
+</p>
+
+<p align="”””LEFT”””">
+  Isto abrange desde autarcas, às pessoas que trabalham para o município, universidades, investigadores e professores financiados por empresas mineiras e tecnológicas relacionadas e dentro do próprio Estado, até a algumas indústrias que assumem poder beneficiar desta transição energética e da indústria baseada no lítio.
+</p>
+
+Além disso, pessoas-chave nas aldeias foram empregadas pelas empresas mineiras, até mesmo família dos líderes das oposições locais, tentando dividir a população e famílias com ofertas pelas suas propriedades e falsas promessas de um futuro próspero para as gerações mais jovens que não conseguem encontrar trabalho nas zonas rurais, tentando desarmar também estas potenciais ameaças.
+
+<p align="”””LEFT”””">
+  Também é notável, que algumas empresas têm utilizado o formato de <i>leasing</i> para adquirir propriedade: pagam metade da oferta total, dizendo às pessoas que seria possível recuperar o terreno se o projecto não fôr adiante, aceitando automaticamnete a segunda metade da oferta se a mina avançar.
+</p>
+
+Desta forma, já têm algumas pessoas no bolso que anteriormente se opunham aos projectos, e continuam a tentar criar divisões com esta estratégia – na sua maioria sem um sucesso decisivo, já que a oposição é demasiado variada para parar, mas estas vêm junto a muitos outros métodos suaves de contra-insurgência.
+
+_[João Galamba, secretário de Estado da Energia e Geologia e principal responsável dos contactos com as empresas mineiras, a ser acompanhado à saída da aldeia pela população local, Novembro 2019]_
+
+<p align="”””LEFT”””">
+  A MIREU (<i>Mining and Metallurgy Regions of EU</i>) é uma das organizações da Comissão Europeia que teria criado dossiers sobre grupos anti-mineração e indivíduos, denunciou a associação ambiental espanhola Ecologistas en Acción. Em Setembro de 2020, numa conferência de imprensa da Comissão Europeia sobre a estratégia relativa às matérias-primas críticas, quando se perguntou o que fariam para evitar a possibilidade de uma grande oposição territorial a projectos, como a que ocorreu em Val di Susa contra o TGV na Itália ou nas múltiplas zonas-à-defendre na França, o presidente do conselho da Comissão Europeia respondeu com a necessidade de responderem com a necessidade de implementar a SLO (licença social para operar, dinheiro e medidas para subornar a população) e técnicas de ”mineração verde” para limitar os impactos ambientais (que basicamente não existem).
+</p>
+
+<p align="”””LEFT”””">
+  Em geral, as pessoas directamente envolvidas nas nestes programas de extracção ou industrialização do lítio nas locaidades são membros do mesmo partido que governa o Estado, mas também empresas locais que obtêm favores (principalmente empresas de construção ou aluguer de máquinas), juntamente com os filhos do recente surto ideológico neoliberal – esta ideologia que poderia ser definida como a visão do mundo de Elon Musk, mas que pode ser encontrada nos meios de comunicação social, festivais e personalidades que compõem a sociedade portuguesa, mas, por assim dizer, o capitalismo aqui tem uma forma diferente da do mercado livre e da ideologia self-made-man (geralmente o investidor de classe média).<br /> O poder local depende fortemente da influência e lealdade para com os poderes em vigor.
+</p>
+
+<p align="”””LEFT”””">
+  O corporativismo ainda é uma realidade que surgiu após a queda da ditadura fascista através do golpe militar através do golpe militar e da revolução, até aos dias de hoje, e com esta lógica a forma local do capitalismo teve de coexistir teve de coexistir até aos dias de hoje.
+</p>
+
+<p align="”””LEFT”””">
+  Para o caso da esquerda parlamentar, leninistas ortodoxos como o PCP e Trotskistas como os do BE, apoiaram o governo no início da campanha pública de lítio em 2018-2019, e o seu programa de industrialização (mais indústrias, mais proletários…), até sofrerem grandes perdas nas últimas eleições por causa dos seus alinhamentos com o governo do partido socialista, que agora governa com maioria absoluta e não necessita com maioria absoluta e não necessita da aprovação dos seus antigos parceiros para os seus planos dorenavante.
+</p>
+
+<p align="”””LEFT”””">
+  Em Março foi anunciado que a refinaria de lítio principal seria no reduto comunista de Setúbal, a algumas dezenas de quilómetros a sul de Lisboa, e quase trezentos para o projecto de mineração de lítio mais próximo, o projecto de mineração de lítio no Fundão.
+</p>
+
+<p align="”””LEFT”””">
+  Isto pode ser negativo por um lado, mas é extremamente positivo em termos de autonomia e eficiência dos movimentos sociais, particularmente contra o extrativismo.
+</p>
+
+<p align="”””LEFT”””">
+  A influência dos programas destas organizações políticas pode também ser sentida regularmente dentro dos sindicatos, associações ambientais e jornais militantes – mesmo os considerados autónomos – que, enquanto participavam no movimento, mantiveram a sua lealdade aos programas dos seus camaradas, não criticaram as suas posições de colaboração nem o discurso da transição energética na sua totalidade.
+</p>
+
+<p align="”””LEFT”””">
+  Do mesmo modo que certos militantes dentro destas organizações políticas estiveram envolvidas nos movimentos, também trouxeram colaboração directa com autarcas apoiantes do plano nacional de lítio em troca de lhes lavar o rosto e levá-los a um e conduzi-los a uma saída honrosa do conflito nas suas terras, sempre a tempo das eleições, negociando apoios, e influência em muitas diferentes em muitas esferas diferentes.
+</p>
+
+Um dos casos mais flagrantes é o do ex-autarca de Caminha, Miguel Alves, que 11 meses depois das eleições e 13 depois da manifestação de Outubro 2021 em Viana do Castelo, em que foi figura principal, ainda que vaiado durante o seu discurso, foi acompanhar o tio do seu matrimónio a Lisboa, como secretário adjunto do Primeiro-ministro António Costa. Isto cria grandes problemas no que toca à mediação directa entre o governo e certos movimentos mais próximos a estas esferas políticas, sobretudo quando uma das porta-vozes do movimento SOS Serra d’Arga e da recém-criada Plataforma Entre Douro e Minho é uma sindicalista da CGTP, líder da tendência interna Corrente Sindical Socialista, e responsável pelo sindicato da administração local no Minho, que representa todos os salariados camarários.
+
+Este foi o caso, como referido no parágrafo acima, da luta na Serra d’Arga, na província de Viana do Castelo, a zona mais povoada e quantitativamente consequente que contribuiu para a luta contra a mineração, uma vez que está localizada no litoral norte, onde este movimento local composto por pessoas influentes da indústria agrícola e sindicatos controlados pelo partido socialista, quase completou eficazmente esta operação de lavagem de cara para os seus autarcas locais leais ao governo, juntamente com o apoio ideológico de militantes de esquerda, com destaque para grupos de Lisboa e do Jornal Mapa, não fosse a intervenção directa da autonomia local denunciar a manobra política deste grupo contra a mineração de lítio, que claramente tinha objectivos pessoais, partidários e económicos, sob o preço da repressão policial.
+
+<p align="”””LEFT”””">
+  Fora do famoso plano de investigação e prospecção, esta região ainda tem muita da iniciativa de industrialização do lítio, e planos em vigor para a exploração, principalmente através da reconversão das pedreiras existentes. Enquanto os anúncios de uma vitória falsa reclamada por estes presidentes de câmara se materializaram e desmobilizaram grande parte da população local que se sentia ameaçada pelos planos mineiros, a atenção para os planos de industrialização e recuperação de projectos mineiros através da expansão de pedreiras continua, e muitas das pessoas que participaram regularmente em iniciativas contra as minas na região ainda participam e apoiam outras regiões ameaçadas até aos dias de hoje, felizmente.
+</p>
+
+<h4 align="”””LEFT”””">
+  <b>Uma perspectiva anárquica de intervenção nesta luta</b>
+</h4>
+
+<p align="”””LEFT”””">
+  A agitação, a denúncia do vanguardismo partidário nas aldeias e grupos de defesa, a crítica directa às publicações militantes que invisibilizam esta questão e podem mesmo participar nestes processos, silenciando autarcas hipócritas durante as manifestações, foram alguns dos meios até agora utilizados.
+</p>
+
+<p align="”””LEFT”””">
+  Outros meios foram, por exemplo, criar uma atmosfera de cooperação eficaz entre diferentes realidades em torno da luta, fazer fluir a informação sobre estes projectos, principalmente sobre os lugares, nomes, empresas, instituições e organizações que colaboram com a mineração, criação e distribuição de faixas e folhetos, troca de apoio logístico entre grupos, mas também, fazer com que os presidentes de câmara e o pessoal das câmara municipais pensem duas vezes em sobre arrancar os cartazes nas ruas, ou em remover faixas, apagar graffitis ou outros materiais contra as minas – é possível, e tem sido testemunhado nesta luta, com resultados frustrantes para a <i>inteligentsia</i> governamental.
+</p>
+
+<p align="”””LEFT”””">
+  E, naturalmente, abrir lugar à propaganda pelo feito – com isto queremos referir-nos a acções eficazes que fazem sentido e podem ser reproduzidas pelas pessoas que pretende-se apoiar – e promovendo a acção directa entre os grupos locais para que não caiam exclusivamente em vias representativas de oposição, desenvolvendo planos eficazes e inventivos para confrontar o Estado e os planos mineiros.
+</p>
+
+<p align="”””LEFT”””">
+  Agora, o descrédito popular geral em relação ao sistema de legitimação política e das suas instituições está a espalhar-se abertamente por si só, e também entre activistas que anteriormente dependiam indirectamente das agendas de compromisso das organizações políticas, bem como do seu financiamento, à medida que o Estado tenta restabelecer os seus mecanismos de representação junto da UE com espectáculos de marionetas de participação cidadã.
+</p>
+
+<p align="”””LEFT”””">
+  Estes últimos são essenciais para criar a aceitação das consequências destes projectos de destruição do território já referidos, tais como a famosa ”Licença Social para Operar” e a participação nos estudos de impacto ambiental, que existem não para assegurar que os projectos avancem, mas mais bem criar formas de discussão que possam gerar consensos através das suas promessas – estes consensos podem ir desde o suborno até à eliminação da dissidência, pura e simples.
+</p>
+
+<p align="”””LEFT”””">
+  Consenso este, que está gradualmente a afogar-se. A guerra em curso não pode pactuar com este diálogo que invade com maquinaria pesada e destruindo as nossas próprias terras para supostamente depender menos dos combustíveis fósseis, independentemente da posição das pessoas em relação ao que está a acontecer militar e diplomaticamente.
+</p>
+
+<p align="”””LEFT”””">
+  Os sentimentos e reflexões antipolíticos, anti-científicos e anti-institucionais estão a espalhar-se e corroem os próprios consensos que o poder do capital do estado procura incutir nos povos mais remotos. Naturalmente, serão sempre políticos, cientistas e juízes que tentarão impor a sua percepção da vida. Mas pelo menos enquanto estivermos a defender a terra e existirá uma percepção de que fazer o contrário seria destruí-la e prejudicar a nossa própria vida e a vida à nossa volta, estamos a tornar possível a ruptura com estes fundamentos básicos para a existência do Estado, tornando possível a criação de um novo mundo baseado nos cuidados e conhecimentos ancestrais, da água e dos seres vivos que constituem a natureza.
+</p>
+
+<h1 align="”””CENTER”””">
+  <b>NÃO ÀS MINAS, SIM À VIDA!</b>
+</h1>
+
+<h4 align="”””LEFT”””">
+  <b>COMO PARTICIPAR:<br /> </b><br /> – Apoiando outras lutas contra os programas de mineração, seja na Grécia, na Sérvia, no Chile, ou em qualquer outro lugar do mundo ;<br /> – Deixando claro aos interesses portugueses (embaixadas, consulados, grandes empresas como a Mota Engil) e das empresas mineradoras que as pessoas que aqui lutam têm solidariedade vinda dos núcleos urbanos estrangeiro;<br /> – Organizando eventos que discutam a transição energética e as lutas relacionadas com esta;<br /> – Visitando e apoia as lutas nas localidades afectadas.
+</h4>
+
+<p align="”””CENTER”””">
+  <b>Mais informações:<br /> </b>
+</p>
+
+<p align="”””CENTER”””">
+  <i>miningwatch.pt | t.me/minanao</i>
+</p>
+
+<p align="”””RIGHT”””">
+  <i>Nuno Bosque, primavera 2022<br /> </i>
+</p>
+
+<h4 align="”””RIGHT”””">
+  <i><br /> </i>Bruchuras [<a href="/%E2%80%9D%E2%80%9D//t.me/minanao%E2%80%9D%E2%80%9D%E2%80%9D">Telegram Minas Não</a>]<i></i>
+</h4>
+
+**Lítio Branco e Buracos Negros da mineração na Península Ibérica**:  
+https://t.me/minanao/1878
+
+**Ponto de Viragem na luta contra a Mineração e o Lítio em 2023**  
+https://t.me/minanao/2219
+
+\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\_____
+
+<p align="”””CENTER”””">
+  <i>Este texto foi publicado em italiano na revista transalpina <a href="/%E2%80%9D%E2%80%9D//nunatak.noblogs.org/%E2%80%9D%E2%80%9D%E2%80%9D">Nunatak n.65</a> e editado e apresentado na <a href="/%E2%80%9D%E2%80%9D//encuentrodellibroanarquista.org/ediciones-pasadas-2/xx-edicion/%E2%80%9D%E2%80%9D%E2%80%9D">XX feira do livro anarquista de Madrid</a>, conjuntamente a uma apresentação sobre a situação da luta contra a mineração no Norte e Centro de Portugal e na Extremadura no estado espanhol. </i>
+</p>
+
+<p align="”””CENTER”””">
+  <i>Foi recusada a sua apresentação na feira do livro de Lisboa por criticar as posições hegemónicas centradas na luta de carácter puramente activista que se implantaram, exclusivamente, em Covas do Barroso, desde 2021, pela mão da Greve Climática Tejo e da extinta Caravana Zapatista.</i>
+</p>
+
+Este texto, assim como ”Ponto de Viragem na Luta contra a mineração em 2023” são aqui publicados para reiterar a crítica à recente justaposição da luta activista, mediada e espectacular, sobre aquela popular, directa e espontânea.
+
+<p align="”””CENTER”””">
+  <i>Espera-se dos anarquistas e anti-autoritários que leiam estes argumentos uma postura anti-dogmática com os discursos que nos vêm a ser impostos a todxs, até a quem lutamos na ruralidade, desde as metrópoles onde as academias e as seitas subculturais condicionam o desenvolvimento e debate das ideias e das formas de luta, onde teses e decisões sobre o destino das pessoas são formuladas e onde o carreirismo académico e político é forma de vida. Metrópole onde indirectamente os veículos eléctricos são exigidos a serem generalizados até 2030 para serem alimentados com eletricidade barata e renovável produzida sobre os montes, recursos e corpos da ruralidade, nomeadamente através das eólicas e das hidroeléctricas. Metrópole, como Lisboa, onde o Lítio é essencial para o progresso da sociedade.</i>
+</p>
+
+_O autor vem por este meio divulgar o seu arrependimento na sua quota parte de responsabilidade relativamente a esta colonização da esquerda pós-moderna metropolitana de discurso liberal e globalizado de uma luta rural diversa e multiforme – onde a população local tem vindo a ser excluída destes processos de luta._
+
+Estas lutas rurais, diversas, multiformes, com meios radicais e efectivos, e discursos não hegemónicos, enfrentam-se com a emergência dos meios activistas que se recusam em criticar a transição energética de forma directa, e em agir contra os seus agentes de maneira frontal, como as populações do Minho e Barroso o fizeram desde 2018.
+
+<p align="”””CENTER”””">
+  <i>Estes textos, escritos nas primaveras de 2022 e de 2023, visam portanto contrastar o discurso hegemónico do activismo pós-moderno urbanita</i>
+</p>

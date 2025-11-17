@@ -1,0 +1,149 @@
+---
+title: '[Paquistão] Longa Marcha de 1700km contra o genocídio do povo Baloch'
+author: Publicação Comunitária
+type: post
+date: 2023-12-29T14:20:57+00:00
+url: /?p=214974
+autopostToMastodon-post-status:
+  - off
+enclosure:
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2023/12/10000000_693091726269720_1169622702115719160_n-2022306.mp4
+        13904408
+        video/mp4
+        
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+tags:
+  - ChamanSitIn
+  - MarchAgainstBalochGenocide
+
+---
+Uma longa marcha de 1700km liderada por mulheres [Baloch][1] contra os desaparecimentos forçados e as execuções extrajudiciais chegava aos arredores da capital federal na quarta-feira, ao Clube Nacional de Imprensa. Mais de 300 pessoas foram presas.
+
+A marcha começou no início de Dezembro em Turbat, e está agora em Islamabad acampada. Os manifestantes presos durante a marcha foram libertados ao fim de vários dias. Os protestos continuam. 
+
+Pelo menos 5.800 pessoas Baloch foram &#8220;desaparecidas&#8221; pelo exército paquistanês entre 2001 e 2017. Foram registados 6 079 casos de janeiro de 2016 a 26 de dezembro de 2023.
+
+De acordo com os dados divulgados em janeiro de 2023 pela Comissão de Inquérito sobre Desaparecimentos Forçados, desde a sua criação em 2011, o organismo independente recebeu mais de 9.000 casos de todo o país. Embora tenha localizado mais de 5.000 pessoas e visto quase 3.800 regressarem a casa, mais de 2.000 casos ainda estão pendentes. O maior número de casos provém da província de Khyber Pakhtunkhwa, seguida do Baluchistão.
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    Balochistão: Os desaparecimentos forçados representam uma grave violação, que equivale a um crime contra a humanidade, e podem ser vistos como uma forma de punição colectiva. Foram registados 6 079 casos de janeiro de 2016 a 26 de dezembro de 2023.<br /><br />A Polícia CTD tem um historial de envolvimento em encontros falsos e de implicar falsamente indivíduos em casos fabricados. Documentámos um mínimo de 102 casos de encontros falsos levados a cabo pela Polícia CTD entre 2021 e 2023
+  </p>
+  
+  <cite><a href="https://hrcbalochistan.com/">https://hrcbalochistan.com/</a></cite>
+</blockquote><figure class="wp-block-image size-full is-resized">
+
+<img alt='gbsvn74ayaaqwnx-7168834-3862062-9779705-3261064-6020029-3224149-4966104' alt='gbsvn74ayaaqwnx-7168834-3862062-9779705-3261064-6020029-3224149' src='https://cmi.indymedia.pt/wp-content/uploads/2023/12/GBsVn74aYAAqwnX-7168834-3862062-9779705-3261064-6020029-3224149-4966104.png' class="wp-image-215274" style="width:645px;height:auto" /> </figure> 
+
+<https://twitter.com/BYC_Shaal><figure class="wp-block-video"><video controls src="http://localhost:8000/wp-content/uploads/2023/12/10000000\_693091726269720\_1169622702115719160_n-2022306.mp4"></video></figure> 
+
+#MarchAgainstBalochGenocide
+
+  
+Tʜᴇ ᴜɴᴇɴᴅɪɴɢ ᴘᴀɪɴ ᴏꜰ ʙᴀʟᴏᴄʜɪꜱᴛᴀɴ “ʀᴇᴍᴇᴍʙᴇʀ,ʀᴇꜰʟᴇᴄᴛ, ʀᴇꜱɪꜱᴛ; ᴇɴᴅ ʙᴀʟᴏᴄʜ ɢᴇɴᴏᴄɪᴅᴇ ɴᴏᴡ”
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+Entretanto, uma assentada multitudinária, #ChamanSitIn, decorre há 70 dias seguidos.<figure class="wp-block-image size-large">
+
+<img alt='gcwxq3mbuaazlsh-4872808-1024x768-8959719-8353098-8691215-9347278-3605125-7647356' alt='gcwxq3mbuaazlsh-4872808-1024x768-8959719-8353098-8691215-9347278-3605125' src='https://cmi.indymedia.pt/wp-content/uploads/2023/12/GCWXQ3MbUAAzlsh-4872808-1024x768-8959719-8353098-8691215-9347278-3605125-7647356.jpeg' class="wp-image-215270" /> </figure> 
+
+A manifestação teve início em outubro, quando milhares de comerciantes, activistas da sociedade civil e trabalhadores de vários partidos políticos se uniram para pedir ao governo que alterasse a sua política e regularizasse a passagem das fronteiras para paquistaneses e afegãos de ambos os lados através de um regime de documento único.
+
+## A Longa Marcha Baloch {.wp-block-heading}
+
+A Longa Marcha Baloch é um movimento de protesto em curso liderado por Mahrang Baloch e outras mulheres Baloch, que marcham em direção a Islamabad, a capital do Paquistão, para protestar contra as violações dos direitos humanos e os desaparecimentos forçados no Balochistão. A marcha foi uma resposta ao número crescente de desaparecimentos forçados e de execuções extrajudiciais na região.<figure class="wp-block-image size-full">
+
+<img alt='6583618b04726-1623167-7845823-4019064-1524161-9730310-5897355-7344986' alt='6583618b04726-1623167-7845823-4019064-1524161-9730310-5897355' src='https://cmi.indymedia.pt/wp-content/uploads/2023/12/6583618b04726-1623167-7845823-4019064-1524161-9730310-5897355-7344986.jpg' class="wp-image-215268" /> </figure> 
+
+A marcha foi motivada pela morte de Balaach Mola Bakhsh em novembro de 2023. Bakhsh foi detido a 20 de novembro, com explosivos na sua posse, de acordo com o Departamento Antiterrorista (CTD). Compareceu em tribunal a 21 de novembro, mas foi morto a 23 de novembro no que o CTD afirmou ser um confronto entre a polícia e um grupo militante. A família de Bakhsh rejeitou o relatório da CTD, afirmando que Bakhsh tinha sido raptado de sua casa em 29 de outubro e morto em 23 de novembro pela CTD. Começaram os protestos locais, num esforço para que a polícia apresentasse um relatório contra o pessoal da CTD acusado da morte de Bakhsh.
+
+A marcha teve início no Baluchistão a 6 de dezembro de 2023 e contou com a participação de centenas de mulheres que perderam os seus maridos, irmãos e filhos e decidiram manifestar publicamente as suas preocupações. Os manifestantes tinham pedidos explícitos: exigiam que se pusesse termo aos desaparecimentos forçados e às mortes ilícitas e procuravam responsabilizar os implicados nas mortes ilícitas de jovens baluches.<figure class="wp-block-image size-full">
+
+<img alt='526d2e410e632-2430040220-1884150-2981829-4675809-5773868-6782938-3462566-8810406' alt='526d2e410e632-2430040220-1884150-2981829-4675809-5773868-6782938-3462566' src='https://cmi.indymedia.pt/wp-content/uploads/2023/12/526d2e410e632-2430040220-1884150-2981829-4675809-5773868-6782938-3462566-8810406.jpg' class="wp-image-215269" /> </figure> 
+
+Percorreram uma distância de 1600 quilómetros, partindo do distrito de Kech, no sul, perto da fronteira com o Irão, até Islamabad, a capital do Paquistão. Ao longo do percurso, pararam em locais como Kalat, Dera Ghazi Khan, e Dera Ismail Khan, onde receberam apoio dos residentes baloch.
+
+Quando a marcha chegou a Islamabad, as autoridades impediram os manifestantes de entrar na capital, nomeadamente no Clube Nacional de Imprensa.<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/12/dims.apnews-2587371-1024x683.webp" alt="dims-apnews-2587371" class="wp-image-215271" /> </figure> 
+
+De acordo com a Paank, a organização de Direitos Humanos do Movimento Nacional Baloch, &#8220;a situação no Baluchistão é terrível, com cerca de 2 milhões de pessoas a sofrerem de subnutrição e mais de 500 000 crianças com menos de cinco anos a sofrerem de subnutrição aguda. A prevalência da subnutrição no Baluchistão é mais elevada do que em qualquer outra província do Paquistão, com taxas de atraso no crescimento e de emaciação superiores à média nacional.  
+<figure class="wp-block-image size-large">
+
+<img alt='screenshot-from-2023-12-29-00-34-40-5853660-1024x576-8362754-6590166-3200979-9783311-8732880-9930207' alt='screenshot-from-2023-12-29-00-34-40-5853660-1024x576-8362754-6590166-3200979-9783311-8732880' src='https://cmi.indymedia.pt/wp-content/uploads/2023/12/Screenshot-from-2023-12-29-00-34-40-5853660-1024x576-8362754-6590166-3200979-9783311-8732880-9930207.png' class="wp-image-215273" /> </figure> <figure class="wp-block-video"><video controls src="https://vid.puffyan.us/latest_version?id=0YC7NIglzuA&itag=22"></video></figure> 
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    Chamo-me Mah Rang Baloch. Dirijo-me agora a todos vós a partir de Islamabad, no Paquistão. Espero que estejam em qualquer parte do mundo neste momento e que, se forem pessoas humanitárias, ouçam a nossa voz e levantem a vossa voz contra o genocídio baloch e nos ajudem.
+  </p>
+  
+  <p>
+    O genocídio baloch está em curso há décadas no Baluchistão, onde milhares dos nossos anciãos, jovens, crianças e mulheres desapareceram à força, o nosso povo está a ser morto extrajudicialmente e o nosso povo está a ser deslocado à força das suas cidades natais. Estão a ser levadas a cabo operações militares nas nossas regiões, os nossos recursos estão a ser saqueados e este genocídio da nossa nação está a intensificar-se de dia para dia.
+  </p>
+  
+  <p>
+    Contra este grave genocídio baloch, realizámos uma concentração pacífica durante 13 dias em Turbat, no Baluchistão, e, passados 13 dias, iniciámos uma longa marcha pacífica que partiu de Turbat e percorreu centenas de quilómetros até Islamabad, chegando à capital do Paquistão. Hoje é o 32.º dia do nosso movimento de massas contra o genocídio baluchês, mas durante todo este movimento de massas, desde a concentração até à longa marcha por todo o Baluchistão, o Estado usou de extrema força para travar e pôr fim ao movimento; foram registados falsos processos de denúncia contra o nosso povo, os nossos amigos foram sujeitos a violência física, os nossos amigos foram presos e, quando fomos confrontados com toda esta violência e conspirações e chegámos a Islamabad, fomos impedidos de ir ao Clube de Imprensa de Islamabad e, depois de termos sido detidos durante três a quatro horas, a polícia de Islamabad começou a torturar-nos. Estávamos acompanhados por crianças pequenas, mulheres, idosos e jovens. Todos eles foram sujeitos a torturas severas; durante a noite, com um frio extremo, foram-nos usados bidões de água e gás lacrimogéneo, ferindo muitas das nossas crianças, mulheres, idosos e jovens inocentes. E depois de termos sido todos presos, havia cerca de 80 mulheres e crianças, e mais de 200 eram os nossos jovens. Depois de libertarem as mulheres e as crianças ontem à noite, tentaram expulsá-las de Islamabad à força, mas nós resistimos durante 7 a 8 horas e depois fomos libertados. Ainda assim, mais de 100 dos nossos amigos estão sob custódia da polícia de Islamabad e não estão a ser apresentados em tribunal, enquanto 14 dos nossos amigos desapareceram à força, e não nos foi dada qualquer informação sobre eles, nem estamos a receber qualquer informação sobre eles.
+  </p>
+  
+  <p>
+    Neste momento, precisamos da ajuda de todo o mundo. Como seres humanos, podem impedir o genocídio de uma nação ajudando-nos; se querem que não aconteça outro holocausto, então têm de impedir o genocídio da nação baloch ajudando-nos.<br />Podes ajudar-nos da seguinte forma.<br />1- Podes escrever uma carta ao grupo de trabalho da ONU sobre o nosso genocídio.<br />2- Podes informar as instituições de direitos humanos do teu país ou de qualquer outro país do mundo sobre o genocídio dos Baloch.
+  </p>
+  
+  <ol class="wp-block-list" start="3">
+    <li>
+      Podes erguer a tua voz a nosso favor no parlamento do teu país.
+    </li>
+    <li>
+      Podes informar os jornalistas e os órgãos de comunicação social do teu país sobre nós.
+    </li>
+    <li>
+      Como jornalista, podes informar o mundo sobre o genocídio de Baloch.
+    </li>
+    <li>
+      Se fores investigador, podes investigar o nosso movimento de massas e o nosso genocídio.
+    </li>
+    <li>
+      Podes protestar por nós na tua cidade.
+    </li>
+    <li>
+      Podes realizar debates políticos em todo o mundo sobre o genocídio baloch.<br />9- Podes apresentar uma petição em linha a nosso favor.<br />10- Podes fazer campanha por nós nas redes sociais.
+    </li>
+  </ol>
+  
+  <p>
+    Esperamos que compreenda a nossa dor e cumpra o seu dever humanitário ajudando-nos.
+  </p>
+</blockquote><figure class="wp-block-embed is-type-wp-embed is-provider-paank wp-block-embed-paank">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="wp-embedded-content" data-secret="NZLy1E8WL4">
+    <a href="https://paank.org/silent-genocide-malnutrition-in-balochistan-and-the-urgent-need-for-action/">Silent Genocide: Malnutrition in Balochistan, and the Urgent Need for Action</a>
+  </blockquote>
+</div></figure> 
+
+[https://en.wikipedia.org/wiki/Baloch\_Long\_March][2]
+
+<https://www.dawn.com/news/1799580>
+
+<https://www.facebook.com/BycKhi/videos/939585921152198><figure class="wp-block-embed is-type-wp-embed is-provider-bygwaah wp-block-embed-bygwaah">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="wp-embedded-content" data-secret="L0RfQHdziD">
+    <a href="https://bygwaah.com/">Home</a>
+  </blockquote>
+</div></figure> <figure class="wp-block-embed is-type-wp-embed is-provider-voicepk-net wp-block-embed-voicepk-net">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="wp-embedded-content" data-secret="FdWgC0NbZi">
+    <a href="https://voicepk.net/2023/11/37-days-later-chaman-protestors-continue-sit-in/">37 Days Later: Chaman Protestors Continue Sit-in</a>
+  </blockquote>
+</div></figure>
+
+ [1]: https://en.wikipedia.org/wiki/Baloch_people
+ [2]: https://en.wikipedia.org/wiki/Baloch_Long_March

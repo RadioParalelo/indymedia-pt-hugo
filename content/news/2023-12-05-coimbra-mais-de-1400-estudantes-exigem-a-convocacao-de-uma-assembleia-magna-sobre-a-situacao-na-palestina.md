@@ -1,0 +1,57 @@
+---
+title: '[Coimbra] Mais de 1400 estudantes exigem a convocação de uma Assembleia Magna sobre a situação na Palestina'
+author: Publicação Comunitária
+type: post
+date: 2023-12-05T07:33:49+00:00
+url: /?p=213939
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/12/Conferencia-de-imprensa-｜-Entrega-de-pedido-de-realizacao-de-Assembleia-Magna-para-debater-a-situacao-na-Palestina-com-mais-de-1400-subscricoes-｜-By-Coimbra-pela-Palestina.mp4
+        6192491
+        video/mp4
+        
+categories:
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+tags:
+  - Coimbra
+  - Palestina
+
+---
+  
+Coimbra //
+
+via <a href="https://guilhotina.info" target="_blank" rel="noreferrer noopener">Guilhotina.info</a>:
+
+&#8220;Mais de 1400 estudantes exigem a convocação de uma Assembleia Magna sobre a situação na Palestina
+
+O movimento Coimbra pela Palestina esteve esta tarde na Assembleia Académica de Coimbra para entregar as assinaturas de mais de 1400 estudantes que pedem a convocação de uma Assembleia Magna, a assembleia de todos os estudantes da Universidade de Coimbra, sobre a situação na Palestina e o genocídio em curso na Faixa de Gaza.
+
+Vídeo da conferência de imprensa realizada por estudantes do movimento antes da entrega das assinaturas.&#8221;
+
+<a href="https://guilhotina.info" target="_blank" rel="noreferrer noopener">@guilhotinainfo</a>
+
+*<figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/12/Conferencia-de-imprensa-｜-Entrega-de-pedido-de-realizacao-de-Assembleia-Magna-para-debater-a-situacao-na-Palestina-com-mais-de-1400-subscricoes-｜-By-Coimbra-pela-Palestina.mp4"></video></figure> 
+
+<a href="/" target="_blank" rel="noreferrer noopener">Coimbra Pela Palestina:</a>
+
+  
+&#8220;Hoje, entregamos na secretaria da Associação Académica de Coimbra mais de 1400 assinaturas de estudantes da universidade de Coimbra, para convocar uma Assembleia Magna que permita à comunidade estudantil poder pronunciar-se e tomar uma posição acerca do que está a acontecer na Palestina.
+
+  
+Aguardamos, nos próximos 10 dias, pela convocação da assembleia!  
+Palestina vencerá 🇵🇸&#8221;
+
+
+
+*
+
+Today, we delivered at the office of the Coimbra’s Students’ Association more than 1400 students’ signatures, so there can be a general assembly to allow the student community to speak up and take a stand about what has been happening in Palestine.
+
+  
+We wait for the calling of this meeting in the next 10 days!  
+Free Palestine 🇵🇸
+
+@<a href="https://instagram.com/coimbrapelapalestina?igshid=OGQ5ZDc2ODk2ZA==" target="_blank" rel="noreferrer noopener">coimbrapelapalestina</a>

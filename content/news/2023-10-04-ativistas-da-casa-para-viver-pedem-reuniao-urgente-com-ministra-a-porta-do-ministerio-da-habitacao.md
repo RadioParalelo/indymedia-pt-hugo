@@ -1,0 +1,53 @@
+---
+title: Ativistas pela Habitação conseguem reunião com ministra após manifestação
+author: Publicação Comunitária
+type: post
+date: 2023-10-04T12:46:15+00:00
+url: /?p=32058
+classic-editor-remember:
+  - block-editor
+categories:
+  - Discriminação
+  - Habitação
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+tags:
+  - Despejos
+  - Direito à Cidade
+  - Habitação
+
+---
+**Uma dezena de ativistas de vários movimentos está à porta do Ministério da Habitação, exigindo uma reunião urgente com a Ministra com vista ao fim imediato dos despejos. Foram recebidos por um grande número de polícias.** A reunião foi conseguida e está marcada para dia 10.
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    Um grupo de organizações da @manifcasaparaviver está, neste momento, a pedir uma reunião urgente com a Ministra da Habitação, Marina Gonçalves, para falarmos sobre o problema dos despejos.
+  </p>
+  
+  <p>
+    O Governo não pode continuar a ignorar a situação: não existem alternativas de habitação para as pessoas que são despejadas. Por isso, exigimos a suspensão de todos os despejos e as oposições a renovações de contrato de arrendamento.
+  </p>
+  
+  <cite>Vida Justa: <a href="https://www.instagram.com/p/Cx-MLJ5sEPF/">https://www.instagram.com/p/Cx-MLJ5sEPF/</a></cite>
+</blockquote>
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    A plataforma <a href="https://www.instagram.com/manifcasaparaviver/">@manifcasaparaviver</a> com elementos dos seus vários movimentos estão agora à porta do ministério da habitação a pedir uma reunião de urgência com a Ministra para pedir a suspensão imediata dos Despejos.
+  </p>
+  
+  <p>
+    A ministra opta por nos receber com um elevado número de polícias, tal como faz para com todos aqueles que despeja.
+  </p>
+  
+  <p>
+    Como dissemos no sábado por todo o país: EXIGIMOS SOLUÇÕES!
+  </p>
+  
+  <cite>Porta a Porta: <a href="https://www.instagram.com/p/Cx-K8C8Mlv6/">https://www.instagram.com/p/Cx-K8C8Mlv6/</a></cite>
+</blockquote>
+
+<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/photo_2023-10-04_11-20-52-1024x1024.jpg" alt="" class="wp-image-32060" /> </figure>

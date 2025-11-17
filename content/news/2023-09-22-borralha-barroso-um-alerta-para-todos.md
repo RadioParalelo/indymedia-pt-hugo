@@ -1,0 +1,37 @@
+---
+title: '[Borralha, Barroso] Um alerta para todos'
+author: Publicação Comunitária
+type: post
+date: 2023-09-22T16:35:28+00:00
+url: /?p=1429
+admin_form_source:
+  - form65033c1176054
+imagem_2:
+  - 1426
+Ficheiros:
+  - 1428
+Ligação:
+  - https://t.me/minanao/2499
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+
+---
+## [Movimento Não às Minas &#8211; Montalegre] Um alerta para todos:
+
+### Será que a população da Borralha e arredores querem uma mina a céu aberto à sua porta?
+
+Os alertas foram mais que muitos, os esclarecimentos também. Uns pareciam não acreditar, outros, mais ligados ao poder local colaboracionista pareciam desejar a vinda da mina. Pois ela aí está, mais próxima que nunca.
+
+Após vários impedimentos por parte de alguns populares, a máquina já se encontra a fazer prospeções na Brecha de Santa Helena, na Borralha, tendo em vista o desenvolvimento do Estudo de Impacte Ambiental, que deverá estar pronto até ao final de Novembro, quando terminam os dois anos concedidos à empresa para esta o entregar na APA a fim de entrar em discussão pública. Aqui importa lembrar que a Minerália já tem contrato de exploração assinado com a DGEG/Estado e não apenas um contrato de prospeção.
+
+Face a estes últimos acontecimentos, há perguntas que se impõem:  
+Quem autorizou a entrada da máquina? Quem abriu os caminhos e com autorização de quem? Quem forneceu água? De quem é o terreno onde estão a efetuar os furos? É público? De quem? É privado? De quem?
+
+O povo da Borralha vai acordar já, ou só depois de terem uma cratera aberta com mais de 200 metros de profundidade no local onde a máquina se encontra?
+
+Não se deixem adocicar pela oferta do senhor dos croissants!
+
+Não se deixem embalar pelas doces mentiras que vos contaram, porque pagarão cara a dura realidade!

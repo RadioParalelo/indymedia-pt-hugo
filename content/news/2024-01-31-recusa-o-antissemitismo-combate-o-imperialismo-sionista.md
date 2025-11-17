@@ -1,0 +1,67 @@
+---
+title: 'Recusa o antissemitismo, combate o  imperialismo sionista'
+author: Publicação Comunitária
+type: post
+date: 2024-01-31T16:42:53+00:00
+url: /?p=217987
+autopostToMastodon-post-status:
+  - on
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111851561691302491
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+###### **Comunicado do Coletivo pela Libertação da Palestina à instrumentalização mediática da sua presença na manifestação “Casa para Viver”, a 27 de janeiro de 2024 (Porto)** {.wp-block-heading}<figure class="wp-block-image size-large">
+
+<img alt='photo_2024-01-31_16-24-43-1759795-819x1024-7982345-2702123' alt='photo_2024-01-31_16-24-43-1759795-819x1024-7982345' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-31_16-24-43-1759795-819x1024-7982345-2702123.jpg' class="wp-image-217989" /> </figure> 
+
+No passado domingo, 28 de janeiro de 2024, foi exibida no Jornal Nacional da TVI uma reportagem sobre duas faixas exibidas pelo Coletivo pela Libertação da Palestina aquando da manifestação “Casa para Viver”, no Porto.
+
+Tendo sido contactadas por uma jornalista do órgão em causa no mesmo dia da reportagem, fornecemos uma entrevista com vista ao esclarecimento da nossa posição. Ao assistir à peça, apercebemo-nos de que ela apenas serve a promoção de uma comum e antiga tática de combate contra quem se mostra solidária com a resistência palestiniana contra uma ocupação colonial sionista: o de descredibilizar a sua ação como antissemita.
+
+Em suma:  
+Logo no lançamento da peça as palavras de ordem por nós escolhidas são caracterizadas como “no mínimo, polémicas”. É feita menção à Boavista com a existência de uma sinagoga nessa extensa zona da cidade do Porto. Ora, em nenhum momento foi considerado esse fato na escolha desta frase, o que nos faz imaginar qual o intuito de contextualizá-la desta maneira que não a consciente tentativa de fornecer uma versão enviesada deste relato.
+
+Passando a palavra a Henrique Burnay, escolhido para comentar a “polémica”, este desbocou afirmações que consideramos tanto erradas como perigosas, estabelecendo uma equivalência entre sionismo e judaísmo e equiparando a nossa intervenção a ações monstruosas levadas a cabo durante o século XX pelo movimento nazi-fascista. Dado que desconhecemos Henrique Burnay, é difícil entender se tais acusações terão sido resultado de desonestidade intelectual, interesse ou apenas ignorância. Tentaremos ajudar na última.
+
+O argumento de Henrique Burnay é conhecido e assenta nesta base: qualquer critica, ataque, combate contra o sionismo é, na sua essência, antissemita, anti-judeu. Basta ouvir Benjamin Netanyahu, ou tantos outros líderes do projeto colonial sionista, para entender que a acusação é utilizada para descredibilizar toda e qualquer ação de solidariedade com o povo palestiniano. Contudo, o argumento é perigoso e desinformado: confundir sionismo e judaísmo, sionistas e judeus. É um erro.
+
+O sionismo é um movimento com menos de cento e cinquenta anos, que incorporou várias das ideias dominantes do contexto político e social onde nasceu (a Europa centro-oriental de finais do século XIX), como o seu viés etnonacionalista e a sua inspiração num ideário civilizacional-hierárquico, que estão na base dos projetos nacionalistas e coloniais da modernidade europeia tardia. A palavra define o projeto político que levou à criação de Israel, um Estado que sempre teve por base a expropriação de terras, a despossessão e deslocação forçada, o massacre e limpeza étnica do povo palestiniano, instaurando um regime de apartheid institucionalizado, onde o acesso a direitos difere mediante a pertença étnica ou religiosa a um determinado grupo. 
+
+Já o judaísmo é uma religião, uma cultura, uma nação para alguns e uma comunidade para outros. Se é verdade que líderes sionistas sempre se esforçaram para equiparar judaísmo e sionismo, é também certo que sempre houve judeus (incluindo judeus israelitas) que firmemente se definiram como antissionistas e em solidariedade com a Palestina. Fazem-no com base na recusa, por um lado, de que o seu direito à autodeterminação seja vinculado a um território específico e, por outro, de que esse direito depende da despossessão, morte e opressão de outras populações. 
+
+Um bom exemplo disso é a ação do coletivo Jewish Voice for Peace que, no seu website, relembra: “Numa altura em que supremacistas e nacionalistas se aproveitam para semear a confusão e promover antissemitismo, islamofobia e racismo, afirmar erradamente o que é antissemitismo prejudica todo o nosso trabalho pela justiça e põe em perigo as nossas comunidades. A oposição ao movimento político sionista e/ou às políticas do Estado de Israel não é diferente da crítica dirigida a qualquer outra ideologia política ou a políticas de qualquer outro Estado-nação […]. Mas o governo israelita, o governo dos EUA e organizações anti-palestinianas levam a cabo campanhas concertadas para redefinir e distorcer o significado de antissemitismo, com o objetivo de o confundir falsamente com críticas a Israel ou ao Sionismo. Fazem-no para que o governo israelita possa evitar qualquer responsabilização por políticas e ações que violam os direitos humanos das palestinianas. […] Os fomentadores da guerra tentam dificultar as coisas, mas na realidade é tudo claro e simples: a luta pela liberdade palestiniana e contra o antissemitismo estão interligadas. Estamos profundamente comprometidas com ambas.” (tradução nossa) 
+
+Revemo-nos inteiramente nesta caracterização. 
+
+Nesta ótica, rejeitamos perentoriamente a relação estabelecida pelo já referido comentador entre “capital sionista” e “capital judeu”. Definimos “capital sionista” como todo aquele cujo detentor tem relações diretas ou indiretas com o estado de Israel, todo o que lucra com o apartheid, todo o que é cúmplice da limpeza étnica, normalizando um regime colonial de ocupação e apartheid. Nada tem que ver com características religiosas e/ou étnicas. O infeliz comentário cria, isso sim, uma equivalência perigosa que permite conectar qualquer ação levada a cabo por Israel, ou por quem compactua com o seu projeto colonial, como uma ação pela qual todos os judeus poderiam ser responsabilizados, o que é absolutamente falso e moralmente condenável. 
+
+Esta estratégia não é nova e tem vindo a ser posta em prática em vários espaços para criminalizar a luta e resistência palestinianas, assim como a de quem com ela se mostra solidária. Banaliza-se, num esforço propagandístico, a violência posta em prática pelo estado sionista e, num padrão duplo, marginalizam-se todas as ações de solidariedade individuais e coletivas, como é o exemplo das campanhas do movimento BDS (Boicote, Desinvestimento e Sanções) ou simples faixas em manifestações pelo direito a habitação digna que se inserem no mesmo contexto de ação política. 
+
+Destacamos ainda que a campanha que inspirou a BDS palestiniana, mobilizada no seu tempo por ativistas anti-apartheid sul-africanos, compatriotas dos que hoje iniciaram uma ação por genocídio contra Israel no Tribunal Internacional de Justiça, é, contemporaneamente, lida como tendo sido justa e necessária para o desmantelamento dessa opressão colonial, enquanto qualquer apelo ao boicote a Israel e ao capital relacionado com a ocupação da Palestina é representado como tendo um viés antissemita. Questionamos, por isso, se o Estado de Israel goza de um estatuto de excecionalidade e impunidade no quadro das relações e do direito internacionais. 
+
+A TVI e Henrique Burnay não foram os únicos a prestar-se ao triste serviço de tornar este episódio num circo de fraca figura. Os protagonistas foram-se atropelando durante o dia de ontem, segunda-feira, 29 de janeiro.  
+  
+Durante a manhã, Francisco Assis, correu para enviar um comunicado à Lusa acusando-nos de pertencermos a “uma certa extrema-esquerda imbecil e semianalfabeta” e de estarmos próximos da &#8220;propaganda nazi do senhor Goebbels&#8221;. Ironia das ironias, foi com um quê de “semianalfabetismo” que o candidato a cargo público citou erroneamente as palavras que se liam nas faixas com que saímos à rua: elas não diziam “Não queremos ser inquilinos de judeus”; diziam, sim, “Não queremos ser inquilinos de sionistas assassinos”. No título da mesma peça, o Diário de Notícias classifica, de maneira difamatória, os cartazes como antissemitas.  
+  
+Mais tarde, Dor Shapiro, embaixador de Israel em Portugal, foi mais longe ainda. Disse à Rádio Renascença (que também define, no título, os cartazes como antissemitas) que as faixas diziam “como limpar o mundo de judeus”. E, já hoje, Fernanda Câncio continuou a doar para o peditório num texto de opinião publicado no Diário de Notícias, que classifica os cartazes de “obscenos, revoltantes” e “antissemitas”.  
+  
+Importa ainda questionar o destaque dado à “polémica”. Para além da habitual corrida aos cliques sobre mais uma novela inventada dentro de redações dos grandes jornais, que vivem dos infindáveis ciclos da toxicidade da internet, só podemos ler o foco dado a este caso como uma procura ativa de deslegitimar a mobilização solidária com o povo palestiniano em Portugal, intimidando ativistas com um sentimento de medo, fruto de um juízo de reprovação em praça pública.  
+  
+Ademais, as palavras dirigidas, durante a reportagem, aos promotores da marcha “Casa para Viver”, colocando-os no papel “cúmplices de antissemitismo”, levam também à descredibilização da luta pelo direito à habitação, levada a cabo por coletivos, movimentos sociais, associações de moradores e diversas outras organizações populares. Repudiamos a instrumentalização das nossas posições políticas para atacar a luta por justiça social. Estamos solidárias com as companheiras que saíram à rua no dia 27 de janeiro, bem como com todas as que continuam a lutar para derrubar os sistemas de opressão que as tentam esmagar.  
+  
+É exatamente por reconhecermos a intersecção entre lutas sociais, como a da habitação com a da luta pela libertação da Palestina, que decidimos participar na marcha de sábado passado. Como se lê no ponto três da nossa Carta de Princípios, “Olhamos para a subjugação do povo palestiniano como um epicentro de sistemas de opressão complexos e globais, que sufocam todos os povos oprimidos do mundo. Por isso, entendemos que a luta por uma Palestina livre tem de ser uma luta interseccional e sem fronteiras.” Basta olhar para a realidade nos dois contextos para entender como as lutas estão ligadas. Cidades como Jerusalém, Haifa e Tel Aviv (Jaffa, no seu nome árabe) são das mais gentrificadas do mundo. Fundos imobiliários e senhorios lucram com património acumulado às custas do apartheid e da limpeza étnica a que pessoas palestinianas foram e continuam a ser sujeitas. E não é só na Palestina que o capital sionista se multiplica. Também em Portugal, as amarras do capital contribuem para a gentrificação que deixa tanta gente sem casa. Nesse sentido, a entrega de património imobiliário, que nos dias que correm se afigura de relevância major, a fundos de investimento que operam na ótica de gerar lucro é, para nós, inaceitável. Mais ainda, quando ditos fundos têm ligações ao apartheid. Opomo-nos terminantemente à normalização de relações económicas com o regime sionista. Quem lucra com a limpeza étnica é cúmplice de genocídio.  
+  
+É nesse contexto, o de um genocídio contra o povo palestiniano, que somos alvo de uma campanha intelectualmente desonesta de desinformação. Neste preciso momento, vários governos do Norte Global (incluindo os de alguns países da UE), numa atitude de puro sadismo, estão a suspender o apoio financeiro à UNRWA, agência da Organização das Nações Unidas (ONU) responsável pelo fornecimento e distribuição de ajuda humanitária em Gaza e em outros territórios palestinianos ocupados. Estes países lavam a branco e patrocinam a tentativa real de eliminação de um povo, enquanto procuram criminalizar e deslegitimar qualquer crítica às ações de quem o pratica. Esta é também a ordem de prioridades das direções de informação dos nossos meios de comunicação social, traduzir o genocídio (do povo palestiniano) como “direito à autodefesa” (de Israel), atacar aquelas que se mobilizam em solidariedade com as pessoas palestinianas e enviar uma mensagem a todas as que pensam seguir o mesmo caminho. Por considerarmos tudo isto injusto, desumano e inaceitável, continuaremos a acompanhar os gritos de milhões de palestinianas que são alvo da violência sionista-israelita.  
+  
+Em solidariedade, hoje e sempre,  
+30 de janeiro de 2024
+
+Coletivo Pela Libertação da Palestina
+
+<https://drive.google.com/file/d/16AO_om4RgzShV14sODmyTtqnvkLajj9S/view?pli=1>
+
+<https://www.instagram.com/p/C2vXKL6MyL2/?img_index=1>

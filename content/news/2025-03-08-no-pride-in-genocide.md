@@ -1,0 +1,163 @@
+---
+title: “No Pride In Genocide”
+author: Publicação Comunitária
+type: post
+date: 2025-03-08T09:00:00+00:00
+url: /?p=225202
+post_list_status:
+  - off
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+iworks_yt_thumbnails:
+  - 'a:1:{s:11:"aUjjmEx_5T8";a:5:{s:3:"url";s:51:"http://img.youtube.com/vi/aUjjmEx_5T8/hqdefault.jpg";s:10:"secure_url";s:52:"https://img.youtube.com/vi/aUjjmEx_5T8/hqdefault.jpg";s:5:"width";i:480;s:6:"height";i:360;s:4:"type";s:10:"image/jpeg";}}'
+categories:
+  - Indymedia
+
+---
+ 
+
+**Sobre as ligações do EuroPride 2025 e seus organizadores ao pinkwashing do apartheid israelita.**
+
+Lisboa deverá receber, em junho, o [EuroPride 2025][1], o maior evento LGBTI+ da Europa. Contudo, o [afastamento de todas as associações promotoras iniciais][2] com exceção da Variações, [a nomeação de Diogo Vieira da Silva como “comissário municipal”][3] para o evento ou a [investigação criminal sobre o mesmo, revelada no programa “Prova dos factos” da RTP][4], são motivo de apreensão na comunidade e entre quem luta pelos direitos LGBTI+ em Portugal.
+
+A controversa nomeação de Diogo Vieira da Silva para comissário do evento não é inocente nem acidental.
+
+Diogo Vieira da Silva fundou a Variações (Associação de Comércio e Turismo LGBTI de Portugal) em 2018, da qual foi diretor executivo e presidente [até ser destituído][5] em janeiro de 2024, após denúncias de corrupção e outras [controvérsias][6] envolvendo a sua conduta.
+
+Vieira da Silva foi também **chefe de imprensa da Embaixada de Israel em Lisboa**. A acumulação de cargos na Variações e na embaixada israelita permitiram-lhe aproximar as duas entidades, sendo disso exemplo a realização da “Israeli Pride Party” no Finalmente Club em Lisboa, a 7 de junho de 2023, organizada por ambas.
+
+Na altura e à porta do evento, denunciámos o pinkwashing do estado israelita. A nossa ação, pacífica, foi [considerada por Vieira da Silva “um ataque”][7] e originou um [voto de solidariedade na Assembleia Municipal de Lisboa][8] (18 de julho de 2023), proposto pelo grupo municipal do PSD de Carlos Moedas, e à [apresentação de uma queixa-crime junto do Ministério Público pelo neonazi Mário Machado][9], acusando os manifestantes de homofobia e antissemitismo. O mesmo Mário Machado que, agora, organiza uma [“Marcha do Orgulho Heterosexual” para junho, em protesto contra o EuroPride][10].
+
+**O pinkwashing é, de resto, uma das prioridades da propaganda israelita**, como se pôde constatar na [tentativa de infiltração na Marcha do Orgulho LGBTI+ de Lisboa][11] em 2022 e no injurioso artigo de opinião publicado no Público pelo embaixador israelita em Lisboa a propósito desse incidente.&nbsp;
+
+Após o afastamento de Vieira da Silva, a presidência da Variações passou para José Marquina, proprietário do Finalmente Club, onde teve lugar a “Israeli Pride Party”. Questionado sobre a duvidosa gestão dos fundos públicos destinados à promoção do EuroPride, [Marquina preferiu ofender o jornalista, acusando-o de “fascista e retrógrado”][12].
+
+Já Carlos Moedas, quando questionado sobre a nomeação de Vieira da Silva, procurou ilibar-se, reencaminhando para Diogo Moura a responsabilidade política desta escolha.
+
+**Diogo Moura (então presidente da concelhia de Lisboa do CDS/PP) foi, em 2020,** [**um dos membros fundadores da ALPI**][13] **(Associação Lusa Portugueses por Israel)**, um grupo de lobby sionista, permanecendo nos seus órgãos sociais até 2023.
+
+Carlos Moedas, eleito presidente da CML, nomeia Diogo Moura para vereador da cultura ([entretanto afastado por alegações de fraude eleitoral e recém regressado][14]), função que passou a acumular com a de dirigente da ALPI, promovendo a promiscuidade entre as duas e o estreitar de laços entre o Município de Lisboa e o Estado de Israel.&nbsp;
+
+Também ao participar na [festa de despedida do embaixador israelita Dor Shapira][15] (julho 2024), Carlos Moedas manifestou o seu apoio pessoal e político à ocupação e ao genocídio.
+
+Todos estes atores têm um historial que não esquecemos. Não aceitaremos por isso que o EuroPride 2025 se transforme em mais uma plataforma de pinkwashing político e rejeitamos qualquer tentativa de branqueamento ou normalização com quem pratica violações de direitos humanos.
+
+**Repudiamos a cada vez mais evidente cooptação do EuroPride 2025 por parte de pessoas cuja agenda está longe de ter como prioridade a defesa dos direitos LGBTI+ ou dos direitos humanos, em particular quando estes dizem respeito ao povo palestiniano.**
+
+Perante todas estas polémicas, o silêncio de todos os envolvidos só tem contribuído para o descrédito do evento e das organizações envolvidas. **Exigimos respostas**.
+
+À organização do EuroPride 2025, exigimos um compromisso inequívoco de que o evento não servirá para branquear violações de direitos humanos nem crimes contra a humanidade, quem os comete ou quem com eles compactua.
+
+**Os direitos humanos são universais e indivisíveis.&nbsp;**
+
+Os movimentos LGBTI+ em Portugal têm sido claros no enquadramento da sua luta na defesa dos direitos humanos e contra todas as suas violações e opressões. A ocupação e o genocídio na Palestina não são exceção.
+
+Reiteramos por isso que **“o nosso orgulho são os direitos humanos”**!
+
+Março de 2025
+
+Subscrevem*:
+
+Ação Pela Identidade &#8211; API
+
+Algarve pela Palestina
+
+Associação Cultural Mina
+
+Braga Fora do Armário
+
+CIVITAS Braga
+
+Climáximo
+
+Coimbra pela Palestina
+
+Coletivo pela Libertação da Palestina
+
+Comité de Solidariedade com a Palestina
+
+Curvs
+
+Estudantes do IPP pela Palestina
+
+Estudantes do Porto em Defesa da Palestina
+
+Estudantes pela Palestina ISCTE
+
+Estudantes pela Palestina U. Minho
+
+Estudantes por Justiça na Palestina FCSH&nbsp;
+
+Gentopia &#8211; Associação para a Diversidade e Igualdade de Género
+
+Greve Climática Estudantil&nbsp;
+
+Health Workers for Palestine &#8211; Portugal
+
+Humans Before Borders (HuBB)&nbsp;
+
+Inquieta-te FCSH
+
+Judeus pela Paz e Justiça
+
+Livraria das Insurgentes
+
+Marcha do Orgulho do Porto (MOP)
+
+Marcha do Orgulho LGBTQIAP+ de Santarém
+
+Movimento pelos Direitos do Povo Palestino e pela Paz no Médio Oriente (MPPM)
+
+Núcleo da Olho Vivo de Viseu
+
+Opus Diversidades
+
+Palestina Livre Ilha Terceira
+
+Panteras Rosa &#8211; Frente de Combate à LesBiGayTransfobia
+
+Parents for Peace
+
+Planeta Manas
+
+Plataforma Anti-Transfobia e Homofobia de Coimbra
+
+Plataforma Já Marchavas (Viseu)
+
+Plataforma Unitária de Solidariedade com a Palestina (PUSP)&nbsp;
+
+Queer IST
+
+Rede 8 de Março
+
+Rede Afrolink
+
+República do Kuarenta
+
+Sintra Friendly &#8211; Colectivo Juvenil LGBTIQA+ de Sintra e Apoiantes
+
+SOS Racismo
+
+STOP Despejos
+
+UMAR &#8211; União de Mulheres Alternativa e Resposta
+
+*lista de subscritores atualizada a 6 de março de 2025
+
+ [1]: https://www.publico.pt/2022/10/09/culturaipsilon/noticia/lisboa-vai-acolher-2025-europride-celebra-visibilidade-lgbti-2023340
+ [2]: https://www.facebook.com/redeexaequo/posts/fim-da-parceria-com-o-europride-2025a-rede-ex-aequo-vem-por-este-meio-comunicar-/1010987694393527/
+ [3]: https://esqrever.com/2025/01/20/europride-2025-ilga-portugal-diogo-vieira-da-silva-carlos-moedas/
+ [4]: https://www.rtp.pt/play/p14352/e826814/a-prova-dos-factos
+ [5]: https://dezanove.pt/sai-diogo-vieira-da-silva-entra-jose-2069257
+ [6]: https://esqrever.com/2025/02/01/europride-lisboa-2025-diogo-vieira-da-silva-carlos-moedas-suspeito-desvio-dinheiro-abuso-confianca-burla/?fbclid=IwZXh0bgNhZW0CMTEAAR31P-i4dY8y6KxohmsIOKkF-I1CBKrL98D8OYzR-lav0dPmFJ1-n2XZAJM_aem_f04llYvCJutCPgNGY6suEA
+ [7]: https://x.com/Diogo_GSV_Silva/status/1681746032449802241
+ [8]: https://www.am-lisboa.pt/303000/1/021335,000673/index.htm
+ [9]: https://www.sabado.pt/portugal/detalhe/mp-investiga-homofobia-no-finalmente-apos-queixa-de-mario-machado
+ [10]: https://x.com/Grupo1143/status/1888954342125797808
+ [11]: https://orgulholgbtlisboa.blogspot.com/
+ [12]: https://www.oturismo.pt/turismo-lgbt/49956-jornalista-acusado-de-fascista-e-retrogrado-por-perguntar-sobre-a-promocao-do-europride-2025.html?fbclid=IwZXh0bgNhZW0CMTEAAR0zp82jvoHZ976AnK4Htnwe72YBPZTTH4oJSj343nMjNhcjowpcUqIblJo_aem_xubifUiHLs5hc8TPvt13Ig
+ [13]: https://www.youtube.com/watch?v=aUjjmEx_5T8
+ [14]: https://sicnoticias.pt/pais/2025-01-03-vereador-diogo-moura-regressa-a-camara-de-lisboa-e-moedas-assegura-legalidade-31cc0851
+ [15]: https://x.com/ShapiraDor/status/1818227489597993184/photo/3

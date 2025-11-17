@@ -1,0 +1,81 @@
+---
+title: “stop Cop City” and “Viva, viva Tortuguita,”
+author: Publicação Comunitária
+type: post
+date: 2023-11-15T17:24:18+00:00
+url: /?p=204587
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111415726308220493
+categories:
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+  - Repressão
+tags:
+  - AltPT
+  - Cop City
+  - Direito à Cidade
+  - Indymedia
+  - Protesto
+  - PTrevolutionTV
+  - StopCopCity
+
+---
+Depois de um fim de semana de treino em desobediência civil , os oponentes ao mega centro de treino policial em Atlanta realizaram uma marcha, na segunda-feira, até o local onde a instalação de 90 milhões de dólares esta a ser construido, no que os organizadores chamaram de “Dia de Ação” não violento.
+
+Mais de 400 pessoas marcharam cerca de 3,2 quilômetros de um parque até o local no subúrbio do condado de DeKalb, gritando “stop Cop City” e “Viva, viva Tortuguita”, invocando o nome de um ativista que foi morto a tiros pela polícia enquanto acampava na floresta em protesto no início deste ano.
+
+Alguns manifestantes usaram máscaras, óculos de proteção e trajes químicos, antecipando o uso de gás lacrimogêneo pela polícia, enquanto outros aproveitaram para plantar árvores autóctones para substituir as centenas que já foram cortadas nos terrenos onde o projecto esta a crescer.
+
+O confronto com a policia era esperado e acabou por acontecer terminando em várias detenções e o protesto por dispersar, aparecendo depois a policia a apresentar utensílios de jardinagem como armas retiradas aos manifestantes.
+
+A polícia tinha a lição bem estudada e bloqueio todos os acessos a floresta garantindo assim que os manifestantes tivessem de ir na sua direcção mas foram surpreendidos por um grupo de pessoas de mais idade que conseguiram bloquear alguns acessos a construção por alguns momentos.
+
+Mas esta é apenas mais uma página nesta luta que dura a 2 anos.
+
+Deixamos abaixo, alguns vídeos e fotos do sucedido.<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-162 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="204704" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F-0t2HnW8AAfsnc-1024x683.jpg" alt="" class="wp-image-204704" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="204708" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F-0WECqWsAAyOrc-819x1024.jpg" alt="" class="wp-image-204708" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="204710" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F-0xo4EWYAAg90d-768x1024.jpg" alt="" class="wp-image-204710" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="204718" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F-02UdnWQAAKEGO-1024x768.jpg" alt="" class="wp-image-204718" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="204705" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F-2IvQEXAAA4zBm-1024x585.jpg" alt="" class="wp-image-204705" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="204706" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F-5sjPEXMAA9o-u-1024x578.jpg" alt="" class="wp-image-204706" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="204709" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F-6Wq4Ra0AAgpDl-1024x683.jpg" alt="" class="wp-image-204709" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="204707" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F-6Wq4TaEAAaCJd-1024x701.jpg" alt="" class="wp-image-204707" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="204711" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F-6Wq4TawAAQVkO-1024x683.jpg" alt="" class="wp-image-204711" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="204712" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F-6WusWagAA88UE-1024x683.jpg" alt="" class="wp-image-204712" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="204713" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F-11OaNXkAAgVSJ.jpg" alt="" class="wp-image-204713" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="204714" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F-11OaRWkAESyKp-768x1024.jpg" alt="" class="wp-image-204714" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="204715" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F-bHqtuXEAE26Nb-1024x575.jpg" alt="" class="wp-image-204715" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="204716" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F-bHqtuXUAEGix2-1024x575.jpg" alt="" class="wp-image-204716" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="204717" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/hd10-cop-city.jpg" alt="" class="wp-image-204717" /></figure> </figure> <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="en" dir="ltr">
+      The crowd begins to march. <a href="https://twitter.com/hashtag/atlpol?src=hash&ref_src=twsrc%5Etfw">#atlpol</a> <a href="https://twitter.com/hashtag/copcity?src=hash&ref_src=twsrc%5Etfw">#copcity</a> <a href="https://t.co/NdS8qngk4w">pic.twitter.com/NdS8qngk4w</a>
+    </p>&mdash; Riley Bunch (@ribunchreports) 
+    
+    <a href="https://twitter.com/ribunchreports/status/1724074459424825678?ref_src=twsrc%5Etfw">November 13, 2023</a>
+  </blockquote>
+</div></figure> <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="en" dir="ltr">
+      Police throw teargas at organizers on the frontlines at the <a href="https://twitter.com/hashtag/BlockCopCity?src=hash&ref_src=twsrc%5Etfw">#BlockCopCity</a> mobilization in front of cop city construction site. <a href="https://t.co/CzUunzk6SE">pic.twitter.com/CzUunzk6SE</a>
+    </p>&mdash; NDN Collective (@ndncollective) 
+    
+    <a href="https://twitter.com/ndncollective/status/1724101726641492423?ref_src=twsrc%5Etfw">November 13, 2023</a>
+  </blockquote>
+</div></figure> <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="en" dir="ltr">
+      BLOCK COP CITY🚨🚨🚨<br /><br />500+ activists are marching to the Weelaunee Forest to shut down construction for the day. <br /><br />The message is clear &#8211; cop city will never be built! <a href="https://twitter.com/hashtag/StopCopCity?src=hash&ref_src=twsrc%5Etfw">#StopCopCity</a> <a href="https://t.co/Fu3BX2cLBL">pic.twitter.com/Fu3BX2cLBL</a>
+    </p>&mdash; RootsAction (@Roots_Action) 
+    
+    <a href="https://twitter.com/Roots_Action/status/1724087800495055047?ref_src=twsrc%5Etfw">November 13, 2023</a>
+  </blockquote>
+</div></figure> 
+
+<https://twitter.com/i/broadcasts/1gqxvQwZWLnJB><figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  https://twitter.com/i/status/1724142659059482780
+</div><figcaption class="wp-element-caption">Para saberes mais espreita o artigo que escrevemos a semana passada.
+
+  
+Pela soberania da informação.</figcaption></figure>

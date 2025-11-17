@@ -1,0 +1,99 @@
+---
+title: Reitoria da Universidade de Lisboa.
+author: Publicação Comunitária
+type: post
+date: 2023-11-18T11:46:30+00:00
+url: /?p=207386
+classic-editor-remember:
+  - block-editor
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/11/video_2023-11-17_23-46-26.mp4
+        9633709
+        video/mp4
+        
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111431385128609672
+embed_privacy_thumbnail_youtube_igkAbREUhXs:
+  - youtube-igkAbREUhXs-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_igkAbREUhXs_url:
+  - https://youtu.be/igkAbREUhXs
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+  - Repressão
+tags:
+  - AltPT
+  - Ecologia
+  - Indymedia
+  - Lisboa
+  - ocupapeloclima
+  - Protesto
+  - PTrevolutionTV
+
+---
+Como já está circular muita informação sobre o que se passou hoje na Reitoria da Universidade de Lisboa vamos tentar dar-te uma forma diferente de ver a que aconteceu.<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-173 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="207392" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-17_23-36-23-3-768x1024.jpg" alt="" class="wp-image-207392" /> </figure> </figure> 
+
+Eu vou, o Ninja que esteve lá a filmar mais de 3 horas, tentar criar um pequeno roteiro para tentares ver os pontos altos do sucedido no directo que fizemos ontem a tarde, na Reitoria da Universidade de Lisboa.
+
+Por algum motivo, que desconhecemos, o nosso directo tanto no FB como o YT só registou 1 hora, mas já carregamos um vídeo com as 3h30 de tudo o que se passou, recomenda-mos que uses esse vídeo para acompanhares este roteiro. Podes encontrar o vídeo [AQUI][1] ou no fim desta publicação.
+
+<ul class="wp-block-list">
+  <li>
+    Antes de tudo queremos demonstrar a nossa total solidariedade com este movimento estudantil, só a repressão que vem acontecendo durante esta semana em várias Faculdades é motivo de luta, ainda mais perante estudantes pacíficas que o que querem é promover palestras, conversas e colocar o tema das alterações climáticas em discussão, já que os estudos científicos e opinião de investigadores e cientistas não são suficientes para tornar este o tema mais importante. &#8211; Opinião pessoal do Nuno.
+  </li>
+</ul><figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/video\_2023-11-17\_23-46-26.mp4"></video></figure> 
+
+## O Roteiro {.wp-block-heading}
+
+15h30 &#8211; A Praça a Frente da Reitoria esta vazia, apenas dois polícias lá estavam que depois misteriosamente desapareceram.
+
+15h40 &#8211; Começam a a chegar os primeiros Estudantes com algum material, faixas megafones e outros.
+
+15h50 00:00- Início do nosso directo, a partir daqui os horários deste Roteiro é referente ao vídeo.  
+Ambiente calmo e tranquilo com cânticos e palavras de ordem.
+
+0:49 » 0:57 &#8211; O Vice-Reitor decide vir falar com os estudantes e durante alguns minutos a conversa entre o reitor e uma estudante é bastante interessante, , com uma pequena interrupção pelo meio.
+
+0:57 &#8211; O Vice-Reitor decide que a conversa terminou e quando se começa a dirigir para entrar no edifício da Reitoria 2 estudantes, conseguem colocar-se na porta com o intuito de ocupar o espaço, acabando por ficar entaladas, pela acção dos seguranças, ficando o Reitor e 1 segurança do lado de fora.
+
+0:60 &#8211; Apos alguns ânimos exaltados as estudantes são puxadas para dentro e o Vice-Reitor e um Segurança ficam do lado de fora, não se registando qualquer agressão ou provocação, acabando ambos por sair pelo seu próprio pé.
+
+0:63 &#8211; Perante o desperecimento das colegas dentro do edifício da Reitoria os estudantes pintam palavras de ordem com spray nas paredes e janelas da Reitoria.
+
+1:33 &#8211; Sem notícia das colegas os ânimos acabam por se exaltar e apos algumas chapadas nas portas as portas abrem e algumas estudantes entram e sentam-se imediatamente no chão a exigir saber das colegas alegando que não saem sem elas.
+
+Se ainda estas a ler isto obrigado pela paciência.
+
+2:04 &#8211; A policia chega e expulsa todos os que estão do hall, menos as estudante sentadas, 7 no total e bloqueiam a porta para ninguém entrar nem sair.
+
+2:41 &#8211; Polícia começa a levar as estudantes depois de docentes tentarem que o desfecho fosse outro com a direcção
+
+3:21 &#8211; 30 minutos apos as estudantes estarem detidas algures dentro da reitoria a fazer não se sabe o que são colocadas em carrinhas para serem levadas para a Esquadra dos Olivais.
+
+20h18 &#8211; Um vigília é convocada para a Esquadra dos Olivais.
+
+23h00 &#8211;
+
+&#8220;🎉Já saíram da esquadra.
+
+Cerca de 20 estudantes e professores apareceram na vigília de solidariedade.
+
+Esta foi a primeira semana da onda de ações pelo fim ao fóssil, onde nos comprometemos a criar disrupção nas escolas e instituições para garantir que temos um futuro.
+
+Vamos agora preparar-nos para as ações nas instituições que estão a empurrar-nos para o colapso e, na sexta feira dia 24, ocupar o Ministério do Ambiente e da (in)ação climática. Ponto de encontro: às 11h no Largo Camões
+
+Vemo-nos lá 🔥&#8221;<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> 
+
+Pela soberania da informação.
+
+ [1]: https://youtu.be/igkAbREUhXs

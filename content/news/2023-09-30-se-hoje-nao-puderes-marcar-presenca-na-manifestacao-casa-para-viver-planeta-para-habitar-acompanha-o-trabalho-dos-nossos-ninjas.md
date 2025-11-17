@@ -1,0 +1,33 @@
+---
+title: Se hoje não puderes Marcar presença na Manifestação Casa para viver Planeta para Habitar acompanha o trabalho dos nossos Ninjas.
+author: Publicação Comunitária
+type: post
+date: 2023-09-30T10:23:49+00:00
+url: /?p=27249
+classic-editor-remember:
+  - block-editor
+categories:
+  - Habitação
+  - Indymedia
+tags:
+  - AltPT
+  - Direito à Cidade
+  - Indymedia
+  - Manifestação
+  - Protesto
+  - PTrevolutionTV
+
+---
+<figure class="wp-block-image size-large"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Copia-de-MODELO-PTREV-18-1024x576.png" alt="" class="wp-image-27250" /></figure> 
+
+Se hoje não puderes Marcar presença na **Manifestação Casa para viver Planeta para Habitar****** acompanha o trabalho dos nossos Ninjas.
+
+Todo o trabalho realizado pela PTrevolutionTV é auto financiado, se puderes ajudar entra em contacto connosco.
+
+Todos os nossos directo tem um custo associado de **25€**, entre internet, alimentação e transportes.
+
+**Hoje a partir da 15h00 acompanha a nossa Emissão Desde Lisboa na nossa Página de Facebook.**
+
+Se vais estar em algum dos outros protestos publica tudo com as hashtags **#casaparaviver #indymedia**
+
+Pela soberania da informação, sem cortes, sem edição, sem manipulação, informação sem tretas.

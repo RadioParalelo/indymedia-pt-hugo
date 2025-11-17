@@ -1,0 +1,87 @@
+---
+title: Minas Não! Declaração de Impacto ambiental da nova exploração mineira de lítio na Borralha em consulta pública
+author: Publicação Comunitária
+type: post
+date: 2025-10-08T07:00:00+00:00
+url: /?p=227980
+activitypub_status:
+  - federated
+categories:
+  - Ecologia e Animais
+  - Indymedia
+tags:
+  - MinasNão
+
+---
+Entrou em consulta pública o Estudo de impacte ambiental (EIA) da Mina da Borralha <figure class="wp-block-image size-full">
+
+<img decoding="async" src="http://localhost:8000/wp-content/uploads/2025/10/1000087509.jpg" alt="" class="wp-image-227996" /> </figure> 
+
+ALERTA!  
+Entrou em consulta pública o Estudo de impacte ambiental (EIA) da Mina da Borralha que decorrerá de 7 de OUTUBRO a 17 de NOVEMBRO de 2025.  
+  
+Participe em discordância com este atentado ambiental, será de extrema importância !!!!  
+  
+[https://siaia.apambiente.pt/AIA1.aspx?ID=3738  
+][1]  
+A participação é aqui:  
+[https://participa.pt/pt/consulta/mina-da-borralha  
+][2]  
+A DESTRUIÇÃO DE BARROSO PATRIMÓNIO AGRÍCOLA MUNDIAL/ RESERVA DA BIOSFERA BEM COMO A FALÊNCIA DA ZONA BALNEAR E TURÍSTICA DO GERÊS:  
+UMA CONSEQUÊNCIA PREVISÍVEL DA MINERAÇÃO NA BORRALHA  
+  
+  
+À cota mais alta podemos ver a barragem de Pisões/Alto Rabagão. Mais próxima, a um nível inferior, a barragem da Venda Nova.  
+Ficam no concelho de Montalegre, Barroso. Estão interligadas entre si e ambas vertem as suas águas para a zona balnear e termal do Gerês.  
+  
+Muito próximo das margens da primeira, será instalada uma mina de lítio a céu aberto, uma das indústrias mais poluentes do mundo.  
+Adjacente à segunda, será implantada uma mina de volfrâmio, que verterá poluentes que venham a ser derramados para junto do paredão desta barragem.  
+  
+Dali, os poluentes só têm um destino: zona balnear do Gerês, a apenas 19km, os quais chegarão via leitos dos rios Rabagão e Cávado, que atravessa Braga.  
+  
+Estas minas destruirão montes e vales do Barroso, comprometendo para sempre a Comunidade e tudo aquilo que justifica ser hoje a única região portuguesa classificada Património Agrícola Mundial.  
+  
+A Zona Balnear do Gerês ficará arruinada pois ninguém quererá expor-se aos riscos de contaminação deste tipo de indústrias.  
+Quem quererá fazer turismo na Caniçada, tendo por cima das &#8220;suas cabeças&#8221; estas duas minas, uma das indústrias mais poluentes do mundo?  
+  
+E, em Portugal, onde grassa a corrupção, confiam na supervisão? Não faltam (péssimos) exemplos.
+
+¶
+
+Minas da Borralha
+
+https://pt.wikipedia.org/wiki/Minas\_da\_Borralha
+
+Reativação  
+A consulta pública para a atribuição da concessão mineira da Borralha decorreu até abril de 2021 e recebeu 154 participações no portal “Participa”.  
+  
+Em 28 outubro de 2021, foi assinado o contrato, do Estado português, através da Direção-Geral de Energia e Geologia, e a Minerália – Minas, Geotecnia e Construções, Lda. de concessão para a exploração de volfrâmio e de outros minerais na Borralha.  
+  
+A Minerália, empresa com sede em Braga e que desenvolveu trabalhos de prospeção na Borralha desde 2012, requereu a celebração do contrato de concessão de exploração de tungsténio, estanho e molibdénio e metais associados e pretende reaproveitar parte da área da brecha de Santa Helena, uma das várias que existiam naquele antigo couto mineiro.[8] A área da concessão é de 382,48 hectares.  
+  
+O contrato agora assinado tem uma vigência de 25 anos, podendo ser prorrogado até duas vezes por períodos de 15 anos cada.  
+  
+Após a assinatura, a empresa tem dois anos para elaborar e apresentar o Estudo de Impacte Ambiental e para apresentar um estudo de viabilidade técnico económica da exploração. Após isso tem dois anos para obter a Declaração de Impacte Ambiental favorável ou favorável condicionada.  
+  
+Numa segunda fase e num prazo máximo de oito anos, após a assinatura do contrato, a Minerália obriga-se a iniciar a exploração, bem como a instalar uma unidade de tratamento e beneficiação (lavaria).
+
+Minas da Borralha  
+A aldeia das Minas da Borralha faz parte da freguesia de Salto, no concelho de Montalegre, e foi durante várias décadas o principal pólo empregador e populacional de Montalegre.  
+  
+A mina de volfrâmio funcionou de 1903 a 1986[1] chegando a albergar cerca de 2.000 pessoas, com os bairros da aldeia chegando a ter 5 mil pessoas ligadas ao setor. Em 2011, segundo o censo tinha 243 habitantes.  
+  
+História  
+O nome da localidade teve origem em Domingos Borralha que, em 1900, foi trabalhar para as minas de Coelhoso (Bragança) onde comentou junto de um engenheiro francês que, no lugar onde vivia, existiam muitas pedras iguais às que ali eram exploradas e que as usavam para atirar às cabras e construir muros.  
+  
+O francês foi confirmar e registou a concessão em 1902, sendo entregue a &#8220;Compagnie des mines d&#8217;étain et de wolfram&#8221;.  
+  
+No primeiro ano, só à superfície, a Borralha, rendeu 70 toneladas de volfrâmio, no ano seguinte, já com algumas perfurações rendeu 170 toneladas. Devido ao desenvolvimento de infraestruturas relacionadas a extração, em 1904, a aldeia já tinha luz elétrica.  
+  
+O auge da exploração foi entre as décadas de 30 e 50, na altura da II Guerra Mundial (tornando-se uma das maiores da Europa) e da Guerra da Coreia, devido ao uso do minério em armamentos, com o mesmo sendo vendido pelo Estado Português para vários países, com o couto mineiro se expandindo para 2.000 hectares.  
+  
+<figure class="wp-block-image size-full">
+
+<img decoding="async" src="http://localhost:8000/wp-content/uploads/2025/10/1000087537.jpg" alt="" class="wp-image-227994" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" src="http://localhost:8000/wp-content/uploads/2025/10/1000087535-1024x1024.jpg" alt="" class="wp-image-227995" /><figcaption class="wp-element-caption">Antiga Mina da Borralha</figcaption></figure>
+
+ [1]: https://siaia.apambiente.pt/AIA1.aspx?ID=3738
+ [2]: https://participa.pt/pt/consulta/mina-da-borralha

@@ -1,0 +1,29 @@
+---
+title: Lugar de Fala nº 164 com Carlos M Dias
+author: Publicação Comunitária
+type: post
+date: 2024-03-07T16:39:28+00:00
+excerpt: Carlos M Dias é caboverdiano de alma, apesar de ter nascido em Lisboa. Formado em Psicologia e tem certificação internacional em coaching. Foi jogador profissional de basquetebol, campeão nacional e vencedor da taça de Portugal com carreira em Portugal e Espanha. Hoje o seu trabalho é como orador motivacional e mentor.
+url: /?p=220872
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+<figure class="wp-block-audio"><audio controls src="https://vid.puffyan.us/latest_version?id=-kIzH4BnGZI&itag=140"></audio></figure> <figure class="wp-block-video"><video controls src="https://invidious.protokolla.fi/latest_version?id=-kIzH4BnGZI&itag=18"></video></figure> 
+
+Carlos M Dias é caboverdiano de alma, apesar de ter nascido em Lisboa. Formado em Psicologia e tem certificação internacional em coaching. Foi jogador profissional de basquetebol, campeão nacional e vencedor da taça de Portugal com carreira em Portugal e Espanha. Hoje o seu trabalho é como orador motivacional e mentor.
+
+Vê no Invidious: <https://vid.puffyan.us/watch?v=-kIzH4BnGZI>
+
+Vê no Youtube: <a href="https://youtube.com/watch?v=-kIzH4BnGZI" target="_blank" rel="noreferrer noopener">https://youtube.com/watch?v=-kIzH4BnGZI </a>
+
+[O Lado Negro da Força][1]<figure class="wp-block-image size-large">
+
+![][2] </figure>
+
+ [1]: https://www.youtube.com/@oladoNegrodaForca
+ [2]: https://cmi.indymedia.pt/wp-content/uploads/2024/03/maxres-4730148.jpg

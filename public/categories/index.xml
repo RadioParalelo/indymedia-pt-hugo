@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on indymedia.pt</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on indymedia.pt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Sun, 16 Nov 2025 06:02:16 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movimentos Sociais</title>
+      <link>http://localhost:1313/categories/movimentos-sociais/</link>
+      <pubDate>Sun, 16 Nov 2025 06:02:16 +0000</pubDate>
+      <guid>http://localhost:1313/categories/movimentos-sociais/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Repressão</title>
+      <link>http://localhost:1313/categories/repress%C3%A3o/</link>
+      <pubDate>Sat, 15 Nov 2025 22:48:48 +0000</pubDate>
+      <guid>http://localhost:1313/categories/repress%C3%A3o/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guerra E Paz</title>
+      <link>http://localhost:1313/categories/guerra-e-paz/</link>
+      <pubDate>Sat, 15 Nov 2025 22:41:28 +0000</pubDate>
+      <guid>http://localhost:1313/categories/guerra-e-paz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poder E Autodeterminação</title>
+      <link>http://localhost:1313/categories/poder-e-autodetermina%C3%A7%C3%A3o/</link>
+      <pubDate>Thu, 23 Oct 2025 06:18:41 +0000</pubDate>
+      <guid>http://localhost:1313/categories/poder-e-autodetermina%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discriminação</title>
+      <link>http://localhost:1313/categories/discrimina%C3%A7%C3%A3o/</link>
+      <pubDate>Tue, 21 Oct 2025 12:54:28 +0000</pubDate>
+      <guid>http://localhost:1313/categories/discrimina%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ecologia E Animais</title>
+      <link>http://localhost:1313/categories/ecologia-e-animais/</link>
+      <pubDate>Mon, 20 Oct 2025 22:47:53 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ecologia-e-animais/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Uncategorized</title>
+      <link>http://localhost:1313/categories/uncategorized/</link>
+      <pubDate>Fri, 17 Oct 2025 00:32:21 +0000</pubDate>
+      <guid>http://localhost:1313/categories/uncategorized/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Indymedia</title>
+      <link>http://localhost:1313/categories/indymedia/</link>
+      <pubDate>Wed, 08 Oct 2025 07:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/indymedia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cultura E Arte</title>
+      <link>http://localhost:1313/categories/cultura-e-arte/</link>
+      <pubDate>Tue, 24 Jun 2025 23:54:45 +0000</pubDate>
+      <guid>http://localhost:1313/categories/cultura-e-arte/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Habitação</title>
+      <link>http://localhost:1313/categories/habita%C3%A7%C3%A3o/</link>
+      <pubDate>Sat, 15 Mar 2025 19:15:01 +0000</pubDate>
+      <guid>http://localhost:1313/categories/habita%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Queer Feminismo</title>
+      <link>http://localhost:1313/categories/queer-feminismo/</link>
+      <pubDate>Sat, 15 Mar 2025 19:15:01 +0000</pubDate>
+      <guid>http://localhost:1313/categories/queer-feminismo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

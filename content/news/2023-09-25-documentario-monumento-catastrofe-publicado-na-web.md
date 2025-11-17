@@ -1,0 +1,51 @@
+---
+title: Documentário “Monumento Catástrofe” publicado na web
+author: Publicação Comunitária
+type: post
+date: 2023-09-25T13:06:03+00:00
+url: /?p=1752
+admin_form_source:
+  - form65033c1176054
+tags:
+  - Catástrofe
+classic-editor-remember:
+  - block-editor
+embed_privacy_thumbnail_vimeo_699522400:
+  - vimeo-699522400.jpg
+embed_privacy_thumbnail_vimeo_699522400_url:
+  - https://vimeo.com/699522400
+categories:
+  - Cultura e Arte
+  - Discriminação
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+  - Repressão
+
+---
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <p>
+    Os Left Hand Rotation acabam de publicar para ver online em vários idiomas o seu novo documentário &#8220;MONUMENTO CATÁSTROFE&#8221;, um road-movie em Portugal, viagem por monumentos erguidos às catástrofes (colonialismo, guerras, escravatura, ecocidios, epidemias, feminicídios&#8230;) no tempo do Capitaloceno.
+  </p><figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-16-9 wp-has-aspect-ratio">
+  
+  <div class="wp-block-embed__wrapper">
+  </div></figure> 
+  
+  <p>
+    Podem ver ou partilhar a partir daqui, <a class="moz-txt-link-freetext" href="https://vimeo.com/699522400">https://vimeo.com/699522400</a>
+  </p>
+  
+  <p>
+    O filme foi projectado no ciclo de cinema &#8220;Libertar a Memória&#8221; na Fortaleza de Sagres (Algarve, sábado 23 às 17:30) e na Feira do Livro Anarquista de Lisboa (Domingo 24 ás 21H). Também foi seleccionado nos festivais Caminhos do Cinema Português e Periferias, Festival Internacional de Cine.
+  </p>
+  
+  <p>
+    O filme faz parte do projeto &#8220;A volta ao mundo em 80 catástrofes&#8221;, que mapeia este tipo de monumentos no mundo e tem um capítulo especial sobre Portugal, pode ser descarregado aqui: <a class="moz-txt-link-freetext" href="https://www.lefthandrotation.com/avoltaaomundoem80catastrofes">https://www.lefthandrotation.com/avoltaaomundoem80catastrofes</a>
+  </p>
+  
+  <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-a89b3969 wp-block-buttons-is-layout-flex">
+    <div class="wp-block-button">
+      <a class="wp-block-button__link wp-element-button" href="https://www.lefthandrotation.com/80catastrofes/A_volta_ao_mundo_em_80_catastrofes.pdf"><strong>Descarregar PDF</strong></a>
+    </div>
+  </div>
+</div>

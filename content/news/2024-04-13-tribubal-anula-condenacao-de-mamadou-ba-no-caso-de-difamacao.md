@@ -1,0 +1,67 @@
+---
+title: Tribubal anula condenação de Mamadou Ba no caso de “difamação”
+author: Publicação Comunitária
+type: post
+date: 2024-04-13T13:39:20+00:00
+url: /?p=222615
+fpsm_author_name:
+  - Rádio Paralelo
+links:
+  - https://www.sosracismo.pt/geral/acordao-proferido-pelo-tribunal-da-relacao-de-lisboa-na-sequencia-do-recurso-apresentado-por-mamadou-ba-da-decisao-judicial-que-o-havia-condenado-pelo-crime-de-difamacao
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Discriminação
+
+---
+[Comunicado SOS Racismo][1]:
+
+<div class="entry-content">
+  <h1 class="entry-title ">
+    Acórdão proferido pelo Tribunal da Relação de Lisboa, na sequência do recurso apresentado por Mamadou Ba, da decisão judicial que o havia condenado pelo crime de difamação
+  </h1>
+  
+  <h2 class="wp-block-heading">
+    Comunicado de Imprensa
+  </h2>
+  
+  <ol>
+    <li>
+      O Tribunal da Relação de Lisboa considerou parcialmente procedente o recurso interposto pelo ativista Mamadou Ba da sentença judicial proferida pelo Juízo Local Criminal de Lisboa, que o havia condenado pela prática do crime de difamação do neo-nazi Mário Machado
+    </li>
+    <li>
+      De acordo com o referido Acórdão, o Tribunal de 1a instância não efetuou uma apreciação explicita dos argumentos expostos pela defesa, nem enquadrou ou contextualizou sequer as afirmações de Mamadou Ba, nomeadamente em função dos trágicos acontecimentos ocorridos no dia da morte de Alcindo Monteiro, da participação de Mário Machado e do seu passado violento, ou da intervenção cívica do próprio Mamadou Ba, enquanto ativista anti-racista e defensor dos direitos humanos.
+    </li>
+    <li>
+      Por esses motivos, a sentença recorrida foi anulada, por falta de fundamentação, tendo sido determinada a realização de novo julgamento, cingido à ponderação dos factos à luz da documentação e prova produzida nos autos, que permitam a devida contextualização da publicação de Mamadou Ba.
+    </li>
+    <li>
+      O processo judicial não termina aqui, mas o SOS Racismo congratula-se com esta decisão do Tribunal da Relação de Lisboa e com a possibilidade que é agora dada a Mamadou Ba de se poder defender na íntegra, de ver os seus motivos devidamente analisados e ponderados em Tribunal e, no final, de poder vir a ser absolvido da acusação infame que lhe foi dirigida.
+    </li>
+    <li>
+      O SOS Racismo está solidário com Mamadou Ba e com todas as pessoas que lutam pela democracia, contra o racismo e contra a xenofobia.
+    </li>
+  </ol>
+  
+  <p>
+    12 de abril de 2024
+  </p>
+  
+  <p>
+    &#8212;
+  </p>
+</div>
+
+Mamadou Ba partilhou ontem nas redes sociais que &#8220;Desde do início deste processo que dissemos que era um julgamento do sistema de justiça contra si próprio. Este caso e a forma como foi conduzido expuseram a capitulação da justiça frente à manipulação da extrema-direita e, por extensão, confirmaram a articulação entre anti antirracismo e porosidade política de segmentos do sistema judicial à ideologia do ódio. Quanto a nós, não mudamos um iota no que dissemos e nada nos fará recuar no combate contra o racismo. NADA. A luta continua.✊🏿 E claro está, obrigado a todes que estamos em luta e um agradecimento especial à minha advogada, Isabel Duarte.&#8221;
+
+&nbsp;
+
+mais info:
+
+<http://localhost:8000/?s=mamadou+ba>
+
+&nbsp;
+
+ [1]: https://www.sosracismo.pt/geral/acordao-proferido-pelo-tribunal-da-relacao-de-lisboa-na-sequencia-do-recurso-apresentado-por-mamadou-ba-da-decisao-judicial-que-o-havia-condenado-pelo-crime-de-difamacao

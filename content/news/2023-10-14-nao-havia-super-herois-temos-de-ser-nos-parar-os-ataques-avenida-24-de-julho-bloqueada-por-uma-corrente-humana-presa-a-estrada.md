@@ -1,0 +1,51 @@
+---
+title: '“Não havia super-heróis, temos de ser nós parar os ataques”: Avenida 24 de Julho bloqueada por uma corrente humana presa à estrada.'
+author: Publicação Comunitária
+type: post
+date: 2023-10-14T15:42:24+00:00
+url: /?p=32828
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111234131684101265
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+tags:
+  - AltPT
+  - Climaximo
+  - Ecologia
+  - Indymedia
+  - Lisboa
+  - Protesto
+  - PTrevolutionTV
+
+---
+COMUNICADO  
+&#8220;Não havia super-heróis, temos de ser nós parar os ataques&#8221;: Avenida 24 de Julho bloqueada por uma corrente humana presa à estrada.<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/11-1-1024x576.jpg" alt="" class="wp-image-32829" /> </figure> 
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+A Avenida 24 de Julho está bloqueada por ativistas que seguram uma faixa a dizer &#8220;Desarmar as armas&#8221; e que se encontram presas umas às outras e ao chão. Protestam por justiça climática apelando à sociedade que se junte para construir uma sociedade que tenha a vida no centro ao invés do lucro.<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/12-1024x768.jpg" alt="" class="wp-image-32830" /> </figure> 
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+Neste momento 5 ativistas do coletivo Climáximo estão sentadas na estrada, utilizando tubos para se prenderem umas às outras e ao chão, envergando uma faixa a dizer &#8220;Desarmar as armas&#8221;.  
+O Climáximo denuncia o governo e as empresas de não protegerem a vida. &#8220;É urgente colocar as pessoas em primeiro lugar e não o lucro. As decisões políticas são para além de incompetência, há uma escolha ativa de continuar a bloquear as alternativas que não pode ser desculpada.&#8221; Afirma a porta-voz. Esta ação acontece num espaço público e com foco na população num apelo à sociedade para parar tudo e unir-se para lidar com o estado de emergência climática em que vivemos, parando a indústria fóssil.  
+O plano que temos é começar por desinvestir qualquer dinheiro público da indústria fóssil, eliminar todos os subsídios à indústria fóssil. Exige-se igualmente o cancelamento de qualquer proposta ou plano de expansão fóssil, como expansão de autoestradas, novos aeroportos, novos gasodutos ou expansão do porto LNG de Sines.<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/13-1-576x1024.jpg" alt="" class="wp-image-32831" /> </figure> 
+
+###### O Climáximo convida todas as pessoas a participarem das suas próximas palestras públicas e a lutarem pela vida de todas as pessoas. {.wp-block-heading}
+
+Mais informações:  
+www.climaximo.pt  
+Assessoria de Imprensa: Hugo Paz &#8211; 918763612

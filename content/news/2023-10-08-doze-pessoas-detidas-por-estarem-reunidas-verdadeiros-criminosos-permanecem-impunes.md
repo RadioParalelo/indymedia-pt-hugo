@@ -1,0 +1,39 @@
+---
+title: Doze pessoas detidas por estarem reunidas. Verdadeiros criminosos permanecem impunes.
+author: Publicação Comunitária
+type: post
+date: 2023-10-08T09:36:28+00:00
+url: /?p=32530
+classic-editor-remember:
+  - block-editor
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+  - Repressão
+tags:
+  - AltPT
+  - Climaximo
+  - Ecologia
+  - Indymedia
+  - Lisboa
+  - Maratona
+  - Protesto
+  - PTrevolutionTV
+
+---
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-112 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large"><img decoding="async" data-id="32536" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/386693543_713838944121301_1524472575440249383_n-576x1024.jpg" alt="" class="wp-image-32536" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="32534" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/387138025_713836867454842_9202759975701003722_n-576x1024.jpg" alt="" class="wp-image-32534" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="32535" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/387177652_713842180787644_869604890655790637_n-576x1024.jpg" alt="" class="wp-image-32535" /></figure> </figure> 
+
+COMUNICADO
+
+Doze pessoas detidas por estarem reunidas. Verdadeiros criminosos permanecem impunes.
+
+Esta manhã, doze pessoas reunidas perto da maratona EDP foram levadas, por polícia à paisana, para a esquadra de Cascais, onde tiveram de permanecer por várias horas sem ter sido dada justificação legal. Climáximo denuncia ataque à liberdade e democracia.
+
+Esta manhã, num local público próximo da partida da maratona EDP, em Cascais, dez agentes à paisana, vestidos com o equipamento oficial da corrida, detiveram doze apoiantes do Climáximo que estavam reunidos a conversar, levando-os para a Divisão Policial de Cascais, onde tiveram de permanecer 2 horas. Desconhecem-se os motivos da detenção.
+
+Maria Mesquita, ativista no local, declara &#8220;esta manhã, estávamos sentados perto do local da maratona da EDP, como tantas outras pessoas, quando fomos abordados por 10 polícias à paisana que nos identificaram e trouxeram ilegalmente para a divisão policial de Cascais. Isto sem nunca identificarem qualquer base legal para a nossa detenção. É nisto que a EDP e Governo escolhem gastar os seus recursos e os recursos do Estado, em vez de garantir a requalificação das centenas de trabalhadores que foram despedidos quando fecharam a central termoeléctrica de Sines, em vez de desmantelar e garantir a transição justa para as centrais fósseis ainda em funcionamento em Portugal e em vez de se garantir que cumprimos os limites definidos pelas Nações Unidas, que garantem a segurança e os direitos das pessoas face a esta guerra declarada pela indústria fóssil e pelos governos.&#8221;
+
+Hugo Fonseca, do Climáximo, indica que &#8220;hoje iria realizar-se uma manifestação pacífica de denúncia aos crimes da EDP, que não aconteceu&#8221;, e recorda que &#8220;foi retirado a estas pessoas o direito democrático à associação, livre circulação e protesto&#8221;.
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />

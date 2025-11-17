@@ -1,0 +1,51 @@
+---
+title: 🆘️ SAVANNAH RESOURCES TENTA AVANÇAR COM OS TRABALHOS DE PROSPEÇÃO EM TERRENOS QUE NÃO LHE PERTENCEM E POPULAÇÃO RESISTE 🆘️
+author: Publicação Comunitária
+type: post
+date: 2023-11-17T12:05:30+00:00
+url: /?p=207375
+classic-editor-remember:
+  - block-editor
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/11/⚠️🆘️‼️-SABADO-DIA-18-NOVEMBRO-PRECISAMOS-DA-VOSSA-AJUDA-‼️🆘️⚠️-Amanha-a-partir-das-7h30-precisamos-de-todoas-voces-A-Savannah-esta-a-tentar-invadir-terrenos-baldios-e-particulares-mas-nos-.mp4
+        1977851
+        video/mp4
+        
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111425797447721666
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - Ecologia
+  - Indymedia
+  - Protesto
+  - PTrevolutionTV
+  - simavida
+
+---
+ <figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/⚠️🆘️‼️-SABADO-DIA-18-NOVEMBRO-PRECISAMOS-DA-VOSSA-AJUDA-‼️🆘️⚠️-Amanha-a-partir-das-7h30-precisamos-de-todoas-voces-A-Savannah-esta-a-tentar-invadir-terrenos-baldios-e-particulares-mas-nos-.mp4"></video></figure> 
+
+No dia 16 de Novembro, quinta-feira, a Savannah Resources moveu uma máquina para terrenos baldios, invadindo e usurpando, assim, propriedade que não lhe pertence. A população rapidamente se mobilizou para impedir o funcionamento dos trabalhos, alertando para o atentado social e ecológico que representa esta tentativa de usurpação de terrenos.
+
+Já há duas semanas, trabalhadores sub-contratados pela Savannah Resources tinham sido avisados que estavam a cortar árvores numa área que não pertence à empresa. A empresa, contudo, escolheu ignorar estes avisos, numa atitude que revela uma total displicência face às vozes das populações e impunidade face à lei.
+
+A GNR foi chamada ao local e deu conta do ocorrido, afirmando que, sem decisões judiciais, nada poderá fazer.
+
+Hoje, dia 17 de Novembro, a máquina voltou ao local, os populares voltam a resistir, a GNR voltou a tomar conta do ocorrido, mas os trabalhos não avançam.
+
+⚠️🆘️‼️ SÁBADO, DIA 18 NOVEMBRO, PRECISAMOS DA VOSSA AJUDA ‼️🆘️⚠️
+
+Amanhã, a partir das 7h30, precisamos de todo/as vocês!
+
+A Savannah está a tentar invadir terrenos baldios e particulares, mas nós não deixaremos. Caso possam, venham ter connosco ao monte (coordenadas abaixo) e, com alegria e tranquilidade, não deixaremos a máquina trabalhar.<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-172 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="207382" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/1-2-1024x1024.png" alt="" class="wp-image-207382" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="207381" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/2-3-1024x1024.png" alt="" class="wp-image-207381" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="207380" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/3-3-1024x1024.png" alt="" class="wp-image-207380" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="207379" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/4-3-1024x1024.png" alt="" class="wp-image-207379" /></figure> </figure> 
+
+Contamos com vocês ❤️

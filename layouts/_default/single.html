@@ -1,0 +1,61 @@
+{{ define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<div align="left"><b><a href="{{ .Site.BaseURL }}">HOME</a></b> &gt; {{ .Title }}</div>
+<br>
+
+<table width="100%" border="0" cellpadding="2" class="feature-story">
+    <tr>
+        <td bgcolor="#770000" align="left" width="80%" class="feature-title">
+            <font size="-1" color="white" face="Helvetica, Arial">
+                <b>{{ .Title | upper }}</b>
+            </font>
+        </td>
+        <td align="right" valign="top" bgcolor="#770000" width="20%" class="feature-date">
+            <font size="-1" color="white" face="Helvetica, Arial">
+                <b>{{ .Date.Format "Jan 2 2006" }}</b>
+            </font>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" class="feature-content">
+            {{ if .Params.author }}
+            <p><small>by {{ .Params.author }}</small></p>
+            {{ end }}
+
+            {{ .Content }}
+
+            {{ if .Params.media }}
+            <p>
+                {{ range .Params.media }}
+                    {{ if eq .type "photo" }}
+                    <img src="{{ "im/imc_photo.gif" | relURL }}" class="media-icon" alt="photo">
+                    {{ else if eq .type "audio" }}
+                    <img src="{{ "im/imc_audio.gif" | relURL }}" class="media-icon" alt="audio">
+                    {{ else if eq .type "video" }}
+                    <img src="{{ "im/imc_video.gif" | relURL }}" class="media-icon" alt="video">
+                    {{ end }}
+                    <a href="{{ .url }}">{{ .title }}</a><br>
+                {{ end }}
+            </p>
+            {{ end }}
+
+            {{ if .Params.tags }}
+            <p>
+                <small>
+                    <b>Tags:</b>
+                    {{ range $index, $tag := .Params.tags }}
+                        {{ if $index }}, {{ end }}
+                        <a href="{{ "/tags/" | relLangURL }}{{ $tag | urlize }}">{{ $tag }}</a>
+                    {{ end }}
+                </small>
+            </p>
+            {{ end }}
+        </td>
+    </tr>
+</table>
+
+<br>
+<p><a href="{{ .Site.BaseURL }}">« Back to home</a></p>
+
+{{ end }}

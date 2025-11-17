@@ -1,0 +1,195 @@
+---
+title: GREVE FEMINISTA INTERNACIONAL MARCHA DIA INTERNACIONAL DAS MULHERES
+author: Publicação Comunitária
+type: post
+date: 2024-03-06T22:41:13+00:00
+url: /?p=220842
+activitypub_status:
+  - federated
+mf2_syndication:
+  - 'a:1:{i:0;s:61:"https://climatejustice.social/@indymediapt/112051162761095013";}'
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Queer Feminismo
+
+---
+ 
+
+[Manifesto][1] | [Rede 8M][2] | [+info][3]
+
+8 DE MARÇO FEMINISTAS EM UNIÃO&nbsp; CONTRA TODA A OPRESSÃO!
+
+No ano em que celebramos os 50 anos do 25 de Abril, mantemos sempre  um olhar no passado, no presente e no futuro. Relembramos as mulheres  que fizeram parte da resistência anti-fascista durante a ditadura e  ajudaram a construir a revolução e o pós-revolução, mesmo quando  silenciadas tanto pelos opressores como pelos seus pares. Mantemos um  olhar atento às forças que tentam destruir todas as conquistas de Abril e  recusamos dar um único passo atrás. Renovamos o nosso compromisso  com as promessas de Abril ainda por concretizar e que, a cada ano,  precisam do nosso compromisso e do nosso punho cerrado. Neste que é  o último dia de campanha eleitoral para umas eleições determinantes para  o nosso futuro, unimos as nossas forças com as feministas que já cá não  estão, com as que hoje lutam por uma sociedade mais justa, e com as que  virão a juntar-se a nós nesta luta que não arreda pé até ao fim de todas as  desigualdades, de todas as discriminações, de todas as opressões! <figure class="wp-block-image size-full">
+
+<img alt='proxy-7533491-8879188-5791274-2570616' alt='proxy-7533491-8879188-5791274' alt='proxy-7533491-8879188' src='https://cmi.indymedia.pt/wp-content/uploads/2024/03/proxy-7533491-8879188-5791274-2570616.jpeg' alt="proxy-7533491" class="wp-image-220845" /> </figure> 
+
+Somos FEMINISTAS EM UNIÃO CONTRA TODA A OPRESSÃO!&nbsp;
+
+Reconhecemos que a nossa luta é interseccional, por isso não só damos&nbsp; as mão para dizer não ao machismo e ao patriarcado, mas também ao&nbsp; racismo, à xenofobia, ao fascismo, ao sionismo, ao colonialismo, aos&nbsp; sistemas de apartheid, como o que é imposto ao povo palestiniano,&nbsp; à LGBTQ-fobia, à transfobia, ao capitalismo, à destruição do planeta,&nbsp; ao extractivismo, à aporofobia e a todas as outras discriminações e&nbsp; opressões.&nbsp;
+
+Feministas não são apenas mulheres, todas as pessoas podem sê-lo, e&nbsp; a luta é por todas! Mulheres cis, mulheres trans, pessoas não-binárias,&nbsp; género fluido, intersexo, homens trans, homens cis, todas as pessoas&nbsp; podem dar as mãos!&nbsp;
+
+A violência doméstica, a violência sexual, a violência obstétrica, o assédio&nbsp; no espaço público e em contexto laboral, o sistema de justiça machista, a&nbsp; transfobia, o tráfico de meninas e mulheres, a negação dos direitos sexuais&nbsp; e reprodutivos, o racismo e a xenofobia, entre muitas outras formas de&nbsp; violência de género, assentam na estrutura da nossa sociedade.&nbsp;&nbsp;
+
+As desigualdades laborais, a precariedade, a falta de apoio à&nbsp; parentalidade, a dificuldade no acesso a cargos de liderança institucionais&nbsp; e políticos, as frágeis condições de habitação, a pobreza e a desigual&nbsp; atribuição dos papéis de género são fenómenos que penalizam sobretudo&nbsp; as mulheres.&nbsp;
+
+Dizemos não a todas as desigualdades, porque somos FEMINISTAS EM&nbsp; UNIÃO CONTRA TODA A OPRESSÃO!
+
+Na esfera privada, são as mulheres quem mais sofre de violência&nbsp; doméstica, não tendo, muitas vezes, oportunidade para sair da relação,&nbsp; por dependência económica. Além disso, as mulheres vítimas de violência&nbsp; acabam, muitas vezes, por não denunciar, com medo do estigma ou falta&nbsp; de confiança num sistema de justiça marcadamente machista que não&nbsp; responde aos seus problemas.&nbsp;
+
+Exigimos o alargamento da rede de casas de abrigo, o investimento&nbsp; na habitação social, bem como mais apoios — laborais, de saúde,&nbsp; económicos e sociais — para as mulheres e crianças vítimas de&nbsp;&nbsp;
+
+violência doméstica, assim como o fim da precariedade dos sistemas&nbsp; de apoio.&nbsp;
+
+Exigimos o reconhecimento do agressor como o único responsável&nbsp; pela violência e o uso mais frequente de medidas que imponham o&nbsp; seu afastamento efectivo e reabilitação e assegurem a segurança&nbsp; da vítima, abolindo também a figura da suspensão provisória do&nbsp;&nbsp;
+
+processo.*&nbsp;
+
+Somos também quem mais sofre de violência sexual, nomeadamente de&nbsp; assédio, tanto em contexto laboral, como nas escolas, nas universidades,&nbsp; entre outros espaços públicos e privados.&nbsp;
+
+Exigimos a responsabilização dos agressores de qualquer tipo de&nbsp; violência, sem recurso a atenuantes desadequadas.&nbsp;
+
+Exigimos a existência de gabinetes de apoio à denúncia do assédio&nbsp; nas universidades e locais de trabalho e sanções para as empresas&nbsp; que permitam o assédio moral e sexual.&nbsp;
+
+Por reconhecermos que o patriarcado está internalizado na nossa&nbsp; sociedade,&nbsp;
+
+Exigimos uma política de consciencialização pública para o&nbsp;&nbsp;
+
+assédio, que torne socialmente claro que este coloca as meninas e&nbsp; mulheres em perigo, mesmo quando se tratam de micro-agressões&nbsp; aparentemente inofensivas e normalizadas, como o assobio ou o&nbsp; comentário sobre o corpo, para que todas as pessoas se tornem&nbsp;&nbsp;
+
+vigilantes e activas na sua prevenção e censura social.&nbsp;
+
+*Em casos de violência doméstica, a figura da suspensão provisória do processo é, teoricamente, uma opção por&nbsp; parte da vítima, em que esta dá autorização para a suspensão. Contudo quando olhamos para a realidade, na maioria&nbsp; das vezes esta opção é tomada sem ser por livre e espontânea vontade mas por pressão dos magistrados. Fazendo&nbsp; que quando a violência é repetida, e a vitima volta a apresentar queixa, culpem novamente a vítima porque ter&nbsp; suspendido o processo. No relatório europeu de avaliação da convenção de Istambul é indicado que Portugal deve&nbsp; acabar com esta figura jurídica, porque ajuda apenas o agressor a ficar livre de qualquer represália, e nunca a vitima.
+
+Saímos à rua porque vivemos, ainda hoje, num mundo profundamente&nbsp; desigual, que desvaloriza a nossa força e a nossa dignidade. Somos nós,&nbsp; mulheres, que representamos a maioria dos vínculos laborais precários e&nbsp; a tempo parcial, a dupla jornada por que passamos para garantir o trabalho&nbsp; doméstico e os cuidados informais, aos filhos, filhas e outras pessoas&nbsp; dependentes.&nbsp;
+
+Exigimos o fim do trabalho precário e salários iguais para trabalhos&nbsp; iguais.&nbsp;
+
+Exigimos o fim dos ataques aos direitos de parentalidade e o reforço&nbsp; dos apoios sociais a famílias monoparentais e a mães desempregadas.&nbsp;
+
+Exigimos o reconhecimento do valor social do trabalho doméstico e&nbsp; dos cuidados, a partilha de responsabilidade na sua prestação e mais&nbsp; respostas públicas de socialização do trabalho doméstico, para que&nbsp; homens e mulheres beneficiem igualmente dos tempos de lazer e&nbsp; descanso.&nbsp;
+
+A cultura estruturalmente machista, patriarcal, conservadora e racista&nbsp; também se reproduz nas escolas e nas universidades, quando se silenciam&nbsp; as vozes das mulheres, especialmente as racializadas, imigrantes e&nbsp; de etnia cigana, naquilo que tem sido a propagação das histórias dos&nbsp; “vencedores”, com vieses coloniais. Foi criada a disciplina de cidadania,&nbsp; mas encontramos falta de formação da comunidade que a lecciona, o que&nbsp; se traduz frequentemente em discursos opressivos e discriminatórios,&nbsp; impedindo a evolução do conhecimento dos alunos.&nbsp;
+
+Exigimos uma educação pública e gratuita, comprometida com as&nbsp; agendas políticas da igualdade, da sustentabilidade e dos direitos&nbsp; humanos.&nbsp;
+
+Exigimos formação especializada em assuntos de prevenção primária&nbsp; para a violência no namoro, a ciber-violência, a educação sexual, a&nbsp; igualdade de género, a educação para a diversidade, para os direitos&nbsp; humanos e a consciencialização de todos os tipos de violência, para&nbsp; toda a comunidade escolar.&nbsp;&nbsp;
+
+Exigimos que a escola garanta a diversidade curricular, promovendo&nbsp; o espírito crítico e espaços seguros e livres de agressões.&nbsp;
+
+Exigimos a correção dos currículos preconceituosos, desmantelando&nbsp; particularmente as narrativas colonialistas.&nbsp;
+
+Exigimos a democratização e livre acesso ao conhecimento&nbsp; científico.
+
+Com a crescente crise habitacional que o país enfrenta, somos&nbsp; também nós, as mulheres, que somos colocadas em situações de maior&nbsp; vulnerabilidade, muitas vezes obrigadas a continuar em contextos de&nbsp; violência, ou a aceitar abusos por parte dos senhorios.&nbsp;
+
+Exigimos que a habitação seja regularizada para que seja um direito e&nbsp; nunca um negócio especulativo.&nbsp;
+
+Exigimos igualdade de acesso à habitação por parte de mulheres&nbsp; trans, mulheres com deficiência, pessoas LGBTQIAP+, mulheres&nbsp; racializadas, mulheres imigrantes, mulheres ciganas, mulheres jovens&nbsp; ou idosas, que são muitas vezes discriminadas no acesso à habitação.&nbsp;
+
+Exigimos um maior número de casas e residências acessíveis, em&nbsp; particular para que a falta de habitação não impeça o acesso ao&nbsp; ensino superior.&nbsp;
+
+Somos as mais pobres e invisibilizadas e nem entre as pessoas em situação&nbsp; de sem-abrigo e/ou pessoas utilizadoras de substâncias ilícitas estamos&nbsp; livres de violência machista e patriarcal.&nbsp;
+
+Exigimos uma abordagem cuidada de género nas respostas&nbsp; sociais para as pessoas em situação de sem-abrigo e/ou pessoas&nbsp; utilizadoras de substâncias ilícitas, considerando as necessidades e&nbsp; vulnerabilidades particulares das mulheres nessas situações.&nbsp;
+
+Exigimos o mapeamento das pessoas em situação de sem abrigo, sem&nbsp; cunho discriminatório, para que se possam criar medidas concertadas&nbsp; e garantir a todas as pessoas o direito à habitação.&nbsp;
+
+Nos cuidados de saúde, somos também as mais prejudicadas,&nbsp; especialmente através de discriminações a pessoas LGBTQIAP+, da&nbsp; violência obstétrica, da falta de acesso ao aborto seguro e noutros&nbsp; cuidados de saúde. Em tempos em que algumas forças políticas falam&nbsp; de revogar o direito à interrupção voluntária da gravidez, torna-se mais&nbsp; importante defender os nossos direitos.&nbsp;
+
+Exigimos a inscrição na Constituição do acesso universal e efetivo&nbsp; à interrupção voluntária da gravidez segura, à semelhança do que&nbsp; foi feito em França, o fim do período de reflexão e o alargamento do&nbsp; prazo para 12 semanas. Exigimos o registo de todos médicos objetores&nbsp; de consciência de IVG e a obrigatoriedade de disponibilidade, em&nbsp; todos os concelhos, de acesso efectivo à IVG.
+
+Exigimos mais formação sobre inclusão de pessoas LGBTQIAP+&nbsp; para profissionais de saúde que permitam também um acesso livre&nbsp; e efetivo, com estratégias de saúde específicas, aos cuidados no&nbsp; Serviço Nacional de Saúde para as pessoas trans e não-binárias.&nbsp;
+
+Exigimos uma maior atenção e cuidado, por parte dos profissionais&nbsp; de saúde e serviços sociais, para com as vitimas de mutilação genital&nbsp; feminina, assim como uma divulgação e consciencialização sobre os&nbsp; perigos deste acto.&nbsp;
+
+Exigimos o acesso facilitado a consultas de saúde sexual e&nbsp; reprodutiva.&nbsp;
+
+Exigimos o parto humanizado, respeitando a vontade da mulher,&nbsp; e o fim de todas as violências obstétricas, a reabertura e reforço&nbsp; das maternidades, das urgências e dos serviços de ginecologia/&nbsp;
+
+obstetrícia em todo o território nacional, particularmente no Interior e&nbsp; noutras zonas de baixa densidade populacional.&nbsp;
+
+O movimento feminista deve ser capaz de incluir e ouvir as lutas e&nbsp; reindivicações de todas as trabalhadoras do sexo, que, por praticarem uma&nbsp; atividade ainda invisibilizada e altamente estigmatizada, são tantas vezes&nbsp; discriminadas e silenciadas.&nbsp;
+
+Exigimos que seja ouvida a voz destas mulheres sem julgamentos de&nbsp; natureza moral e/ou preconceituosa.&nbsp;
+
+Exigimos que tenham acesso a apoios sociais e retaguarda financeira&nbsp; e de saúde.&nbsp;
+
+Exigimos que o trabalho sexual sejam reconhecido como trabalho.&nbsp;
+
+Os valores hetero-normativos da nossa sociedade, que tentam dizer nos quem somos e onde devemos estar, continuam a perseguir e a&nbsp; hostilizar todas as pessoas não-binárias, mulheres trans, bissexuais e&nbsp; lésbicas, discriminando a diversidade de identidades de género e de&nbsp; orientações sexuais. A violência de que somos alvo não pode ser o vosso&nbsp; entretenimento!&nbsp;
+
+Exigimos o direito à auto-determinação dos corpos para todas as&nbsp; pessoas.&nbsp;
+
+Exigimos educação sexual inclusiva nas escolas, em que sejam&nbsp; abordados temas como a identidade de género e a orientação sexual.
+
+Exigimos mais representatividade da diversidade sexual, de género e&nbsp; racial nos media e nos diversos setores laborais e culturais.&nbsp;
+
+Exigimos a criação de espaços públicos de apoio e acolhimento&nbsp; para pessoas da comunidade LGBTQIAP+ que são discriminadas&nbsp; e expulsas pela suas famílias, assim como o apoio às associações&nbsp; existentes.&nbsp;
+
+Sabemos que as mulheres imigrantes, racializadas e de etnia cigana, como&nbsp; consequência do racismo enraizado na sociedade, são as mais expostas&nbsp; à pobreza, à desigualdade de oportunidades na saúde, educação e&nbsp; participação política, ao trabalho precário e à habitação sem condições e&nbsp; com rendas inadmissíveis!&nbsp;
+
+Exigimos o fim das políticas racistas e colonizantes, assim como a&nbsp; criminalização do racismo.&nbsp;
+
+Exigimos o fim das discriminações que aumentam a desigualdade,&nbsp; aplicando sanções para as empresas que permitem o assédio ou a&nbsp; discriminação baseada na identidade étnico-racial.&nbsp;
+
+Exigimos o levantamento dos dados étnico-raciais da população,&nbsp; de acordo com o apelo continuado das comunidades imigrantes e&nbsp; racializadas.&nbsp;
+
+Exigimos apoio e facilitação no acesso ao direito de refúgio e livre&nbsp; mobilidade, e o fim do novo pacto europeu para as migrações, que&nbsp; restringe ainda mais o acesso à Europa, abrindo portas à detenção&nbsp; de pessoas enquanto estão a tratar da burocracia relacionada com&nbsp;&nbsp;
+
+a regularização do seu estatuto migratório. Assim como o fim da&nbsp; Frontex que, com a desculpa da proteção da “Europa-fortaleza”, é&nbsp; cúmplice na morte e expulsão de milhares de pessoas.&nbsp;
+
+Mulheres com diversidade funcional e/ou neurodivergência sofrem&nbsp; discriminação, presente em todos os contextos, aumentando as chances&nbsp; de sofrerem violência, incluindo a falta de acessibilidade que é uma das&nbsp; violências mais normalizadas e invisibilizadas na sociedade.&nbsp;
+
+Exigimos o fim do capacitismo socialmente enraizado, presente&nbsp; na exclusão social de pessoas com diversidade funcional e/ou&nbsp; neurodivergência em todos os contextos sociais.&nbsp;
+
+Exigimos a auto-determinação dos corpos com diversidade&nbsp; funcional.
+
+Exigimos garantias de mais acessibilidade, tanto atitudinal, como&nbsp; física, metodológica, instrumental, comunicacional para estas&nbsp; pessoas.&nbsp;
+
+Exigimos uma maior inclusão no mercado laboral, promovendo&nbsp; uma maior autonomia destas pessoas. Assim como formação para a&nbsp; inclusão a toda a classe trabalhadora.&nbsp;
+
+Exigimos que os direitos sexuais e reprodutivos das mulheres com&nbsp; deficiência sejam respeitados, pondo fim à esterilização forçada e&nbsp; outros tipos de violência contra os corpos não normativos.&nbsp;
+
+Somos as mais afectadas pela crise climática, particularmente as mulheres&nbsp; do Sul Global, por estarem menos abrangidas por redes de protecção&nbsp; social e terem tradicionalmente trabalhos mais associados aos cuidados.&nbsp; Ao mesmo tempo, somos as que lideramos o combate às alterações&nbsp; climáticas.&nbsp;
+
+Cada vez mais, o sistema capitalista leva-nos ao colapso ambiental. Só&nbsp; ao fazer uma revolução que rompa com este sistema, à escala global,&nbsp; poderemos assegurar a sobrevivência da humanidade.&nbsp;
+
+Exigimos que as mulheres que lideram a luta contra as alterações&nbsp; climáticas, em particular as mulheres indígenas, as companheiras&nbsp; zapatistas do México e as mulheres curdas de países do Médio&nbsp; Oriente sejam ouvidas na construção de uma solução política&nbsp; internacional para este problema.&nbsp;
+
+Exigimos que as pessoas refugiadas e deslocadas climáticas tenham&nbsp; um estatuto internacional particular, como as que foram obrigadas a&nbsp; sair dos seus países em consequência das cheias no Paquistão e da&nbsp; submersão de áreas importantes de países como o Tuvalu e o Kiribati.&nbsp;
+
+Exigimos a promoção de um planeamento urbano de distâncias&nbsp; curtas, com o desenvolvimento massivo de transportes públicos&nbsp; gratuitos.&nbsp;
+
+Exigimos o desmantelamento da indústria bélica, usada para impor&nbsp; formas de opressão e exploração colonialistas, que subjuga o planeta&nbsp; e as pessoas, investindo, em vez disso, numa transição justa nas&nbsp; energias e no mercado de trabalho.&nbsp;
+
+Por não nos esquecermos das populações das regiões afectadas&nbsp; pela mineração: Exigimos o fim do Plano de Fomento Mineiro e a&nbsp; interrupção imediata de toda a mineração em curso e projectada, na&nbsp; terra e no mar, bem como acção clara e efectiva contra a mineração&nbsp; em mar profundo.
+
+Há cinco meses que assistimos a um genocídio em directo nas nossas&nbsp; televisões e redes sociais, por parte de um estado colonialista, racista&nbsp; e de apartheid. Juntamos as nossas vozes às mulheres Palestinas, não&nbsp; só em Gaza, mas em todo o mundo, que fazem de cada acto um lugar de&nbsp;&nbsp;
+
+resistência e perseverança, quando forças imperialistas tentam apagar a&nbsp; sua história e cultura.&nbsp;&nbsp;
+
+Recusamos os olhares que se pensam superiores na procura de&nbsp; uma solução, e ainda mais as tentativas de criminalização da resistência.&nbsp; Rejeitamos todas as intervenções colonialistas e imperialistas, venham&nbsp; elas dos Estados Unidos da América ou da Federação Russa. Recusamos&nbsp; manter-nos em silêncio e ser cúmplices de todas estas opressões!&nbsp;
+
+Exigimos o fim imediato e efectivo do Estado sionista e a libertação e&nbsp; auto-determinação do povo palestino, da qual depende a liberdade de&nbsp; todas nós;&nbsp;
+
+Exigimos o reconhecimento imediato e incondicional do Estado&nbsp; Palestino, pelo parlamento Português;&nbsp;
+
+Exigimos a aplicação de sanções ao Estado de Israel.&nbsp;
+
+Exigimos o fim da visão colonialista e da ideia de uma superioridade&nbsp; moral do Ocidente, que é uma narrativa racista, falsa e&nbsp;&nbsp;
+
+frequentemente causadora de guerras.&nbsp;
+
+Assim, unimos as nossas vozes em nome de todas as mulheres,&nbsp; marchamos juntas pela construção de uma sociedade assente na justiça,&nbsp; na igualdade, na dignidade e na liberdade, ocupando as nossas ruas sem&nbsp; medo. Juntas, unidas e em luta por um mundo melhor!&nbsp;
+
+Por isso, dizemos que somos&nbsp;&nbsp;
+
+FEMINISTAS EM UNIÃO&nbsp;&nbsp;
+
+CONTRA TODA A OPRESSÃO!
+
+ [1]: https://drive.google.com/file/d/1Nd6iqEzl4O0wb9nGROafpP3AGlmvOZ8p/view?pli=1
+ [2]: https://proxigram.lunar.icu/rede8marco
+ [3]: https://linktr.ee/8marco

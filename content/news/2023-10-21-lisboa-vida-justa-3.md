@@ -1,0 +1,19 @@
+---
+title: '[Lisboa] Vida Justa, dispositivo policial'
+author: Publicação Comunitária
+type: post
+date: 2023-10-21T13:53:30+00:00
+url: /?p=40681
+categories:
+  - Indymedia
+  - Movimentos Sociais
+  - Repressão
+tags:
+  - AltPT
+  - Livestream
+  - PTrevolutionTV
+
+---
+<figure class="wp-block-video"><video controls src="https://invidious.fdn.fr/latest_version?id=IsAxOhuLSQw&itag=18"></video></figure> <figure class="wp-block-audio"><audio controls src="https://invidious.fdn.fr/latest_version?id=IsAxOhuLSQw&itag=140"></audio></figure> #altpt #indymediapt #ptrevolutiontv This stream is created with #PRISMLiveStudio <figure class="wp-block-image size-large"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/25_mqdefault.jpg" alt="" /></figure> 
+
+<https://invidious.fdn.fr/watch?v=IsAxOhuLSQw>

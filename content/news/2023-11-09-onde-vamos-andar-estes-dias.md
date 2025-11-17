@@ -1,0 +1,53 @@
+---
+title: Onde vamos andar estes dias?
+author: Publicação Comunitária
+type: post
+date: 2023-11-09T10:34:38+00:00
+url: /?p=172076
+classic-editor-remember:
+  - block-editor
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/11/Atencao-Onde-vamos-andar-este-fim-de-semana.mp4
+        13215263
+        video/mp4
+        
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111380141565860872
+categories:
+  - Indymedia
+tags:
+  - AltPT
+  - Indymedia
+  - Lisboa
+  - PTrevolutionTV
+
+---
+ 
+
+<https://eventos.coletivos.org/event/o-que-defendemos-plano-de-desarmamento-e-plano-de-paz>
+
+<https://eventos.coletivos.org/event/nao-ha-paz-ate-ao-ultimo-inverno-do-gas><figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/Atencao-Onde-vamos-andar-este-fim-de-semana.mp4"></video></figure> 
+
+**Todo o nosso trabalho é auto financiado.**
+
+Cada directo tem um custo associado de 30€**.**
+
+Se puderes contribuir, diz-nos qualquer coisa.
+
+PTrevolutionTV@gmail.com
+
+**Se gostas de reportar não te esqueças de usar as seguintes Hashtags nas tuas publicações**
+
+#PTrevolutionTV #ALTPT #CMI #indymedia<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-138 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="172078" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/1-576x1024.png" alt="" class="wp-image-172078" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="172083" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/2-1-576x1024.png" alt="" class="wp-image-172083" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="172082" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/3-1-576x1024.png" alt="" class="wp-image-172082" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="172079" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/4-1-576x1024.png" alt="" class="wp-image-172079" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="172080" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/5-1-576x1024.png" alt="" class="wp-image-172080" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="172081" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/6-576x1024.png" alt="" class="wp-image-172081" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="172084" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/7-576x1024.png" alt="" class="wp-image-172084" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="172085" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/8-576x1024.png" alt="" class="wp-image-172085" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="172086" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/9-576x1024.png" alt="" class="wp-image-172086" /></figure> </figure> 
+
+Informação sem cortes, sem edição, sem manipulação&#8230;
+
+Sem ﻿Tretas.
+
+**Pela Soberania da Informação.**

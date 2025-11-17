@@ -1,0 +1,55 @@
+---
+title: Climáximo convoca manifestação Resistência Climática este sábado e conta com o apoio de 12 organizações.
+author: Publicação Comunitária
+type: post
+date: 2023-12-06T09:32:37+00:00
+url: /?p=213996
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111532780059837089
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - Climaximo
+  - Ecologia
+  - Habita!
+  - Indymedia
+  - Lisboa
+  - ocupapeloclima
+  - Protesto
+  - PTrevolutionTV
+
+---
+Comunicado: Climáximo convoca manifestação Resistência Climática este sábado e conta com o apoio de 12 organizações.Está convocada uma manifestação com o título “Resistência Climática” para o dia 9 de dezembro, sábado, às 14h00, com ponto de encontro Saldanha, Lisboa.A manifestação vai marchar do Saldanha até à rotunda do Marquês de Pombal, onde vai ser organizada uma Assembleia de Resistência para discutir as prioridades do movimento pela justiça climática para o ano de 2024, e depois vai continuar na Avenida da Liberdade.Na convocatória, o Climáximo denuncia a cimeira do clima COP-28 como uma cena de crime e a economia fóssil como um aparelho de destruição em massa. Por isso, a manifestação apela a uma Resistência Climática para reivindicar um Plano de Desarmamento Climático.A convocatória inteira está acessível online: https://www.climaximo.pt/manifestacao-resistencia-climatica/A manifestação conta com o apoio das seguintes organizações até ao momento:
+
+| CIDAC – Centro de Intervenção para o Desenvolvimento Amílcar Cabral 
+
+| Greve Climática Estudantil – Lisboa 
+
+| Habita 
+
+| Partido Ecologista “Os Verdes” 
+
+| PATAV – Plataforma Anti Transporte dos Animais Vivos 
+
+| Quercus 
+
+| Scientist Rebellion Portugal 
+
+| Sirigaita 
+
+| SOS Racismo 
+
+| SPN &#8211; Sindicato dos Professores do Norte 
+
+| STCC &#8211; Sindicatos dos Trabalhadores de Call Center 
+
+| Stop Despejos
+
+\***Mais informações:www.climaximo.pt<figure class="wp-block-image size-large is-resized">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/12/1000002548-1024x683.jpg" alt="" class="wp-image-213997" style="width:auto;height:2px" /> </figure>

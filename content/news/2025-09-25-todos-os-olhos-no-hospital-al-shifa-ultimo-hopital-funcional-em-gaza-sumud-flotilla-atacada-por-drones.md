@@ -1,0 +1,568 @@
+---
+title: 'Todos os olhos no Hospital al-Shifa: último hopital funcional em Gaza parcialmente evacuado e em ruínas; Sumud Flotilla atacada por drones'
+author: Publicação Comunitária
+type: post
+date: 2025-09-25T03:00:10+00:00
+url: /?p=226565
+activitypub_status:
+  - federated
+fpsm_author_name:
+  - Global Sumud Flotilla
+enclosure:
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2025/09/IMG_4956.MP4
+        4179527
+        video/mp4
+        
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Guerra e Paz
+tags:
+  - breakthesiege
+  - FreePalestine
+  - GlobalMovementToGaza
+  - GlobalSumudFlotilla
+  - Palestina
+  - SailToGaza
+
+---
+# No medicine, no beds, no food or water: inside Gaza City’s main hospital {.wp-block-heading}
+
+As the Israeli invasion of Gaza City advances, al-Shifa Hospital is facing severe shortages of essential medical supplies, leaving patients untreated and vulnerable. Staff and patients fear an imminent Israeli attack.
+
+<https://mondoweiss.net/2025/09/no-medicine-no-beds-no-food-or-water-inside-gaza-citys-main-hospital/><figure class="wp-block-image size-large">
+
+<img decoding="async" src="http://localhost:8000/wp-content/uploads/2025/09/image-1024x683.png" alt="" class="wp-image-226588" /> </figure> 
+
+A view of al-Shifa Hospital, left empty after medical staff and patients were forced to evacuate due to intensified Israeli attacks in Gaza City, Gaza, on September 25, 2025. (Photo: Omar Ashtawy/APA Images)
+
+Doctor Nagham Abu Hamila (@pal.humanity), reporting for the Global Sumud Flotilla from Gaza City.
+
+**“All eyes must be on Al-Shifa hospital. This is the only functioning governmental hospital left in Gaza City. Most organizations and medical crews have already left, and now there are only around fifteen doctors covering all departments. Every patient from Gaza city is being sent there for treatment. Drones are shooting, and tanks are just five hundred meters away. Families whom are displaced go there , they have no food, no water, and the situation is absolutely critical. Yet there is almost no press coverage. Please, we must speak up, we must share this—because right now, all eyes must be on Al-Shifa hospital.”**
+
+Please share this message widely.
+
+#GlobalSumudFlotilla #BreakTheSiege #FreePalestine #SailToGaza #GlobalMovementToGaza
+
+* * *
+
+# ‘It is a bloodbath’: Australian medic describes situation at Gaza hospital
+
+<p class="article__subhead">
+  <em>Dr Saya Aziz, working at al-Shifa Hospital, says she has lost count of the number of amputations she has had to perform.<br /></em>
+</p>
+
+An Australian medic working at Gaza City’s al-Shifa Hospital says she has lost count of the number of amputations she has had to perform, as two more hospitals were shut down amid Israel’s relentless [bombardment][1] of the enclave.
+
+“On the first day, I started off thinking I’ve never seen anything like this, and then in the following days I’ve seen … more. I’ve lost count of the number of amputations I’ve done,” Dr Saya Aziz, an anaesthesiologist, told Al Jazeera.
+
+“The worst thing is these patients are alive … when we take them into the [operation] theatre they’re alive, they’re bleeding to death,” she said, adding how in the recess area of the hospital, dangling bits of toes and flesh and people with missing limbs have become a common sight.<section class="more-on">Al-Shifa Hospital was once the largest medical complex in the Gaza Strip, but most of it now lies in ruins after several rounds of intense Israeli ground and air sieges since the start of the war in October 2023.Gaza’s healthcare facilities have been repeatedly 
+
+[targeted][2] by Israel, including with 2,000-pound bombs supplied by the United States, Israel’s closest ally.Hundreds of medics have been killed in the 23 months of brutal war that has been dubbed a genocide by numerous rights organisations, including the United Nations.[Dr Adnan Al-Bursh][3], the head of orthopaedics at al-Shifa Hospital, was tortured to death in an Israeli prison months after he was arrested in December 2023. [Dr Hussam Abu Safia][4], the director of Kamal Adwan Hospital, was arrested last November. He still languishes in an Israeli jail. 
+
+Targeting of health facilities, medical personnel and patients is considered a war crime under the 1949 Geneva Convention.</section> 
+
+https://www.aljazeera.com/amp/news/2025/9/22/it-is-a-bloodbath-australian-medic-describes-situation-at-gaza-hospital
+
+* * *<hgroup> 
+
+### Médicos afirmam que não vão sair do hospital al-Shifa, em Gaza</hgroup> 
+
+<div class="visually-hidden" data-link-name="byline" data-component="meta-byline">
+  <p class="nome">
+    [AbrilAbril] &#8211; <span class="submitted">22 de Setembro de 2025 </span>
+  </p>
+</div>
+
+<div class="header-text">
+  <div class="resumo">
+    <p>
+      No meio da escalada israelita, Muhammad Abu Salmiya, director hospitalar cujos familiares foram assassinados pela ocupação, reafirmou que as equipas médicas vão continuar a trabalhar na Cidade de Gaza.
+    </p>
+  </div>
+</div><figure class="mainfig media-embedded2 fotografia medio horizontal " role="group" data-component="image" aria-label="media"> 
+
+<div class="image">
+  <img loading="lazy" decoding="async" class="media-viewer-candidate lazyloaded" src="https://www.abrilabril.pt/sites/default/files/styles/node_aberto_vp768/public/assets/img/28998.jpg?itok=fMOfnCU3" alt="" width="705" height="470" data-mediaviewer-src="https://www.abrilabril.pt/sites/default/files/styles/media_viewer_aberto/public/assets/img/28998.jpg?itok=qzy-jMDn" data-srcset="https://www.abrilabril.pt/sites/default/files/styles/node_aberto_vp300/public/assets/img/28998.jpg?itok=CfoEKUfk 360w, https://www.abrilabril.pt/sites/default/files/styles/node_aberto_vp600/public/assets/img/28998.jpg?itok=zfA38rml 630w, https://www.abrilabril.pt/sites/default/files/styles/node_aberto_vp768/public/assets/img/28998.jpg?itok=fMOfnCU3 705w " data-src="https://www.abrilabril.pt/sites/default/files/styles/node_aberto_vp768/public/assets/img/28998.jpg?itok=fMOfnCU3" /> 
+  
+  <div class="media-action-overlay">
+    <span class="caption-text">Muhammad Abu Salmiya fala à Al Jazeera no hospital al-Shifa, bastante destruído pela ocupação, na Cidade de Gaza <span class="credit"><span class="visually-hidden">Créditos</span> / Al Jazeera</span></span>
+  </div>
+</div></figure> <header class="node-header"> 
+
+<div class="container">
+   
+</div></header> 
+
+<div class="container">
+  <div class="conteudo">
+    <div class="corpo_texto">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+        <div class="field-items">
+          <div class="field-item even">
+            <p>
+              Em declarações à imprensa na manhã de domingo, Muhammad Abu Salmiya, director do complexo hospitalar al-Shifa, disse que as equipas médicas não vão abandonar os pacientes, no meio da ofensiva terrestre israelita em grande escala contra a Cidade de Gaza.
+            </p>
+            
+            <p>
+              Vamos continuar o nosso trabalho, apesar da destruição, da falta de medicamentos e dos ataques às nossas casas e famílias, afirmou, acrescentando que os profissionais da saúde se mantêm firmes no compromisso de salvar vidas e cuidar dos feridos, mesmo nas condições mais «insuportáveis».
+            </p>
+            
+            <p>
+              O al-Shifa já foi o maior complexo hospitalar na Faixa de Gaza, mas hoje está praticamente em ruínas, depois de ter sido alvo de intensos bombardeamentos aéreos e de artilharia por parte das forças de ocupação, em diversas ocasiões.
+            </p>
+            
+            <p>
+              O actual director passou mais de sete meses nas cadeias israelitas, com a ocupação a alegar que a resistência palestiniana usava o hospital como base para o «terrorismo», refere a <em>Al Jazeera</em>.
+            </p>
+            
+            <p>
+              Acabou por sair sem «acusações» mas depois de ter sido submetido a sessões de tortura e de humilhação. No sábado, um ataque israelita contra a sua casa de família, no campo de refugiados de al-Shati, matou pelo menos cinco pessoas, incluindo o seu irmão, cunhada e filhos.
+            </p>
+            
+            <p>
+              Neste sentido, a fonte destaca que Abu Salmiya está a tentar dar o exemplo, no meio de «condições horrendas».
+            </p>
+            
+            <p>
+              «As nossas equipas médicas continuam a realizar a sua missão humanitária neste complexo hospitalar sob forte pressão», disse o director, na Cidade de Gaza.
+            </p>
+            
+            <p>
+              «A sua mensagem continua: servimos os doentes e os feridos o melhor que podemos», frisou, alertando para a política de limpeza étnica levada a cabo por Israel e condenando os ataques directos a unidades hospitalares e pessoal médico.
+            </p>
+            
+            <p>
+              Uma médica australiana a trabalhar como voluntária no hospital destacou as condições «horríveis» em que o pessoal médico trabalha.
+            </p>
+            
+            <p>
+              «Pude constatar a capacidade de resistência destes médicos&#8230; são literalmente heróis», disse a médica australiana à <em>Al Jazeera</em>, explicando que médicos, enfermeiros e estudantes de medicina estão a viver e a trabalhar no hospital.
+            </p>
+            
+            <p>
+              «Estamos aqui há apenas duas semanas e simplesmente não conseguimos abranger a dimensão do trauma e do trabalho duro. Não creio que um ser humano possa sobreviver e aguentar aquilo por que estamos a passar», disse.
+            </p>
+            
+            <p>
+              O hospital a-Shifa é uma de muitas infra-estruturas da saúde que foram quase inteiramente destruídas pelas forças de ocupação no enclave.
+            </p>
+            
+            <p>
+              Ahmed al-Farra, director de pediatria do Hospital Nasser, em Khan Yunis, no Sul de Gaza, sabe bem as condições terríveis que as equipas médicas sofrem em todo o território e destacou o facto de, desde o início da agressão, Israel ter estado a atacar o pessoal médico, «metendo-o na cadeia ou matando as suas famílias».
+            </p>
+            
+            <p>
+              De acordo com as autoridades na Faixa de Gaza, a ocupação matou pelo menos 1670 trabalhadores do sector nos últimos dois anos.
+            </p>
+            
+            <p>
+              As mesmas fontes, a que a <em>Wafa</em> se refere, indicam que, desde Outubro de 2023 até ontem, os ataques israelitas provocaram pelo menos 65 283 mortos e 166 575 feridos entre os palestinianos, na sua maioria mulheres e crianças.
+            </p>
+          </div><section class="more-on"> 
+          
+          <h1 class="single_title">
+            Al-Shifa Director: Gaza’s health system collapsing, only ending genocide can help
+          </h1>
+          
+          <p class="single_date">
+            Wednesday 3-September-2025
+          </p>
+          
+          <div class="featured_image">
+            <img decoding="async" class="attachment-name_thumbnail size-name_thumbnail wp-post-image" title="Al-Shifa Director: Gaza’s health system collapsing, only ending genocide can help" src="https://english.palinfo.com/wp-content/uploads/Models/Media/Images/2023/11/23/297125818.jpg" alt="" data-pagespeed-url-hash="2676706301" />
+          </div>
+          
+          <div class="post_content">
+            <p>
+              GAZA, (PIC)
+            </p>
+            
+            <p>
+              Dr. Mohammed Abu Salmiya, Director of Al-Shifa Medical Complex, said that the health and humanitarian situation in the Gaza Strip has reached its worst stage since the beginning of the Israeli aggression, warning of a complete collapse of the health system.
+            </p>
+            
+            <p>
+              In a statement on his Facebook page on Tuesday, Abu Salmiya explained that hospitals are filled to capacity, with bed occupancy rates reaching between 250% and 300%, while medical departments are witnessing a sharp increase in wound infections.
+            </p>
+            
+            <p>
+              He added that last August recorded the highest number of famine-related deaths since the start of the aggression, with expectations of a further rise in deaths in the coming period due to the continued lack of food.
+            </p>
+            
+            <p>
+              He stressed that medicines and medical supplies have reached a critical stage, with shortages exceeding 60%. Stocks of anesthetics, platinum, plaster, emergency and surgical drugs, antibiotics, as well as cancer and chronic disease medications have completely run out.
+            </p>
+            
+            <p>
+              He pointed out that these medicines are unavailable even in health centers, international organizations, or private pharmacies.
+            </p>
+            
+            <p>
+              Abu Salmiya explained that displacement camps are witnessing a wide spread of respiratory and skin diseases, along with an increase in cases of Guillain-Barré syndrome, worsening the health crisis for Palestinians.
+            </p>
+            
+            <p>
+              On the humanitarian level, he said that residents are enduring repeated displacement under harsh conditions, without enough food or safe drinking water, as daily-use water is mixing with sewage.
+            </p>
+            
+            <p>
+              Abu Salmiya concluded by stressing that “only stopping the genocide can resolve these crises and their consequences,” calling on the international community to intervene immediately to stop the war.
+            </p>
+          </div>
+          
+          <p>
+            https://english.palinfo.com/news/2025/09/03/346984/
+          </p>
+          
+          <p>
+            &#8212;
+          </p>
+          
+          <p>
+            &#8212;&#8211;
+          </p><header class="article-header"> 
+          
+          <h1>
+            Doctors won’t abandon patients at al-Shifa as Israel destroys Gaza City
+          </h1>
+          
+          <p class="article__subhead">
+            <em>The hospital director, arrested and tortured by Israel, has just seen his brother and other family members killed.</em>
+          </p></header> 
+          
+          <div class="video-shadow">
+            <div class="pre_video-wrapper">
+              <div class="responsive-image">
+                <img decoding="async" src="https://www.aljazeera.com/wp-content/uploads/2025/09/Screenshot-2025-09-21-at-10.32.18-AM-1758439980.png?resize=730%2C410&quality=80" alt="One of the few buildings of al-Shifa Hospital that is still standing after most of it was destroyed" />
+              </div>
+            </div>
+          </div>
+          
+          <div class="featured-media__image-wrap">
+            <div class="video-caption">
+              <p>
+                Gaza doctors refuse to leave patients despite intensifying Israeli ground assault
+              </p>
+            </div>
+          </div>
+          
+          <div class="article-info m--t-20 m--desktop-b-30 m--b-mobile-20">
+            <div class="article-dates">
+              Israeli tanks continue to advance amid a systematic destruction of Gaza City from land, air and sea, but for doctors at the major urban centre’s
+            </div>
+          </div>
+          
+          <div class="wysiwyg wysiwyg--all-content" aria-live="polite">
+            <p>
+              The hospital was once the largest medical complex in the Gaza Strip, but most of it now lies in ruins after several rounds of intense Israeli ground and air sieges since the start of the war in October 2023. Palestinians still view it as a <a href="https://www.aljazeera.com/opinions/2024/5/15/gaza-lost-much-more-than-a-hospital-when-it-lost-al-shifa">symbol of strength and resilience</a>.
+            </p>
+          </div>
+          
+          <p>
+            &#8212;
+          </p>
+          
+          <div class="main_content">
+            <div class="archive-name">
+               
+            </div>
+            
+            <h1 class="single_title">
+              Hamas: Israeli drone attacks on Sumud Flotilla “acts of terrorism”
+            </h1>
+            
+            <p class="single_date">
+              Wednesday 24-September-2025
+            </p>
+            
+            <div class="featured_image">
+               
+            </div>
+            
+            <div class="post_content">
+              <p>
+                GAZA, (PIC)
+              </p>
+              
+              <p>
+                The Hamas Movement has condemned Israeli drone attacks on several Gaza-bound ships from the Global Sumud Flotilla in international waters, calling them “acts of terrorism” and a “dangerous behavior paving the way for more severe assaults on the flotilla and its participating activists.”
+              </p>
+              
+              <p>
+                In a statement on Wednesday, Hamas accused the Israeli occupation of attempting to dissuade the participants in the flotilla from finishing their humanitarian mission and delivering aid to the embattled people of Gaza, “who are facing systematic campaigns of genocide and starvation.”
+              </p>
+              
+              <p>
+                The Movement urged the international community, the UN and their human rights organizations to take immediate and effective measures to protect the flotilla and its crews and ensure the delivery of aid to the civilians under siege in Gaza.
+              </p>
+              
+              <p>
+                Organizers of the Gaza-bound aid flotilla reported Israeli attacks on their boats at dawn Wednesday and seeing multiple drones around the fleet, which is made up of more than 500 people, including prominent environmental activist Greta Thunberg.
+              </p>
+              
+              <p>
+                The Global Sumud Flotilla which was sailing near Greece as of early Wednesday also saw its communications “jammed,” its organizers said in a statement.
+              </p>
+              
+              <p>
+                “We are witnessing these psychological operations first-hand, right now, but we will not be intimidated,” they added.
+              </p>
+              
+              <p>
+                In an online video shared by the flotilla organizers overnight, a bright light can be seen piercing the darkness, before a loud blast rings out. They said that the video was filmed from one of its boats, “Specter,” and that it captured one of the explosions heard by crew members.
+              </p>
+              
+              <p>
+                Meanwhile, Italian defense minister Guido Crosetto condemned on Wednesday the Israeli drone attacks on the Global Sumud Flotilla as it left Greece en route towards Gaza.
+              </p>
+              
+              <p>
+                He added that Italy was sending a naval ship to be nearby if the flotilla required assistance. “The vessel is already en route to the area for possible rescue operations,” Crosetto wrote on X.
+              </p>
+              
+              <p>
+                “In a democracy, demonstrations and forms of protest must also be protected when they are carried out in accordance with international law and without resorting to violence,” Crosetto said.<br />https://english.palinfo.com/news/2025/09/24/348428/
+              </p>
+              
+              <p>
+                <strong>ISRAEL ESCALATES DANGEROUS ATTACKS AGAINST GLOBAL SUMUD FLOTILLA DAYS BEFORE GAZA ARRIVAL</strong><br /><strong>September 23, 2025</strong><br />&#8212;
+              </p>
+              
+              <div class="px-3 py-3 grid lg:block grid-cols-3 gap-2">
+                <div>
+                  <div class="text-[0.75rem] lg:text-base 2xl:text-base lg:mb-2 lg:mt-1 vfont-550 leading-4 lg:leading-5 text-neutral-900">
+                    Attack on Flotilla
+                  </div>
+                </div>
+                
+                <div class="lg:mb-1 lg:mb-0.5 lg:grid grid-cols-3 items-baseline">
+                  <div class="text-[0.65rem] 2xl:text-[0.75rem] uppercase tracking-wider text-gray-500 vfont-500">
+                    Time
+                  </div>
+                  
+                  <div class="text-neutral-900 col-span-2 font-mono text-[0.75rem] 2xl:text-sm vfont-450">
+                    23 Sep 2025 22:43 UTC
+                  </div>
+                </div>
+                
+                <div class="lg:mb-1 lg:mb-0.5 lg:grid grid-cols-3 items-baseline">
+                  <div class="text-[0.65rem] 2xl:text-[0.75rem] uppercase tracking-wider text-gray-500 vfont-500">
+                    Coords
+                  </div>
+                  
+                  <div class="text-neutral-900 col-span-2 font-mono text-[0.75rem] 2xl:text-sm vfont-450">
+                    34.5918, 23.5698
+                  </div>
+                </div>
+              </div>
+              
+              <div class="px-3 col-span-full">
+                <div class="w-full">
+                  <div class="relative w-full h-56 flex items-center justify-center bg-neutral-700 rounded">
+                    <div class="overflow-hidden">
+                      <div class="w-full group relative bg-neutral-800 overflow-hidden h-full  ">
+                         
+                      </div>
+                    </div>
+                  </div>
+                  
+                  <div class="flex items-center justify-center gap-2 mt-2">
+                     
+                  </div>
+                </div>
+              </div>
+              
+              <div class="first:py-0 lg:shadow rounded mb-3 overflow-hidden  lg:block cursor-pointer outline-1 lg:outline-0 bg-gray-100 lg:bg-white hover:outline-1 outline-gray-200 lg:outline-gray-300">
+                <div class="px-3 py-3 col-span-full">
+                  <div class="text-[0.75rem] lg:text-sm 2xl:text-base lg:mb-2 lg:mt-1 vfont-420 leading-4 lg:leading-5 text-neutral-900 ">
+                    <div class="text-xs">
+                      <div class="border-b mb-2 pb-2 border-b-gray-200 last:border-0 last:pb-0 last:mb-0">
+                        Ohwayla was hit by a small flashbang with no injuries. Assessing damage to the boat.
+                      </div>
+                      
+                      <div class="border-b mb-2 pb-2 border-b-gray-200 last:border-0 last:pb-0 last:mb-0">
+                        Yulara was poured with unidentified chemical device but the capsule that was releasing the chemicals bounced and fell on the water. No injuries. Assessing damage to the boat.
+                      </div>
+                      
+                      <div class="border-b mb-2 pb-2 border-b-gray-200 last:border-0 last:pb-0 last:mb-0">
+                        Otaria was hit by a flashbang at midmast with no injuries. Assessing damage to the boat.
+                      </div>
+                      
+                      <div class="border-b mb-2 pb-2 border-b-gray-200 last:border-0 last:pb-0 last:mb-0">
+                        Maria Cristina was targeted twice by a flashbang above the deck with no injuries. Assessing damage to the boat.
+                      </div>
+                      
+                      <div class="border-b mb-2 pb-2 border-b-gray-200 last:border-0 last:pb-0 last:mb-0">
+                        Selvaggia was hit by a flashbang with no injuries. Assessing damage to theboat.
+                      </div>
+                      
+                      <div class="border-b mb-2 pb-2 border-b-gray-200 last:border-0 last:pb-0 last:mb-0">
+                        Morgana was hit by a flashbang with no injuries. Assessing damage to the boat.
+                      </div>
+                      
+                      <div class="border-b mb-2 pb-2 border-b-gray-200 last:border-0 last:pb-0 last:mb-0">
+                        Zefiro was hit by a flashbang with no injuries. Assessing damage to the boat, but confirmed damage to the rigging.
+                      </div>
+                      
+                      <div class="border-b mb-2 pb-2 border-b-gray-200 last:border-0 last:pb-0 last:mb-0">
+                        Hio was hit 3 times by flashbangs with no injuries. Assessing damage to the boat.
+                      </div>
+                      
+                      <div class="border-b mb-2 pb-2 border-b-gray-200 last:border-0 last:pb-0 last:mb-0">
+                        Taigete was hit by a flashbang with no injuries. Assessing damage to the boat.
+                      </div>
+                      
+                      <div class="border-b mb-2 pb-2 border-b-gray-200 last:border-0 last:pb-0 last:mb-0">
+                        Luna Bark was hit by a flashbang. Assessing damage to crew and the boat.
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="first:py-0 lg:shadow rounded mb-3 overflow-hidden  lg:block cursor-pointer outline-1 lg:outline-0 bg-gray-100 lg:bg-white hover:outline-1 outline-gray-200 lg:outline-gray-300">
+                <div class="px-3 py-3 grid lg:block grid-cols-3 gap-2">
+                  <div>
+                    <div class="text-[0.75rem] lg:text-base 2xl:text-base lg:mb-2 lg:mt-1 vfont-550 leading-4 lg:leading-5 text-neutral-900">
+                      Attack on Alma
+                    </div>
+                  </div>
+                  
+                  <div class="lg:mb-1 lg:mb-0.5 lg:grid grid-cols-3 items-baseline">
+                    <div class="text-[0.65rem] 2xl:text-[0.75rem] uppercase tracking-wider text-gray-500 vfont-500">
+                      Time
+                    </div>
+                    
+                    <div class="text-neutral-900 col-span-2 font-mono text-[0.75rem] 2xl:text-sm vfont-450">
+                      9 Sep 2025 23:18 UTC
+                    </div>
+                  </div>
+                  
+                  <div class="lg:mb-1 lg:mb-0.5 lg:grid grid-cols-3 items-baseline">
+                    <div class="text-[0.65rem] 2xl:text-[0.75rem] uppercase tracking-wider text-gray-500 vfont-500">
+                      Coords
+                    </div>
+                    
+                    <div class="text-neutral-900 col-span-2 font-mono text-[0.75rem] 2xl:text-sm vfont-450">
+                      36.8605, 10.3532
+                    </div>
+                  </div>
+                  
+                  <div class="lg:mb-0 lg:grid grid-cols-3 items-baseline">
+                    <div class="text-[0.65rem] 2xl:text-[0.75rem] uppercase tracking-wider text-gray-500 vfont-500">
+                      Source
+                    </div>
+                    
+                    <p>
+                      <a class="block text-neutral-900 col-span-2 cursor-pointer underline decoration-1 underline-offset-2 text-[0.75rem] 2xl:text-sm vfont-450" href="https://www.instagram.com/p/DOZqrkLCnSl/" target="_blank" rel="noopener">instagram.com</a>
+                    </p>
+                  </div>
+                </div>
+                
+                <div class="px-3 col-span-full">
+                  <div class="w-full">
+                    <div class="overflow-hidden">
+                      <div class="w-full group relative bg-neutral-800 overflow-hidden h-full  ">
+                        <img decoding="async" class="w-full h-full object-contain" src="https://flotilla-orpin.vercel.app/images/gsf-alma-attack.jpg" alt="Credit: Instagram/Global Sumud Flotilla" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="px-3 py-3 col-span-full">
+                  <div class="text-[0.75rem] lg:text-sm 2xl:text-base lg:mb-2 lg:mt-1 vfont-420 leading-4 lg:leading-5 text-neutral-900 ">
+                     
+                  </div>
+                </div>
+              </div>
+              
+              <div class="first:py-0 lg:shadow rounded mb-3 overflow-hidden  lg:block cursor-pointer outline-1 lg:outline-0 bg-gray-100 lg:bg-white hover:outline-1 outline-gray-200 lg:outline-gray-300">
+                <div class="px-3 py-3 grid lg:block grid-cols-3 gap-2">
+                  <div>
+                    <div class="text-[0.75rem] lg:text-base 2xl:text-base lg:mb-2 lg:mt-1 vfont-550 leading-4 lg:leading-5 text-neutral-900">
+                      Attack on Familia Madeira
+                    </div>
+                  </div>
+                  
+                  <div class="lg:mb-1 lg:mb-0.5 lg:grid grid-cols-3 items-baseline">
+                    <div class="text-[0.65rem] 2xl:text-[0.75rem] uppercase tracking-wider text-gray-500 vfont-500">
+                      Time
+                    </div>
+                    
+                    <div class="text-neutral-900 col-span-2 font-mono text-[0.75rem] 2xl:text-sm vfont-450">
+                      8 Sep 2025 23:29 UTC
+                    </div>
+                  </div>
+                  
+                  <div class="lg:mb-1 lg:mb-0.5 lg:grid grid-cols-3 items-baseline">
+                    <div class="text-[0.65rem] 2xl:text-[0.75rem] uppercase tracking-wider text-gray-500 vfont-500">
+                      Coords
+                    </div>
+                    
+                    <div class="text-neutral-900 col-span-2 font-mono text-[0.75rem] 2xl:text-sm vfont-450">
+                      36.8608, 10.3516
+                    </div>
+                  </div>
+                  
+                  <div class="lg:mb-0 lg:grid grid-cols-3 items-baseline">
+                    <div class="text-[0.65rem] 2xl:text-[0.75rem] uppercase tracking-wider text-gray-500 vfont-500">
+                      Source
+                    </div>
+                    
+                    <p>
+                      <a class="block text-neutral-900 col-span-2 cursor-pointer underline decoration-1 underline-offset-2 text-[0.75rem] 2xl:text-sm vfont-450" href="https://www.instagram.com/reel/DOXaR_MiOZ_/?igsh=YjdnaTEybGNocW94" target="_blank" rel="noopener">instagram.com</a>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <div class="w-full group relative bg-neutral-800 overflow-hidden h-full aspect-video lg:aspect-square ">
+               
+            </div>
+            
+            <p>
+              Explosions, Heavy Drone Swarms, and Communications Jamming Signals Pretext for Possible Israeli Attack on 500+ Civilian  volunteers Global – In the final days before reaching Gaza, the Global Sumud Flotilla (GSF) is experiencing an alarmingly dangerous escalation, with multiple boats reporting targeted explosions and unidentified objects being dropped on and near the boats, causing significant damage and widespread obstruction in communications.
+            </p>
+            
+            <p>
+              This comes on top of a sustained campaign of intimidation and disinformation by Israel, aimed at discrediting and endangering the 500+ unarmed civilians aboard the flotilla who are attempting to deliver food and medical supplies to Gaza to help end Israel’s illegal blockade.
+            </p>
+            
+            <p>
+              Explosions and Jamming: Tonight, at least 13 explosions were heard on and around several  flotilla boats, with widespread disruption in communications, raising urgent concerns for the safety of participants.
+            </p>
+            
+            <p>
+              Drones Overhead: In the past 24 hours, more than 15 low-altitude drones have hovered above the Alma boat, appearing roughly every 10 minutes.
+            </p>
+            
+            <p>
+              Unidentified Objects Dropped: Flotilla participants reported objects being dropped on at least 10 boats from drones or aircrafts, causing damage. No fatalities have been reported. The extent of the damage will be fully assessed in daylight.
+            </p>
+            
+            <p>
+              Coordinated Smear Campaign: Israel continues to falsely label the GSF the “Hamas flotilla,” asserting that it plans to engage in violent action. This disinformation campaign is an attempt to pre-emptively justify military action against a civilian-led, nonviolent, humanitarian mission.
+            </p>
+            
+            <p>
+              /// Hundreds of elected representatives from across the EU demand immediate protection for the Global Sumud Flotilla after last night’s attacks in European waters. The letter comes as Italian MPs force their Government to deploy a naval vessel to safeguard their nationals at sea. Together with parliamentarians across the continent, we now call on other states to follow with protective presence to ensure the safe passage of the fleet as it establishes a humanitarian corridor to Gaza.
+            </p>
+            
+            <div class="post_content">
+              <hr />
+            </div>
+          </div></section>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+ [1]: https://www.aljazeera.com/news/liveblog/2025/9/22/live-israel-keeps-pummeling-gaza-as-support-grows-for-palestinian-state
+ [2]: https://www.aljazeera.com/news/2025/8/27/hamas-challenges-israeli-account-of-gaza-hospital-attack-that-killed-21
+ [3]: https://www.aljazeera.com/news/2024/11/24/dying-in-hell-palestinian-medics-jailed-by-israel
+ [4]: https://www.aljazeera.com/news/2024/12/29/calls-for-the-release-of-gaza-hospital-director-detained-by-israel

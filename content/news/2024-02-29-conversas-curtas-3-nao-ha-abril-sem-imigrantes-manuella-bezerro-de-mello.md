@@ -1,0 +1,29 @@
+---
+title: 'Conversas Curtas #3 – “Não há Abril sem Imigrantes” Manuella Bezerro de Mello.'
+author: Publicação Comunitária
+type: post
+date: 2024-02-29T19:24:59+00:00
+excerpt: Uma Conversa Curta com Manuella Bezzero de Mello, curadora da coleção "Vai Para a tua Terra " que nesta nova edição vai recolher texto com a temática "Não há Abril sem Imigrantes".
+url: /?p=220492
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+<figure class="wp-block-audio"><audio controls src="https://vid.puffyan.us/latest\_version?id=x\_ND12affzA&itag=140"></audio></figure> <figure class="wp-block-video"><video controls src="https://invidious.protokolla.fi/latest\_version?id=x\_ND12affzA&itag=18"></video></figure> 
+
+Uma Conversa Curta com Manuella Bezzero de Mello, curadora da coleção &#8220;Vai Para a tua Terra &#8221; que nesta nova edição vai recolher texto com a temática &#8220;Não há Abril sem Imigrantes&#8221;.
+
+Vê no Invidious: <https://vid.puffyan.us/watch?v=x_ND12affzA>
+
+Vê no Youtube: <a href="https://youtube.com/watch?v=x_ND12affzA" target="_blank" rel="noreferrer noopener">https://youtube.com/watch?v=x_ND12affzA </a>
+
+[O Lado Negro da Força][1]<figure class="wp-block-image size-large">
+
+![][2] </figure>
+
+ [1]: https://www.youtube.com/@oladoNegrodaForca
+ [2]: https://cmi.indymedia.pt/wp-content/uploads/2024/02/maxres-9217120.jpg

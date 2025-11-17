@@ -1,0 +1,39 @@
+---
+title: Lugar de Fala nº 177 com Ícaro Jorge
+author: Publicação Comunitária
+type: post
+date: 2024-10-17T07:57:02+00:00
+excerpt: |
+  Ícaro Jorge, é Advogado e professor Colaborador do Curso de Gestão de Políticas Públicas da Universidade de Brasilia. É Mestre em Estudos Interdisciplinares sobre Universidade e está a realizar doutoramento em Direitos Humanos e Cidadania na Universidade de Brasília com período sanduíche no CICS.Nova.Évora na Universidade de Évora como bolsista do Programa Abdias Nascimento/CAPES. Além disso, é pesquisador do Grupo de Estudo e Pesquisa em Políticas Públicas, História, Educação das Relações Raciais e de Genero ( (Geppherg) e ativista do Movimento Negro Unificado - MNU/BR. 
+  Para ver em direto no Facebook e Yotube d´O Lado Negro da Força.
+url: /?p=224570
+activitypub_status:
+  - federated
+post_list_status:
+  - off
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+</div>
+
+<https://youtube.com/watch?v=6YK1j2my66E>
+
+Ícaro Jorge, é Advogado e professor Colaborador do Curso de Gestão de Políticas Públicas da Universidade de Brasilia. É Mestre em Estudos Interdisciplinares sobre Universidade e está a realizar doutoramento em Direitos Humanos e Cidadania na Universidade de Brasília com período sanduíche no CICS.Nova.Évora na Universidade de Évora como bolsista do Programa Abdias Nascimento/CAPES. Além disso, é pesquisador do Grupo de Estudo e Pesquisa em Políticas Públicas, História, Educação das Relações Raciais e de Genero ( (Geppherg) e ativista do Movimento Negro Unificado &#8211; MNU/BR. Para ver em direto no Facebook e Yotube d´O Lado Negro da Força.
+
+Instâncias [Invidious][1] alternativas:  
+<https://redirect.invidious.io/watch?v=6YK1j2my66E><figure class="wp-block-image size-large">
+
+![][2] </figure> 
+
+**O Lado Negro da Força** | A força da opinião negra  
+[Youtube][3] | [Facebook][4] | Também passa em [AfroLink][5]
+
+ [1]: https://invidious.io/
+ [2]: https://cmi.indymedia.pt/wp-content/uploads/2024/10/maxres-7530734-2147103.jpg
+ [3]: https://www.youtube.com/@OLadoNegrodaForca/videos
+ [4]: https://www.facebook.com/oladonegrodaforca2019/
+ [5]: https://afrolink.pt/?s=O+Lado+Negro+da+For%C3%A7a+

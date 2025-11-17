@@ -1,0 +1,37 @@
+---
+title: Estudantes pelo fim ao fóssil interrompem comício do PS
+author: Publicação Comunitária
+type: post
+date: 2024-03-06T06:36:33+00:00
+url: /?p=220739
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Ecologia e Animais
+
+---
+[Comunicado | GCE Lisboa][1]
+
+Os manifestantes afirmam que todos os partidos estão a falhar, pois &#8220;nenhum tem um plano para o fim do uso dos combustíveis fósseis até 2030&#8221;
+
+Esta noite, estudantes da Greve Climática Estudantil interromperam um comício do PS, que decorria na Aula Magna da Reitoria da Universidade de Lisboa, para reivindicar o fim aos combustíveis fósseis. Afirmam que nenhum partido ter um plano para o fim aos combustíveis fósseis até 2030 em eleições que dão mandato até 2028 é &#8220;condenar conscientemente o futuro de todos os jovens&#8221;. O comício estava a decorrer normalmente quando cerca de uma dezena de estudantes se levantaram para fazer um discurso. <figure class="wp-block-image size-full">
+
+<img alt='prox2y-8800037-2671254-9657845-4797990-2395347-2578278-5923372-9479176-1462831' alt='prox2y-8800037-2671254-9657845-4797990-2395347-2578278-5923372-9479176' src='https://cmi.indymedia.pt/wp-content/uploads/2024/03/prox2y-8800037-2671254-9657845-4797990-2395347-2578278-5923372-9479176-1462831.jpeg' alt="" class="wp-image-220741" /> </figure> 
+
+&#8220;Em Portugal, já começámos a sentir os efeitos da crise climática: as secas, o preço dos alimentos, as mortes devido ao calor ou frio extremo, os incêndios e cheias.&#8221;, disseram os estudantes, alertando o partido de que &#8220;vão ser cada vez mais frequentes e intensos enquanto nada fizerem&#8221;. &#8220;A escolha é vossa, vão comprometer-se com a ciência e a justiça? Comprometer-se com o fim aos fósseis até 2030?&#8221;, questionaram.
+
+Estas grupo reivindica o&nbsp;Fim ao Fóssil até 2030 e o fim à utilização de&nbsp;gás metano para produzir eletricidade em Portugal até o próximo ano, garantindo uma transição para eletricidade 100% renovável e gratuita, através de um serviço público de energias renováveis.
+
+O discurso acusou ainda o PS de ter escolhido e continuar a escolher aumentar as emissões no país: &#8220;este partido escolheu proteger os lucros exorbitantes da EDP e da GALP, nomear como ministros CEOs de petrolíferas e criar projetos suicidas de expansão de emissões, como um novo gasoduto e um novo aeroporto.&#8221;
+
+Os estudantes foram interrompidos e retirados do comício de forma violenta por militantes do partido. Alguns dos manifestantes chegaram mesmo a ser agredidos.
+
+Matilde Ventura, estudante e porta voz desta ação, considera que, neste ano em que celebramos os 50 anos do 25 de abril, a inação dos partidos está a colocar em causa os direitos que esta revolução ganhou. &#8220;Em colapso climático não há paz, nem pão, nem saúde, nem habitação. E quando protestamos pelo nosso futuro, somos recorrentemente recebidos com violência. A democracia é uma luta constante, e os partidos estão todos a falhar.&#8221;
+
+Os estudantes prometem que &#8220;não vão dar paz&#8221; às instituições de poder que não estão a garantir o fim ao uso dos combustíveis fósseis até 2030. Esta primavera vão mobilizar estudantes nas escolas para a uma onda de ações em maio a que chamam &#8220;Primavera Estudantil Pelo Fim ao Fóssil&#8221;. &#8220;Não dizemos que não se deve votar no dia 10. Dizemos que isso não chega. A nossa luta vai fazer-se nas escolas e nas ruas. Sabemos que estamos do lado certo da história&#8221;, diz Matilde.
+
+<https://gram.whatever.social/p/C4JuBCcNlHC#3317384982014874050-2>
+
+ [1]: https://greveclimaticalisboa.org/

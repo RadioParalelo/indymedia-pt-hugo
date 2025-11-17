@@ -1,0 +1,51 @@
+---
+title: 'Associações de Estudantes e o genocídio na Palestina: Comunicado da AE FBAUP'
+author: Publicação Comunitária
+type: post
+date: 2024-01-24T17:31:25+00:00
+url: /?p=216147
+fpsm_author_name:
+  - Associação de Estudantes da Faculdade de Belas Artes da Universidade do Porto
+burst_page_id_upgraded:
+  - 1
+activitypub_status:
+  - federated
+categories:
+  - Indymedia
+  - Movimentos Sociais
+
+---
+Comunicado: MAE e o genocídio na Palestina
+
+**A AEFBAUP vem por este meio denunciar o silêncio das estruturas associativas estudantis perante o genocídio do povo palestiniano.**
+
+No fim de semana de 2 e 3 de dezembro de 2023, fizemo-nos representar por dois dirigentes associativos no Encontro Nacional de Dirigentes Associativos (ENDA) em Coimbra. No plenário das medidas conjuntas, foi apresentada pela AEFCSH a moção &#8220;Estudantes querem a Paz &#8211; Pelo cessar-fogo imediato, Pela Paz no Médio Oriente e por uma Palestina Independente&#8221;, a qual propunha dois pontos:
+
+1. A defesa de uma posição conjunta pelo cessar-fogo imediato, pela Paz no Médio Oriente, pelo reconhecimento dos direitos nacionais do povo palestiniano e pelo cumprimento das resoluções da ONU.
+
+2. A solidariedade e o pesar para com as milhares de vítimas civis da Palestina, de Israel e de outros países do Médio Oriente, para com as suas famílias que têm há décadas sofrido com os horrores da guerra e que desde o passado dia 7 de Outubro têm assistido a um escalar da guerra e a um intensificar das vítimas da mesma.
+
+Esta moção foi chumbada com a vergonhosa votação de 37 abstenções, 19 contra, 10 a favor e 3 direitos de não voto.
+
+Relembramos os nossos colegas que em 2022 no ENDA, em Guimarães, foi aprovada por unanimidade a moção apresentada pela AAUBI &#8220;Voto de Solidariedade para com a Ucrânia&#8221; onde se leem as seguintes propostas:
+
+1. Expressar a solidariedade com o povo ucraniano e reconhecer o seu direito à paz, autodeterminação e integridade territorial.  
+2. Defender uma solução pacífica para o conflito entre a Rússia e a Ucrânia que respeite a soberania e a integridade territorial da Ucrânia.  
+3. Promover o acolhimento e integração de migrantes ucranianos na sociedade portuguesa por parte das Instituições de Ensino Superior.  
+4. Condenar todas as formas de totalitarismo e invasão territorial, como aquelas que ocorrem atualmente por ordem de Vladimir Putin em território ucraniano.
+
+Também na ata deste mesmo encontro lê-se: &#8220;A mais recente situação na Ucrânia também não ficou indiferente ao ENDA, tendo o movimento expressado a sua solidariedade para com o povo ucraniano, bem como o reconhecimento do seu direito à paz autodeterminação e integridade territorial, defendendo uma solução pacífica para o conflito entre a Rússia e a Ucrânia.&#8221;
+
+Já na nota de imprensa do ENDA Coimbra, não há sequer referência ao desinteresse do movimento associativo estudantil para com a ocupação da Palestina. Este é o momento em que nos questionamos se isto é resultado de uma narrativa eurocêntrica, de que a guerra só interessa quando é às portas da Europa e as vítimas são pessoas brancas.
+
+No dia 4 de dezembro, o coletivo &#8220;Coimbra pela Palestina” partilhou a entrega de 1400 assinaturas dos estudantes da UC para a convocatória de uma Assembleia Magna, apelando a uma declaração e demonstração de solidariedade para com o povo palestiniano por parte da Associação Académica de Coimbra. Nos dias 9 e 11 de dezembro, o mesmo coletivo partilha notícias que relatam a rejeição deste pedido por parte dos órgãos da AAC. Esta defende que a Magna não se justifica, pondo até entraves burocráticos ao exercício democrático.
+
+No mesmo ano em que celebramos os 50 anos do 25 de Abril, e cujo tema é a Descolonização, a maioria das estruturas associativas optam pela indiferença perante um genocídio de um povo colonizado que vive uma dura e longa ocupação. Os estudantes em Portugal carregam uma herança histórica do século passado contra a guerra colonial a qual deveríamos honrar.
+
+É lamentável este silêncio dos jovens perante os mais de 25.000 mártires dos últimos meses, mas também perante todas as vítimas dos últimos 75 anos de colonialismo e ocupação do território palestiniano. Este silêncio que legitima o estado de apartheid e os crimes cometidos por Israel, tanto na Palestina, como no Líbano, na Síria e os mais recentes ataques imperialistas ao Iémen. Exigimos o pronunciamento das estruturas associativas pela defesa da soberania e paz na Palestina, que demonstrem solidariedade para com as suas vítimas, os desalojados, os refugiados, os doentes, as pessoas que passam fome, as que estão grávidas, as crianças e os idosos, todos aqueles que sofrem às mãos desta ocupação.
+
+Não é demasiado tarde para exigir um cessar-fogo imediato, as estruturas associativas estão a tempo de dar o seu apoio ao povo palestiniano e não serem cúmplices desta barbárie.
+
+[[Link para o comunicado no Instagram]][1]
+
+ [1]: https://www.instagram.com/p/C2ddnKwMogZ

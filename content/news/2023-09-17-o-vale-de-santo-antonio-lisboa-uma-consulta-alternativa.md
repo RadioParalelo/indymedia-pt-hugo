@@ -1,0 +1,213 @@
+---
+title: '[Lisboa] O Vale de Santo António: Uma consulta alternativa'
+author: Publicação Comunitária
+type: post
+date: 2023-09-17T11:46:29+00:00
+excerpt: 'Está em curso uma consulta alternativa ao projecto de urbanização do vale de Santo António. O inquérito é direcionado a residentes de Lisboa que tenham, ou possam vir a ter, interesse no projeto do Vale de Santo António.  O objetivo é recolher opiniões sobre o destino deste sítio. Este inquérito surge de uma preocupação com o […]'
+url: /?p=450
+syndication_source:
+  - Rede de Contra Informação
+syndication_source_uri:
+  - https://rcinfo.noblogs.org
+syndication_source_id:
+  - https://rcinfo.noblogs.org/feed
+"rss:comments":
+  - 'https://rcinfo.noblogs.org/o-vale-de-santo-antonio-lisboa-uma-consulta-alternativa/#respond'
+"wfw:commentRSS":
+  - https://rcinfo.noblogs.org/o-vale-de-santo-antonio-lisboa-uma-consulta-alternativa/feed/
+syndication_feed:
+  - https://rcinfo.noblogs.org/feed
+syndication_permalink:
+  - https://rcinfo.noblogs.org/o-vale-de-santo-antonio-lisboa-uma-consulta-alternativa/
+syndication_item_hash:
+  - 741ffdf64cc8933b435dc4fdebd64431
+  - 1a0930677d84dd6a054e8250c2960775
+  - e643842730b642965d0cc091ca5fce2b
+  - 5065f50795e862728010f7bf3e3bfc8b
+  - 4b1135e3ac43653203e354e49ddaa0e7
+  - b80bc0c066391351514e1bd2cb2c029d
+categories:
+  - Ecologia e Animais
+  - Habitação
+  - Indymedia
+  - Poder e Autodeterminação
+tags:
+  - Cidade
+  - Direito à Cidade
+  - Ecologia
+  - penha de frança
+
+---
+Está em curso uma consulta alternativa ao projecto de urbanização do vale de Santo António.
+
+O inquérito é direcionado a residentes de Lisboa que tenham, ou possam vir a ter, interesse no&nbsp;[projeto do Vale de Santo António][1].&nbsp; O objetivo é recolher opiniões sobre o destino deste sítio.
+
+Este inquérito surge de uma preocupação com o impacto desta construção, bem como de um desejo de pensar noutras utilizações do espaço ao serviço das pessoas e da natureza.
+
+Podes preencher o inquérito [aqui][2].<figure class="wp-block-post-featured-image">
+
+<img fetchpriority="high" width="1170" height="400" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/csm_vsa_s_new2_57dd5ccabd-7808701-5598720..jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" style="object-fit:cover;" srcset="https://cmi.indymedia.pt/wp-content/uploads/2023/09/csm_vsa_s_new2_57dd5ccabd-7808701-5598720..jpg 1170w, https://cmi.indymedia.pt/wp-content/uploads/2023/09/csm_vsa_s_new2_57dd5ccabd-300x103-3123586-6800653..jpg 300w, https://cmi.indymedia.pt/wp-content/uploads/2023/09/csm_vsa_s_new2_57dd5ccabd-1024x350-8736579-6889798..jpg 1024w, https://cmi.indymedia.pt/wp-content/uploads/2023/09/csm_vsa_s_new2_57dd5ccabd-768x263-7382813-6778057..jpg 768w" sizes="(max-width: 1170px) 100vw, 1170px" /> </figure> 
+
+**[Nota explicativa:][3]**
+
+**O Vale de Santo António, Lisboa: Uma consulta alternativa**
+
+Porque queremos saber a sua opinião? Estamos a pedir que participe neste inquérito porque acreditamos que é necessário fazer uma verdadeira consulta sobre o futuro do Vale de Santo António, onde se pretende desenvolver um grande projeto urbanístico que se estende por 48 hectares e que envolve a construção de cerca de 2.400 casas. A Câmara Municipal de Lisboa classifica este projeto como a &#8220;maior operação de requalificação urbana da cidade, depois da Expo 98 e da Alta de Lisboa”.
+
+Houve várias consultas públicas, no entanto, foram limitadas. Mas o nosso argumento baseia-se no facto de ninguém ter dado um passo atrás e se ter perguntado se um projeto que teve origem há mais de meio século será a melhor resposta aos desafios que a cidade enfrenta agora e irá enfrentar no futuro. Para além disso, há ainda questões importantes que não estão respondidas, nomeadamente, sobre se com a proposta agora revista visa apenas a construção de habitação para renda acessível ou se, pelo contrário, se pretende “alimentar a especulação” e a construção de apartamentos de luxo.
+
+Hoje em dia, são já claramente visíveis os impactos negativos das alterações climáticas, nomeadamente em espaços urbanos. Na sequência das aprendizagens feitas ao longo da pandemia, em que nos apercebemos claramente da falta de espaços públicos que servissem melhor as pessoas, e considerando que a natureza tem que ser uma parte integral do desenvolvimento da cidade, acreditamos que é importante perceber o que a população valoriza e que aspirações tem para esta parte de Lisboa.
+
+Assim, é hora de nos perguntarmos: como transformar este espaço, para as pessoas, agora, e para as gerações do futuro?
+
+**A nossa perspectiva** 
+
+Acreditamos que o atual projeto do Vale de Santo António é uma solução do século XX para um desafio do século XXI. Urbanizar densamente a área não é uma solução inteligente. Pelo contrário, criará problemas agora e no futuro. Além disso, existem melhores opções do que este projeto para resolver a crise da habitação. Por exemplo, comparada com os países europeus, Lisboa é uma das cidades mais expostas aos efeitos das ondas de calor.
+
+Por outro lado, temos nesta zona da cidade uma grande oportunidade para oferecer aos habitantes aquilo de que precisam: espaços verdes e respiráveis.
+
+O Vale de Santo António é um recurso valioso para o futuro vivível da cidade.  
+Poderá ser um espaço de usufruto, de encontro, de lazer, de contato com a natureza, de prática de desporto ao ar livre, de espaço para as crianças brincarem livremente, de espaço de retenção de águas pluviais e seu reaproveitamento, de captação de dióxido carbono através da plantação de árvores, de realização de pequenos eventos culturais.
+
+Continue a ler para descobrir mais.
+
+Esta é a nossa perspetiva. Ao mesmo tempo, reconhecemos a importância de envolver um maior número de pessoas no processo de consulta e que é necessária mais informação sobre os desejos dos habitantes para este espaço da cidade.
+
+Assim, apresentamos em seguida um inquérito, precisamente com esse objetivo.
+
+**Como utilizaremos os resultados deste inquérito** 
+
+Pretendemos utilizar os resultados deste inquérito ao longo da comunicação e discussões que existirão com as partes interessadas, em particular com a Câmara de Lisboa e com a Comissão de Coordenação e Desenvolvimento Regional, sendo estes os dois organismos diretamente implicados no desenvolvimento do projeto.
+
+Por fim, utilizaremos os resultados deste inquérito para dar suporte e densidade à resposta ao pedido de consulta pública, cuja data e formato estão ainda por determinar.
+
+**Diga-nos o que pensa**
+
+Agradecemos comentários e propostas alternativas. Após preencher o inquérito, poderá contatar-nos através do endereço consulta.santo.antonio@gmail.com
+
+**Quem é responsável por este inquérito?**
+
+A iniciativa foi lançada por um grupo de residentes de Lisboa que se preocupam com este tema:
+
+● João Baia, sociólogo e antropólogo  
+● António Mota, estatístico  
+● Ana Filipa Oliveira, especialista em comunicação e advocacia social  
+● Hugo Warner, especialista em economia circular.
+
+**O que está planeado para o Vale de Santo António?**
+
+Este é um grande projeto, abrangendo uma área total com aproximadamente 48 hectares, que pertencem quase na sua totalidade à Câmara (detém cerca de 94% do espaço). A Câmara pretende construir cerca de 2.400 casas numa área equivalente a 26 hectares. As projeções mais recentes indicam que o projeto inclui vários edifícios altos, com pelo menos 15 andares.<figure class="wp-block-image size-full">
+
+<img loading="lazy" decoding="async" width="616" height="346" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Screenshot-2023-09-17-at-12-28-12-O-Vale-de-Santo-Antonio-Nota-explicativa-O-Vale-de-Santo-Antonio_-Nota-explicativa-8734647-9895524.pdf.png" alt="" class="wp-image-9209" srcset="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Screenshot-2023-09-17-at-12-28-12-O-Vale-de-Santo-Antonio-Nota-explicativa-O-Vale-de-Santo-Antonio_-Nota-explicativa-8734647-9895524.pdf.png 616w, https://cmi.indymedia.pt/wp-content/uploads/2023/09/Screenshot-2023-09-17-at-12-28-12-O-Vale-de-Santo-Antonio-Nota-explicativa-O-Vale-de-Santo-Antonio_-Nota-explicativa-9369581-9104142.pdf-300x169.png 300w" sizes="auto, (max-width: 616px) 100vw, 616px" /> <figcaption class="wp-element-caption">Vista aérea da zona planeada, disponível no sítio <http://www.lisboarendaacessivel.pt/inicio.html></figcaption></figure> 
+
+Este projeto encontra-se incluído no programa Renda Acessível, destinado à criação de habitação a preços controlados. No entanto, discussões camarárias têm levantado dúvidas quanto a esta finalidade ao sugerir que nem todos os apartamentos serão construídos com o objetivo do programa referido. O empreendimento inclui a proposta de um parque que ocuparia entre 7 e 13 hectares.
+
+Este é o maior e mais complexo projeto do programa Renda Acessível, que corresponde a um investimento privado estimado em 500 milhões de euros. As estimativas variam entre os documentos mais recentes. As estimativas iniciais apontavam para 3.000 casas; em alguns documentos da câmara referem-se 2.300 casas; numa recente reunião pública da Câmara (31 de Maio de 2023) apontavam-se 2.407 casas.<figure class="wp-block-image size-full">
+
+<img loading="lazy" decoding="async" width="658" height="367" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Screenshot-2023-09-17-at-12-29-18-O-Vale-de-Santo-Antonio-Nota-explicativa-O-Vale-de-Santo-Antonio_-Nota-explicativa-9138232-7303651.pdf.png" alt="" class="wp-image-9210" srcset="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Screenshot-2023-09-17-at-12-29-18-O-Vale-de-Santo-Antonio-Nota-explicativa-O-Vale-de-Santo-Antonio_-Nota-explicativa-9138232-7303651.pdf.png 658w, https://cmi.indymedia.pt/wp-content/uploads/2023/09/Screenshot-2023-09-17-at-12-29-18-O-Vale-de-Santo-Antonio-Nota-explicativa-O-Vale-de-Santo-Antonio_-Nota-explicativa-6044672-1306547.pdf-300x167.png 300w" sizes="auto, (max-width: 658px) 100vw, 658px" /> </figure> 
+
+Desenho do projeto do Vale de Santo António, apresentado pela Câmara Municipal de Lisboa, disponível [aqui][4].
+
+**Há quanto tempo está este projeto a ser desenhado?**
+
+Este projeto tem uma história longa e atribulada.
+
+A construção em grande escala no Vale de Santo António é contemplada como uma possibilidade há pelo menos meio século. Já a [Empresa Pública de Urbanização de Lisboa][5] (já extinta), previa a construção de seis torres e 50 pequenos edifícios colectivos no âmbito do Plano de Urbanização do Vale Escuro, nos anos 70. O projeto nunca foi completamente realizado.<figure class="wp-block-image size-full">
+
+<img decoding="async" loading="lazy" width="648" height="307" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Screenshot-2023-09-17-at-12-32-16-O-Vale-de-Santo-Antonio-Nota-explicativa-O-Vale-de-Santo-Antonio_-Nota-explicativa-6949279-6703455.pdf.png" alt="" class="wp-image-9212" srcset="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Screenshot-2023-09-17-at-12-32-16-O-Vale-de-Santo-Antonio-Nota-explicativa-O-Vale-de-Santo-Antonio_-Nota-explicativa-6949279-6703455.pdf.png 648w, https://cmi.indymedia.pt/wp-content/uploads/2023/09/Screenshot-2023-09-17-at-12-32-16-O-Vale-de-Santo-Antonio-Nota-explicativa-O-Vale-de-Santo-Antonio_-Nota-explicativa-2575851-4028594.pdf-300x142.png 300w" sizes="auto, (max-width: 648px) 100vw, 648px" /> </figure> 
+
+Maqueta do projeto original (parcialmente realizado) publicada na revista Binário, 205-206, Janeiro-Fevereiro 1976
+
+Desde então, os planos foram várias vezes alterados. Em 2004, uma parte do terreno foi vendida a uma empresa privada, para desenvolvimento. Mas o contrato nunca foi executado e a empresa em questão foi [indemnizada pela Câmara em 2015.][6] Foi por volta desta altura que começou a ganhar forma o projeto atual, no âmbito do [plano de urbanização][7] de 2012, liderado pelo então vereador do Urbanismo, [Manuel Salgado][8].<figure class="wp-block-image size-full">
+
+<img decoding="async" loading="lazy" width="653" height="322" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Screenshot-2023-09-17-at-12-34-09-O-Vale-de-Santo-Antonio-Nota-explicativa-O-Vale-de-Santo-Antonio_-Nota-explicativa-8688873-7106157.pdf-1.png" alt="" class="wp-image-9216" srcset="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Screenshot-2023-09-17-at-12-34-09-O-Vale-de-Santo-Antonio-Nota-explicativa-O-Vale-de-Santo-Antonio_-Nota-explicativa-8688873-7106157.pdf-1.png 653w, https://cmi.indymedia.pt/wp-content/uploads/2023/09/Screenshot-2023-09-17-at-12-34-09-O-Vale-de-Santo-Antonio-Nota-explicativa-O-Vale-de-Santo-Antonio_-Nota-explicativa-5597878-4459068.pdf-1-300x148.png 300w" sizes="auto, (max-width: 653px) 100vw, 653px" /> </figure> 
+
+Projeção do projeto Vale de Santo António, publicada em 2016, disponível [aqui][9].
+
+Tendo sido inicialmente planeada a construção de apartamentos de luxo e um centro comercial, a proposta foi abandonada a favor de um projecto habitacional destinado à classe média.
+
+Mas enquanto tudo isto acontece, a zona tem sido negligenciada.
+
+**Será problemático construir neste tipo de terreno?**
+
+Muito. De todos os locais selecionados pelo programa Renda Acessível, é no Vale de Santo António que é mais difícil construir, sendo este local inadequado para este tipo &#8211; e escala &#8211; de construção.
+
+Porquê?
+
+Em primeiro lugar, porque tem um declive acentuado, sendo classificado como [uma das áreas acidentadas da cidade][10] com um declive moderado a forte (mais de 10º de inclinação).
+
+Em segundo, porque o solo do vale de Santo António é composto por vários depósitos de argila e areia, onde é mais difícil construir. Além disso, está situado [numa zona de risco sísmico máximo.][11]
+
+A construção neste terreno será, portanto, extremamente complicada. Implicará a  
+contenção do solo através da construção de enormes taludes artificiais e muros de  
+contenção, o que foi apontado pelo arquiteto paisagista e ecologista Ribeiro Teles. Em termos práticos, isto significa mais betão, custos mais elevados e maiores desafios estruturais.
+
+Por fim, porque construir sobre uma área tão grande vai ainda acrescentar às dificuldades já existentes problemas sérios para a circulação e drenagem das águas pluviais na zona. Este problema tornou-se mais evidente após as inundações recentes que aconteceram na cidade precisamente devido a problemas de drenagem.
+
+**E poderão todas as casas que estão vazias em Lisboa fazer parte da solução?**
+
+Sim. A cidade não tem falta de parque habitacional, com uma estimativa impressionante de [48.000 casas vazias][12] ou abandonadas, num total de 730.000 casas no país. E estima-se que 2.000 destas casas sejam propriedade da própria Câmara.
+
+Podemos ilustrar o problema falando apenas das duas freguesias situadas ao longo do Vale:
+
+● Estima-se que 20% das casas de São Vicente, com uma população de 14.000  
+habitantes, estejam vazias ou abandonadas: [2,438][13] segundo o censo de 2021.  
+● A Penha de França, com uma população estimada em 17.691 habitantes, tem cerca de 2.900 casas vazias ou abandonadas, um dos números absolutos mais elevados da cidade.
+
+Não parece uma loucura construir novas casas ao lado de casas vazias? Parece correto colocar a especulação imobiliária, disputas entre herdeiros ou os senhorios sem escrúpulos à frente do bem comum?
+
+Não seria preferível a criação de incentivos que facilitassem a reabilitação de propriedades vazias no coração dos bairros que precisam urgentemente de revitalização?
+
+Acreditamos que esta seria a solução mais inteligente e pragmática para criar habitação para as pessoas, onde essa habitação é necessária. Inverteria a degradação dos bairros em toda a cidade. Criaria procura de empregos especializados. E evitaria a libertação de grandes quantidades de carbono (embodied carbon) que estão associadas a novas construções.
+
+Não pretendemos dizer que esta solução será simples. Mas, com vontade política e mais e melhores ferramentas e incentivos – [tal como alguns que já existem][14] – os projetos de renovação trarão rapidamente mais benefícios e com menos custos ambientais.
+
+Note-se que o setor da construção é responsável, a nível global, por 34% da procura de energia e por cerca de 37% das emissões de CO₂. Reduzir o número de novas construções é uma estratégia vital de combate às alterações climáticas.
+
+48 hectares de espaço verde? Parece uma oportunidade fantástica para as pessoas e para a natureza.
+
+Não é verdade?
+
+Imagine, por um minuto, que este projeto não existia. O que é que você, como cidadão de Lisboa, gostaria de ver? Mais espaço para as crianças brincarem? Para os idosos relaxarem? Mais árvores que proporcionassem um [arrefecimento natural][15] e um belo refúgio para a natureza?
+
+Acreditamos que temos a oportunidade e a obrigação de escolher um modelo de  
+desenvolvimento urbano que nos conduza a um futuro mais saudável, tanto para o ser humano como para a natureza.
+
+Do que a cidade precisa é de uma “[infraestrutura natural][16]” que produza um retorno de investimento em geral maior no que concerne o bem estar das pessoas e a protecção da cidade contra os efeitos [potencialmente devastadores das alterações climáticas.][17]
+
+E acreditamos que não há tempo a perder.
+
+Lisboa já se comprometeu, por exemplo, a ser uma das 100 cidades europeias que  
+atingirão o [objectivo de zero emissões líquidas][18] até 2030. Comprometeu-se também com o objetivo de que 90% da população esteja a [menos de 300 metros de um espaço verde][19] com mais de 2.000 metros2, até 2030. São grandes objetivos, mas não são compatíveis com projetos de construção com esta envergadura.
+
+Há exemplos positivos, de um desenvolvimento mais sustentável, que já estão a acontecer por toda a cidade, tais como por exemplo, na recentemente anunciada ampliação do [Parque do Vale da Montanha][20], ou a construção do [Jardim do Caracol,][21] um espaço que estava originalmente destinado a ser um parque de estacionamento e cujo plano foi alterado no âmbito do orçamento participativo, em 2016.
+
+Com o Vale de Santo António a Câmara poderia tornar-se líder na tendência europeia de reimaginar os espaços urbanos: [Jardines del Turia][22] em Valência; os [Eixos Verdes][23] de Barcelona; o projeto [Broadmarsh][24] em Nottingham; o a iniciativa [Städte wagen Wildnis][25] em Hanover, Frankfurt e Dessau. Estes são apenas alguns dos exemplos inspiradores, em que os habitantes puderam participar e responder à pergunta: do que é que a cidade e as pessoas realmente precisam?<figure class="wp-block-image size-full">
+
+<img decoding="async" loading="lazy" width="810" height="505" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Screenshot-2023-09-17-at-12-48-23-Stop-Despejos-@stopdespejos-E280A2-Instagram-photos-and-videos-2735942-6185204..png" alt="" class="wp-image-9219" srcset="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Screenshot-2023-09-17-at-12-48-23-Stop-Despejos-@stopdespejos-•-Instagram-photos-and-videos-3496547-9729304..png 810w, https://cmi.indymedia.pt/wp-content/uploads/2023/09/Screenshot-2023-09-17-at-12-48-23-Stop-Despejos-@stopdespejos-•-Instagram-photos-and-videos-300x187-1060495-7560036..png 300w, https://cmi.indymedia.pt/wp-content/uploads/2023/09/Screenshot-2023-09-17-at-12-48-23-Stop-Despejos-@stopdespejos-•-Instagram-photos-and-videos-768x479-1473859-1123539..png 768w" sizes="auto, (max-width: 810px) 100vw, 810px" /> </figure>
+
+ [1]: http://www.lisboarendaacessivel.pt/locations/vale-de-santo-antonio/
+ [2]: https://docs.google.com/forms/d/e/1FAIpQLSdrSmkNnkZmFSE2h-GgvySoUiO7ChwNEyIRtpz0DaKnQTEcqA/viewform?pli=1&pli=1&pli=1&edit_requested=true&trk=feed-detail_main-feed-card_feed-article-content
+ [3]: https:///home/mi/Downloads/O%20Vale%20de%20Santo%20Anto%CC%81nio_%20Nota%20explicativa.pdf
+ [4]: http://www.lisboarendaacessivel.pt/fileadmin/renda_acessivel/ficheiros/MIPIM_20220315_organized.pdf
+ [5]: https://pt.wikipedia.org/wiki/Empresa_P%C3%BAblica_de_Urbaniza%C3%A7%C3%A3o_de_Lisboa
+ [6]: https://www.publico.pt/2015/11/07/local/noticia/camara-de-lisboa-paga-46-milhoes-a-um-privado-para-acabar-com-litigio-judicial-1713605
+ [7]: https://diariodarepublica.pt/dr/detalhe/aviso/1237-2012-2856007
+ [8]: https://pt.wikipedia.org/wiki/Manuel_Salgado
+ [9]: https://www.idealista.pt/news/imobiliario/habitacao/2016/04/06/30318-queres-viver-em-lisboa-camara-vai-colocar-no-mercado-ate-sete-mil-casas-com-rendas
+ [10]: http://www.lisboa.pt/fileadmin/cidade_temas/urbanismo/planos_urbanizacao/vale_santo_antonio/pecas_escritas/pu_vale_santo_antonio_relatorio_ambiental.pdf
+ [11]: https://www.lisboa.pt/fileadmin/cidade_temas/urbanismo/planos_urbanizacao/vale_santo_antonio/pecas_desenhadas/pu_vale_santo_antonio_planta_zonamento_II.pdf
+ [12]: https://www.dn.pt/local/48-mil-casas-sem-habitantes-em-lisboa-14782899.html
+ [13]: https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0011788&contexto=bd&selTab=tab2
+ [14]: https://cnnportugal.iol.pt/habitacao/casas/estas-sao-as-medidas-do-governo-para-apoiar-a-habitacao-em-portugal/20230216/63ee5c640cf2cf9224f9480a
+ [15]: https://www.newscientist.com/article/2298675-trees-cool-the-land-surface-temperature-of-cities-by-up-to-12c/
+ [16]: https://nbi.iisd.org/report/investment-in-nature-based-infratsructure/
+ [17]: https://www.unep.org/explore-topics/resource-efficiency/what-we-do/cities/cities-and-climate-change
+ [18]: https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/eu-missions-horizon-europe/climate-neutral-and-smart-cities_pt?etrans=pt
+ [19]: https://www.c40knowledgehub.org/s/article/Nature-based-solutions-How-cities-can-use-nature-to-manage-climate-risks?language=en_US
+ [20]: https://lisboaparapessoas.pt/2023/04/10/parque-urbano-vale-da-montanha-expansao/
+ [21]: https://www.caracoldapenha.info/
+ [22]: https://www.visitvalencia.com/que-ver-valencia/jardines-del-turia
+ [23]: https://www.politico.eu/article/barcelona-green-spaces-mental-health-superblocks-eixos-verds/amp/
+ [24]: https://www.nottinghamshirewildlife.org/broadmarsh-reimagined
+ [25]: https://www.staedte-wagen-wildnis.de/index.php?id=93

@@ -1,0 +1,63 @@
+---
+title: 'Carta Aberta: Não serei eu uma criança? Racismo na Infância em Portugal'
+author: Publicação Comunitária
+type: post
+date: 2023-10-12T13:10:38+00:00
+url: /?p=32732
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111222210516591574
+categories:
+  - Discriminação
+  - Indymedia
+tags:
+  - Lisboa
+  - racismo
+
+---
+ 
+
+**por Movimento Negro em Portugal**
+
+No dia 28 de setembro de 2023, no recinto do Festival MIL, em Lisboa, experienciamos um ato de violência contra duas crianças, de 5 e 8 anos, um ato ao qual o racismo não é alheio. As meninas, as únicas crianças negras no evento, estavam a brincar na esplanada do recinto, onde várias pessoas as conheciam, pois, as mães são artistas audiovisuais conhecidas da equipa de produção e o pai de uma das crianças era um dos palestrantes convidados. Sentiam-se, portanto, num espaço seguro para que as crianças brincassem e corressem, entre as mesas da referida esplanada. A menina mais nova, juntamente com uma testemunha que trabalha no restaurante, alertou as mães para o facto de haver um homem a correr atrás da menina de 8 anos, tendo as acusado de ter roubado um cartão bancário que estava na sua carteira, dentro de uma mochila.
+
+Naquele momento, a mãe e o pai da menina mais velha saíram em busca da filha e não a encontrando na zona da esplanada, avançaram para um dos edifícios do evento. Numa das salas estava a sua filha a chorar e a gritar, o homem que a havia perseguido e mais 3 ou 4 pessoas. Para além de as ter acusado e perseguido, esse homem terá agarrado a menina mais velha pelo braço. Os pais questionaram o agressor sobre o motivo pelo qual ele, um homem adulto, não procurou os familiares ou algum responsável do festival, e decidiram chamar a polícia. Naquele compasso de espera, o agressor terá procurado justificar-se dizendo, num racismo primário, que pensava que se tratava de crianças de rua, crianças ciganas, que ali estariam a roubar.
+
+Cerca de 40 pessoas disponibilizaram-se a prestar depoimento enquanto testemunhas à polícia que, entretanto, chegou. A produção do evento posicionou-se solidarizando-se de imediato com as famílias e mais tarde através de um comunicado nas suas redes sociais. Sabemos que isso não é comum, pelo que só podemos esperar que outras organizações se sintam inspiradas a não abafar situações semelhantes que ocorram nas suas instituições.
+
+Queremos que a justiça seja feita, que as crianças e famílias tenham acesso à assistência necessária à reparação deste trauma. Mas queremos também chegar a outras crianças que, pela sua origem étnico-racial – negra, cigana e outras –, são alvo de criminalização, vivem sob suspeita, alvos de violência psicológica e física racista nas escolas, parques infantis, nos transportes, estabelecimentos de comércio e, até mesmo, no seu bairro, sobretudo, quando este está classificado como Zona Urbana Sensível (ZUS).
+
+Teria o agressor o mesmo ímpeto para as criminalizar se as crianças fossem brancas? Atrever-se-ia a passar do “pensamento aos atos”, indo da suspeição à agressão? Sentir-se-ia ele à vontade para violentar duas menores brancas num espaço público, num à-vontade respaldado pela expectativa de conivência de uma sociedade onde o racismo é generalizado? Estas situações, que nada têm de excecional, adoecem as nossas crianças, mas principalmente a sociedade portuguesa como um todo. Exigimos que o Estado português, designadamente, o sistema de justiça, reconheça a motivação racial desta agressão. Exigimos que, de uma vez por todas, abandone um entendimento legal “minimalista” sobre o que se entende por racismo. Exigimos que rompa com o padrão de negação do racismo que tanto prejudica a vida das nossas crianças e jovens e a vida democrática deste país.
+
+[publicada no Afro Link][1]
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+## Comunicado do Festival MIL  
+  
+No final do segundo dia de convenção ocorreu um ato racista.  
+  
+Um delegado internacional agarrou e interpelou com violência uma criança negra de oito anos, filha de outro delegado, que brincava num espaço supostamente seguro. Alegou que a criança teria aberto e mexido na sua mala e evidenciou que essa sua convicção partia de preconceito racial.  
+  
+Nenhuma criança pode ser interpelada por um adulto e tratada com violência. É mais grave ainda quando existe motivação racial. Condenamos e repudiamos o ato a que essa criança foi lamentavelmente exposta.  
+  
+Os procedimentos legais possíveis estão em curso. As autoridades policiais foram chamadas e o MIL assume desde já a sua responsabilidade de apoiar os familiares neste acontecimento.  
+  
+O MIL não tolera qualquer forma de discriminação. Ampliamos, em toda a programação e estrutura de produção, a diversidade, inclusão, democratização e igualdade. Mas sabemos que entre a vontade, o discurso, a teoria e a prática ainda existem muitas barreiras e desafios a ultrapassar.  
+  
+Sabemos também que casos como este não são isolados, mas sim sistémicos e estruturais. Temos um posicionamento político claro: mais do que falar sobre isto, temos de agir. Contamos convosco nas denúncias e nos debates. {.wp-block-heading}
+
+[Festival MIL][2]
+
+Imagem de destaque: [@inescondeco][3] durante o Festival MIL
+
+Ler também: 
+
+**Omissões mediáticas num caso de racismo na infância, Cristina Roldão** <https://www.publico.pt/2023/10/12/opiniao/opiniao/omissoes-mediaticas-caso-racismo-infancia-festival-mil-2066425>
+
+ [1]: https://afrolink.pt/nao-serei-eu-uma-crianca-racismo-na-infancia-em-portugal-carta-aberta/
+ [2]: https://www.instagram.com/p/CxwZWDSIRlz/
+ [3]: https://www.instagram.com/inescondeco/?img_index=1

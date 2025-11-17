@@ -1,0 +1,34 @@
+---
+title: Lugar de Fala nº 152 com Renata Franco Ribeiro 2ª Parte
+author: Publicação Comunitária
+type: post
+date: 2023-09-26T17:12:58+00:00
+url: /?p=1839
+enclosure:
+  - |
+    |
+        https://anchor.fm/s/53fb5678/podcast/play/76410904/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-26%2F15b41c50-5d0a-998d-0824-25dfefad5d9a.mp3
+        118
+        audio/mpeg
+        
+categories:
+  - Indymedia
+
+---
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <figure class="wp-block-audio"><audio controls src="https://anchor.fm/s/53fb5678/podcast/play/76410904/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-26%2F15b41c50-5d0a-998d-0824-25dfefad5d9a.mp3"></audio></figure> 
+  
+  <p>
+    Segunda parte da conversa com Renata Franco Ribeiro
+  </p>
+  
+  <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:15% auto">
+    <figure class="wp-block-media-text__media"><a href="/"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/13989806-1634130061216-ee3d161e67ed-4370536-scaled.jpg" alt="" /></a></figure>
+    
+    <div class="wp-block-media-text__content">
+      <p>
+        <a href="https://linktr.ee/oladonegrodaforca" data-type="link" data-id="https://linktr.ee/oladonegrodaforca">@oladonegrodaforca</a> &#8211; Um espaço onde a força negra é motor de mudança.
+      </p>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,44 @@
+---
+title: Intervenção de Cláudia Simões Festa da Diversidade
+author: Publicação Comunitária
+type: post
+date: 2024-07-10T00:24:51+00:00
+url: /?p=223654
+activitypub_status:
+  - federated
+fpsm_author_email:
+  - sosracismo@gmail.com
+fpsm_author_name:
+  - SOS Racismo
+links:
+  - https://www.facebook.com/sos.rac
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Discriminação
+  - Movimentos Sociais
+  - Queer Feminismo
+  - Repressão
+
+---
+Sou Cláudia Simões, mulher, mãe e trabalhadora. Sou uma cidadã imputável como qualquer outra cidadã deste país.
+
+Mas, sou uma Mulher Negra, de condições humildes que luta diariamente para viver com dignidade, num país onde ser negra pode ser um perigo para quem o é.
+
+O que aconteceu comigo no dia 19 de janeiro de 2020 em frente à minha filha menor, para além da violência das bárbaras agressões e insultos racistas, foi a negação da minha humanidade.
+
+Perante um agente treinado e armado que me estrangulou ao ponto de sufocar, só tive o meu corpo para me defender e salvar a minha vida. E fui condenada por tentar salvar a minha vida.
+
+O que se seguiu depois do linchamento físico na paragem de autocarro por um agente de autoridade que depois teve o apoio de dois outros colegas dentro do carro-patrulha, foi uma tentativa de assassinato de caráter iniciado orquestrada por sectores sindicais da polícia e sectores da extrema-direita partidária, rapidamente amplificada por uma certa imprensa
+
+Este linchamento moral e esta violência psicológica inerente prosseguiram durante todo o julgamento, onde fui desprezada, humilhada, insultada, tratada de mentirosa por juízes, procuradora, advogados de defesas e agentes policiais. No tribunal, tornei-me no saco de pancada e chacota de um sistema que não suporta a coragem de uma mulher negra que recusa de se calar contra a injustiça que viveu na pele, que se ergue e continuará de pé contra a violência machista e racista.
+
+Nós pessoas negras sabemos que Portugal nunca foi seguro, porque em Portugal uma pessoa negra pode ser morta na rua apenas por ser negra. Eu sei, enquanto mulher que Portugal não é segura para as mulheres e, muito menos, para as mulheres negras.
+
+Se eu não fosse negra, o meu agressor nunca passaria de agressor à vítima, nem nenhuma juíza com o mínimo de respeito pela dignidade humana, se atreveria a dizer que ninguém me fez mal quando ainda hoje, transporto as mazelas físicas e psicológicas da violência que me fizeram naquele dia inesquecível de 19 de janeiro de 2020.
+
+Mas, estão enganados se pensam que me vão vergar pelo cansaço, pelo escárnio, pela humilhação ou pela intimidação. Estou pronta a ir até ao fim do mundo para que se faça justiça por mim e por todas as vítimas de violência policial racista.
+
+Pela minha filha que viu o que nenhuma criança devia nunca ver, pelo futuro das gerações de filhos e filhas negras que choram no silêncio a violência contra si e contra os seus pais, estou pronta a ir em luta pela justiça.
+
+Em nome de todas as vítimas de racismo a quem presto homenagem, apelo à mobilização e à luta e agradeço todo o apoio que tenho recebido de todo o lado, desde o início até agora. Um agradecimento especial para as minhas manas e os manos de Fidju Fema e a todo o movimento anti-racista, ao SOS Racismo. Muito obrigado e a luta continua.

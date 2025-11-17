@@ -1,0 +1,149 @@
+---
+title: Justiça para Cláudia Simões! Julgamento começou esta semana
+author: Publicação Comunitária
+type: post
+date: 2023-11-11T19:37:35+00:00
+url: /?p=197490
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111393572776922821
+mf2_syndication:
+  - 'a:1:{i:0;s:61:"https://climatejustice.social/@indymediapt/111393584984444729";}'
+embed_privacy_thumbnail_youtube_0cGehc0h7DE:
+  - youtube-0cGehc0h7DE-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_0cGehc0h7DE_url:
+  - https://www.youtube.com/watch?v=0cGehc0h7DE
+categories:
+  - Discriminação
+  - Indymedia
+  - Movimentos Sociais
+  - Repressão
+tags:
+  - Cláudia Simões
+
+---
+**Apresentamos uma coletânea de Informação sobre o caso de Cláudia Simões. Artigos do Lado Negro da Força, Afrolink, Público e Lusa desta semana, para efeitos de arquivo e consulta pública, visto que alguns conteúdos estão escondidos atrás de paywall. À medida que o julgamento avance nas próximas sessões podemos atualizar esta página.** 
+
+Durante o Julgamento ocorreram várias agressões racistas contra Cláudia Simões, perante a presença de cerca de 50 ativistas na sala. Estas são debatidas no Lado Negro da Força, que podem ver aqui.
+
+## Conversas por Fazer &#8211; A “honra” de ser nazi, o crime de ser anti-racista – ou a “raça” da Justiça  {.wp-block-heading}
+
+O Lado Negro da Força, com a presença da jurista Anizabela Amaral e do activista Pedro Luqueia Santarém, como convidados.<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> 
+
+## **Justiça para Cláudia Simões, e todas as vítimas da violência policial racista** {.wp-block-heading}
+
+[[AfroLink]][1]
+
+<https://afrolink.pt/justica-para-claudia-simoes-e-todas-a-vitimas-da-violencia-policial-racista/>
+
+**O julgamento das agressões a Cláudia Simões, que tem como arguidos os agentes da PSP Carlos Canha, João Gouveia e Fernando Rodrigues, arranca na próxima quarta-feira, 8 de Novembro, às 13h30, no Tribunal de Sintra. O Afrolink recorda o caso, e apela à mobilização de todas as pessoas: quem puder, marque presença em tribunal, em solidariedade com a Claúdia e todas a vítimas da violência policial racista. Exigimos Justiça!**
+
+**por Afrolink**
+
+Ofensa à integridade física qualificada, sequestro agravado, abuso de poder e injúria agravada. Estes são os crimes pelos quais agentes da PSP acusados de agredir Claúdia Simões vão ser levados a tribunal.
+
+A decisão da juíza de instrução do Tribunal da Amadora, conhecida na semana passada, surge mais de dois anos depois de o caso se ter tornado público, a partir de um vídeo partilhado nas redes sociais.
+
+Nessas imagens, vê-se o agente da PSP Carlos Canha a agredir Cláudia Simões, numa paragem de autocarros da Amadora, acto que deveria merecer o repúdio de qualquer ser humano, e uma firme condenação da corporação.
+
+As imagens do rosto desfigurado da sobrevivente, que teve de receber tratamento hospitalar urgente depois de ser encaminhada para a esquadra do Casal de São Brás, deveriam acentuar esse repúdio e agravar essa condenação. Mas, aos olhos do então responsável máximo da PSP, Magina da Silva, (entretanto de saída da corporação) o polícia limitou-se “a cumprir as suas obrigações e as normas que estão em vigor na PSP”.
+
+As declarações do ex-director nacional da PSP, de que não houve “qualquer infracção” no vídeo da detenção de Cláudia Simões, foram proferidas pouco depois da agressão, e são bastante reveladoras das abordagens policiais – e criminosas – utilizadas pelos agentes.<figure class="wp-block-image alignwide">
+
+<img decoding="async" src="https://afrolink.pt/wp-content/uploads/2023/11/ClaudiaSimoes_Facebook-1.jpg" alt="" class="wp-image-19067" title="ClaudiaSimoes_Facebook (1)" /> </figure> <figure class="wp-block-image"><img decoding="async" src="https://afrolink.pt/wp-content/uploads/2021/10/IMG_8618-2.jpg" alt="" class="wp-image-11243" title="IMG_8618 (2)" /></figure> 
+
+Aliás, o Sindicato Unificado da Polícia de Segurança Pública também não se coibiu de comentar o caso, desta feita a partir do comportamento de Cláudia Simões que, para se defender, mordeu o agente que a imobilizava.
+
+Num post publicado no Facebook, e pouco depois apagado, a organização insinuava que Cláudia Simões padecia de doença grave. “As melhoras ao colega e espero que as análises sejam todas negativas a doenças graves. Contudo a defesa da cidadã está a começar a ser orquestrada pelo ódiomor [sic] de brancos”, lia-se nesse post.Enquanto essa estrutura sindical exibia imagens dos arranhões e outras marcas alegadamente resultantes do suposto comportamento violento de Cláudia Simões – que chegou a ser ouvida como arguida, tendo sido, entretanto, ilibada –, a mesma lidava com as dores – físicas e psicológicas – do encontro com o agente Carlos Canha.
+
+**“Face deformada por hematomas extensos”**
+
+“O relatório de urgência do Hospital Fernando Fonseca (Amadora-Sintra), onde Cláudia Simões entrou a 19 de Janeiro às 22h18, sinalizou-a como “muito urgente”, vítima de agressão, com “face deformada por hematomas extensos””, informa o Público, que, em Outubro de 2021, noticiava a intenção do Ministério Público (MP) de levar os agentes Carlos Canha, João Carlos Cardoso Neto Gouveia e Fernando Luís Pereira Rodrigues a julgamento por causa das agressões a Cláudia Simões.
+
+“Num despacho de acusação de 30 de Setembro [2021], o MP acusa Carlos Canha dos crimes de ofensa à integridade física qualificada, sequestro agravado, abuso de poder e injúria agravada contra Cláudia Simões. Aos outros dois agentes que estavam no carro aquando das alegadas agressões de Carlos Canha, o MP acusa, cada um deles, de um crime de abuso de poder e de nada fazerem para impedir que Canha agredisse Cláudia Simões”, prosseguia o Público na notícia, reproduzindo excertos desse despacho.
+
+No documento “o MP descreve que “no trajecto de cerca de 3km entre a R. Elias Garcia e a esquadra do Casal de S. Brás”, para onde Cláudia Simões foi conduzida, o arguido Carlos Canha, “aproveitando-se do facto de a ofendida se encontrar algemada e na impossibilidade de resistir, logo que a viatura iniciou a marcha”, disse-lhe: “Agora é que te vou mostrar, sua p\*\\*\*, sua preta do c\*\*\*\\*\*, seu c\*\*\*\\*\*, sua macaca.” Fazia-o “enquanto lhe desferia vários socos na cara”. Ao mesmo tempo, “e enquanto se tentava proteger, baixando a cara para não ser atingida”, o agente Carlos Canha dizia-lhe: “estás a baixar a cara, c\*\*\*\\*\*” e “ainda por cima esta p\*\** é rija”. Segundo o MP, à saída da viatura junto à esquadra, Carlos Canha desferiu também em Cláudia Simões “um pontapé que a atingiu na testa”.
+
+Importa recordar que tudo começou por causa de um passe esquecido, para não esquecermos que a violência policial não precisa de pretexto.
+
+Resta-nos esperar para saber se o contexto racista das agressões vai ser reconhecido em tribunal, lembrando que também existe um processo judicial contra a Cláudia, acusada de agredir o agente Carlos Canha. Uma decisão que repudiamos, ao encontro do que que se dispõe na**<a href="https://afrolink.pt/criminalizar-vidas-negras-para-absolver-o-sistema-carta-aberta/" target="_blank" rel="noreferrer noopener"> Carta Aberta “Criminalizar Vidas Negras para Absolver o Sistema”.</a>**
+
+## “Se não lhe mordesse o braço, morria”, diz Cláudia Simões sobre polícia em tribunal {.wp-block-heading}
+
+Julgamento arrancou em Sintra com Claúdia Simões e agente da PSP Carlos Canha como arguidos e vítimas em simultâneo, quase quatro anos depois. Mais dois polícias acusados.
+
+[Público][1]
+
+**Joana Gorjão Henriques**
+
+<https://www.publico.pt/2023/11/08/sociedade/noticia/nao-mordesse-braco-morria-claudia-simoes-policia-tribunal-2069448><figure class="wp-block-image size-full">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/1857069.jpeg" alt="" class="wp-image-197491" /> </figure> 
+
+Julgamento arranca quatro anos depois com Cláudia Simões e agente Carlos Canha como arguidos e vítimas em simultâneo
+
+Lado a lado, separados por duas cadeiras entre si, o agente Carlos Canha e a cozinheira Cláudia Simões chegaram ontem ao Tribunal de Sintra como arguidos e ofendidos. Quase quatro anos depois dos acontecimentos de Janeiro de 2020 são, porém, três os agentes da PSP a sentarem-se no banco dos réus por causa de alegadas agressões a Cláudia Simões. Carlos Canha entrou de fato e gravata, sem uniforme; os outros dois agentes vieram fardados.
+
+“Se não lhe mordesse o braço, morreria. Ele tentava esganar-me, fiquei com o pescoço todo marcado. Sempre disse que lhe mordi&#8230;”, relatou Cláudia Simões. “Não me largava de maneira nenhuma&#8230;”, acrescentou.
+
+O agente Carlos Canha é acusado de três crimes de ofensa à integridade física qualificada, três de sequestro agravado, um de abuso de poder e outro de injúria agravada contra Cláudia Simões e outras duas pessoas; os outros dois agentes, João Carlos Cardoso Neto Gouveia e Fernando Luís Pereira Rodrigues são acusados de um crime de abuso de poder e de nada fazerem para impedir que aquele polícia agredisse a mulher.
+
+Porém, e apesar de reconhecer que Cláudia Simões foi ilegalmente detida e agredida, o MP leva-a a julgamento na dupla qualidade de vítima (assistente) e arguida. Por um lado, o despacho afirma que o agente Carlos Canha e os dois outros arguidos “atuaram com violação dos seus deveres funcionais”; que Cláudia Simões “foi ilegalmente detida, algemada, agredida, insultada e conduzida num veículo da PSP para a esquadra”; que “durante o percurso para a esquadra o agente Canha deu vários socos na cabeça e corpo da assistente”; e que “nenhum dos arguidos que seguiam nos dois bancos da frente do veículo fizeram algo para o parar”. “A assistente sofreu as lesões que constam mais do que indiciadas nos autos”, lê-se.
+
+Por outro lado, Cláudia Simões é acusada de ofensas à integridade física qualificada. Isto porque, num volte-face em relação à decisão inicial do MP — e à confirmação na íntegra dessa decisão por uma juíza de instrução em Junho de 2022 — o Tribunal da Relação de Lisboa considerou válido, em Janeiro deste ano, o recurso do agente Canha, que contestou o facto de o tribunal de primeira instância ter considerado que houve direito de resistência por Cláudia Simões “ao empurrar e morder” quando foi “detida ilegalmente”.
+
+Ao contrário, a Relação de Lisboa achou que existia “prova indiciária suficiente de que Cláudia Simões” empurrou Canha “quando este a queria impedir de se ausentar da paragem de autocarro, tendo sido esse seu comportamento inicial que levou ao escalar” da actuação do polícia. O procurador e a juíza de instrução do Tribunal da Amadora tinham arquivado o inquérito contra Cláudia Simões por considerarem que não havia provas em relação aos crimes de resistência e coacção sobre funcionário e ofensas à integridade física.
+
+Segundo o MP, Carlos Canha agrediu outras duas vítimas, que foram algemadas e alvo de pontapés “sem que tivessem tido qualquer participação no desenrolar dos factos”.
+
+Como tudo começou
+
+O início da agressão relatada por Cláudia Simões, 46 anos, começou com Carlos Canha a forçá-la a sentar-se na paragem de autocarro e a bater-lhe na mão com que agarrava um telemóvel. Simões disse desconhecer a razão pela qual o agente se dirigiu a si e lhe agarrou na gola do casaco. “Começou a apertar o pescoço para tentar fazer sentar, com muita força mesmo. E foi aí que lhe mordi a mão.”
+
+Cláudia Simões referiu que quando os outros agentes chegaram, Canha estava sentado em cima dela; a filha, assustada, gritava. “Meteu-me a mão a puxar o olho”, disse. Entretanto algemaram-na, disse, começaram a empurrar as costas com força e meteram-na dentro da carrinha da polícia. “Quando a carrinha arrancou, começou a bater-me muito”, disse. “Fecharam o vidro e meteram música. Chamaram-me nomes: puta, vaca, macaca, preta do c&#8230;” E continuou: “Tentou tirar-me as calças, só me dava socos na cara. Começou a arrancar-me cabelo com muita força.” As agressões foram constantes até chegar à esquadra. “Tenho cabelo todo arrancado à volta da cabeça, por isso uso peruca”, acrescentou. Catarina Pires, a juíza, pediu-lhe para tirar a peruca para observar as lesões que Cláudia Simões disse ter, provocando agitação entre vários ativistas que foram ao tribunal apoiar Simões. Mais tarde, a advogada de Canha fez novamente o pedido insinuando que ela raspava o cabelo; a juíza pediu de novo para Cláudia Simões tirar a peruca, provocando nova indignação. Cláudia Simões ficou com lesões no corpo e na cara, ficando impedida de trabalhar “uns três meses”. Não conseguia mastigar. Ainda hoje sente pânico de polícias. “Quando vejo polícias na rua, tenho medo.” Já Carlos Canha garantiu que estava com uniforme quando abordou Cláudia Simões, depois de o motorista do autocarro se ter dirigido a ele dizendo que ela tinha dito que na próxima paragem havia um grupo de pessoas para o agredir. Segundo o agente, Simões recusou-se a ser identificada e disse: “Em mim ninguém manda.” Queixou-se de ser agredido com um pontapé. “O cenário era caótico”. Depois de imobilizar Cláudia Simões, caíram os dois ao chão. Referiu que a “senhora resistiu” sempre e que temia ser agredido pelas pessoas à volta. “Mas a situação era inequívoca?”, perguntou a juíza. “Era um agente branco a algemar uma cidadã negra e a maioria das pessoas que ali estavam eram negras”, respondeu Canha, acrescentando que usou uma técnica de imobilização simples até que Cláudia Simões “lhe mordeu três vezes o braço direito”. Negando ter-lhe puxado o cabelo, Canha referiu que intervieram outros cidadãos e que foi forçado a dar “ordens” para não atrapalharem. Sobre o caminho do carro até à esquadra, acusou Simões de lhe chamar nomes. Disse que ela nunca entrou na esquadra e que os colegas relataram que se atirou para o chão. Na próxima sessão serão ouvidos os outros arguidos.
+
+## Cláudia Simões e agente da PSP apresentam versões opostas das agressões em tribunal {.wp-block-heading}
+
+[Lusa][2]  
+08-11-2023 20:41
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+Sintra, Lisboa, 08 nov 2023 (Lusa) – Cláudia Simões e o agente da PSP Carlos Canha apresentaram hoje versões totalmente opostas sobre o caso das agressões junto de uma paragem de autocarro na Amadora, em janeiro de 2020, no arranque do julgamento no tribunal de Sintra.
+
+Numa sala de audiência com cerca de meia centena de pessoas, Cláudia Simões, que é arguida e assistente neste processo, prestou declarações durante quase duas horas e assegurou que mordeu o polícia porque receou pela vida.
+
+“Se eu não lhe mordesse o braço, morria”, afirmou, descrevendo ter sofrido lesões num olho, na boca, no cabelo, numa perna e num braço.
+
+O caso terá sido originado por Cláudia Simões ter entrado no autocarro com a filha, sendo que esta não teria o passe.
+
+Garantiu também que esta foi a única conversa que teve com o motorista do autocarro, rejeitando mais desentendimentos e explicando que estava a falar ao telemóvel com uma tia quando foi abordada pelo agente da PSP e que este alegadamente a agarrou sem que tivesse havido identificação prévia.
+
+Nas declarações, em que foi alvo de sucessivos reparos pela juíza-presidente do coletivo, Catarina Pires, por interromper as perguntas, Cláudia Simões referiu que Carlos Canha a arrastou então para a paragem, lhe aplicou um ‘mata-leão’ (golpe de imobilização usado nas artes marciais) e depois a insultou e agrediu na viagem de carro até à esquadra.
+
+Como consequência, Cláudia Simões frisou ter ficado “uns três meses em casa” após este episódio e que ainda hoje sente dores na cabeça e na boca. Sobre o comportamento dos outros dois agentes igualmente arguidos neste processo, declarou que Fernando Rodrigues e João Gouveia “não fizeram nada, mas aperceberam-se do que se estava a passar”.
+
+Questionada sobre o impacto da situação, assumiu que o caso deixou marcas. “Quando vejo polícias na rua, tenho medo. Hoje estou acordada desde as 03:00, nem consegui dormir. (…) Senti-me mal, senti humilhação e pensei em sair do país”, disse, destacando os reflexos na filha: “Faz até hoje consultas com o psicólogo. Teve muitos problemas, tentou atirar-se da janela da cozinha&#8230; Ela acha que eu sofri isto tudo porque ela é que se esqueceu do passe”.
+
+O depoimento ficou ainda marcado pelo pedido da magistrada para retirar a peruca, a fim de mostrar as consequências das alegadas agressões no couro cabeludo, pois Cláudia Simões indicou que lhe tinha sido “arrancado o cabelo todo”. Pouco depois, uma das defesas pediu mais esclarecimentos e a juíza-presidente voltou a pedir para retirar a peruca, gerando algumas reações de desagrado entre o público, ao que Catarina Pires ordenou à GNR para retirar então da sala de audiência as pessoas que se manifestassem.
+
+Já Carlos Canha, igualmente arguido, refutou a existência de agressões, ao notar que procurou apenas recorrer a “técnicas de imobilização” perante a suposta resistência de Cláudia Simões. Vincou também que tudo ocorreu já depois do seu turno, mas que ainda se encontrava de uniforme e que foi nessa condição que abordou Cláudia Simões, perguntando-lhe o nome e o que se passava.
+
+Apesar de explicar que estava “calmo”, o polícia alegou depois que “algum nervosismo” perante uma situação de resistência e de confusão à sua volta, com “15 a 20 pessoas”, tendo sido “puxado pelos braços por várias pessoas” e agredido com um pontapé nas costas. Apontou ainda um contexto racial para uma maior tensão naquela situação: “Era um polícia branco a algemar uma senhora negra, perante uma maioria de pessoas negras”.
+
+Carlos Canha adiantou ter sido mordido por três vezes no braço direito por Cláudia Simões e que ficou “com sangue e a roupa rasgada”. Porém, negou quaisquer agressões na viagem na viatura da PSP – que disse ter demorado “dois ou três minutos” &#8211; ou na esquadra e admitiu não se lembrar de ferimentos em Cláudia Simões, com exceção de um inchaço no lábio inferior da boca da arguida.
+
+O julgamento prossegue agora na próxima quarta-feira.
+
+JGO // ZO
+
+Lusa/Fim
+
+ [1]: https://afrolink.pt/justica-para-claudia-simoes-e-todas-a-vitimas-da-violencia-policial-racista/
+ [2]: https://www.lusa.pt/article/41812111

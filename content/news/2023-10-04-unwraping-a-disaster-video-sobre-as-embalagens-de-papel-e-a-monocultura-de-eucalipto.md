@@ -1,0 +1,55 @@
+---
+title: “Unwraping a Disaster” vídeo sobre as embalagens de papel e a monocultura de eucalipto
+author: Publicação Comunitária
+type: post
+date: 2023-10-04T10:37:50+00:00
+url: /?p=31610
+admin_form_source:
+  - form65033c1176054
+Ligação:
+  - https://videos.coletivos.org/w/rzD9Qb9um8MfcZ6kEE2hk4
+Ligação_cópia:
+  - https://videos.coletivos.org/w/rzD9Qb9um8MfcZ6kEE2hk4
+classic-editor-remember:
+  - block-editor
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - Ecologia
+
+---
+Embalagens de papel não reutilizaveis são um grave problema ecológico. este video mostra porquê. na sua descrição está, em inglês, um texto que explica o estado da nação em relação á monocultura de eucalipto e falta de floresta que plante água. 
+
+[ our crowdfunding, do help us help: <a href="https://gofund.me/0f789a0c" target="_blank" rel="noreferrer noopener">https://gofund.me/0f789a0c</a> ] What was expected continues to happen. The destruction of rural areas, communities, and territories persists after decades of warnings, opinions, discussions, betrayals, and disregard. The state of degradation of the Portuguese forest remains a fundamental condition for catastrophe: abandonment, industrial monocultures, invasive species, degradation of protection and surveillance services, disinvestment in the interior. On top of this, drought engulfs the country due to the climate crisis, and the heat makes everything more fragile. The fires that occurred this year in Odemira, Proença-a-Nova, Monchique, Cadaval, among others, are the manifestation of this. In increasingly shorter cycles, our country is exposed to catastrophic fires for which there are responsible parties.
+
+We look to the future and cannot ignore that what is happening is exactly what governments and pulp industries imposed: more eucalyptus, more fires, more abandonment, depopulation, climate changes, desertification, and loss of biodiversity. More monocultures of eucalyptus, invasives, and fast-growing species with a propensity for fire replace the native forest, accelerating this cycle. And the climate changes, becoming hotter, drier, with longer droughts and fewer rainy days. The desert is gaining ground. This is also the plan of governments and pulp industries. They have no other plan and reject any alternative.
+
+Measures that don&#8217;t reverse this cycle accelerate it. We need the forest as the first barrier against drought and desertification. For that, we have to change the landscape. Not in decades, but now. We must hold the pulp industries that brought us here accountable, The Navigator Company and Altri Florestal, and the leaders who rolled out the red carpet for them &#8211; from all parties. They didn&#8217;t stop them and handed over the future of our country. We can no longer accept this. The pulp industries must pay for the destruction of the past and the present.
+
+We also hold accountable the Portuguese companies that continue to worsen the climate crisis, like Galp and EDP, planning to continue their destructive and extractive activities for decades, profiting like never before and rejecting the necessary emissions cuts to stop climate chaos. It&#8217;s urgent to ensure the needs of the people, environmental balance, and public health, not the same old businesses.
+
+We need fewer ignitions and less burned area. That means having a complete forest registry of the national territory, and what&#8217;s abandoned must be taken over by the State. The abandoned areas need to be managed, not by the current ineffective structures, but by an institution created for this purpose. The path followed for decades in rural Portugal has been in opposition to small landowners and rural, agricultural, and forest diversification, deliberately maintaining low prices and persistent poverty. A forest of the future must be built with direct state intervention, but from a state that rejects being in the hands of a industry devastating to the country, such as the pulp industry.
+
+We need to &#8220;de-eucalyptize&#8221; Portugal. We need to remove 700 thousand hectares of eucalyptus plantations in the country this decade and transform these areas into resilient forests and woodlands that can withstand the hotter and drier future that the climate crisis has produced. We need to make this happen to halt the desert.
+
+To help achieve this goal, we need a industry that dont use single use paper packaging. we have organizations like New ERA:
+
+New ERA is the trade association representing the interests of businesses that offer, use and promote reusable packaging systems, services and products across Europe.
+
+Our aim is to move away from disposability and become truly circular and zero waste. We envisage a world of packaging reusable, convenient and sustainable for all.
+
+The reuse packaging value chain is composed of an heterogenous group of operators involved in different activities (e.g. manufacturing, delivery, logistics, infrastructure, transport, digitalisation, washing and cleaning) and sectors (e.g. HORECA, FMCG, e-commerce).<figure class="wp-block-embed">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="wp-embedded-content" data-secret="rgz2MU8zCd">
+    <a href="https://newreusealliance.eu/">Home</a>
+  </blockquote>
+</div></figure> 
+
+also:
+
+Reloop is an international nonprofit organisation, whose vision is a world free of waste, where natural resources remain resources. Leading the global transition to a circular economy, Reloop provides evidence-based research and analysis to governments, industry and society.
+
+<a href="http://www.reloopplatform.org/" target="_blank" rel="noreferrer noopener">http://www.reloopplatform.org/</a>

@@ -1,0 +1,69 @@
+---
+title: 'Comunicado: iniciativa legislativa cidadã para alterar o código penal e tornar crime todas práticas racistas e xenófobas'
+author: Publicação Comunitária
+type: post
+date: 2024-12-09T21:54:20+00:00
+url: /?p=224844
+activitypub_status:
+  - federated
+post_list_status:
+  - off
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Discriminação
+tags:
+  - Indymedia
+
+---
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+Comunicado
+
+  
+**Iniciativa Legislativa Cidadã para alterar o código penal e tornar crime todas práticas racistas e xenófobas**
+
+  
+1. O Grupo de Ação Conjunta contra o Racismo e a Xenofobia, composto por 81 coletivos que, juntamente com milhares de outras pessoas, tem dedicado o seu esforço e trabalho ao combate ao racismo, à xenofobia e a todas as formas de discriminação.
+
+  
+2. Neste âmbito, quer organizações quer as vítimas de discriminação racial e xenófoba sentem que o ordenamento jurídico português não contempla instrumentos suficientes para prevenir e punir práticas racistas e xenófobas.
+
+  
+3. Estas práticas, por atentarem violentamente contra a dignidade e a honra das pessoas e por constituírem violação de direitos constitucionalmente protegidos, merecem não só a censura social, ética e política, mas também uma condenação penal firme e inequívoca, num quadro legal mais robusto.
+
+  
+4. A atual qualificação jurídica das práticas discriminatórias motivadas pela origem racial e étnica, cor, nacionalidade, ascendência e território de origem, como meros ilícitos de natureza administrativa &#8211; contraordenações &#8211; é insuficiente e afronta os valores fundamentais que sustentam uma sociedade justa e democrática.
+
+  
+5. A condenação de discursos discriminatórios motivados pela origem étnico-racial, origem nacional ou cor da pele, nos termos do artigo 240.º do Código Penal, tem-se revelado ineficaz, deixando as vítimas sem proteção penal.
+
+  
+6. A abordagem legal tem-se revelado contraproducente, pois falha em garantir a premissa constitucional de assegurar a todas as cidadãs e cidadãos os mesmos direitos fundamentais.
+
+  
+7. A discriminação racial atinge diretamente o cerne do Estado de Direito, por comprometer a igualdade e a dignidade que devem ser salvaguardadas pelas leis em vigor. Persistir em tratar uma matéria relativa a direitos e liberdades fundamentais como simples infrações contraordenacionais é perpetuar a impunidade e desvalorizar os princípios constitucionais que formam a base da nossa ordem jurídica e da nossa democracia.
+
+  
+8. Acresce que, os dados disponíveis sobre o número de queixas, processos instruídos e de condenações por práticas discriminatórias evidenciam a ineficácia do sistema legal e judicial para lidar com essa realidade.
+
+9. A manutenção deste quadro legal de impunidade mina a credibilidade da justiça e do Estado de Direito que, em vez de proteger as vítimas e prevenir o aumento de ilícitos racistas, as deixa desamparadas, perpetuando a injustiça e fomentando o desrespeito por direitos humanos fundamentais.
+
+  
+10. A informação apresentada no último relatório da Comissão para a Igualdade e Contra a Discriminação Racial (CICDR), de 2022, expõe a insuficiência da legislação em vigor: de 491 participações, queixas e denúncias, apenas 97 (cerca de 20%) foram transformadas em processos de contraordenação.
+
+11. Ainda mais alarmante é o facto de, entre estes 97 processos, apenas 11 terem resultado em condenações, facto que coloca em causa a função dissuasória da legislação.
+
+12. É imprescindível uma reformulação jurídica que enquadre todas as práticas racistas e xenófobas como crimes, com as devidas consequências penais, para assim garantir a proteção efetiva dos direitos fundamentais e reforçar o compromisso do Estado com a justiça e a igualdade.
+
+13. Nesse sentido, o Grupo de Ação Conjunta contra o Racismo e a Xenofobia vai apresentar à Assembleia da República, no próximo dia 10 de dezembro, Dia Internacional dos Direitos Humanos, uma iniciativa legislativa cidadã, no uso do direito previsto na Lei n.º 17/2003, de 4 de junho.
+
+14. Com esta Iniciativa, que permite que grupos de cidadãos eleitores possam apresentar projetos de lei e participar no procedimento legislativo, pretende-se que o Código Penal seja alterado, reforçando a tutela penal para todas as formas de discriminação, garantindo uma resposta completa, eficaz e proporcional à gravidade das condutas discriminatórias.
+
+15. Esta medida contribuirá para travar, de forma decisiva, o combate cultural e civilizacional contra a discriminação e contra o racismo, impondo a responsabilização penal adequada e protegendo os valores fundamentais da igualdade e da dignidade humana.
+
+16. Apelamos, assim, a todas as pessoas que acreditem na necessidade desta alteração legislativa para subscreverem a iniciativa legislativa em causa, que estará brevemente disponível para esse efeito, em diferentes plataformas, podendo ser consultada toda a informação a este respeito em https://www.antiracismo.org/
+
+4 de dezembro de 2024
+
+O Grupo de Ação Conjunta contra o Racismo e Xenofobia

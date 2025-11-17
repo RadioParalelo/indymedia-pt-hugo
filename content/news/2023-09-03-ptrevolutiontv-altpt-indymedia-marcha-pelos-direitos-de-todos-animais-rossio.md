@@ -1,0 +1,20 @@
+---
+title: '#PTrevolutionTV #AltPt #IndyMedia Marcha pelos direitos de todos animais Rossio.'
+author: Publicação Comunitária
+type: post
+date: 2023-09-03T12:46:24+00:00
+url: /?p=1230
+classic-editor-remember:
+  - block-editor
+categories:
+  - Ecologia e Animais
+  - Indymedia
+tags:
+  - AltPT
+  - Indymedia
+  - PTrevolutionTV
+
+---
+<figure class="wp-block-video"><video controls src="https://vid.puffyan.us/latest_version?id=R01i5IYc4lM&itag=18"></video></figure> <figure class="wp-block-audio"><audio controls src="https://vid.puffyan.us/latest_version?id=R01i5IYc4lM&itag=140"></audio></figure> #PTrevolutionTV #AltPt #IndyMedia Marcha pelos direitos de todos animais Rossio. <figure class="wp-block-image size-large"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/mqdefault-9880244-1764356..jpg" alt="" /></figure> 
+
+<https://vid.puffyan.us/watch?v=R01i5IYc4lM>

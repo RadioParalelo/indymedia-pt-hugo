@@ -1,0 +1,44 @@
+---
+title: testes Transmissão ao vivo de PTrevolutionTV
+author: Publicação Comunitária
+type: post
+date: 2025-04-11T18:03:01+00:00
+url: /?p=225428
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+ 
+
+testes Transmissão ao vivo de PTrevolutionTV
+
+
+
+  
+
+
+ <https://youtube.com/watch?v=tbOM02BPvM8> 
+
+<!-- /wp:post-content --></div> 
+
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+
+Instâncias [Invidious][1] alternativas:  
+<https://redirect.invidious.io/watch?v=tbOM02BPvM8>
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+**[@PTrevolutionTV][2]**
+
+<!-- /wp:paragraph -->
+
+ [1]: https://invidious.io/
+ [2]: https://www.youtube.com/@ptrevolutiontv

@@ -1,0 +1,33 @@
+---
+title: Já sabes como vais para Covas do Barroso?
+author: Publicação Comunitária
+type: post
+date: 2024-07-18T19:55:36+00:00
+url: /?p=223677
+activitypub_status:
+  - federated
+fpsm_author_email:
+  - barrososemminas@coletivos.org
+fpsm_author_name:
+  - Barroso sem Minas
+links:
+  - https://barrososemminas.org/2024
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Ecologia e Animais
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+
+---
+Estás prestes a viajar a um pequeno paraíso escondido. E, como todos os paraísos, o problema é chegar até lá! Mas, nada temas, estamos aqui para te ajudar 😀
+
+**AUTOCARROS:**  A melhor forma é apanhar um autocarro da Rede Expressos ou da Flixbus até Chaves. Chegada a Chaves, durante os dias da semana, podes apanhar um autocarro da FlaviaMobil. Este autocarro parte de Chaves em direção a Covas do Barroso duas vezes por dia: às 13h30 e às 18h30. **<u>Atenção</u>: este autocarro não opera nem aos feriados nem aos fins-de-semana! Por isso, se vieres de autocarro, aconselhamos-te a chegar dia 14 à noite, já que dia 15 é feriado.** Este autocarro parte da Estação de Chaves, junto ao Agrupamento de Escolas Dr. Júlio Martins (AEJM), nestas coordenadas: 41.742929, -7.465212. Tem em conta que o terminal de partida deste autocarro não é o mesmo onde chegarás a Chaves, mas é perto. Podes comprar o bilhete (5€) diretamente com o motorista. (slide 2)
+
+**BOLEIAS:**  Caso venhas de carro, sugerimos que dês boleia a mais pessoas 😉 Para facilitar as coisas, deixamos aqui um link onde podes oferecer/pedir boleias: <https://app.caroster.io/e/273e7ec9-90c5-4a5f-bd67-9411f7a89178/>
+
+**BICICLETA:** Todos os anos, temos tido companheira/os a chegar a Covas de bicicleta. Se esta for uma opção tentadora para ti, fica atento/a às nossas redes para mais novidades sobre esta possível jornada 😉
+
+Esperamos por ti em Covas, entre 15 e 19 de Agosto! Não te esqueças da inscrição em <https://barrososemminas.org/2024/inscreve-te/>
+
+NÃO ÀS MINAS! VERDE É O BARROSO!

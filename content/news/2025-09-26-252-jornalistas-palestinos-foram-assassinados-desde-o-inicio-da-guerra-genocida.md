@@ -1,0 +1,433 @@
+---
+title: 252 Jornalistas Palestinos foram assassinados desde o início da guerra genocida
+author: Publicação Comunitária
+type: post
+date: 2025-09-26T17:30:49+00:00
+url:
+  - https://pjs.ps/
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Repressão
+
+---
+<div class="_a9zr">
+  <h4>
+    <strong>252 jornalistas assassinados, 530 feridos, 50 presos, de acordo com o </strong><a href="https://pjs.ps/"><strong>Sindicato de Jornalistas Palestinianos</strong></a>
+  </h4>
+  
+  <p>
+    <a class="x1i10hfl xjqpnuy xc5r6h4 xqeqjp1 x1phubyo xdl72j9 x2lah0s x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak x2lwn1j xeuugli x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1q0g3np x1a2a7pz x6s0dn4 xjyslct x1ejq31n x18oe1m7 x1sy0etr xstzfhl x9f619 x1ypdohk x1f6kntn xl56j7k x17ydfre x2b8uid xlyipyv x87ps6o x14atkfc x5c86q x18br7mf x1i0vuye x11q7cde xr5sc7 xf8g3cd x20cjte xt0b8zv x568u83 xjbqb8w xr9e8f9 x1e4oeot x1ui04y5 x6en5u8 x972fbf x10w94by x1qhh985 x14e42zd xt0psk2 xt7dq6l xexx8yu xyri2b x18d9i69 x1c1uobl x1n2onr6 x1n5bzlp" role="link" href="https://www.instagram.com/jornalistaslivres/">jornalistaslivres:</a> «Desde o início do massacre promovido por Israel em Gaza, em outubro de 2023, 252 jornalistas palestinos foram assassinados. Esse número é quase quatro vezes maior do que, somados, os números de jornalistas mortos na Primeira e Segunda Guerra Mundial – ao todo, 69 profissionais de imprensa foram vitimados nos dois conflitos. Além disso, nos últimos dois anos, 400 profissionais de imprensa palestinos ficaram feridos e outros 647 tiveram suas casas completamente destruídas. A informação do sindicato é que 34 jornalistas foram assassinados diante de suas famílias. Aqueles que perderam suas casas, hoje vivem em tendas improvisadas. Desde o começo dos bombardeios, precisaram mudar de local, em média, sete vezes.»
+  </p>
+  
+  <div class="xt0psk2">
+    <h2 class="title">
+      &#8220;246 Journalists and Media Workers Martyred During the Israeli Genocidal War&#8221;<br /> <img decoding="async" class="alignnone size-full wp-image-226658" src="http://localhost:8000/wp-content/uploads/2025/09/621321321323.webp" alt="621321321323" />
+    </h2>
+    
+    <p>
+      <b data-darkreader-inline-color="">Ramallah– Gaza–</b><span data-darkreader-inline-color=""> The Palestinian Journalists’ Syndicate strongly condemned the continued systematic policy of the Israeli occupation forces in targeting journalists, killing them, and committing successive massacres against them and their families, which has led to the martyrdom of 246 journalists and media workers.</span>
+    </p>
+    
+    <p>
+      <span data-darkreader-inline-color="">The Syndicate stated that <strong>the occupation killed 246 journalists and media workers, including 33 female journalists, up until August 26, 2024. Among them was one journalist from the West Bank, colleague Ibrahim Mahameed, who was martyred in February 2024</strong>. The occupation continues to deliberately target Palestinian journalists and their families, particularly in the Gaza Strip, where at least 520 journalists have been injured by Israeli bullets and missiles since October 7, 2023, while no fewer than 800 family members of journalists have been killed in Gaza.</span>
+    </p>
+    
+    <p>
+      <span data-darkreader-inline-color="">Moreover, more than 800 journalists in Gaza continue to live under conditions of repeated displacement from the north to the south of the Strip, facing severe hardships including lack of safety due to Israeli airstrikes on their tents, the absence of basic living conditions, and the lack of electricity and internet necessary to continue their work.</span>
+    </p>
+    
+    <p>
+      <span data-darkreader-inline-color="">According to documentation by the Syndicate in cooperation with prisoners’ institutions, <strong>206 cases of arrest and detention of journalists by Israeli occupation authorities</strong> have been recorded since October 2023. Key facts regarding imprisoned journalists include:</span>
+    </p>
+    
+    <ul>
+      <li>
+        <u><span data-darkreader-inline-color=""><span dir="RTL" lang="AR-SA">55</span>  journalists remain under detention in Israeli prisons, including 5 journalists who had already been imprisoned prior to October 7, 2023.</span></u>
+      </li>
+      <li>
+        <u><span data-darkreader-inline-color="">The occupation has arrested 18 female journalists; only one remains imprisoned, colleague Farah Abu Ayash from Beit Ummar in Hebron, who is held in solitary confinement in Moskobiya.</span></u>
+      </li>
+      <li>
+        <u><span data-darkreader-inline-color="">39 journalists from Gaza have been arrested since October 7, 2023; 22 remain in detention to date.</span></u>
+      </li>
+      <li>
+        <u><span data-darkreader-inline-color=""><span dir="RTL" lang="AR-SA">48</span>  cases of administrative detention have been recorded among Palestinian journalists since the beginning of the genocidal war; 23 remain under administrative detention.</span></u>
+      </li>
+    </ul>
+    
+    <p>
+      <span data-darkreader-inline-color="">The Syndicate emphasized that the occupation continues to pursue a policy of enforced disappearance against Palestinian journalists, most notably through its refusal to disclose any information regarding the fate of colleagues Nidal Al-Wahidi and Haitham Abdul Wahid, constituting a fully-fledged crime of enforced disappearance in clear violation of international law, international humanitarian law, and the International Convention for the Protection of All Persons from Enforced Disappearance adopted by the United Nations and in force since 2010.</span>
+    </p>
+    
+    <p>
+      <span data-darkreader-inline-color="">As part of its war on the media and its attempt to silence the truth, the Israeli occupation forces have carried out widespread airstrikes and tank assaults that destroyed 115 media institutions in the Gaza Strip, encompassing all types of media outlets. In the West Bank and Jerusalem, they have shut down 5 media institutions and destroyed or closed 12 printing presses.</span>
+    </p>
+    
+    <p>
+      <span data-darkreader-inline-color="">The Palestinian Journalists’ Syndicate reaffirmed its commitment to continue working with all international human rights and journalistic bodies to seek protection for journalists from the crimes of the occupation, ensure accountability and justice, and to stop the Israeli genocidal war against Palestinian journalists and the press—during which the Israeli occupation has committed the largest massacre of journalists in history.</span>
+    </p>
+    
+    <p>
+      Sindicato de Jornalistas Palestinianos<br /> <a href="https://www.pjs.ps/en/page-3389.html">https://www.pjs.ps/en/page-3389.html</a>
+    </p>
+    
+    <h2 class="title">
+      Palestinian Journalists’ Syndicate Reveals Dangerous Motives Behind Israel’s Assassination of 31 Female Journalists Since the Outbreak of the Genocidal War
+    </h2><article> 
+    
+    <div class="page-content img">
+      <div>
+        <div class="text">
+          <p>
+            <strong data-end="236" data-start="223"><span data-darkreader-inline-color=""><img decoding="async" class="alignnone size-full wp-image-226659" src="http://localhost:8000/wp-content/uploads/2025/09/Palestinian-Journalists-Syndicate.png" alt="Palestinian-Journalists-Syndicate" />Ramallah—</span></strong><span data-darkreader-inline-color=""> The Palestinian Journalists’ Syndicate (PJS) revealed that 31 female journalists, along with dozens of female media activists, have been killed since the beginning of Israel’s assault on October 7, 2023, up to early September 2025. The Syndicate stressed that most of the martyrs were killed inside their homes along with family members in crimes that amount to war crimes and crimes against humanity.</span>
+          </p>
+          
+          <p data-end="1026" data-start="642">
+            <span data-darkreader-inline-color="">In a report issued by the Freedoms Committee, the Syndicate indicated that the Israeli occupation deliberately targets Palestinian women journalists—particularly those working in digital media and international outlets such as Anadolu, Al Jazeera Mubasher, Associated Press, and Russia Today—in order to silence the Palestinian female voice and erase documented facts on the ground.</span>
+          </p>
+          
+          <p data-end="1469" data-start="1028">
+            <span data-darkreader-inline-color="">The Committee added that this systematic targeting creates an irreparable void in Palestinian female human capital in the media sector, specifically targeting the younger generation of female journalists in their twenties and thirties. The policy, it noted, also aims to intimidate both local and international media circles, transforming the journalist from a “witness to the crime” into a “victim within the crime” along with her family.</span>
+          </p>
+          
+          <p data-end="1907" data-start="1471">
+            <span data-darkreader-inline-color="">The Syndicate further reported that in most documented cases, the occupation deliberately killed female journalists while bombing their homes. Six female journalists, however, were killed while performing field reporting duties. These crimes, the Syndicate emphasized, deliberately attack family and societal dimensions, as well as alternative digital media through which female journalists expose violations and crimes on the ground.</span>
+          </p>
+          
+          <h3 align="center" data-end="1951" data-start="1914">
+            <span data-darkreader-inline-color=""><b>The Martyred Female Journalists</b></span>
+          </h3>
+          
+          <p data-end="1980" data-start="1953">
+            <strong data-end="1978" data-start="1953"><span data-darkreader-inline-color="">2023 (10 journalists)</span></strong>
+          </p>
+          
+          <ul>
+            <li data-end="2173" data-start="1983">
+              <strong data-end="2013" data-start="1983"><span data-darkreader-inline-color="">Salam Meimeh – 10/10/2023:</span></strong><span data-darkreader-inline-color=""> Journalist at Radio Sawt Al-Quds and Head of the Women Journalists Committee at the Media Forum. Killed in Jabalia along with her husband and three children.</span>
+            </li>
+            <li data-end="2333" data-start="2176">
+              <strong data-end="2208" data-start="2176"><span data-darkreader-inline-color="">Salma Mkhaimer – 25/10/2023:</span></strong><span data-darkreader-inline-color=""> Freelance journalist and graduate of the Islamic University. Killed in Rafah with her infant child, parents, and siblings.</span>
+            </li>
+            <li data-end="2449" data-start="2336">
+              <strong data-end="2365" data-start="2336"><span data-darkreader-inline-color="">Doaa Sharaf – 26/10/2023:</span></strong><span data-darkreader-inline-color=""> Anchor at Al-Aqsa Radio. Killed in Gaza with her toddler son, Ubaida (1.5 years).</span>
+            </li>
+            <li data-end="2591" data-start="2452">
+              <strong data-end="2483" data-start="2452"><span data-darkreader-inline-color="">Ayat Khodoura – 20/11/2023:</span></strong><span data-darkreader-inline-color=""> Independent journalist and podcast creator. Killed in Beit Lahia with her grandmother and three siblings.</span>
+            </li>
+            <li data-end="2679" data-start="2594">
+              <strong data-end="2621" data-start="2594"><span data-darkreader-inline-color="">Amal Zuhd – 23/11/2023:</span></strong><span data-darkreader-inline-color=""> Freelance photographer. Killed with her family in Gaza.</span>
+            </li>
+            <li data-end="2829" data-start="2682">
+              <strong data-end="2710" data-start="2682"><span data-darkreader-inline-color="">Ola Atallah – 9/12/2023:</span></strong><span data-darkreader-inline-color=""> Anadolu Agency correspondent. Killed in Gaza in her uncle’s house along with her brother, his wife, and her cousins.</span>
+            </li>
+            <li data-end="2927" data-start="2832">
+              <strong data-end="2862" data-start="2832"><span data-darkreader-inline-color="">Nermin Qawas – 11/12/2023:</span></strong><span data-darkreader-inline-color=""> Trainee at Russia Today. Killed with her husband and children.</span>
+            </li>
+            <li data-end="3020" data-start="2930">
+              <strong data-end="2958" data-start="2930"><span data-darkreader-inline-color="">Hanan Ayad – 13/12/2023:</span></strong><span data-darkreader-inline-color=""> Freelance journalist. Killed with her husband and children.</span>
+            </li>
+            <li data-end="3141" data-start="3023">
+              <strong data-end="3058" data-start="3023"><span data-darkreader-inline-color="">Haneen Al-Qashtan – 17/12/2023:</span></strong><span data-darkreader-inline-color=""> Former anchor at Sawt Al-Watan and Al-Kofiya. Killed in Nuseirat with relatives.</span>
+            </li>
+            <li data-end="3257" data-start="3144">
+              <strong data-end="3181" data-start="3144"><span data-darkreader-inline-color="">Nermin Nasr Haboush – 30/12/2023:</span></strong><span data-darkreader-inline-color=""> Media coordinator at Pyalara. Killed with her mother and infant daughter.</span>
+            </li>
+          </ul>
+          
+          <p data-end="3286" data-start="3259">
+            <strong data-end="3284" data-start="3259"><span data-darkreader-inline-color="">2024 (12 journalists)</span></strong>
+          </p>
+          
+          <ul>
+            <li data-end="3389" data-start="3289">
+              <strong data-end="3320" data-start="3289"><span data-darkreader-inline-color="">Heba Al-Abadleh – 9/1/2024:</span></strong><span data-darkreader-inline-color=""> Anchor at Al-Azhar Radio. Killed with her daughter in Khan Younis.</span>
+            </li>
+            <li data-end="3539" data-start="3392">
+              <strong data-end="3421" data-start="3392"><span data-darkreader-inline-color="">Alaa Al-Hums – 12/2/2024:</span></strong><span data-darkreader-inline-color=""> Journalist and presenter. Succumbed to wounds sustained in Rafah, where she lost 10 relatives and her unborn child.</span>
+            </li>
+            <li data-end="3653" data-start="3542">
+              <strong data-end="3573" data-start="3542"><span data-darkreader-inline-color="">Alaa Al-Dahdouh – 1/6/2024:</span></strong><span data-darkreader-inline-color=""> Editor and anchor at Sawt Al-Watan Radio. Killed in Gaza with family members.</span>
+            </li>
+            <li data-end="3741" data-start="3656">
+              <strong data-end="3687" data-start="3656"><span data-darkreader-inline-color="">Dina Al-Batniji – 9/6/2024:</span></strong><span data-darkreader-inline-color=""> Journalist at Al-Thuraya Media. Killed in Nuseirat.</span>
+            </li>
+            <li data-end="3843" data-start="3744">
+              <strong data-end="3774" data-start="3744"><span data-darkreader-inline-color="">Ahlam Al-Ajlah – 9/6/2024:</span></strong><span data-darkreader-inline-color=""> Correspondent for <em data-end="3820" data-start="3793">Family Happiness Magazine</em>. Killed in Nuseirat.</span>
+            </li>
+            <li data-end="3978" data-start="3846">
+              <strong data-end="3879" data-start="3846"><span data-darkreader-inline-color="">Wafaa Abu Dhibaan – 6/7/2024:</span></strong><span data-darkreader-inline-color=""> Anchor at the Islamic University Radio. Killed along with her husband, journalist Amjad Jahjouh.</span>
+            </li>
+            <li data-end="4086" data-start="3981">
+              <strong data-end="4012" data-start="3981"><span data-darkreader-inline-color="">Doaa Al-Jabour – 12/8/2024:</span></strong><span data-darkreader-inline-color=""> Journalist at Oyoun News Network. Killed with her husband and children.</span>
+            </li>
+            <li data-end="4213" data-start="4089">
+              <strong data-end="4117" data-start="4089"><span data-darkreader-inline-color="">Angham Adwan – 2/9/2024:</span></strong><span data-darkreader-inline-color=""> Journalist formerly with Libya’s February Channel. Killed in an airstrike on her family home.</span>
+            </li>
+            <li data-end="4337" data-start="4216">
+              <strong data-end="4247" data-start="4216"><span data-darkreader-inline-color="">Haneen Baroud – 27/10/2024:</span></strong><span data-darkreader-inline-color=""> Journalist at Al-Quds Foundation. Killed in an airstrike on “Asmaa School” in Al-Shati.</span>
+            </li>
+            <li data-end="4433" data-start="4340">
+              <strong data-end="4373" data-start="4340"><span data-darkreader-inline-color="">Nadia Al-Sayyed – 27/10/2024:</span></strong><span data-darkreader-inline-color=""> Presenter at Amwaj TV. Killed in the same school bombing.</span>
+            </li>
+            <li data-end="4619" data-start="4436">
+              <strong data-end="4471" data-start="4436"><span data-darkreader-inline-color="">Zahra Abu Sekheil – 11/11/2024:</span></strong><span data-darkreader-inline-color=""> Correspondent for <em data-end="4510" data-start="4490">News Media Network</em>. Killed with her brother, journalist Ahmad Abu Sekheil, in an airstrike on Fahaad Al-Sabah School in Gaza.</span>
+            </li>
+            <li data-end="4739" data-start="4622">
+              <strong data-end="4654" data-start="4622"><span data-darkreader-inline-color="">Iman Al-Shanti – 11/12/2024:</span></strong><span data-darkreader-inline-color=""> Presenter at Al-Aqsa Radio. Killed in Sheikh Radwan with her husband and children.</span>
+            </li>
+          </ul>
+          
+          <p data-end="4767" data-start="4741">
+            <strong data-end="4765" data-start="4741"><span data-darkreader-inline-color="">2025 (9 journalists)</span></strong>
+          </p>
+          
+          <ul>
+            <li data-end="4854" data-start="4770">
+              <strong data-end="4798" data-start="4770"><span data-darkreader-inline-color="">Alaa Qassem – 14/3/2025:</span></strong><span data-darkreader-inline-color=""> Journalist at <em data-end="4825" data-start="4813">Al-Resalah</em> newspaper. Killed in Gaza.</span>
+            </li>
+            <li data-end="4952" data-start="4857">
+              <strong data-end="4889" data-start="4857"><span data-darkreader-inline-color="">Fatima Hassouna – 16/4/2025:</span></strong><span data-darkreader-inline-color=""> Freelance photojournalist. Killed in Al-Tuffah neighborhood.</span>
+            </li>
+            <li data-end="5064" data-start="4955">
+              <strong data-end="4983" data-start="4955"><span data-darkreader-inline-color="">Noor Qandil – 18/5/2025:</span></strong><span data-darkreader-inline-color=""> Journalist at Al-Thuraya Foundation. Killed with her husband and two children.</span>
+            </li>
+            <li data-end="5135" data-start="5067">
+              <strong data-end="5095" data-start="5067"><span data-darkreader-inline-color="">Islam Muqdad – 4/6/2025:</span></strong><span data-darkreader-inline-color=""> Killed with her child in Khan Younis.</span>
+            </li>
+            <li data-end="5243" data-start="5138">
+              <strong data-end="5167" data-start="5138"><span data-darkreader-inline-color="">Hanan Aqilan – 25/6/2025:</span></strong><span data-darkreader-inline-color=""> Journalist at Gaza Municipality’s Prosthetics Center. Killed in Al-Shati.</span>
+            </li>
+            <li data-end="5376" data-start="5246">
+              <strong data-end="5279" data-start="5246"><span data-darkreader-inline-color="">Walaa Al-Jaabari – 23/7/2025:</span></strong><span data-darkreader-inline-color=""> Journalist at the Ministry of Labor. Killed in Tel Al-Hawa with her husband and four children.</span>
+            </li>
+            <li data-end="5481" data-start="5379">
+              <strong data-end="5407" data-start="5379"><span data-darkreader-inline-color="">Marwa Muslim – 1/8/2025:</span></strong><span data-darkreader-inline-color=""> Presenter at Sawt Al-Shabab Radio. Killed with her sister in Shuja’iya.</span>
+            </li>
+            <li data-end="5621" data-start="5484">
+              <strong data-end="5517" data-start="5484"><span data-darkreader-inline-color="">Maryam Abu Duqqa – 25/8/2025:</span></strong><span data-darkreader-inline-color=""> Photographer for Associated Press and <em data-end="5576" data-start="5556">Independent Arabia</em>. Killed at Nasser Hospital in Khan Younis.</span>
+            </li>
+            <li data-end="5737" data-start="5624">
+              <strong data-end="5651" data-start="5624"><span data-darkreader-inline-color="">Islam Abed – 31/8/2025:</span></strong><span data-darkreader-inline-color=""> Correspondent for Al-Quds Al-Youm TV. Killed with her husband and children in Gaza.</span>
+            </li>
+          </ul>
+          
+          <h3>
+            <span data-darkreader-inline-color="">Female Media Activists & University Students</span>
+          </h3>
+          
+          <ul>
+            <li data-end="5891" data-start="5797">
+              <strong data-end="5829" data-start="5797"><span data-darkreader-inline-color="">Iman Al-Oqeili – 24/10/2023:</span></strong><span data-darkreader-inline-color=""> Activist and content creator of “ImanTube.” Killed in Gaza.</span>
+            </li>
+            <li data-end="5997" data-start="5894">
+              <strong data-end="5927" data-start="5894"><span data-darkreader-inline-color="">Shaima Al-Jazzar – 4/12/2023:</span></strong><span data-darkreader-inline-color=""> Media activist at “Majidat Rafah.” Killed with her family in Rafah.</span>
+            </li>
+            <li data-end="6132" data-start="6000">
+              <strong data-end="6032" data-start="6000"><span data-darkreader-inline-color="">Wafaa Al-Odeini – 30/9/2024:</span></strong><span data-darkreader-inline-color=""> Activist at <em data-end="6063" data-start="6045">Day of Palestine</em> Foundation. Killed with her husband and children in Deir Al-Balah.</span>
+            </li>
+            <li data-end="6218" data-start="6135">
+              <strong data-end="6164" data-start="6135"><span data-darkreader-inline-color="">Areej Shaheen – 1/1/2025:</span></strong><span data-darkreader-inline-color=""> Media activist. Killed with her mother in Nuseirat.</span>
+            </li>
+            <li data-end="6289" data-start="6221">
+              <strong data-end="6255" data-start="6221"><span data-darkreader-inline-color="">Ahlam Al-Tallouli – 13/3/2025:</span></strong><span data-darkreader-inline-color=""> Media activist. Killed in Gaza.</span>
+            </li>
+            <li data-end="6378" data-start="6292">
+              <strong data-end="6320" data-start="6292"><span data-darkreader-inline-color="">Iman Al-Zami – 1/9/2025:</span></strong><span data-darkreader-inline-color=""> Media activist. Shot dead by a drone near Hamad Towers.</span>
+            </li>
+            <li data-end="6474" data-start="6381">
+              <strong data-end="6428" data-start="6381"><span data-darkreader-inline-color="">Somaya Abdel-Fattah Abed Rabbo – 28/8/2025:</span></strong><span data-darkreader-inline-color=""> Media student and activist. Killed in Gaza.</span>
+            </li>
+          </ul>
+          
+          <p>
+            <strong><span data-darkreader-inline-color="">Time distribution:</span></strong>
+          </p>
+          
+          <ul>
+            <li data-end="6574" data-start="6545">
+              <span data-darkreader-inline-color="">2023: 10 journalists killed</span>
+            </li>
+            <li data-end="6606" data-start="6577">
+              <span data-darkreader-inline-color="">2024: 12 journalists killed</span>
+            </li>
+            <li data-end="6730" data-start="6609">
+              <span data-darkreader-inline-color="">2025 (until early September): 9 journalists killed<br data-end="6662" data-start="6659" /><em data-end="6728" data-start="6662">Indicator: targeting has been steady for 3 years—not incidental.</em></span>
+            </li>
+          </ul>
+          
+          <p data-end="6755" data-start="6732">
+            <strong data-end="6753" data-start="6732"><span data-darkreader-inline-color="">Family targeting:</span></strong>
+          </p>
+          
+          <ul>
+            <li data-end="6898" data-start="6758">
+              <span data-darkreader-inline-color="">Over 85% killed with family members (husbands, children, parents).<br data-end="6827" data-start="6824" /><em data-end="6896" data-start="6827">Indicator: deliberate dual family targeting, amounting to genocide.</em></span>
+            </li>
+          </ul>
+          
+          <p data-end="6929" data-start="6900">
+            <strong data-end="6927" data-start="6900"><span data-darkreader-inline-color="">Media outlets targeted:</span></strong>
+          </p>
+          
+          <ul>
+            <li data-end="7004" data-start="6932">
+              <strong data-end="6942" data-start="6932"><span data-darkreader-inline-color="">Local:</span></strong><span data-darkreader-inline-color=""> Sawt Al-Quds, Al-Aqsa Radio, Sawt Al-Watan, Al-Azhar Radio.</span>
+            </li>
+            <li data-end="7256" data-start="7007">
+              <strong data-end="7025" data-start="7007"><span data-darkreader-inline-color="">International:</span></strong><span data-darkreader-inline-color=""> Anadolu, Russia Today, Al Jazeera Mubasher, Associated Press, <em data-end="7108" data-start="7088">Independent Arabia</em>.<br data-end="7112" data-start="7109" /><em data-end="7254" data-start="7112">Indicator: targeting extended beyond local media to include regional and international institutions—proving a goal of global media blackout.</em></span>
+            </li>
+          </ul>
+          
+          <p data-end="7274" data-start="7258">
+            <strong data-end="7272" data-start="7258"><span data-darkreader-inline-color="">Age group:</span></strong>
+          </p>
+          
+          <ul>
+            <li data-end="7419" data-start="7277">
+              <span data-darkreader-inline-color="">Most victims aged 20–35.<br data-end="7304" data-start="7301" /><em data-end="7417" data-start="7304">Indicator: deliberate targeting of young generations representing the professional future of Palestinian media.</em></span>
+            </li>
+          </ul>
+          
+          <ul>
+            <li>
+              <strong><span data-darkreader-inline-color="">Silencing Palestinian female professionalism:</span></strong><span data-darkreader-inline-color=""> Women journalists played a crucial role covering women, children, the wounded, and displaced. Their assassination erases the humanitarian dimension of Israeli crimes.</span>
+            </li>
+            <li data-end="7850" data-start="7686">
+              <strong data-end="7723" data-start="7686"><span data-darkreader-inline-color="">Intimidating the media community:</span></strong><span data-darkreader-inline-color=""> Killing women journalists working for major international outlets sends a deterrent message: “Reporting truth equals death.”</span>
+            </li>
+            <li data-end="8086" data-start="7853">
+              <strong data-end="7890" data-start="7853"><span data-darkreader-inline-color="">Destroying female media capacity:</span></strong><span data-darkreader-inline-color=""> Most were academically trained in journalism, media, Arabic, or digital communications. <em data-end="8084" data-start="7979">Indicator: destruction of female human capital in Palestinian journalism, leaving an irreplaceable gap.</em></span>
+            </li>
+            <li data-end="8289" data-start="8089">
+              <strong data-end="8135" data-start="8089"><span data-darkreader-inline-color="">Targeting family and community dimensions:</span></strong><span data-darkreader-inline-color=""> Most killed alongside their children, spouses, and parents. <em data-end="8287" data-start="8196">Implication: turning journalists from “witnesses to crimes” into “victims within crimes.”</em></span>
+            </li>
+            <li data-end="8549" data-start="8292">
+              <strong data-end="8326" data-start="8292"><span data-darkreader-inline-color="">Erasing digital documentation:</span></strong><span data-darkreader-inline-color=""> Many victims were active on social media and blogs (e.g., Ayat Khodoura, Iman Al-Oqeili, Fatima Hassouna). <em data-end="8547" data-start="8434">Indicator: recognition of the power of alternative digital media in exposing crimes—hence targeting its voices.</em></span>
+            </li>
+          </ul>
+          
+          <p>
+            <strong><span data-darkreader-inline-color="">Locally & Professionally:</span></strong>
+          </p>
+          
+          <ul>
+            <li data-end="8821" data-start="8691">
+              <span data-darkreader-inline-color="">Provide protective gear (helmets, vests, clear press markings) especially for field reporters, with support from IFJ and donors.</span>
+            </li>
+            <li data-end="8902" data-start="8824">
+              <span data-darkreader-inline-color="">Train female journalists in field safety, first aid, and emergency response.</span>
+            </li>
+            <li data-end="8985" data-start="8905">
+              <span data-darkreader-inline-color="">Activate an early-warning network on risks and military movements in hotspots.</span>
+            </li>
+            <li data-end="9107" data-start="8988">
+              <span data-darkreader-inline-color="">Establish an emergency union unit to monitor female journalists’ situations and intervene during injuries or arrests.</span>
+            </li>
+            <li data-end="9191" data-start="9110">
+              <span data-darkreader-inline-color="">Offer psychological and social support for survivors of targeting or detention.</span>
+            </li>
+          </ul>
+          
+          <p data-end="9221" data-start="9193">
+            <strong data-end="9219" data-start="9193"><span data-darkreader-inline-color="">Legally & Rights-wise:</span></strong>
+          </p>
+          
+          <ul>
+            <li data-end="9305" data-start="9224">
+              <span data-darkreader-inline-color="">Professionally document all crimes with evidence (photos, videos, testimonies).</span>
+            </li>
+            <li data-end="9391" data-start="9308">
+              <span data-darkreader-inline-color="">File official complaints to international bodies (UN, ICC, Human Rights Council).</span>
+            </li>
+            <li data-end="9461" data-start="9394">
+              <span data-darkreader-inline-color="">Assign volunteer lawyers to follow up on arrests or prosecutions.</span>
+            </li>
+            <li data-end="9574" data-start="9464">
+              <span data-darkreader-inline-color="">Prepare periodic reports on violations against women journalists for global women’s and press organizations.</span>
+            </li>
+          </ul>
+          
+          <p data-end="9611" data-start="9576">
+            <strong data-end="9609" data-start="9576"><span data-darkreader-inline-color="">Internationally & Media-wise:</span></strong>
+          </p>
+          
+          <ul>
+            <li data-end="9746" data-start="9614">
+              <span data-darkreader-inline-color="">Launch global campaigns highlighting female journalist targeting as a compounded crime affecting press freedom and women’s rights.</span>
+            </li>
+            <li data-end="9857" data-start="9749">
+              <span data-darkreader-inline-color="">Build local and international partnerships with journalist unions to pressure and hold Israel accountable.</span>
+            </li>
+            <li data-end="9940" data-start="9860">
+              <span data-darkreader-inline-color="">Strengthen ties with parliaments and diplomatic missions to expose violations.</span>
+            </li>
+            <li data-end="10073" data-start="9943">
+              <span data-darkreader-inline-color="">Establish an annual international award in the name of Palestinian women journalist martyrs to promote awareness and solidarity.</span>
+            </li>
+          </ul>
+          
+          <p data-end="10090" data-start="10075">
+            <strong data-end="10088" data-start="10075"><span data-darkreader-inline-color="">Socially:</span></strong>
+          </p>
+          
+          <ul>
+            <li data-end="10188" data-start="10093">
+              <span data-darkreader-inline-color="">Foster community-based protection to provide safe working environments for women journalists.</span>
+            </li>
+            <li data-end="10277" data-start="10191">
+              <span data-darkreader-inline-color="">Develop support programs for families of martyred, injured, or detained journalists.</span>
+            </li>
+          </ul>
+          
+          <p>
+            <span data-darkreader-inline-color="">Mohammad Al-Lahham, head of the Freedoms Committee at PJS, stated that the targeting of Palestinian female journalists is systematic policy, not incidental loss. He stressed that Israel deliberately assassinates the female voice in Palestinian media due to its powerful local and international impact.</span>
+          </p>
+          
+          <p data-end="10923" data-start="10670">
+            <span data-darkreader-inline-color="">He added that the figures (31 journalists + 7 activists) reveal an unprecedented escalation not only in the history of violations against Palestinian women journalists but also in the history of wars and conflicts worldwide since the dawn of humanity.</span>
+          </p>
+          
+          <p data-end="11119" data-start="10925">
+            <span data-darkreader-inline-color="">Al-Lahham concluded that these crimes constitute a clear violation of international humanitarian law and the Geneva Conventions, which protect journalists and civilians during armed conflicts.</span>
+          </p>
+          
+          <p data-end="11119" data-start="10925">
+            <a href="https://pjs.ps/en/page-3407.html">https://pjs.ps/en/page-3407.html</a>
+          </p>
+          
+          <h2 class="title">
+            The Palestinian Journalists Syndicate holds a rally in Ramallah condemning the massacre targeting journalists at Al-Shifa Hospital
+          </h2>
+          
+          <p class="title">
+            <span class="date">2025-08-11<br /> </span>
+          </p>
+          
+          <p>
+            <span data-darkreader-inline-color=""><strong>Ramallah</strong> – The Palestinian Journalists Syndicate organized a protest condemning the Israeli occupation’s assassination of six journalists in Gaza last night: Anas Al-Sharif, Mohammed Qreiqa, Ibrahim Dhaher, Moamen Al-Aweiwa, Mohammed Noufal, and Mohammed Al-Khaldi.</span>
+          </p>
+          
+          <p>
+            <span data-darkreader-inline-color="">With the martyrdom of these six colleagues, the total number of journalists killed since the start of the genocide war has risen to 238 journalists and media workers.</span>
+          </p>
+          
+          <p>
+            <span data-darkreader-inline-color="">In his speech at the rally, Nasser Abu Bakr, head of the Palestinian Journalists Syndicate, stressed that targeting journalists and media institutions is a war crime aimed at silencing the truth and covering up the occupation’s crimes.</span>
+          </p>
+          
+          <p>
+            <span data-darkreader-inline-color="">He held the occupying state and its allies fully responsible, calling on international press institutions to take urgent action to protect Palestinian journalists, hold the occupation’s leaders accountable, and ensure they do not escape punishment.<br /> </span>
+          </p>
+          
+          <p class="title">
+            <span class="date"> </span>
+          </p>
+        </div>
+      </div>
+    </div></article>
+  </div>
+</div>

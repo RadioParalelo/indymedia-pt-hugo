@@ -1,0 +1,27 @@
+---
+title: Grupo de hackers Al-Aqsa Flood reivindica pirataria de dados do Ministério da Defesa Israelita
+author: Publicação Comunitária
+type: post
+date: 2023-11-28T17:44:15+00:00
+url: /?p=211547
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/11/VID_20231124_214001_510.mp4
+        23180996
+        video/mp4
+        
+categories:
+  - Guerra e Paz
+  - Indymedia
+tags:
+  - AltPT
+
+---
+ <figure class="wp-block-video"><video controls preload="none" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/VID\_20231124\_214001_510.mp4" playsinline></video></figure> 
+
+Um coletivo de piratas informáticos conhecido como &#8220;Al-Aqsa Flood&#8221; anunciou uma violação do sítio Web do Ministério da Defesa israelita, tendo alegadamente acedido a dados sensíveis relativos a mais de 11.000 soldados israelitas. 
+
+A informação comprometida inclui fotografias, endereços, dados de contacto, números de alistamento militar e a origem ucraniana de alguns soldados. 
+
+Um vídeo divulgado no Telegram pelo grupo mostra pormenores pessoais de alguns soldados, servindo como prova da violação. Os piratas informáticos avisaram também que os dados obtidos estão agora nas mãos de grupos de combatentes palestinianos.

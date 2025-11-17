@@ -1,0 +1,41 @@
+---
+title: Estudantes de Coimbra bloqueiam o Departamento de Matemática da Universidade de Coimbra.
+author: Publicação Comunitária
+type: post
+date: 2023-11-20T08:52:22+00:00
+url: /?p=207420
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111442024950982168
+mf2_syndication:
+  - 'a:1:{i:0;s:61:"https://climatejustice.social/@indymediapt/111442036881809964";}'
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - Coimbra
+  - Ecologia
+  - Indymedia
+  - ocupapeloclima
+  - Protesto
+  - PTrevolutionTV
+
+---
+Estudantes de Coimbra bloqueiam o Departamento de Matemática da Universidade de Coimbra, utilizando tubos e cola para fechar a entrada principal e barricando as entradas traseiras, impedindo assim qualquer acesso ao interior do edifício!<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-20_08-47-50-768x1024.jpg" alt="" class="wp-image-207421" /> </figure> 
+
+Ação policial na Faculdade de Matemática da UC &#8211; polícia impede captura de imagens incluso grandes planos previstos por lei e empurra manifestantes.<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-20_08-47-45-768x1024.jpg" alt="" class="wp-image-207422" /> </figure> 
+
+Bombeiros sapadores chegam. Polícia de choque dispersa estudantes da frente do departamento, mantendo-se apenas as estudantes coladas.<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-174 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="207430" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-20_09-03-35-768x1024.jpg" alt="" class="wp-image-207430" /> </figure> </figure> <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-175 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large"><img decoding="async" data-id="207432" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/IMG_6121.heic" alt="" class="wp-image-207432" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="207435" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/IMG_6124.heic" alt="" class="wp-image-207435" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="207434" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/IMG_6131-682x1024.jpg" alt="" class="wp-image-207434" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="207433" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/IMG_6132-1024x682.jpg" alt="" class="wp-image-207433" /></figure> </figure> 
+
+Pela soberania da informação.

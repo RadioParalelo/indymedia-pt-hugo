@@ -1,0 +1,116 @@
+---
+title: Petição contra o alargamento do IC20
+author: Publicação Comunitária
+type: post
+date: 2023-10-04T18:14:38+00:00
+url: /?p=32350
+classic-editor-remember:
+  - block-editor
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+tags:
+  - Autoestradas
+  - Ecologia
+
+---
+Assina agora: <https://peticaopublica.com/?pi=PT117774>
+
+A população foi surpreendida na reunião de Câmara Municipal de Almada, do dia 18 de Setembro de 2023, em plena Semana Europeia da Mobilidade, com informação sobre o alargamento do IC20 para 4 vias por sentido, conforme consta nos media locais [1,2]. Esta obra é um compromisso que resulta de um contrato caduco, que deveria já ter sido renegociado pelo Estado junto da concessionária Baixo Tejo, de modo a ir ao encontro daquilo que são os objetivos estabelecidos a nível ambiental.
+
+Serve esta petição para objetar contra a intervenção para aumento do número de vias do IC20, pelas razões enumeradas abaixo:
+
+<ul class="wp-block-list">
+  <li>
+    Esta intervenção vai contra a estratégia climática nacional, que vincula o país a reduzir as emissões de gases com efeito de estufa (GEE) promovendo a utilização de transportes menos poluentes, em vez de promover a utilização automóvel.
+  </li>
+  <li>
+    A solução apresentada não irá resolver o problema de congestionamento do IC20 em direção a Lisboa ou vice-versa. A capacidade deste troço é determinada pela capacidade da Ponte 25 de Abril, e só estamos a abrir mais vias de um funil.
+  </li>
+  <li>
+    Há já várias décadas que estudos demonstram que aumentar o número de vias fará com que o volume de carros aumente, não solucionando a questão do congestionamento. Uma vez aumentada a capacidade, rapidamente será preenchida, até atingir os níveis de congestionamento atuais. Este fenómeno, amplamente estudado, é denominado de “procura induzida” [3,4,5].
+  </li>
+  <li>
+    Alargar a capacidade rodoviária é não apenas uma medida obsoleta num contexto de emergência climática, mas também inútil, já que os principais constrangimentos resultam das zonas onde a capacidade rodoviária afunila. O efeito de &#8220;bottleneck&#8221; tende mesmo a aumentar, já que mais automóveis chegarão a um mesmo estrangulamento, que ocorre nas horas de ponta de utilização da IC20, nas suas artérias principais de acesso às localidades (Costa >Almada>Lisboa>Almada>Costa). Vai ocorrer mesmo com 4 vias, pois a sobrecarga vai apenas acumular-se em mais uma fila (em vez de 300 carros parados teremos 400) [6].
+  </li>
+  <li>
+    O alargamento de vias rápidas torna o desenvolvimento urbano local mais disperso, fragmentado e frágil e impossibilita que outros meios de transporte, para além do carro, possam realmente funcionar enquanto solução de mobilidade.
+  </li>
+</ul>
+
+Optar por esta solução é encorajar o aumento do número de veículos em circulação, incentivando a utilização do automóvel em áreas urbanas que já se encontram no seu limite.  
+Esse incentivo é dissonante face à urgência de reduzirmos as emissões de GEE; incentiva a poluição e o sedentarismo; é contrária à economia das famílias que, reféns de uma mobilidade assente no automóvel, gastam parte substancial dos seus rendimentos para o alimentar; e contribui para uma acessibilidade profundamente desigual, já que “o carro não é um meio de transporte universal. E se o meio urbano “está desenhado para o automóvel” então há muita gente excluída [7].
+
+Face ao exposto, solução para a melhoria da acessibilidade a pessoas, bens e serviços naquele território não deve passar por facilitar o acesso automóvel, mas sim, por diversificar as formas de acesso à Costa da Caparica, melhorando as redes de transportes públicos, o acesso a pé e de bicicleta e a interligação entre os vários modos de transporte que compõem um sistema de mobilidade sustentável.  
+Enquanto moradores e frequentadores do concelho de Almada, exigimos transparência e bom uso do dinheiro público e uma aposta clara numa mobilidade sustentável e ativa, melhorando os transportes públicos e a mobilidade ciclável. Eis as medidas que consideramos prioritárias a serem executadas em território Almadense e para as quais deverão ser feitos investimentos financeiros públicos:
+
+<ul class="wp-block-list">
+  <li>
+    Prolongamento da linha do MTS &#8211; Metro Transportes do Sul, desde a Universidade até à Costa da Caparica e Trafaria.;
+  </li>
+  <li>
+    Renovação da frota dos barcos da TTSL &#8211; Transtejo Soflusa e melhoria do serviço, de modo a reaver a confiança neste serviço que foi perdido ao longo dos últimos anos, perante sucessivas falhas e inexistência de serviço previsto, assim como aumento da frequência e alargamento do horário dos barcos da Trafaria, permitindo fazer uma ligação mais eficaz a Lisboa;
+  </li>
+  <li>
+    Melhoria da ligação ferroviária na ponte 25 de Abril pela Fertagus por via do aumento da frequência e do número de carruagens por composição e alargamento do serviço desde Setúbal até ao Oriente, dado que actualmente vai apenas até Roma-Areeiro.
+  </li>
+  <li>
+    Alargamento da rede ciclável desde Almada até à Costa da Caparica e requalificação da ciclovia Trafaria &#8211; Costa da Caparica, que está em avançado estado de degradação;
+  </li>
+  <li>
+    Requalificação dos percursos pedonais existentes e que permitem efetuar a saída e a entrada na Costa da Caparica pelas pessoas que quotidianamente necessitam de fazer esse percurso a pé, nomeadamente estudantes e trabalhadores.
+  </li>
+  <li>
+    Melhoria da acessibilidade, baseada nas pessoas com deficiência física e visual, nos acessos pedonais de e para a Costa da Caparica, Trafaria e Almada, ligando, também, às restantes localidades entre estas, promovendo o acesso facilitado aos transportes públicos.
+  </li>
+</ul>
+
+Face ao compromisso do governo de promover a descarbonização dos transportes, para além do conjunto de medidas de política sugeridas, é fundamental envolver os cidadãos nos processos de decisão para que possam compreender os desafios em causa e dar pistas de como se podem mudar os padrões de mobilidade. Dificilmente se alcançarão as metas da Estratégia de Mobilidade Ativa Ciclável e Pedonal sem a participação dos cidadãos e o seu comprometimento em torno das ações a implementar.
+
+Queremos uma Almada do futuro e não do passado, pelo que também exigimos que qualquer intervenção desta natureza implique a consulta dos/as habitantes, bem como das organizações especializadas em matéria ambiental.  
+Assinamos por isso, a petição contra o alargamento do IC20 para 4 vias!
+
+Almada, 22 de Setembro de 2023
+
+Subscrevem esta petição:
+
+<ul class="wp-block-list">
+  <li>
+    Centro de Arqueologia de Almada
+  </li>
+  <li>
+    Estrada Viva
+  </li>
+  <li>
+    Estuário Colectivo
+  </li>
+  <li>
+    FPCUB &#8211; Federação Portuguesa de Cicloturismo e Utilizadores de Bicicleta
+  </li>
+  <li>
+    GEOTA &#8211; Grupo de Estudos de Ordenamento do Território e Ambiente
+  </li>
+  <li>
+    MUBi &#8211; Associação pela Mobilidade Urbana em Bicicleta
+  </li>
+  <li>
+    Mulheres na Arquitectura
+  </li>
+  <li>
+    QUERCUS &#8211; Núcleo Regional de Setúbal
+  </li>
+  <li>
+    the Future Design of Streets Association
+  </li>
+</ul>
+
+Algumas referências que sustentam esta petição:  
+[1] &#8211; Ligação de Almada à Costa da Caparica: IC20 vai ser alargado, passando de três para quatro vias, in Jornal Almadense: https://almadense.sapo.pt/mobilidade/ligacao-de-almada-a-costa-da-caparica-ic20-vai-ser-alargado-passando-de-tres-para-quatro-vias/  
+[2] &#8211; Almada | Alargamento do IC20 começa em Outubro, Almada online: https://almadaonline.pt/almada-alargamento-do-ic20-comeca-em-outubro/  
+[3] &#8211; O TRÁFEGO INDUZIDO foi definido pelo relatório seminal The Standing Advisory Committee on Trunk Roads Assessment (1994) Trunk Roads and the Generation of Traffic. Report for DfT, Chairman Mr D A Wood, QC, December 1994, como &#8220;o aumento de tráfego de veículos que não teria ocorrido sem o aumento da capacidade da rede&#8221;. Desde então, muitos estudos e relatórios demonstraram o fenómeno da Indução de Tráfego, sendo um dos mais recentes WSP and Rand Europe (2018) Latest Evidence on Induced Travel Demand: An Evidence Review. Report for DfT, May  
+[4] &#8211; Induced traffic: yet again a worryingly overlooked dimension in crucial road planning and appraisal policy: https://tapas.network/35/hopkinsongoodwin.php  
+[5] &#8211; Estudos da University Transportation Center da Universidade da Califórnia &#8211; https://ncst.ucdavis.edu/research-product/induced-vehicle-travel-environmental-review-process  
+[6] &#8211; The fundamental law of road congestion: evidence from US cities: www.nber.org/system/files/working_papers/w15376/w15376.pdf  
+[7] &#8211; O problema urbanístico é de espaço: https://fumaca.pt/david-vale-sobre-mobilidade-e-dependencia-automovel/

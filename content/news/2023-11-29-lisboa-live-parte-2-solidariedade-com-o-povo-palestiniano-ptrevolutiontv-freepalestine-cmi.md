@@ -1,0 +1,31 @@
+---
+title: '[Lisboa Live] parte 2 Solidariedade com o Povo Palestiniano #PTrevolutionTV #FreePalestine #CMI'
+author: Publicação Comunitária
+type: post
+date: 2023-11-29T18:47:12+00:00
+url: /?p=213722
+embed_privacy_thumbnail_youtube_LDwHE_y4uEk:
+  - youtube-LDwHE_y4uEk-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_LDwHE_y4uEk_url:
+  - https://youtube.com/watch?v=LDwHE_y4uEk
+categories:
+  - Indymedia
+tags:
+  - AltPT
+  - Livestream
+  - PTrevolutionTV
+
+---
+<figure class="wp-block-embed is-type-rich is-provider-gestor-de-incorpora-es wp-block-embed-gestor-de-incorpora-es wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div><figcaption class="wp-element-caption">(
+
+[Youtube][1]) ([Invidious][2]) </figcaption></figure> <figure class="wp-block-audio"><audio controls src="https://vid.puffyan.us/latest\_version?id=LDwHE\_y4uEk&itag=140"></audio></figure> 
+
+This stream is created with #PRISMLiveStudio
+
+<!-- /wp:post-content -->
+
+ [1]: https://youtu.be/LDwHE_y4uEk
+ [2]: https://vid.puffyan.us/watch?v=LDwHE_y4uEk

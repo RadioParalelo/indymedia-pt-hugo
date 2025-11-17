@@ -1,0 +1,103 @@
+---
+title: Manifesto do Acampamento em Defesa do Barroso
+author: Publicação Comunitária
+type: post
+date: 2024-07-08T11:53:24+00:00
+url: /?p=223618
+activitypub_status:
+  - federated
+fpsm_author_email:
+  - barrososemminas@coletivos.org
+fpsm_author_name:
+  - Barroso sem Minas
+links:
+  - https://barrososemminas.org/2024/
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Ecologia e Animais
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+
+---
+<main id="wp--skip-link--target" class=" wp-block-group eplus-wrapper is-layout-flow wp-block-group-is-layout-flow">
+
+<div class=" wp-block-group eplus-wrapper is-layout-constrained wp-container-core-group-is-layout-4 wp-block-group-is-layout-constrained">
+  <div class="entry-content wp-block-post-content is-layout-flow wp-block-post-content-is-layout-flow">
+    <p class=" eplus-wrapper">
+      <strong><em>Onde a empresa e o Estado cavam destruição, nós semeamos resistência… </em></strong>
+    </p>
+    
+    <p class=" eplus-wrapper">
+      Entre os dias 15 e 19 de agosto de 2024, reunimo-nos de novo para o Acampamento em Defesa do Barroso!
+    </p>
+    
+    <p class=" eplus-wrapper">
+      Covas do Barroso está em luta há 7 anos contra aquele que poderia ser o primeiro projeto de extração de lítio a céu aberto no continente europeu. O projeto está nas mãos de uma empresa de especulação financeira britânica, <em>Savannah Resources</em>, formada para lucrar com o que erradamente é chamado de “transição energética verde”.
+    </p>
+    
+    <p class=" eplus-wrapper">
+      O Barroso e as suas formas de vida, harmoniosas com o seu entorno, recusam tornar-se numa nova “zona de sacrifício” para benefício de uma economia cada vez mais desligada das realidades sociais e ecológicas do planeta. Aqui, as terras, as águas, as montanhas não são meros recursos a serem esventrados — fazem parte das identidades e práticas que, há séculos, permitem a reprodução e sustento da vida. <em>Aqui, a água e a terra não se vendem </em><em>—</em><em> se amam e se defendem!</em>
+    </p>
+    
+    <p class=" eplus-wrapper">
+      O projeto da <em>Savannah </em>prevê a abertura de 4 minas a céu aberto, várias escombreiras de rejeitos e muitas outras infraestruturas industriais. Essas minas — algumas com 100 metros de profundidade e 38 hectares de diâmetro — ficariam localizadas às portas das casas das pessoas: a apenas 200 metros da aldeia de Romainho, e 750 de Covas do Barroso. O projeto representa uma séria ameaça para as águas do rio Covas e para toda a bacia hidrográfica do Douro. O projeto implicaria explosões e detonações diárias das montanhas, que resultariam em ruídos e poeiras insuportáveis. Devastaria solos agrícolas e grandes extensões de área florestal de uso comum, colocando em risco os meios de subsistência e as fontes de rendimento das populações. Para além de tudo isto, teria efeitos imprevisíveis para a ecologia regional e planetária.
+    </p>
+    
+    <p class=" eplus-wrapper">
+      A mesma Agência Portuguesa do Ambiente que, em junho de 2022, reconheceu os impactos negativos muito significativos e irreversíveis deste projeto mineiro e lhe emitiu um parecer “desfavorável” —  reconhecendo a incompatibilidade do mesmo com a classificação de “Património Agrícola Mundial”, ou seja, com o modo de vida local — em maio de 2023, emite uma Declaração de Impacte Ambiental (DIA) favorável condicionada. A obtenção da DIA confirmou as nossas preocupações quanto ao favorecimento estatal deste investimento privado, em detrimento do ambiente e das populações.
+    </p>
+    
+    <p class=" eplus-wrapper">
+      50 anos depois da Revolução do 25 de Abril, sente-se no Barroso a opressão e a repressão de governos que querem impor a destruição da região a qualquer custo. Com efeito, desde que recebeu a DIA,  a empresa — com a conivência do Estado — adotou uma postura mais agressiva e uma presença mais assídua e intrusiva nas aldeias e na região. Desde outubro de 2023, uma patrulha diária da GNR está destacada para a aldeia de Covas do Barroso. A empresa mobilizou também segurança privada de dia e de noite e persegue lideranças comunitárias na justiça e através de comunicados  intimidatórios. Tudo isto são tentativas descaradas de intimidar, deslegitimar, descredibilizar e criminalizar a resistência. Tudo isto são tentativas de minar este território, tentar impedir a contestação e pressionar as populações a aceitarem um projeto que não querem!
+    </p>
+    
+    <p class=" eplus-wrapper">
+      Em novembro, a empresa tentou aceder aos terrenos baldios para fazer mais prospecções. Como a Comunidade dos Baldios e muitos proprietários privados continuam a negar-lhes acesso, a empresa recorreu à usurpação. Contavam eles que não houvesse em Covas do Barroso gente com espinha dorsal capaz de lhes fazer frente. Mas, graças à união e ao apoio constante de todos os cantos do país e do mundo, a comunidade não desistiu e resistiu. Durante 7 meses, todos os dias, bloqueou o acesso da empresa a terrenos baldios, demonstrando força, união, perseverança e resistência coletivas.
+    </p>
+    
+    <p class=" eplus-wrapper">
+      Para além destas ações diretas, nos últimos anos, já passámos por muito: agimos judicial e legalmente em todas as fases dos processos administrativos; assinámos petições; saímos às ruas; organizámos encontros, caravanas, residências artísticas e acampamentos. Com tudo isso, ganhámos muitas batalhas: parámos os trabalhos de prospecção, impedimos a empresa de avançar no terreno, sensibilizámos consciências e construímos redes de solidariedade.
+    </p>
+    
+    <p class=" eplus-wrapper">
+      O Barroso não é uma serra isolada, nem este é um problema isolado que só interessa à sua população. Aqui, enfrentam-se decisões determinantes que representam transformações  ecológicas, sociais e económicas não só para esta região, mas para o tipo de futuro que queremos e seremos capazes de alcançar. Podemos repetir os erros do passado, insistindo numa busca incessante por lucro e numa ideia de “progresso” à custa do bem-estar da maioria. Ou pode ser um ponto de viragem para um futuro onde nós, as florestas, os animais e os rios sejamos protegidos e valorizados, um futuro onde a água limpa e abundante, a comida saudável e o tempo para viver ajudem a redefinir “riqueza”.
+    </p>
+    
+    <p class=" eplus-wrapper">
+      A nossa luta desmistifica e recusa a abordagem dos Estados e do capital aos desafios ecológicos e sociais contemporâneos, evidenciando que estes projetos devastadores são uma escolha política, condicionada por lógicas económicas e dependências energéticas. Manter a atual economia “funcional” implica o crescimento económico infinito, a criação constante de novos mercados e a extração contínua de matérias-primas da Terra. Com esta visão, muitos territórios e populações — principalmente os mais vulneráveis — são considerados “sacrificáveis” em nome de um “bem comum maior”, que não é nem um bem nem é comum.
+    </p>
+    
+    <p class=" eplus-wrapper">
+      É esta visão que nos leva à grande contradição de destruir o planeta para o salvar, convenientemente reduzindo os vastos problemas ecológicos a uma mera contabilização de emissões de gases com efeito de estufa. É esta visão que permite a expansão e o reforço do atual sistema produtivo e de consumo, mantendo a dependência de combustíveis fósseis, enquanto fortalece a militarização e a digitalização da sociedade e da economia. É esta visão que nos afasta de ter um olhar mais holístico das sociedades humanas e da Terra, e nos impede de fazer as perguntas difíceis, procurar novas respostas, e trilhar outros caminhos.
+    </p>
+    
+    <p class=" eplus-wrapper">
+      Não estamos sozinhas nesta jornada. Só em Portugal, a área prospetiva para novos projetos extrativistas é avassaladora. Proteger o Barroso, não permitindo que avancem com aquele que seria o primeiro projeto, é também defender todos estes territórios. Caminhamos igualmente junto das nossas companheiras de Gornje Nedeljice, na Sérvia, do Suído-Seixo, na Galiza, de Cañaveral, na Extremadura, de Allier, em França, com os povos dos Salares, na Puna Andina, e com todos os outros movimentos, comunidades e territórios que lutam por uma vida que não seja ditada por imperativos e interesses alheios ao bem-estar comum.
+    </p>
+    
+    <p class=" eplus-wrapper">
+      O Acampamento é um ponto de encontro, de partilha e de luta. Como as aranhas, tecemos redes. Como as lobas, uivamos. Como as toupeiras, conspiramos. Como os pássaros, voamos em bando. Como os caracóis, caminhamos lentamente. Como seres humanos, sabemos que é imperativo manter ecossistemas funcionais que assegurem a vida — e lutamos por eles, com coragem, amor e alegria.
+    </p>
+    
+    <p class=" eplus-wrapper">
+      <em>Esperamos por ti, em Covas do Barroso, entre 15 a 19 de Agosto de 2024. Junta-te a nós!</em>
+    </p>
+  </div>
+</div>
+
+</main><footer class="wp-block-template-part"> 
+
+<div class="wp-block-group eplus-wrapper has-foreground-color has-text-color has-background has-link-color wp-elements-dcf048b6f69d60160ed15c08768ee61a is-layout-flow wp-block-group-is-layout-flow">
+  <div class="wp-block-group eplus-wrapper is-layout-flow wp-block-group-is-layout-flow">
+    <div class="wp-block-group eplus-wrapper has-heading-color has-text-color has-link-color wp-elements-17af679b451071533ed982ebff4c2a9a is-layout-constrained wp-container-core-group-is-layout-7 wp-block-group-is-layout-constrained">
+      <div class="wp-block-columns eplus-wrapper is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
+        <div class="wp-block-column eplus-wrapper is-layout-flow wp-block-column-is-layout-flow">
+          <h5 class="wp-block-heading eplus-wrapper">
+            Links
+          </h5>
+        </div>
+      </div>
+    </div>
+  </div>
+</div></footer>

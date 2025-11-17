@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media Independente on indymedia.pt</title>
+    <link>http://localhost:1313/tags/media-independente/</link>
+    <description>Recent content in Media Independente on indymedia.pt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Fri, 27 Oct 2023 15:26:36 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/media-independente/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Todo o nosso trabalho é auto financiado.</title>
+      <link>http://localhost:1313/?p=63058/</link>
+      <pubDate>Fri, 27 Oct 2023 15:26:36 +0000</pubDate>
+      <guid>http://localhost:1313/?p=63058/</guid>
+      <description>Se conheces o nosso trabalho, sabes que todos os custos associados aos nossos directos, são cobertos pelos nosso ninjas (livestreamers) e queremos muito alargar a nossa equipas bem como ajudar os nosso ninjas com esses custos.&#xA;Felizmente ao longo dos anos tivemos capacidade para ir melhorando o nosso equipamento ao longo destes quase 11 anos de convivência nas ruas mas estamos sempre abertos donativos para aligeirar os custos que os nosso ninjas suportam ao longo destes anos.</description>
+    </item>
+  </channel>
+</rss>

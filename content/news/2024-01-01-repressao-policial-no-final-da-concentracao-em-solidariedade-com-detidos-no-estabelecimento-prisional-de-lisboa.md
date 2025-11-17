@@ -1,0 +1,121 @@
+---
+title: Repressão Policial no final da Concentração em Solidariedade com Detidos no Estabelecimento Prisional de Lisboa.
+author: Publicação Comunitária
+type: post
+date: 2024-01-01T13:48:45+00:00
+url: /?p=215388
+enclosure:
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2024/01/video_2024-01-01_13-03-59-6198412.mp4
+        46954667
+        video/mp4
+        
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2024/01/video_2024-01-01_13-04-43-7835339.mp4
+        36060325
+        video/mp4
+        
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2024/01/video_2024-01-01_13-06-28-6084477.mp4
+        11178803
+        video/mp4
+        
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2024/01/video_2024-01-01_13-07-10-3483926.mp4
+        5912599
+        video/mp4
+        
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2024/01/video_2024-01-01_13-07-15-7546296.mp4
+        6894066
+        video/mp4
+        
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111681011516225106
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Discriminação
+  - Guerra e Paz
+  - Indymedia
+  - Repressão
+tags:
+  - AltPT
+  - Indymedia
+  - Lisboa
+  - Repressão Policial
+  - Vozes de Dentro
+
+---
+ 
+
+Ontem, 31 de Dezembro, repetiu-se a vigília em solidariedade com os detidos em todo o mundo em especial em Portugal e tendo em conta a situação na Palestina com os milhares de Palestinianos detidos em Israel e em especial as mais de 500 crianças Palestinianas julgadas nesse país.
+
+Apesar de uma concentração tranquila e sem quaisquer incidentes e provocações, por algum motivo ainda por perceber, um agente abordou a pessoa que tinha convocado a manifestação a exigir a sua identificação, algo a que ele se recusou o que provocou a situação que podes ver no vídeo abaixo.<figure class="wp-block-video"><video controls src="http://localhost:8000/wp-content/uploads/2024/01/video\_2024-01-01\_13-03-59-6198412.mp4"></video></figure> 
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    Ontem, no final da manifestação contra todas as prisões, chamada pelas @vozes_dedentro e à qual aderiram vários coletivos solidários com luta da Palestina (como o @libertacaopalestina ou a @palestinaemportugues) um companheiro foi detido violentamente por vários polícias de uma Equipa de Intervenção Rápida, uma parte não identificados, sem nunca darem informação sobre quem estava a comandar a operação.
+  </p>
+  
+  <p>
+    Quando comecei a gravar a cena, um deles descarregou bastonadas sem qualquer razão, mesmo depois de me ter identificado repetidamente como jornalista. Enquanto isso, empurravam outra gente, ameaçando com mais brutalidade. Mais tarde, um outro roubou-me temporariamente telemóvel apenas porque estava a filmar.
+  </p>
+  
+  <p>
+    Mais de duas horas depois, o companheiro que foi detido saiu da esquadra em liberdade e com saúde. Mas a ironia da noite ninguém lha tira: numa manifestação contra a opressão do estado, o estado deixou bem claro porque ali estávamos, levando um de nós para dentro dos muros. Pois, voltaremos.&#8221;
+  </p>
+  
+  <cite>Elemento do CMI &#8211; Indymedia Portugal presente no local.</cite>
+</blockquote>
+
+Para além do que aparenta ser uma total desproporcionalidade de uso de força na detenção de uma pessoa, tal como aconteceu com a repressão imposta aos estudantes no mês de Novembro, fica igualmente evidente a falta de identificação de alguns agentes da Equipa Intervenção Rápida bem como o ignorar por parte dos agentes para a identificação do responsável por aquela operação quando solicitada por um jornalista, situação idêntica ao ocorrido na Manifestação pela Palestina em Outubro na Praça do Martim Moniz.
+
+Tem vindo a ser crescente a repressão pelas forças de Polícia em Portugal, seja com a presença excessiva de elementos da policia altamente armados e o recurso a drones para acompanhar os protestos como registado na Manifestação Resistência Climática em Lisboa no passado 9 de Dezembro em Lisboa, seja com a detenção de Assessores de Imprensa e uso desproporcional de força que resultou num menor ferido na recente Visita de Estudo ao Ministério do Ambiente em Novembro em Lisboa, tudo isto numa altura em que esta a julgamento o caso de Violência Policial da Cláudia Simões.
+
+Aparte de tudo isto ontem cerca de 50 pessoas marcaram presença por volta das 16h30 a frente do Estabelecimento Prisional de Lisboa para mostrar a sua solidariedade com aqueles que iniciam mais uma ano atrás das grades por este mundo fora.
+
+Espreita o site do Vozes de Dentro para leres o manifesto do protesto e espreita as fotos e vídeos que captamos do protesto.
+
+<https://vozesdedentro.noblogs.org/post/2023/12/15/pelo-fim-de-todas-as-prisoes-e-pela-palestina-livre/><figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-235 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img data-id="215390" alt='photo_2024-01-01_13-04-47-8028444-1024x768-3635530-8405446-7987528' alt='photo_2024-01-01_13-04-47-8028444-1024x768-3635530-8405446' alt='photo_2024-01-01_13-04-47-8028444-1024x768-3635530' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-04-47-8028444-1024x768-3635530-8405446-7987528.jpg' class="wp-image-215390" /> </figure> <figure class="wp-block-image size-large"><img data-id="215392" alt='photo_2024-01-01_13-05-07-6123898-768x1024-2849963-9865938-5589864' alt='photo_2024-01-01_13-05-07-6123898-768x1024-2849963-9865938' alt='photo_2024-01-01_13-05-07-6123898-768x1024-2849963' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-05-07-6123898-768x1024-2849963-9865938-5589864.jpg' class="wp-image-215392" /></figure> <figure class="wp-block-image size-large"><img data-id="215395" alt='photo_2024-01-01_13-05-10-2401919-1024x768-5184620-3801299-8065588' alt='photo_2024-01-01_13-05-10-2401919-1024x768-5184620-3801299' alt='photo_2024-01-01_13-05-10-2401919-1024x768-5184620' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-05-10-2401919-1024x768-5184620-3801299-8065588.jpg' class="wp-image-215395" /></figure> <figure class="wp-block-image size-large"><img data-id="215394" alt='photo_2024-01-01_13-05-14-1986432-1024x768-2353763-8014178-5140684' alt='photo_2024-01-01_13-05-14-1986432-1024x768-2353763-8014178' alt='photo_2024-01-01_13-05-14-1986432-1024x768-2353763' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-05-14-1986432-1024x768-2353763-8014178-5140684.jpg' class="wp-image-215394" /></figure> <figure class="wp-block-image size-large"><img data-id="215393" alt='photo_2024-01-01_13-05-18-9095296-768x1024-1797598-5653425-9437258' alt='photo_2024-01-01_13-05-18-9095296-768x1024-1797598-5653425' alt='photo_2024-01-01_13-05-18-9095296-768x1024-1797598' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-05-18-9095296-768x1024-1797598-5653425-9437258.jpg' class="wp-image-215393" /></figure> <figure class="wp-block-image size-large"><img data-id="215391" alt='photo_2024-01-01_13-05-22-5098224-1024x768-3561031-2692988-1559799' alt='photo_2024-01-01_13-05-22-5098224-1024x768-3561031-2692988' alt='photo_2024-01-01_13-05-22-5098224-1024x768-3561031' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-05-22-5098224-1024x768-3561031-2692988-1559799.jpg' class="wp-image-215391" /></figure> <figure class="wp-block-image size-large"><img data-id="215396" alt='photo_2024-01-01_13-05-25-2777032-1024x768-6445292-4043876-5876945' alt='photo_2024-01-01_13-05-25-2777032-1024x768-6445292-4043876' alt='photo_2024-01-01_13-05-25-2777032-1024x768-6445292' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-05-25-2777032-1024x768-6445292-4043876-5876945.jpg' class="wp-image-215396" /></figure> <figure class="wp-block-image size-large"><img data-id="215397" alt='photo_2024-01-01_13-05-29-1721170-1024x768-2218797-8871596-7920871' alt='photo_2024-01-01_13-05-29-1721170-1024x768-2218797-8871596' alt='photo_2024-01-01_13-05-29-1721170-1024x768-2218797' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-05-29-1721170-1024x768-2218797-8871596-7920871.jpg' class="wp-image-215397" /></figure> <figure class="wp-block-image size-large"><img data-id="215399" alt='photo_2024-01-01_13-05-33-2675744-1024x768-5555092-8254077-2018499' alt='photo_2024-01-01_13-05-33-2675744-1024x768-5555092-8254077' alt='photo_2024-01-01_13-05-33-2675744-1024x768-5555092' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-05-33-2675744-1024x768-5555092-8254077-2018499.jpg' class="wp-image-215399" /></figure> <figure class="wp-block-image size-large"><img data-id="215400" alt='photo_2024-01-01_13-05-37-1173583-1024x768-7116512-8794954-9291180' alt='photo_2024-01-01_13-05-37-1173583-1024x768-7116512-8794954' alt='photo_2024-01-01_13-05-37-1173583-1024x768-7116512' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-05-37-1173583-1024x768-7116512-8794954-9291180.jpg' class="wp-image-215400" /></figure> <figure class="wp-block-image size-large"><img data-id="215398" alt='photo_2024-01-01_13-05-40-9122970-1024x768-1237554-8681626-5047890' alt='photo_2024-01-01_13-05-40-9122970-1024x768-1237554-8681626' alt='photo_2024-01-01_13-05-40-9122970-1024x768-1237554' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-05-40-9122970-1024x768-1237554-8681626-5047890.jpg' class="wp-image-215398" /></figure> <figure class="wp-block-image size-large"><img data-id="215402" alt='photo_2024-01-01_13-05-45-6236145-1024x768-5045533-3565336-3961770' alt='photo_2024-01-01_13-05-45-6236145-1024x768-5045533-3565336' alt='photo_2024-01-01_13-05-45-6236145-1024x768-5045533' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-05-45-6236145-1024x768-5045533-3565336-3961770.jpg' class="wp-image-215402" /></figure> <figure class="wp-block-image size-large"><img data-id="215401" alt='photo_2024-01-01_13-05-49-6488249-1024x768-3522650-1803844-8088875' alt='photo_2024-01-01_13-05-49-6488249-1024x768-3522650-1803844' alt='photo_2024-01-01_13-05-49-6488249-1024x768-3522650' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-05-49-6488249-1024x768-3522650-1803844-8088875.jpg' class="wp-image-215401" /></figure> <figure class="wp-block-image size-large"><img data-id="215403" alt='photo_2024-01-01_13-05-54-9050016-1024x768-8256958-4943644-9763650' alt='photo_2024-01-01_13-05-54-9050016-1024x768-8256958-4943644' alt='photo_2024-01-01_13-05-54-9050016-1024x768-8256958' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-05-54-9050016-1024x768-8256958-4943644-9763650.jpg' class="wp-image-215403" /></figure> <figure class="wp-block-image size-large"><img data-id="215405" alt='photo_2024-01-01_13-05-59-1018812-768x1024-6139327-5464314-9725304' alt='photo_2024-01-01_13-05-59-1018812-768x1024-6139327-5464314' alt='photo_2024-01-01_13-05-59-1018812-768x1024-6139327' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-05-59-1018812-768x1024-6139327-5464314-9725304.jpg' class="wp-image-215405" /></figure> <figure class="wp-block-image size-large"><img data-id="215406" alt='photo_2024-01-01_13-06-03-3250176-768x1024-9970669-1369560-2298553' alt='photo_2024-01-01_13-06-03-3250176-768x1024-9970669-1369560' alt='photo_2024-01-01_13-06-03-3250176-768x1024-9970669' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-06-03-3250176-768x1024-9970669-1369560-2298553.jpg' class="wp-image-215406" /></figure> <figure class="wp-block-image size-large"><img data-id="215404" alt='photo_2024-01-01_13-06-06-4292260-1024x768-5864469-6318760-2526202' alt='photo_2024-01-01_13-06-06-4292260-1024x768-5864469-6318760' alt='photo_2024-01-01_13-06-06-4292260-1024x768-5864469' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-06-06-4292260-1024x768-5864469-6318760-2526202.jpg' class="wp-image-215404" /></figure> <figure class="wp-block-image size-large"><img data-id="215407" alt='photo_2024-01-01_13-06-09-8438066-768x1024-9545828-6312110-4655591' alt='photo_2024-01-01_13-06-09-8438066-768x1024-9545828-6312110' alt='photo_2024-01-01_13-06-09-8438066-768x1024-9545828' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-06-09-8438066-768x1024-9545828-6312110-4655591.jpg' class="wp-image-215407" /></figure> <figure class="wp-block-image size-large"><img data-id="215408" alt='photo_2024-01-01_13-06-12-9626726-768x1024-2835423-5040364-9983063' alt='photo_2024-01-01_13-06-12-9626726-768x1024-2835423-5040364' alt='photo_2024-01-01_13-06-12-9626726-768x1024-2835423' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-06-12-9626726-768x1024-2835423-5040364-9983063.jpg' class="wp-image-215408" /></figure> <figure class="wp-block-image size-large"><img data-id="215409" alt='photo_2024-01-01_13-06-16-4601502-768x1024-5521314-2683094-9258454' alt='photo_2024-01-01_13-06-16-4601502-768x1024-5521314-2683094' alt='photo_2024-01-01_13-06-16-4601502-768x1024-5521314' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-06-16-4601502-768x1024-5521314-2683094-9258454.jpg' class="wp-image-215409" /></figure> <figure class="wp-block-image size-large"><img data-id="215410" alt='photo_2024-01-01_13-06-22-8939026-768x1024-8626330-5053833-8368009' alt='photo_2024-01-01_13-06-22-8939026-768x1024-8626330-5053833' alt='photo_2024-01-01_13-06-22-8939026-768x1024-8626330' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-06-22-8939026-768x1024-8626330-5053833-8368009.jpg' class="wp-image-215410" /></figure> <figure class="wp-block-image size-large"><img data-id="215412" alt='photo_2024-01-01_13-06-34-3694793-1024x768-5230067-6137784-2731406' alt='photo_2024-01-01_13-06-34-3694793-1024x768-5230067-6137784' alt='photo_2024-01-01_13-06-34-3694793-1024x768-5230067' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-06-34-3694793-1024x768-5230067-6137784-2731406.jpg' class="wp-image-215412" /></figure> <figure class="wp-block-image size-large"><img data-id="215413" alt='photo_2024-01-01_13-06-38-9549105-768x1024-7193575-9072841-5239776' alt='photo_2024-01-01_13-06-38-9549105-768x1024-7193575-9072841' alt='photo_2024-01-01_13-06-38-9549105-768x1024-7193575' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-06-38-9549105-768x1024-7193575-9072841-5239776.jpg' class="wp-image-215413" /></figure> <figure class="wp-block-image size-large"><img data-id="215411" alt='photo_2024-01-01_13-06-41-1250640-1024x768-6257096-6198457-5045663' alt='photo_2024-01-01_13-06-41-1250640-1024x768-6257096-6198457' alt='photo_2024-01-01_13-06-41-1250640-1024x768-6257096' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-06-41-1250640-1024x768-6257096-6198457-5045663.jpg' class="wp-image-215411" /></figure> <figure class="wp-block-image size-large"><img data-id="215414" alt='photo_2024-01-01_13-06-45-1448211-1024x768-8314884-9481716-9534789' alt='photo_2024-01-01_13-06-45-1448211-1024x768-8314884-9481716' alt='photo_2024-01-01_13-06-45-1448211-1024x768-8314884' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-06-45-1448211-1024x768-8314884-9481716-9534789.jpg' class="wp-image-215414" /></figure> <figure class="wp-block-image size-large"><img data-id="215415" alt='photo_2024-01-01_13-06-48-7155275-1024x768-4554759-8401942-2545923' alt='photo_2024-01-01_13-06-48-7155275-1024x768-4554759-8401942' alt='photo_2024-01-01_13-06-48-7155275-1024x768-4554759' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-06-48-7155275-1024x768-4554759-8401942-2545923.jpg' class="wp-image-215415" /></figure> <figure class="wp-block-image size-large"><img data-id="215416" alt='photo_2024-01-01_13-06-53-8252080-1024x768-4272250-8226422-1690807' alt='photo_2024-01-01_13-06-53-8252080-1024x768-4272250-8226422' alt='photo_2024-01-01_13-06-53-8252080-1024x768-4272250' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-01_13-06-53-8252080-1024x768-4272250-8226422-1690807.jpg' class="wp-image-215416" /></figure> </figure> <figure class="wp-block-video"><video controls src="http://localhost:8000/wp-content/uploads/2024/01/video\_2024-01-01\_13-04-43-7835339.mp4"></video></figure> <figure class="wp-block-video"><video controls src="http://localhost:8000/wp-content/uploads/2024/01/video\_2024-01-01\_13-06-28-6084477.mp4"></video></figure> 
+
+Mas esta ação de solidariedade não se restringiu a Lisboa e também em Coimbra houve uma concentração pelo mesmo assunto.
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    Coimbra // Concentração contra todas as prisões e pela Palestina Livre
+  </p>
+  
+  <p>
+    &#8220;Hoje, juntamo-nos às companheiras da luta anti-carcerária para, neste último dia do ano, dizer aos presos que não os esquecemos, que não estão sozinhos
+  </p>
+  
+  <p>
+    Também não esquecemos os 8 mil palestinianos presos nas prisões israelitas, nem as 500 crianças que todos os anos passam pelos tribunais militares da ocupação israelita.
+  </p>
+  
+  <p>
+    De Coimbra à Palestina Ocupada, abaixo os muros de todas as prisões!
+  </p>
+  
+  <p>
+    Palestina Vencerá!&#8221;
+  </p>
+  
+  <p>
+    via Coimbra pela Palestina
+  </p>
+  
+  <cite><a href="https://guilhotina.info/">guilhotina.info</a></cite>
+</blockquote><figure class="wp-block-video"><video controls src="http://localhost:8000/wp-content/uploads/2024/01/video\_2024-01-01\_13-07-10-3483926.mp4"></video></figure> <figure class="wp-block-video"><video controls src="http://localhost:8000/wp-content/uploads/2024/01/video\_2024-01-01\_13-07-15-7546296.mp4"></video></figure> 
+
+Pela soberania da informação.

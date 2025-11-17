@@ -1,0 +1,226 @@
+---
+title: 'Reportagem Indymedia: “O CARNAVAL NÃO PEDE LICENÇA, O CARNAVAL PEDE PASSAGEM!”'
+author: Publicação Comunitária
+type: post
+date: 2024-02-15T12:25:04+00:00
+url: /?p=218906
+activitypub_status:
+  - federated
+enclosure:
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2024/02/video_2024-02-14_16-50-38-1435324.mp4
+        34026423
+        video/mp4
+        
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2024/02/video_2024-02-14_16-50-51-1706301.mp4
+        10339513
+        video/mp4
+        
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2024/02/video_2024-02-14_16-51-02-8771555.mp4
+        6510571
+        video/mp4
+        
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2024/02/video_2024-02-15_12-53-15-4140154.mp4
+        1665698
+        video/mp4
+        
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2024/02/video_2024-02-15_12-53-18-9374929.mp4
+        1825621
+        video/mp4
+        
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+tags:
+  - AltPT
+  - Indymedia
+  - Lisboa
+  - Protesto
+  - PTrevolutionTV
+
+---
+Nos últimos dias, vários blocos de Carnaval de Rua saíram \`às ruas de Lisboa, e maior parte deles como forma de protesto contra aquilo que afirmam como uma tentativa de comercialização do Carnaval de Rua, e um ataque à diversidade que tanto é celebrada nesta época do ano.
+
+“O CARNAVAL NÃO PEDE LICENÇA, O CARNAVAL PEDE PASSAGEM!”
+
+Esta frase foi criada em 2018, na primeira vez em que a Colombina Clandestina teve o seu direito de ocupação do espaço público negado, e levamos às ruas de Lisboa o nosso Carnaval Manifesta!
+
+Na passada semana, a União de Blocos de Carnaval de Rua de Lisboa fizeram o seguinte comunicado:
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    A União de Blocos de Carnaval de Rua de Lisboa tem estado empenhada na definição de uma política pública para o Carnaval de Lisboa, assente no interesse público e coletivo que a data tem para a comunidade brasileira. Através de uma petição pública com quase 2 mil assinaturas discutida na Assembleia Municipal e da apresentação de um projeto unificado e organizado para o Carnaval, defendemos junto das autoridades administrativas a gratuitidade do acesso à rua para as celebrações carnavalescas que são promovidas por coletivos sem fins lucrativos.
+  </p>
+  
+  <p>
+    Porém, mesmo com a abertura de canais de diálogo com as autoridades competentes, apoio institucional da Embaixada do Brasil, manifestações públicas com a participação de centenas de pessoas, e a total disponibilidade dos blocos para buscar soluções, as exigências só aumentaram e os custos para os blocos de carnaval em 2024 ultrapassam 20.000 euros. Em função disso, 7 cortejos e concentrações programados para este ano já foram cancelados. Provavelmente nos próximos dias outros serão.
+  </p>
+  
+  <cite><a href="http://localhost:8000/2024/02/09/comunicado-da-uniao-dos-blocos-de-carnaval-de-rua-de-lisboa/">http://localhost:8000/2024/02/09/comunicado-da-uniao-dos-blocos-de-carnaval-de-rua-de-lisboa/</a></cite>
+</blockquote>
+
+Nós também saímos à rua e marcámos presença em alguns destes cortejos, é o resultado da reportagem de alguns elementos da equipa da Indymedia Portugal que deixamos abaixo.
+
+No dia 10 de Fevereiro saiu à rua o Bloco da Colombina Clandestina com o seguinte comunicado:<figure class="wp-block-image size-large">
+
+<img alt='426680011_357163937125960_2607351139844109986_n-1110963-1024x1024-8748041-4174548-8938415' alt='426680011_357163937125960_2607351139844109986_n-1110963-1024x1024-8748041-4174548' alt='426680011_357163937125960_2607351139844109986_n-1110963-1024x1024-8748041' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/426680011_357163937125960_2607351139844109986_n-1110963-1024x1024-8748041-4174548-8938415.jpg' class="wp-image-218907" /> </figure> 
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    Nestes 7 anos de Carnaval da Colombina, tentamos criar diálogo com a&nbsp;<a href="https://www.instagram.com/camara_municipal_lisboa/?hl=en">@camara_municipal_lisboa</a>&nbsp;e sua Direção Municipal de Cultura, que durante anos não nos respondeu os e-mails enviados. Foi neste contexto que a partir de 2022, nós passamos a ter os nossos avisos de manifestação negados e passados a ser enquadrados enquanto evento pela CML e PSP.
+  </p>
+  
+  <p>
+    👉 2024:<br />Após inúmeras reuniões com a CML, PSP, Juntas de Freguesia, Espaço Público, Mobilidade e todas as áreas envolvidadas, continuamos na mesma. Tivemos o nosso trajeto de cortejo cortado drasticamente a fim de diminuir o impacto no trânsito e dimunir o custos, mas isso não aconteceu: de 2.400€ pagos em 2023 para um percurso bem mais longo, recebemos ontem o orçamento de 3.800€ para concentrar no Mercado de Sapadores e irmos em cortejo até o Largo da Graça. Soma-se a este 1.600€ para contenção de ordem publica. Apenas um dos exemplos de como temos sido impedidos de sair às ruas.
+  </p>
+  
+  <p>
+    Todos os documentos solicitados para a Colombina Clandestina sair às ruas foram enviados 3x à CML que nem se dava ao trabalho de conferi-lo.
+  </p>
+  
+  <p>
+    A 1 dia do evento não havíamos ainda recebido sequer a confirmação do apoio para com a higienização urbana, varredura de ruas e colocação de caixotes de lixo. A população de&nbsp;<a href="https://www.instagram.com/jfsaovicente/?hl=en">@jfsaovicente</a>&nbsp;precisa saber que há dois anos que temos vindo solicitar o vosso apoio e que o lixo, a sujeira e a falta de estrutura exibida no Carnaval é de responsabilidade da CML.
+  </p>
+  
+  <p>
+    Sendo assim, a Colombina informa que, por conta da falta de comprometimento, apoio e má gestão do processo por parte da CML, que em mais de 7 meses de reuniões não consegue nos dar respostas claras a 1 dia do evento, apresentando a cada troca de e-mails novas e adicionais exigencias não listadas inicialmente e cada um com custos altíssimos associados, a Colombina manifestará nas ruas no 10 de fevereiro pelo seu direito de ocupação do espaço público e defesa da cultura imigrante em Lisboa.
+  </p>
+  
+  <cite><a href="https://www.instagram.com/p/C3IhWIjsjum/?hl=en&img_index=1">https://www.instagram.com/p/C3IhWIjsjum/?hl=en&img_index=1</a></cite>
+</blockquote>
+
+<ul class="wp-block-list">
+  <li>
+    Foto Reportagem da Equipa Indymedia Portugal
+  </li>
+</ul><figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-263 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img data-id="218910" alt='columbina-1-6105286-1024x680-3017690-3761402-3332552' alt='columbina-1-6105286-1024x680-3017690-3761402' alt='columbina-1-6105286-1024x680-3017690' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/Columbina-1-6105286-1024x680-3017690-3761402-3332552.jpg' class="wp-image-218910" /> </figure> <figure class="wp-block-image size-large"><img data-id="218911" alt='columbina-8704616-1024x680-2437907-7257581-4555829' alt='columbina-8704616-1024x680-2437907-7257581' alt='columbina-8704616-1024x680-2437907' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/Columbina-8704616-1024x680-2437907-7257581-4555829.jpg' class="wp-image-218911" /></figure> <figure class="wp-block-image size-large"><img data-id="218912" alt='photo_2024-02-14_13-45-56-5402180-1024x680-1945935-1840509-6711380' alt='photo_2024-02-14_13-45-56-5402180-1024x680-1945935-1840509' alt='photo_2024-02-14_13-45-56-5402180-1024x680-1945935' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/photo_2024-02-14_13-45-56-5402180-1024x680-1945935-1840509-6711380.jpg' class="wp-image-218912" /></figure> <figure class="wp-block-image size-large"><img data-id="218913" alt='photo_2024-02-14_13-45-57-5384162-1024x680-2591027-2549867-5460181' alt='photo_2024-02-14_13-45-57-5384162-1024x680-2591027-2549867' alt='photo_2024-02-14_13-45-57-5384162-1024x680-2591027' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/photo_2024-02-14_13-45-57-5384162-1024x680-2591027-2549867-5460181.jpg' class="wp-image-218913" /></figure> <figure class="wp-block-image size-large"><img data-id="218914" alt='photo_2024-02-14_13-46-00-9632646-1024x680-8478621-1650844-1822434' alt='photo_2024-02-14_13-46-00-9632646-1024x680-8478621-1650844' alt='photo_2024-02-14_13-46-00-9632646-1024x680-8478621' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/photo_2024-02-14_13-46-00-9632646-1024x680-8478621-1650844-1822434.jpg' class="wp-image-218914" /></figure> <figure class="wp-block-image size-large"><img data-id="218917" alt='photo_2024-02-14_13-46-02-1822901-1024x680-3003965-5604118-7485678' alt='photo_2024-02-14_13-46-02-1822901-1024x680-3003965-5604118' alt='photo_2024-02-14_13-46-02-1822901-1024x680-3003965' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/photo_2024-02-14_13-46-02-1822901-1024x680-3003965-5604118-7485678.jpg' class="wp-image-218917" /></figure> <figure class="wp-block-image size-large"><img data-id="218918" alt='photo_2024-02-14_13-46-15-2613382-1024x680-6955354-6393220-2318934' alt='photo_2024-02-14_13-46-15-2613382-1024x680-6955354-6393220' alt='photo_2024-02-14_13-46-15-2613382-1024x680-6955354' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/photo_2024-02-14_13-46-15-2613382-1024x680-6955354-6393220-2318934.jpg' class="wp-image-218918" /></figure> <figure class="wp-block-image size-large"><img data-id="218915" alt='photo_2024-02-14_13-46-17-8414071-1024x680-7291400-3041126-2173985' alt='photo_2024-02-14_13-46-17-8414071-1024x680-7291400-3041126' alt='photo_2024-02-14_13-46-17-8414071-1024x680-7291400' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/photo_2024-02-14_13-46-17-8414071-1024x680-7291400-3041126-2173985.jpg' class="wp-image-218915" /></figure> <figure class="wp-block-image size-large"><img data-id="218916" alt='photo_2024-02-14_13-46-34-1125619-1024x680-4303928-9843085-5144455' alt='photo_2024-02-14_13-46-34-1125619-1024x680-4303928-9843085' alt='photo_2024-02-14_13-46-34-1125619-1024x680-4303928' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/photo_2024-02-14_13-46-34-1125619-1024x680-4303928-9843085-5144455.jpg' class="wp-image-218916" /></figure> <figure class="wp-block-image size-large"><img data-id="218926" alt='photo_2024-02-14_13-46-46-8814263-1024x680-2370765-4032107-8973743' alt='photo_2024-02-14_13-46-46-8814263-1024x680-2370765-4032107' alt='photo_2024-02-14_13-46-46-8814263-1024x680-2370765' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/photo_2024-02-14_13-46-46-8814263-1024x680-2370765-4032107-8973743.jpg' class="wp-image-218926" /></figure> <figure class="wp-block-image size-large"><img data-id="218919" alt='photo_2024-02-14_13-46-54-8477535-1024x680-3277993-9225747-4974689' alt='photo_2024-02-14_13-46-54-8477535-1024x680-3277993-9225747' alt='photo_2024-02-14_13-46-54-8477535-1024x680-3277993' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/photo_2024-02-14_13-46-54-8477535-1024x680-3277993-9225747-4974689.jpg' class="wp-image-218919" /></figure> <figure class="wp-block-image size-large"><img data-id="218924" alt='photo_2024-02-14_13-47-08-4588484-1024x680-7625131-2794075-2056232' alt='photo_2024-02-14_13-47-08-4588484-1024x680-7625131-2794075' alt='photo_2024-02-14_13-47-08-4588484-1024x680-7625131' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/photo_2024-02-14_13-47-08-4588484-1024x680-7625131-2794075-2056232.jpg' class="wp-image-218924" /></figure> <figure class="wp-block-image size-large"><img data-id="218922" alt='photo_2024-02-14_14-39-53-2951771-1024x680-6280848-3705028-1320755' alt='photo_2024-02-14_14-39-53-2951771-1024x680-6280848-3705028' alt='photo_2024-02-14_14-39-53-2951771-1024x680-6280848' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/photo_2024-02-14_14-39-53-2951771-1024x680-6280848-3705028-1320755.jpg' class="wp-image-218922" /></figure> <figure class="wp-block-image size-large"><img data-id="218921" alt='photo_2024-02-14_14-40-06-9844502-1024x680-8625001-4525213-8543656' alt='photo_2024-02-14_14-40-06-9844502-1024x680-8625001-4525213' alt='photo_2024-02-14_14-40-06-9844502-1024x680-8625001' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/photo_2024-02-14_14-40-06-9844502-1024x680-8625001-4525213-8543656.jpg' class="wp-image-218921" /></figure> <figure class="wp-block-image size-large"><img data-id="218920" alt='photo_2024-02-14_14-40-10-1161759-1024x680-7823039-4154875-6431041' alt='photo_2024-02-14_14-40-10-1161759-1024x680-7823039-4154875' alt='photo_2024-02-14_14-40-10-1161759-1024x680-7823039' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/photo_2024-02-14_14-40-10-1161759-1024x680-7823039-4154875-6431041.jpg' class="wp-image-218920" /></figure> <figure class="wp-block-image size-large"><img data-id="218923" alt='photo_2024-02-14_14-41-30-9106520-1024x680-4702874-9663437-9499728' alt='photo_2024-02-14_14-41-30-9106520-1024x680-4702874-9663437' alt='photo_2024-02-14_14-41-30-9106520-1024x680-4702874' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/photo_2024-02-14_14-41-30-9106520-1024x680-4702874-9663437-9499728.jpg' class="wp-image-218923" /></figure> <figure class="wp-block-image size-large"><img data-id="218925" alt='photo_2024-02-14_14-41-45-4458127-1024x680-6765635-4216928-5874288' alt='photo_2024-02-14_14-41-45-4458127-1024x680-6765635-4216928' alt='photo_2024-02-14_14-41-45-4458127-1024x680-6765635' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/photo_2024-02-14_14-41-45-4458127-1024x680-6765635-4216928-5874288.jpg' class="wp-image-218925" /></figure> </figure> 
+
+imagens: [https://www.instagram.com/vasco\_m\_l/][1]
+
+No dia 11 saímos à rua com o Baque do Tejo e o Baque da Mulher mais uma vez em protesto.<figure class="wp-block-image size-large">
+
+[<img alt='427024393_18310029334133924_7619584072436648736_n-4701818-819x1024-4282781-4908058-7581236' alt='427024393_18310029334133924_7619584072436648736_n-4701818-819x1024-4282781-4908058' alt='427024393_18310029334133924_7619584072436648736_n-4701818-819x1024-4282781' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/427024393_18310029334133924_7619584072436648736_n-4701818-819x1024-4282781-4908058-7581236.jpg' class="wp-image-218908" />][2]</figure> 
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    &nbsp;Atenção, mudanças no Carnaval do Baque do Tejo e do Baque Mulher Lisboa!&nbsp;
+  </p>
+  
+  <p>
+    Amanhã, os cortejos do Baque do Tejo e do Baque Mulher Lisboa serão em forma de manifestação!<br />Para além dos custos absurdos que nos eram exigidos pela CML para o licenciamento do nosso desfile, sobretudo referentes à contratação de serviços de policiamento, nas últimas semanas a negligência da CML para com os grupos carnavalescos atingiu ao nível do boicote. Por total&nbsp;ineficácia e descaso dos serviços administrativos nesta reta final, chegamos ao carnaval sem nenhum parecer final necessário para o licenciamento. Por isso, convocamos ao protesto.
+  </p>
+  
+  <p>
+    Sairemos com faixas e cartazes pela liberdade da cultura na rua! Te convidamos a fazer o mesmo porque esta é uma luta de todos! Contra a privatização do espaço público e a xenofobia! A maior comunidade imigrante deste país tem direito a celebrar sua cultura!
+  </p>
+  
+  <p>
+    Carlos Moedas, atual presidente da Câmara Municipal de Lisboa, recebeu o carnaval de Torres Vedras em Lisboa na Avenida da Liberdade no último 3 de fevereiro.&nbsp;Enquanto isso, impede o carnaval brasileiro&nbsp;de&nbsp;acontecer!
+  </p>
+  
+  <p>
+    Com a mudança do cortejo para formato de MANIFESTAÇÃO PÚBLICA, nosso trajeto mudou! Mas a FESTA INDEPENDENTE VAI ACONTECER! Onde? Na&nbsp;<a href="https://www.instagram.com/casa_independente/">@casa_independente</a>, com&nbsp;<a href="https://www.instagram.com/gira.coletivo/">@gira.coletivo</a><a href="https://www.instagram.com/sapatrux/">@sapatrux</a><a href="https://www.instagram.com/iamdidibee/">@iamdidibee</a>&nbsp;a partir das 19h! Link pra compra na nossa bio! Festa de realização da&nbsp;<a href="https://www.instagram.com/valsavalsavalsa/">@valsavalsavalsa</a>&nbsp;e&nbsp;<a href="https://www.instagram.com/iamdidibee/">@iamdidibee</a>!
+  </p>
+  
+  <p>
+    O Carnaval tem seus direitos! Quem não pode com ele não se meta!
+  </p>
+  
+  <p>
+    Quem foi, quem disse que o Baque não saía? Baque do Tejo tá na rua com prazer e alegria!
+  </p>
+  
+  <p>
+    NOS VEMOS AMANHÃ A PARTIR DAS 13H! BORA CELEBRAR E VIVER O CARNAVAL JUNTES!
+  </p>
+  
+  <p>
+    <a href="https://www.instagram.com/explore/tags/baquedotejo/">#baquedotejo</a><a href="https://www.instagram.com/explore/tags/baquemulherlisboa/">#baquemulherlisboa</a><a href="https://www.instagram.com/explore/tags/carnaval/">#carnaval</a><a href="https://www.instagram.com/explore/tags/carnavalnaeuropa/">#carnavalnaeuropa</a><a href="https://www.instagram.com/explore/tags/lisboa/">#lisboa</a><a href="https://www.instagram.com/explore/tags/portugal/">#portugal</a><a href="https://www.instagram.com/explore/tags/carnaval2024/">#carnaval2024</a><a href="https://www.instagram.com/explore/tags/manifesta%C3%A7%C3%A3o/">#manifestação</a><a href="https://www.instagram.com/explore/tags/liberdadeparaaculturanarua/">#liberdadeparaaculturanarua</a>
+  </p>
+  
+  <cite><a href="https://www.instagram.com/p/C3K5mMYMPnm/?hl=en&img_index=1">https://www.instagram.com/p/C3K5mMYMPnm/?hl=en&img_index=1</a></cite>
+</blockquote>
+
+<ul class="wp-block-list">
+  <li>
+    Direto da PTrevolutionTV
+  </li>
+</ul>
+
+Vê no Invidious:&nbsp;<https://vid.puffyan.us/watch?v=cQartsOKIco>
+
+Vê no Youtube:<a href="https://youtube.com/watch?v=cQartsOKIco" target="_blank" rel="noreferrer noopener">&nbsp;https://youtube.com/watch?v=cQartsOKIco</a>
+
+No dia 12 de Fevereiro saímos a rua com o Bloco do Bacu e com a União de Blocos de Carnaval de Rua de Lisboa numa grande protesto pela Cultura Independente em Lisboa<figure class="wp-block-image size-large">
+
+[<img alt='426422654_18022306747963624_8424140646037146983_n-8464560-819x1024-1650032-2003153-2158924' alt='426422654_18022306747963624_8424140646037146983_n-8464560-819x1024-1650032-2003153' alt='426422654_18022306747963624_8424140646037146983_n-8464560-819x1024-1650032' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/426422654_18022306747963624_8424140646037146983_n-8464560-819x1024-1650032-2003153-2158924.jpg' class="wp-image-218909" />][3]</figure> 
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    Se ainda resta alguma duvida: SIM, O BLOCU SAI EM CORTEJO novamente este ano. O carnaval se faz Manifestação. Festa também é reivindicação! Na segunda feira de carnaval (12/02) a partir das 16h na Feira da Ladra (Campo de Santa Clara) a concentração e, por volta de 19h sai pelas ruas de Lisboa em direção ao Beato.<br />Nosso cortejo que é sempre politico e manifestativo dessa vez, por questões burocráticas e pela alta taxação da câmara, se une a manifestação pelo direito a Cultura Independente de Lisboa e aos coletivos Arroz Estudios, Casa T, União dos Blocos de Caraval de Rua de Lisboa, Sambacção, Viemos do Egyto.
+  </p>
+  
+  <cite><a href="https://www.instagram.com/p/C3Ieb3ysIIv/?hl=en&img_index=1">https://www.instagram.com/p/C3Ieb3ysIIv/?hl=en&img_index=1</a></cite>
+</blockquote>
+
+<ul class="wp-block-list">
+  <li>
+    Direto da PTrevolutionTV
+  </li>
+</ul>
+
+Vê no Invidious:&nbsp;<https://vid.puffyan.us/watch?v=AU8otQYhP1s>
+
+Vê no Youtube:<a href="https://youtube.com/watch?v=AU8otQYhP1s" target="_blank" rel="noreferrer noopener">&nbsp;https://youtube.com/watch?v=AU8otQYhP1s</a>
+
+<ul class="wp-block-list">
+  <li>
+    Foto Reportagem da Equipa Indymedia Portugal
+  </li>
+</ul><figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-264 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img data-id="218968" alt='20240212_175109-9272351-1024x768-7155773-2384699-8835181' alt='20240212_175109-9272351-1024x768-7155773-2384699' alt='20240212_175109-9272351-1024x768-7155773' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/20240212_175109-9272351-1024x768-7155773-2384699-8835181.jpg' class="wp-image-218968" /> </figure> <figure class="wp-block-image size-large"><img data-id="218966" alt='20240212_175756-5564745-1024x768-3746785-7487975-7973358' alt='20240212_175756-5564745-1024x768-3746785-7487975' alt='20240212_175756-5564745-1024x768-3746785' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/20240212_175756-5564745-1024x768-3746785-7487975-7973358.jpg' class="wp-image-218966" /></figure> <figure class="wp-block-image size-large"><img data-id="218967" alt='20240212_180038-3399161-1024x768-9378054-8208801-1503482' alt='20240212_180038-3399161-1024x768-9378054-8208801' alt='20240212_180038-3399161-1024x768-9378054' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/20240212_180038-3399161-1024x768-9378054-8208801-1503482.jpg' class="wp-image-218967" /></figure> <figure class="wp-block-image size-large"><img data-id="218969" alt='20240212_180144-7875757-1024x768-2373580-2184827-7249816' alt='20240212_180144-7875757-1024x768-2373580-2184827' alt='20240212_180144-7875757-1024x768-2373580' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/20240212_180144-7875757-1024x768-2373580-2184827-7249816.jpg' class="wp-image-218969" /></figure> <figure class="wp-block-image size-large"><img data-id="218970" alt='20240212_180153-5534124-1024x768-4331370-7444921-7388587' alt='20240212_180153-5534124-1024x768-4331370-7444921' alt='20240212_180153-5534124-1024x768-4331370' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/20240212_180153-5534124-1024x768-4331370-7444921-7388587.jpg' class="wp-image-218970" /></figure> <figure class="wp-block-image size-large"><img data-id="218972" alt='20240212_180318-5477602-1024x768-9237316-9404754-2687990' alt='20240212_180318-5477602-1024x768-9237316-9404754' alt='20240212_180318-5477602-1024x768-9237316' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/20240212_180318-5477602-1024x768-9237316-9404754-2687990.jpg' class="wp-image-218972" /></figure> <figure class="wp-block-image size-large"><img data-id="218974" alt='20240212_180425-1386311-1024x768-5846891-1513975-4379675' alt='20240212_180425-1386311-1024x768-5846891-1513975' alt='20240212_180425-1386311-1024x768-5846891' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/20240212_180425-1386311-1024x768-5846891-1513975-4379675.jpg' class="wp-image-218974" /></figure> <figure class="wp-block-image size-large"><img data-id="218971" alt='20240212_180537-1360376-1024x768-7985826-9092776-2168519' alt='20240212_180537-1360376-1024x768-7985826-9092776' alt='20240212_180537-1360376-1024x768-7985826' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/20240212_180537-1360376-1024x768-7985826-9092776-2168519.jpg' class="wp-image-218971" /></figure> <figure class="wp-block-image size-large"><img data-id="218975" alt='20240212_180806-5425620-1024x768-8031086-6443579-6426140' alt='20240212_180806-5425620-1024x768-8031086-6443579' alt='20240212_180806-5425620-1024x768-8031086' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/20240212_180806-5425620-1024x768-8031086-6443579-6426140.jpg' class="wp-image-218975" /></figure> <figure class="wp-block-image size-large"><img data-id="218973" alt='20240212_180853-5454803-1024x768-6700029-9345548-5586928' alt='20240212_180853-5454803-1024x768-6700029-9345548' alt='20240212_180853-5454803-1024x768-6700029' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/20240212_180853-5454803-1024x768-6700029-9345548-5586928.jpg' class="wp-image-218973" /></figure> <figure class="wp-block-image size-large"><img data-id="218976" alt='20240212_181424-3884399-1024x768-9606194-4097136-4794918' alt='20240212_181424-3884399-1024x768-9606194-4097136' alt='20240212_181424-3884399-1024x768-9606194' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/20240212_181424-3884399-1024x768-9606194-4097136-4794918.jpg' class="wp-image-218976" /></figure> <figure class="wp-block-image size-large"><img data-id="218977" alt='20240212_185443-1-8488966-1024x768-6662853-4334012-1262718' alt='20240212_185443-1-8488966-1024x768-6662853-4334012' alt='20240212_185443-1-8488966-1024x768-6662853' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/20240212_185443-1-8488966-1024x768-6662853-4334012-1262718.jpg' class="wp-image-218977" /></figure> <figure class="wp-block-image size-large"><img data-id="218979" alt='20240212_185448-1-7554692-1024x768-4566052-3912687-6087743' alt='20240212_185448-1-7554692-1024x768-4566052-3912687' alt='20240212_185448-1-7554692-1024x768-4566052' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/20240212_185448-1-7554692-1024x768-4566052-3912687-6087743.jpg' class="wp-image-218979" /></figure> <figure class="wp-block-image size-large"><img data-id="218978" alt='20240212_185514-6657185-768x1024-6956008-6547682-9335537' alt='20240212_185514-6657185-768x1024-6956008-6547682' alt='20240212_185514-6657185-768x1024-6956008' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/20240212_185514-6657185-768x1024-6956008-6547682-9335537.jpg' class="wp-image-218978" /></figure> </figure> <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-265 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large"><img data-id="219056" alt='photo_2024-02-15_12-53-11-8388974-1024x1024-2518490-2338460-9404133' alt='photo_2024-02-15_12-53-11-8388974-1024x1024-2518490-2338460' alt='photo_2024-02-15_12-53-11-8388974-1024x1024-2518490' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/photo_2024-02-15_12-53-11-8388974-1024x1024-2518490-2338460-9404133.jpg' class="wp-image-219056" /></figure> <figure class="wp-block-image size-large"><img data-id="219057" alt='photo_2024-02-15_12-55-20-8972854-1024x1024-7363475-4732041-2101470' alt='photo_2024-02-15_12-55-20-8972854-1024x1024-7363475-4732041' alt='photo_2024-02-15_12-55-20-8972854-1024x1024-7363475' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/photo_2024-02-15_12-55-20-8972854-1024x1024-7363475-4732041-2101470.jpg' class="wp-image-219057" /></figure> </figure> <figure class="wp-block-video"><video controls src="http://localhost:8000/wp-content/uploads/2024/02/video\_2024-02-15\_12-53-15-4140154.mp4"></video></figure> <figure class="wp-block-video"><video controls src="http://localhost:8000/wp-content/uploads/2024/02/video\_2024-02-15\_12-53-18-9374929.mp4"></video></figure> <figure class="wp-block-video"><video src="http://localhost:8000/wp-content/uploads/2024/02/video\_2024-02-14\_16-50-38-1435324.mp4"></video></figure> 
+
+No dia 13 de Janeiro foi a vez do Lisbloco sair a rua mais uma vez em protesto
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    Após meses de diálogo infrutífero, a CML continua a considerar o Carnaval como um evento, exigindo aos grupos carnavalescos o pagamento de taxas, seguros, licenças e pareceres para poderem desfilar nas ruas de Lisboa. Estes custos são incomportáveis para blocos e associações sócio-culturais, inviabilizando o Carnaval de Rua como expressão cultural.
+  </p>
+  
+  <p>
+    Por isso, hoje o Lisbloco fará uma manifestação, apelando às autoridades competentes pela regulamentação e criação de políticas públicas com o objetivo de facilitar expressões de arte e cultura nas ruas de Lisboa.
+  </p>
+  
+  <p>
+    A rua é das pessoas! Protestamos juntos contra a privatização do espaço público e pela liberdade da cultura na rua!<br />Tragam cartazes e faixas e juntem-se a nós na Praça do Comércio, pelo Carnaval de rua!
+  </p>
+  
+  <cite><a href="https://www.instagram.com/p/C3SvQzDMs3l/?hl=en&img_index=1">https://www.instagram.com/p/C3SvQzDMs3l/?hl=en&img_index=1</a></cite>
+</blockquote>
+
+<ul class="wp-block-list">
+  <li>
+    Vídeos da Equipa de Reportagem da Indymedia Portugal
+  </li>
+</ul><figure class="wp-block-video"><video controls src="http://localhost:8000/wp-content/uploads/2024/02/video\_2024-02-14\_16-50-51-1706301.mp4"></video></figure> <figure class="wp-block-video"><video controls src="http://localhost:8000/wp-content/uploads/2024/02/video\_2024-02-14\_16-51-02-8771555.mp4"></video></figure> 
+
+Mais uma vez, tal como já aconteceu com os Santos Populares, a CML está mais focada em usar estas celebrações populares como forma de finaciamento com a criação de taxas e taxinhas, e assim condicionar estas expressões culturais na cidade em vez de criar condições como a disponibilização de policiamento, infraestruturas adequadas para a gestão dos resíduos resultantes destas celebrações, isenção de taxas e WC’s adequados para estes atos de cultura que cada vez trazem mais pessoas às ruas da cidade.
+
+Esta postura vem só reforçar a postura de desprezo da CML para com a Cultura Independente em Lisboa com a sua total inação perante o despejo iminente, ou já realizado, fruto da gentrificação, de centro sociais e coletividades populares que compõem o tecido cultural da cidade, optando por apoiar eventos religiosos e tecnológicos que em nada contribuem para esse panorama da cidade de Lisboa.
+
+ [1]: https://www.instagram.com/vasco_m_l/
+ [2]: http://localhost:8000/2024/02/11/amanha-os-cortejos-do-baque-do-tejo-e-do-baque-mulher-lisboa-serao-em-forma-de-manifestacao/
+ [3]: http://localhost:8000/2024/02/09/comunicado-da-uniao-dos-blocos-de-carnaval-de-rua-de-lisboa/

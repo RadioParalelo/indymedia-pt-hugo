@@ -1,0 +1,90 @@
+---
+title: 'Seis estudantes detidas esta noite na FCSH: polícia atropela uma pessoa'
+author: Publicação Comunitária
+type: post
+date: 2023-11-14T08:09:13+00:00
+excerpt: Na madrugada de 14 de Novembro, a direção da FCSH chamou a policia para deter as estudantes que estavam a ocupar (e dormir) pelo fim ao fóssil.
+url: /?p=201033
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111407881334684947
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/11/video_2023-11-14_08-04-49.mp4
+        3041128
+        video/mp4
+        
+mf2_syndication:
+  - 'a:1:{i:0;s:61:"https://climatejustice.social/@indymediapt/111407893441744783";}'
+embed_privacy_thumbnail_youtube_cnLkeDSK4mE:
+  - youtube-cnLkeDSK4mE-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_cnLkeDSK4mE_url:
+  - 'https://www.youtube.com/watch?v=cnLkeDSK4mE&ab_channel=PTrevolutionTV'
+iworks_yt_thumbnails:
+  - 'a:1:{s:11:"cnLkeDSK4mE";a:5:{s:3:"url";s:55:"http://img.youtube.com/vi/cnLkeDSK4mE/maxresdefault.jpg";s:10:"secure_url";s:56:"https://img.youtube.com/vi/cnLkeDSK4mE/maxresdefault.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:4:"type";s:10:"image/jpeg";}}'
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+  - Repressão
+tags:
+  - AltPT
+  - Indymedia
+
+---
+**Esta noite, na FCSH, a polícia inrompeu na escola para deter seis estudantes que se manifestavam pelo Fim ao Fóssil. A polícia que seguia de carro com uma estudante detida, atropelou uma pessoa no caminho, resultando em vários ferimentos. As ativistas estiveram na cadeia esta noite e serão presentes a tribunal esta manhã. Uma manifestação foi convocada para a as 15h na FCSH.**
+
+Hoje, 14 DE NOVEMBRO (3af):
+
+<ul class="wp-block-list">
+  <li>
+    Vigília de apoio no tribunal. Campus da Justiça edifício F (Oriente) às 10h
+  </li>
+  <li>
+    Manifestação às 15h30 na esplanada da FCSH (Avenida de Berna)
+  </li>
+</ul>
+
+Há 15 policias a ameaças deter 6 estudantes na Faculdade de Ciências Sociais e Humanas
+
+A polícia retirou à força e deteve 6 estudantes que iam pernoitar na FCSH como forma de protesto pacífico.  
+A suposta &#8220;faculdade que luta&#8221; afinal é completamente intolerante à luta estudantil.  
+  
+Os estudantes resisitiram pacíficamente.  
+  
+**Enquanto estavam a sair da escola, um dos carros da polícia com uma estudante detida atropelou um civil. Tal é o ímpeto e pressa cega para reprimir estes jovens que estão a lutar pelo seu futuro.  
+A estudante e o civil foram assistidos pelo INEM.**<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-152 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="201092" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-14_08-17-54-1024x768.jpg" alt="" class="wp-image-201092" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="201093" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-14_02-42-08-771x1024.jpg" alt="" class="wp-image-201093" /></figure> </figure> <figure class="wp-block-image size-large"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-14_08-04-06-edited.jpg" alt="" class="wp-image-201086" /></figure> 
+
+[ESCLARECIMENTO À COMUNIDADE: REPRESSAO NA FACULDADE][1]
+
+[@fim.ao.fossil.fcsh][2]
+
+**DIRECAO DA FCSH MANDA DETER 6 ESTUDANTES QUE PROTESTAVAM PACIFICAMENTE PELO FIM AO FÓSSIL**
+
+Na madrugada de 14 de Novembro, a direção da FCSH chamou a policia para deter as estudantes que estavam a ocupar (e dormir) pelo fim ao fóssil.
+
+Condenamos a decisão da FCSH de convocar autoridades policiais em resposta as manifestantes estudantis pacificas.
+
+A &#8220;faculdade que luta&#8221; não pode aceitar detenções injustas de seus estudantes, que estavam exercendo seu direito legitimo de protesto, especialmente quando protestam por algo que devia ser garantido &#8211; o nosso futuro.
+
+A luta contra a crise climatica é uma luta pela sobrevivência.
+
+Além disso, é inaceitável que a instituição, que deveria celebrar o espírito de liberdade e luta, escolha retaliar de maneira tão violenta a revolução atual enquanto renova um mural referente ao 25 de abril. Nossas atividades eram pacíficas e educativas, contando com o apoio de professores e alunos comprometidos com a busca por um ambiente académico mais justo.
+
+É lamentável que a noite tenha terminado em caos devido à brutalidade policial, resultando em um acidente de carro que colocou em risco a vida de uma ativista, um civil e até mesmo um agente da polícia.
+
+Esperamos que a pessoa que foi atropelada esteja bem. A abordagem da polícia contou com uma ação à noite e à porta fechada, garantindo pouca visibilidade ao que se passava. Contamos com a indignação da comunidade estudantil face a esses acontecimentos e instamos a faculdade a reconsiderar suas práticas de resposta a protestos estudantis, garantindo um ambiente seguro de verdade para todes.<figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/video\_2023-11-14\_08-04-49.mp4"></video></figure> <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> <figure class="wp-block-image aligncenter size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-14_07-01-18-576x1024.jpg" alt="" class="wp-image-201053" /> </figure>
+
+ [1]: https://www.instagram.com/p/CznMeFbIDo1/?igshid=NjZiM2M3MzIxNA==
+ [2]: https://www.instagram.com/fim.ao.fossil.fcsh/

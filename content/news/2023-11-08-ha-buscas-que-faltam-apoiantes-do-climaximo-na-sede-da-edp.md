@@ -1,0 +1,45 @@
+---
+title: “Há buscas que faltam” – apoiantes do Climáximo na sede da EDP
+author: Publicação Comunitária
+type: post
+date: 2023-11-08T12:56:06+00:00
+url: /?p=159263
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111375035623914949
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - Climaximo
+  - Ecologia
+  - Protesto
+  - PTrevolutionTV
+
+---
+ 
+
+COMUNICADO  
+&#8220;Há buscas que faltam&#8221; &#8211; apoiantes do Climáximo na sede da EDP
+
+Hoje de manhã, apoiantes do Climáximo juntaram-se na sede da EDP para assinalar a desresponsabilização completa da empresa na atual crise política. Manifestantes pacíficos tentaram entrar na sede e foram travados por polícias de choque.
+
+Ontem, a população recebeu um lembrete de que nos projetos de energia o governo e as empresas trabalham em colaboração íntima e orgânica. São esses projetos em que grandes empresas multinacionais estão envolvidas. Houve buscas, detenções e demissões. A EDP está no centro desta crise política (como está no centro da crise climática em Portugal). Mas não houve buscas, detenções ou demissões na sede da EDP. Aliás, para o CEO da EDP, foi um dia tranquilo em que ganhou 5 mil euros (como ganha todos os dias).&nbsp;
+
+A manifestação de hoje trouxe ao debate público esta pergunta: se não forem as pessoas normais, quem vai responsabilizar a EDP pelos seus crimes climáticos vestidos de negócios?&nbsp;
+
+As manifestantes concentraram-se à frente da sede da empresa e fizeram várias tentativas para entrar no edifício com calma e tranquilidade, enquanto a polícia fez o seu trabalho de proteger a EDP, empurrando os manifestantes e exibindo cassetetes à frente da sede.
+
+Uma das manifestantes salientou: &#8220;Quando dizemos que os governos e as empresas declararam guerra contra a sociedade e o planeta, e quando dizemos que isto é um ato deliberado e coordenado, estamos a falar não só da aliança orgânica entre governos e empresas para destruir tudo que amamos, mas também da colaboração ativa das forças do Estado para defender as empresas das pessoas comuns.&#8221;&nbsp;
+
+O Climáximo sublinha que mudar nomes dos funcionários estatais para fazer trabalho administrativo para as empresas é uma distração. Uma responsabilização séria só será possível quando a população resistir ativamente aos crimes contra a Humanidade. Isso só é possível se houver um debate público honesto e alargado sobre o estado de guerra em que estamos por causa do colapso climático e social. Por isso, o Climáximo anuncia um novo ciclo de ações para começar no fim de novembro.
+
+Mais informação:  
+Assessoria de imprensa: Noah Zino &#8211; 911857620<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-136 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="159267" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-08_10-18-37-2-1024x755.jpg" alt="" class="wp-image-159267" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="159266" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-08_10-18-37-1-1024x790.jpg" alt="" class="wp-image-159266" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="159265" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-08_10-18-38-1024x737.jpg" alt="" class="wp-image-159265" /></figure> </figure>

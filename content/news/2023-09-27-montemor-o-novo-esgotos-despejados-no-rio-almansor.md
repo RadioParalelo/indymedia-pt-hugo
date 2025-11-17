@@ -1,0 +1,175 @@
+---
+title: '[Montemor-o-Novo] Esgotos despejados no Rio Almansor '
+author: Publicação Comunitária
+type: post
+date: 2023-09-27T00:49:56+00:00
+url: /?p=1875
+classic-editor-remember:
+  - block-editor
+categories:
+  - Ecologia e Animais
+  - Indymedia
+tags:
+  - Ecologia
+
+---
+ 
+
+**Os cidadãos da cidade de Montemor-o-Novo vêm mais uma vez denunciar o estado lamentável em que se apresenta o Rio Almansor – o principal curso de água e importante estrutura ecológica deste território.**
+
+Todos os anos, este Rio sofre sucessivas descargas ilegais, tanto da parte de privados (indústria, pecuária, domicílios) como da parte da Câmara Municipal de Montemor-o-Novo (CMMN) e da empresa Águas do Alentejo (AGDA), devido a problemas estruturais nas Estações Elevatórias de Águas Residuais (EEARs), no sistema de esgotos da cidade (onde efluentes domésticos e pluviais correm juntos), e à falta de infraestrutura da Zona Industrial da Adua (onde canil municipal e empresas veem os seus esgotos despejados diretamente e sem qualquer tratamento para o Rio).
+
+Denunciam também a agravante da falta de respeito de caudal ecológico da Barragem dos Minutos. Importa saber que este Rio seca durante o Verão, devido também à retenção de água na Barragem dos Minutos, a montante. Foi descoberto recentemente, também devido à pressão dos cidadãos, que esta barragem, que deveria permitir caudais mínimos durante quase todo o ano, tem o seu caudalímetro avariado &#8211; há mais de 20 anos.
+
+Mas agora a história agrava-se. A CMMN e a AGDA estão envolvidas numa situação em torno de uma ação de limpeza que foi interrompida a meio, em pleno desrespeito pelas indicações da APA, com implicações claras para aquele troço de Rio, e “numa tentativa de recuperação política que nada mais consegue que alienar uma cidadania ativa e atenta, dificultando desnecessariamente colaborações futuras”, declara a AMORA &#8211; Associação de Moradores do Rio Almansor.
+
+##### **Esgotos despejados no Rio Almansor&nbsp;** {.wp-block-heading}
+
+##### **Quem matou o Rio Almansor?&nbsp;** {.wp-block-heading}
+
+##### **Que leis estão em incumprimento por entidades públicas e privadas? Quão prioritário é a limpeza de um Rio?&nbsp;** {.wp-block-heading}
+
+##### **O que significa um Rio limpo?&nbsp;** {.wp-block-heading}
+
+Os cidadãos da cidade de Montemor-o-Novo vêm mais uma vez denunciar o estado lamentável em que se apresenta o Rio Almansor – o principal curso de água e importante estrutura ecológica deste território.&nbsp;
+
+Todos os anos, este Rio sofre sucessivas descargas ilegais, tanto da parte de privados (indústria, pecuária, domicílios) como da parte da Câmara Municipal de Montemor-o-Novo (CMMN) e da empresa Águas do Alentejo (AGDA), devido a problemas estruturais nas Estações Elevatórias de Águas Residuais (EEARs), no sistema de esgotos da cidade (onde efluentes domésticos e pluviais correm juntos), e à falta de infraestrutura da Zona Industrial da Adua (onde canil municipal e empresas veem os seus esgotos despejados diretamente e sem qualquer tratamento para o Rio).&nbsp;
+
+Denunciam também a agravante da falta de respeito de caudal ecológico da Barragem dos Minutos. Importa saber que este Rio seca durante o Verão, devido também à retenção de água na Barragem dos Minutos, a montante. Foi descoberto recentemente, também devido à pressão dos cidadãos, que esta barragem, que deveria permitir caudais mínimos durante quase todo o ano, tem o seu caudalímetro avariado &#8211; há mais de 20 anos.&nbsp;
+
+<img loading="lazy" decoding="async" width="286" height="193" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/NR0_nmianOZkJPp6JMqHgsWUV9cyJiFkpgnw-LPOjNTxj5NOa69rSsxEgqJrMti5hgEh2Ey6z3mP3rubD994HwfVAW5EbhmxVWTf1Yagb_Z4DPhEztrF3Vkxg3743oOy5V4Ot57xZRa0gfubraDfZCU-7190986-2817874..png" /><img loading="lazy" decoding="async" width="286" height="288" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/OkH0unWWgV_SMjDdjg3ZMhflc9A3Jsd3bacso5ewLF-OEHJcpS8vMqNbrVnVEjIvmEW93kHb0-sbtFeAKBzlv2ipuj_K3VV2u2qumvjXcEbmETzJXk7JvV89P0kxpY28QQxbcgHGUOkhOFP2OUldfSs-8679476-4058054..png" />  
+(figuras 1 e 2 = provenientes do estudo da ribeira do Almansor, prévio à construção da Barragem dos Minutos) 
+
+Problema que agrava ainda mais o estado do Rio, uma vez que não há água suficiente para diluir a poluição causada (ver fotos em anexo).<figure class="wp-block-table">
+
+<table>
+  <tr>
+    <td>
+      <img loading="lazy" decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/boQRpO5BKJoBzn8Lew4biQjuR4gCHGzBXpsfdxJC0cWhdUzDUu5A7W7OuIJIqGUFI24xPQIUPSZNuu-s5yqVRaL6LOARLkOPOF62ZHNkFUa-vkHXP5DEAI-T0Wuxha2KdPSIFkj_GmvXQLeSG2yqhLA-2847830-4407164..png" width="286" height="271" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <img loading="lazy" decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/zKn8HmcUgfnHt8RLb2Jr0NnQdzAmLIHJ3FOk22NokAb-FDwhqIsg-yAa9VJ6L8BWIh9Q3fcJrZ0oRtfUiJnHFVv2QnctDkWzLmKJ4AQ_Wj4_XVbyNzrm9vk8wLwjuLFkM74HAzqWL60KhvVrN3EQ228-3121279-4655845..png" width="286" height="383" /><img loading="lazy" decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/MIsIMVIZo69iU586rLo6rKaqQLm80Bv1SBFrmlnSJHUw9DUf6j5Lz_uQmRx53rTPyhWxWCV20Pv4klukoql35XiuG8vg7lalr9NNFjA28lrlWzAP1YI_dLHwj7F9qHh0EciFm_KPdlkqFoVBXROL9qU-2108424-4880159..png" width="286" height="508" />
+    </td>
+  </tr>
+</table></figure> 
+
+Os cidadãos de Montemor-o-Novo têm vindo a unir forças para lutar por um Rio limpo, denunciando as sucessivas descargas junto dos organismos responsáveis: GNR-SEPNA, Agência Portuguesa do Ambiente (APA), Câmara Municipal de Montemor-o-Novo, Entidade Reguladora dos Serviços de Águas e Resíduos (ERSAR), A Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território (IGAMAOT), Governo de Portugal, Autoridade de Saúde do Distrito de Évora e Águas do Alentejo (AGDA).&nbsp;
+
+A situação, essa, continua inalterada.&nbsp;
+
+“Para um miúdo que apanhou peixinhos e tomou banho no Rio Almansor ,ver isso dá vontade de chorar”, diz João José Comenda, habitante de Montemor-o-Novo.&nbsp;
+
+“A Quinta dos Valentes era atravessada pelo emissário principal de Montemor. Constantemente obstruído e derramando tudo pelos terrenos até ao Rio Almansor (ver fotografias), Neste momento já não passa pela quinta mas vai à estação elevatória nº3, que não tem capacidade e que constantemente descarrega esgoto não tratado para a Ribeira dos Remendeiros que desagua no Rio Almansor (ver fotografias).&nbsp;
+
+Sem uma rede de esgotos a funcionar nunca o Rio estará despoluído e limpo. Não se prevêem obras na cidade para separar os esgotos dos pluviais; Não se percebe qual a situação referente à (necessária e urgente construção) das estações elevatórias nº1 e nº2? Nem para quando o ramal de esgotos da Adua, ou a conclusão da rede de esgotos do Bairro da Che?” – desabafa Camilo Azevedo, habitante de Montemor-o-Novo.&nbsp;<figure class="wp-block-image">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/image-8914024.png" alt="" class="wp-image-1877" /> </figure> <figure class="wp-block-image"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/image-4791049.png" alt="" class="wp-image-1878" /></figure> 
+
+Descargas do emissário do sistema de esgotos, Fevereiro 2018, Rua de São Domingos.&nbsp;
+
+Descargas do emissário do sistema de esgotos, Fevereiro 2018, Rua de São Domingos.&nbsp;
+
+Mas agora a história agrava-se. A CMMN e a AGDA estão envolvidas numa situação em torno de uma ação de limpeza que foi interrompida a meio, em pleno desrespeito pelas indicações da APA, com implicações claras para aquele troço de Rio, e “numa tentativa de recuperação política que nada mais consegue que alienar uma cidadania ativa e atenta, dificultando desnecessariamente colaborações futuras”, declara a AMORA &#8211; Associação de Moradores do Rio Almansor..
+
+Aconteceu assim:&nbsp;
+
+Em Julho de 2021, deram-se 4 semanas de descargas imensas, consecutivas, ilegais, provenientes da maquinaria da EEAR nº4 de Montemor-o-Novo. Semanas de descargas que encheram o pego do Moinho da Abóbada de águas residuais (ver fotografias).&nbsp;<figure class="wp-block-table">
+
+<table>
+  <tr>
+    <td>
+      <img loading="lazy" decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/HHOQfDiDI26cZT-FmwNEVFgl5onjYloifuIvYh2oT4Sid66Wf9LLuXmQmWvnO4JWamwxkzyRWklH0VdRRbuzPenMQY5_BCDghCjsiwNVOpJ5_UoqDSB15A4HTcSMgRh7GbZR03BPwan9ZUUTO-3qFBo-4431705-2061091..png" width="186" height="140" />
+    </td>
+    
+    <td rowspan="2">
+      <img loading="lazy" decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/APbcKjYnoL-rfL7eNrHvxW5_0uJEI17_WCHWW39OQpPmLZeqFDPaZX-UlOhLw9PiFF8lataJd4b7HzVx5KowjfbY2-H-WDkWfPlebOZ1wslEMmOaJWSUwI6TsXAYrhzVGOFfUwCUO_0QwRyf1snTqyY-7225024-4708685..png" width="186" height="140" /><img loading="lazy" decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/khx6y3f6ImuYPrvsdxWUEO2X1d5bzuIJhjtck1goZRTlsZmJsgGcuv8HIJVHDLmilMQ_3VsQvquzyCtRAKh4q7NPq0zL5Ku_VQEEXyzHF_H2ygr-ph1lHZSNiJro0EkhplLcnJR1FEknXaJ9jLGq-HM-1680825-8228099..png" width="186" height="248" /><img loading="lazy" decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/vpTi1RLY3LYMTwrz3PfH1KgMd5Nyfzbz7bnQ65DT3pYwBPWULBxyakjZj8BoYVaJWxD7Hu0bjT3HeE9Y6-nu9yxp8nk53GCSV6NDROkkDF68PvATzlvjmuyYkX3ZBczEoI3VYEJ8SQ4sPDVm7cmwbBQ-7579183-1780281..png" width="186" height="248" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <img loading="lazy" decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/tzTsgLv2quM8L3roPE8fiSBcgHBRmNp_NxpJqQNjjt_fT7CDNzGnPZHaSDlVCFKR8Hcia4OwJtME10LCjkBuXzXYR-9PpF3Jb5s9whWxOUACSBnbYz_JW0nJz2Gyv4ktC9wt4qBX62QTap55PBu6ZOA-6909997-7705108..png" width="186" height="248" />
+    </td>
+  </tr>
+</table></figure> 
+
+Foram 2 anos de pressão e organização cidadã, com variados custos arcados pelos moradores das margens do Rio, assim como o seu esforço de incontáveis horas ao telefone, centenas de e-mails escritos, dezenas de reuniões e visitas ao terreno da GNR_SEPNA, APA, CMMN, AGDA e vários provedores de serviço com máquinas capazes de levar a cabo os trabalhos;&nbsp;
+
+No dia 25 de Janeiro de 2023 é produzido e enviado um Ofício da APA, (nº S003935-202301-ARHTO PORT) a todas as partes, obrigando a CMMN e a AGDA a tomar medidas de limpeza do leito do Rio.&nbsp;
+
+“Sem essa obrigação, nem a CMMN, nem a AGDA agiriam &#8211; como não agiram até então. Não sei se por falta de interesse, de boa fé, ou mesmo de vontade de gastar mais dinheiro neste que lhes é “assunto entre 100” (como a ele se referem) &#8211; algo que claramente não se encontra nas suas prioridades”, desabafa Guilherme Serôdio, morador do Rio Almansor, vizinho da EEAR nº4.&nbsp;
+
+Com esta obrigação de cumprir indicações governamentais, os trabalhos foram marcados para meados de Setembro de 2023.
+
+O contrato com o prestador de serviços, acordado com a AGDA e CMMN incluía a remoção de até 300tons de detritos (150tons para cada uma das organizações envolvidas &#8211; AGDA e CMMN) a serem esvaziadas na herdade da Adua. O orçamento previa também a presença de um hidro-aspirador e um joper, para completar o trabalho.&nbsp;
+
+No dia 18 de Setembro, com um atraso de cerca de 2 horas, deu-se início aos trabalhos, pelas 11:30 da manhã.&nbsp;
+
+Nessa manhã foram removidas as primeiras lamas da boca do pego para deixar vazar água e facilitar a posterior remoção das lamas. Este foi um momento de extrema tristeza para os habitantes de Montemor-o-Novo, pelo visível estado poluído do Rio e a necessidade que tem de ser urgentemente limpo.&nbsp;
+
+“O cheiro era nauseabundo, as lamas e a água preta lamentáveis de se ver” continua Guilherme Serôdio (ver fotografias).&nbsp;<figure class="wp-block-table">
+
+<table>
+  <tr>
+    <td>
+      <img loading="lazy" decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/i5Xnxz6-j5gurGGOPIhlrjIYnOjlwNwmlimhA2an74-u3o7BMxWFSnXHMmHX2FpWVAjIuZw0TdmLt31JEfzP1YrNvIX-LHFivAtRdOFzotS1dQ2dT9yAc98tKSiEaQPCRHvQ9jwrQPy1dnt9zyZn1IE-7787280-2487564..png" width="186" height="140" />
+    </td>
+    
+    <td>
+      <img loading="lazy" decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Q2MyBnOEG74G1KVjjvsApln-bT2eufBAjsnKWK42sNNPFfuqwAhuM1OsSbaLyfj5o05PrfzUckZIEhjBCivANBwnLx2tn4Ar_V5Q29rZbxJQakBN8o_uDui3fVGFV6tN7gPHCx3Y3kfQAo9TGgTpcPA-5056589-9325335..png" width="186" height="289" /><img loading="lazy" decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Q0Zi3lilD9klRiKyDcdHkZAQst33XFa54Y2e1NSXU8B8jPN82FKFuB7MH_X0TJ3z1HoszpDUMTiqyHmotVbJj25VxBbuZGWH3YrY2JoSNMoghInKuMqZxhBrCUL2IJpTYMpImlyNCzIqUIjCqoiNyf0-7107846-7609474..png" width="186" height="291" />
+    </td>
+  </tr>
+</table></figure> 
+
+Do lado da operação, as coisas foram-se agravando. O camião que trouxeram era claramente sobredimensionado e, carregado com lamas, não conseguia subir os declives do terreno próximo ao Rio, tendo de ser empurrado pela enorme retroescavadora, em operações morosas e dolorosas de presenciar. No primeiro dia, apenas um camião de 30tons seguiu para a Zona Industrial da Adua (onde as lamas foram deixadas a compostar).&nbsp;
+
+No segundo dia, esperou-se quase toda a manhã por um camião diferente, mais pequeno, capaz de operar. “A retroescavadora tirou mais algumas lamas, e seguiram 3 camiões para a Adua. Totalizaram-se assim 90tons de lamas retiradas (de um total de 300), apesar das instituições insistirem que retiraram 130tons. O que significa que haviam ainda cerca de 200 toneladas de lamas poluídas no local. No final desse dia, no entanto, sem aviso nem justificação, e mesmo estando as máquinas contratadas até ao final da semana, as operações de limpeza pararam”, desabafam os moradores.
+
+Mesmo estando adjudicada a remoção de 300tons de lamas do leito do Rio, e todas as condições reunidas para o fazer &#8211; obrigação perante a APA, máquinas e homens no local, meses de investimento em prospeção e estudo, várias opções para alcançar as partes do leito mais profundas, onde a maioria das lamas ficaram ainda, e de 8 meses de organização de uma operação de limpeza &#8211; a CMMN e a AGDA decidiram, passado um dia e meio, interromper a operação.&nbsp;
+
+Aos moradores revoltou a reacção destas entidades ao afirmarem que “as coisas nem sempre se passam como queremos”, “o mundo não é um lugar perfeito”, terminando com “fizemos o nosso melhor”.&nbsp;
+
+**O Rio ficou assim: nauseabundo, preto, cheio das lamas que o enchiam** (ver vídeo). Não foi removida a totalidade das lamas a que a retroescavadora poderia chegar e o _jopper_ e o hidro-aspirador nunca sequer apareceram.&nbsp;
+
+A equipa de comunicação da CMMN enviou um fotógrafo e produziu um post no instagram, numa acção de auto-promoção baseada nesta acção inacabada, mencionando o trabalho da própria Câmara e da AGDA e não fazendo referência à sociedade civil, aos moradores, aos tantos cidadãos preocupados, que pressionaram, organizaram e foram o grande motor para que tudo isto acontecesse.
+
+A AMORA &#8211; Associação de Moradores do Rio Almansor &#8211; declara-se insatisfeita com o resultado da acção e diz em comunicado:&nbsp;
+
+“É mais um exemplo das constantes faltas de comunicação, colaboração e vontade de participação cidadã, deste executivo. Um executivo que não abre processos, não inclui uma cidadania que há anos pede ativamente para fazer parte das reflexões em torno do Rio, do desenho dos trilhos em torno dele, da estratégia municipal para o ambiente, do pensamento de soluções para a poluição do Almansor.”&nbsp;
+
+Uma nova denúncia à APA, CCDR, SEPNA e IGAMAOT foi feita pelo mesmo grupo de cidadãos, numa tentativa desesperada por ação.&nbsp;
+
+O Rio Almansor continua preto, cheio de espumas e detritos. O mesmo grupo de cidadãos vai contratar uma entidade independente para fazer análises à água do Rio e compromete-se na sua missão de proteção deste recurso natural, tão importante para o ecossistema local como para a identidade de Montemor-o-Novo.
+
+**Declaração da AMORA &#8211; Associação de Moradores do Rio Almansor** “Acreditamos que ter um Rio limpo é a condição mesma de uma cidade sustentável. Acreditamos que é uma fonte imensa de bem estar, de preservação natural, de criação de riqueza, de atração e mesmo retenção de população.&nbsp;
+
+Queremos piscinas fluviais.&nbsp;
+
+Queremos passeios pelos leitos.&nbsp;
+
+Queremos as crianças a brincar no Rio, a descobrir e a aprender a Natureza em contato direto com ela.&nbsp;
+
+Queremos um Município com visão e com coragem, um Rio vivo, e um futuro melhor. Queremos voltar a nadar no Rio.”&nbsp;
+
+**Nota de repúdio da AMORA &#8211; Associação de Moradores do Rio Almansor** “Assim, repudiamos o que aconteceu no Almansor este Setembro de 2023.&nbsp;
+
+Mas o nosso repúdio não é apenas contra o estado lastimável do Rio.&nbsp;
+
+É contra a falta de ação de quem tem o poder e os meios de agir.&nbsp;
+
+É contra a falta de vontade política, grave e continuada, de colocar a limpeza do Rio nas prioridades do Município .&nbsp;
+
+É contra o aproveitamento político de uma acção em que a CM e a AGDA agiram constrangidas, devido à pressão imensa das populações;&nbsp;
+
+É contra o abandono de uma operação de limpeza que podia ter lançado dinâmicas incríveis de colaboração comunitária, respeito pela Natureza e limpeza do nosso Rio. É contra a falta de envolvimento das populações por parte do município, que não partilha processos, ideias, projetos, que não se abre à participação cidadã.&nbsp;
+
+É contra a falta de visão do que significaria um Rio limpo, com várias praias fluviais a minutos a pé do centro de uma cidade em pleno Alentejo, com implicações em todas as suas ramificações, desde a economia, ao turismo, ao lazer e bem estar das populações. É um repúdio de uma política do mais do mesmo, em que o Rio, os solos, o ambiente e mesmo uma nova maneira de trabalhar com quem quer participar e ajudar não tem qualquer espaço, nem de se experimentar.&nbsp;
+
+Prometemos lutar pelo Rio, agregando todas as pessoas que nele acreditem, que por ele queiram lutar, que se revejam numa cidade com ecossistemas sãos, e que queiram oferecer aos filhos uma infância livre e saudável e um futuro possível, onde a água está presente, acessivel e corre limpa, respeitada, parte de todos nós.&nbsp;
+
+Lutamos pelo Almansor.&nbsp;
+
+Queremos voltar a nadar no Rio.”

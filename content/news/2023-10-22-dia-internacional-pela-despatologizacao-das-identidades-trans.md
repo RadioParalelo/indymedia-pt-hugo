@@ -1,0 +1,62 @@
+---
+title: Dia Internacional pela Despatologização das Identidades Trans
+author: Publicação Comunitária
+type: post
+date: 2023-10-22T14:44:22+00:00
+excerpt: 'A 22 de Outubro, assinala-se o Dia Internacional pela Despatologização das Identidades Trans. Este dia, convocado pela STP – Stop Trans Pathologization e resulta de uma iniciativa de ativistas na primeira década do século XXI. Desde 2007 que são realizadas mobilizações pela despatologização das identidades trans. Historicamente, esta campanha visa a retirada da classificação dos […]'
+url: /?p=45138
+syndication_source:
+  - LeiturasQueer
+syndication_source_uri:
+  - https://leiturasqueer.wordpress.com
+syndication_source_id:
+  - https://leiturasqueer.wordpress.com/feed
+syndication_feed:
+  - https://leiturasqueer.wordpress.com/feed
+syndication_permalink:
+  - https://leiturasqueer.wordpress.com/2023/10/22/dia-internacional-pela-despatologizacao-das-identidades-trans/
+syndication_item_hash:
+  - a6723eb53e31579cef74972ed866e190
+  - 44177b04b518728051c66f88bedd4219
+categories:
+  - Discriminação
+  - Indymedia
+  - Queer Feminismo
+tags:
+  - Artigos
+  - despatologização
+  - Direitos Trans são Direitos Humanos
+  - Feminismos
+  - LGBTQIA+
+  - Queer
+  - Silvya Rivera
+  - Trans
+
+---
+A 22 de Outubro, assinala-se o Dia Internacional pela Despatologização das Identidades Trans. Este dia, convocado pela STP – Stop Trans Pathologization e resulta de uma iniciativa de ativistas na primeira década do século XXI. Desde 2007 que são realizadas mobilizações pela despatologização das identidades trans. Historicamente, esta campanha visa a retirada da classificação dos processos de reafirmação de género como trastorno mental no catálogo de diagnósticos (DSM da Associação de Psiquiatria Americana e CID da Organização Mundial de Saúde).
+
+Também se procura promover um acesso aos cuidados de saúde trans específicos e trans não específicos digno, sustentável, público e gratuito. Promover um acesso aos tratamentos trans específicos com base no consentimento informado. Promover o acesso à autodeterminação de género sem qualquer requisito médico, algo que a lei portuguesa nº 38/2018 veio concretizar, em todos os lugares. Promovemos a despatologização das diversidade de género na infância e a abolição de tratamentos de normalização a pessoas intersexo.
+
+Este dia também nos relembra que o questionamento do binarismo das normas sociais, da cis-norma é importante para visibilizar e despatologizar outras vivências e realidades. O questionamento deste modelo visa também entender como funcionam os mecanismos de género e como a transfobia opera contra pessoas de identidades dissidentes. É importante relembrar que não é o facto de alguém ser trans que fere ou mata, mas sim a transfobia que a sociedade transporta consigo.
+
+Com o crescimento e ascensão de forças políticas e ideológicas que perpetuam o discurso de ódio e que procuram ver os nossos direitos questionados e negados, é necessário continuar a lutar para existir. Neste momento histórico, mais do que nunca, devemos procurar a união e lutar pela nossa visibilidade e pelo nosso posicionamento na sociedade.
+
+Por tudo isto e muito mais, assinalamos este dia.
+
+Porque ser trans é existir e resistir.
+
+Créditos: [ILGA-PORTUGAL.PT][1]<figure data-carousel-extra='{"blog_id":221159767,"permalink":"https:\/\/leiturasqueer.wordpress.com\/2023\/10\/22\/dia-internacional-pela-despatologizacao-das-identidades-trans\/"}' class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-attachment-id="2074" data-permalink="https://leiturasqueer.wordpress.com/2023/10/22/dia-internacional-pela-despatologizacao-das-identidades-trans/img/" data-orig-file="https://cmi.indymedia.pt/wp-content/uploads/2023/10/4_img.jpg" data-orig-size="1245,701" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="img" data-image-description="" data-image-caption="" data-medium-file="https://cmi.indymedia.pt/wp-content/uploads/2023/10/2_img.jpg" data-large-file="https://cmi.indymedia.pt/wp-content/uploads/2023/10/img.jpg" data-id="2074" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/img.jpg" alt="" class="wp-image-2074" srcset="https://cmi.indymedia.pt/wp-content/uploads/2023/10/img.jpg 1024w, https://cmi.indymedia.pt/wp-content/uploads/2023/10/1_img.jpg 150w, https://cmi.indymedia.pt/wp-content/uploads/2023/10/2_img.jpg 300w, https://cmi.indymedia.pt/wp-content/uploads/2023/10/3_img.jpg 768w, https://cmi.indymedia.pt/wp-content/uploads/2023/10/4_img.jpg 1245w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption class="wp-element-caption">Sylvia Rivera na Marcha ACT-UP, 1994</figcaption></figure> </figure> 
+
+<blockquote class="wp-block-quote">
+  <p>
+    &#8220;<strong>Não podemos continuar a ser invisíveis. Temos de ser visíveis. Não devemos ter vergonha de quem somos. Temos de mostrar ao mundo que somos numerosas. Há muitas de nós por aí.</strong>&#8220;
+  </p>
+  
+  <p>
+    <cite>Silvya Rivera</cite>
+  </p>
+</blockquote>
+
+ [1]: https://ilga-portugal.pt/dia-internacional-da-despatologizacao-trans/

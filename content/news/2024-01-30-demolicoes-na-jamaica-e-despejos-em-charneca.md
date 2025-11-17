@@ -1,0 +1,101 @@
+---
+title: Demolições na Jamaica e Despejos em Charneca
+author: Publicação Comunitária
+type: post
+date: 2024-01-30T15:16:40+00:00
+url: /?p=217684
+autopostToMastodon-post-status:
+  - on
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111845561022691826
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/10/Habita.ogg
+        169
+        audio/ogg
+        
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2024/01/C540EAE6C7C9AF0F71E88508451750A7_video_dashinit-8839222.mp4
+        3085640
+        video/mp4
+        
+mf2_syndication:
+  - 'a:1:{i:0;s:61:"https://climatejustice.social/@indymediapt/111845574196998801";}'
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Discriminação
+  - Indymedia
+  - Repressão
+tags:
+  - Indymedia
+
+---
+Esta semana as associações solidárias STOP Despejos e Habita! denunciam o despejo&nbsp; de 8 famílias com 17 pessoas em Charneca, e a continuação das demolições das casas de quatro famílias na Jamaica, Seixal.
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    &#8220;DESPEJO HOJE na Rua da Quinta do Vimieiro, Charneca: Lisboa 8 famílias 17 pessoas 5 crianças (3 recém nascidos) 1 idosa doente (com 58 anos) Estão sem alternativa de alojamento em frente à Igreja de São Bartolomeu da Charneca. Estão agora a aguardar resposta da SCML e da Emergência Social da Seg. Social. Se puderem apoiar agradecemos: alimentos, mantas, acompanhamento e cobertura mediática.&#8221;
+  </p>
+  
+  <cite><a href="https://stopdespejos.wordpress.com/2024/01/24/mais-um-despejo-8-familias-em-charneca/">STOP Despejos</a></cite>
+</blockquote>
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    &#8220;Entretanto vão continuar as demolições no Bairro Jamaica (Seixal), Lote 8. O Tribunal não deu razão a providência cautelar apresentada pelas quatro famílias que foram excluídas do processo de realojamento.&#8221;
+  </p>
+  
+  <cite><a href="https://www.instagram.com/p/C2pViQ2NDBp/">STOP Despejos</a></cite>
+</blockquote><figure class="wp-block-image aligncenter size-large is-resized">
+
+<img alt='screenshot-2023-10-17-at-12-55-48-instagram-8571802-8206463-1377364-1228210-6312498-5455129' alt='screenshot-2023-10-17-at-12-55-48-instagram-8571802-8206463-1377364-1228210-6312498' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/Screenshot-2023-10-17-at-12-55-48-Instagram-8571802-8206463-1377364-1228210-6312498-5455129.png' alt="screenshot-2023-10-17-at-12-55-48-instagram-8571802-8206463-1377364-1228210" style="width:473px;height:auto" /> <figcaption class="wp-element-caption">Despejos na Jamaica, em Novembro 2023</figcaption></figure> 
+
+As demolições na Jamaica já vêm acontecendo há meses.
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+  </p>
+  
+  <p>
+    FAMÍLIAS NA JAMAIKA NOVAMENTE AMEAÇADAS DE DESPEJO PELA CÂMARA DO SEIXAL (PCP)
+  </p>
+  
+  <p>
+    Desde o mês de outubro do ano passado, uma decisão do Tribunal Administrativo e Fiscal de Almada impedia a Câmara Municipal do Seixal (PCP) de avançar com a demolição das habitações de 4 famílias que vivem no Lote 8 do bairro da Jamaika e a quem não foi reconhecido pela Câmara o direito ao realojamento. Ontem, no entanto, por decisão do mesmo Tribunal, a providência cautelar que impedia a demolição foi levantada, deixando novamente desprotegidas estas famílias que não têm alternativa habitacional.
+  </p>
+  
+  <p>
+    A Câmara Municipal do Seixal tem dito à imprensa que o realojamento do bairro da Jamaika está a ser conduzido de forma exemplar. No entanto, a realidade é bem diferente. A Câmara tem excluído diversas famílias do realojamento, e tem efetuado as demolições dos prédios sem se preocupar em garantir qualquer tipo de alternativa habitacional para estas. Neste momento, a Câmara volta a colocar várias famílias, com inúmeras crianças e uma doente oncológica, em risco de ficarem sem-abrigo.
+  </p>
+  
+  <p>
+    Nos últimos meses, enquanto esteve vigente a decisão judicial que impedia a Câmara de demolir as habitações de quem não tinha alternativa habitacional, a Câmara, em uma cruel represália, suspendeu o realojamento também das demais famílias que vivem no Lote 8, que já tinham o seu direito ao realojamento reconhecido e esperavam ser realojadas em outubro do ano passado. Desde então, também estas famílias vivem enorme incerteza sobre o seu futuro. A Câmara tem tentado dividir os moradores e colocá-los uns contra os outros, dificultando a luta pelo direito à habitação de quem nesse momento não tem alternativa.
+  </p>
+  
+  <p>
+    As demolições têm sido levadas a cabo com verdadeiros cercos policiais ao bairro e com muita intimidação das famílias que foram excluídas do realojamento, que são pressionadas a desocuparem as casas mesmo que não tenham para onde ir.
+  </p>
+  
+  <p>
+    É urgente cercar de solidariedade os moradores do bairro da Jamaika e exigir que a Câmara Municipal do Seixal garanta alternativa habitacional para todos.
+  </p>
+  
+  <p>
+    Toda solidariedade com os moradores da Jamaika! BASTA DE DESPEJOS SEM ALTERNATIVA! REALOJAMENTO PARA TODOS JÁ!
+  </p>
+  
+  <cite><a href="https://emluta.net/">https://emluta.net/</a><br /><a href="https://emluta.net/">https://emluta.net/</a></cite>
+</blockquote><figure class="wp-block-video"><video controls src="http://localhost:8000/wp-content/uploads/2024/01/C540EAE6C7C9AF0F71E88508451750A7\_video\_dashinit-8839222.mp4"></video></figure> 
+
+<div class="wp-block-group has-vivid-purple-background-color has-background has-global-padding is-layout-constrained wp-container-core-group-is-layout-f19b9970 wp-block-group-is-layout-constrained" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30);padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)">
+  <p>
+    Em Novembro, gravamos a seguinte entrevista com a<a href="https://habita.info/"> Habita!</a>, no dia das demolições na Jamaica, Seixal.
+  </p><figure class="wp-block-audio"><audio controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/Habita.ogg"></audio></figure>
+</div><figure class="wp-block-embed is-type-wp-embed is-provider-indymedia-pt wp-block-embed-indymedia-pt">
+
+<div class="wp-block-embed__wrapper">
+  http://localhost:8000/2023/10/17/demolicoes-no-bairro-da-jamaica-campanha-de-mail-bombing
+</div></figure>

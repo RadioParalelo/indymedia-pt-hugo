@@ -1,0 +1,76 @@
+{{ define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<div align="left"><b><a href="{{ .Site.BaseURL }}">HOME</a></b> &gt; {{ .Title }}</div>
+<br>
+
+{{ if .Content }}
+<div class="feature-content">
+    {{ .Content }}
+</div>
+<hr>
+{{ end }}
+
+<div align="left"><b>{{ .Title | upper }}</b></div>
+<br>
+
+{{ range .Pages }}
+<table width="100%" border="0" cellpadding="2" class="feature-story">
+    <tr>
+        <td bgcolor="#770000" align="left" width="80%" class="feature-title">
+            <font size="-1" color="white" face="Helvetica, Arial">
+                <b><a href="{{ .Permalink }}" style="color: white;">{{ .Title | upper }}</a></b>
+            </font>
+        </td>
+        <td align="right" valign="top" bgcolor="#770000" width="20%" class="feature-date">
+            <font size="-1" color="white" face="Helvetica, Arial">
+                <b>{{ .Date.Format "Jan 2 2006" }}</b>
+            </font>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" class="feature-content">
+            {{ if .Params.author }}
+            <p><small>by {{ .Params.author }}</small></p>
+            {{ end }}
+
+            {{ .Summary }}
+
+            <p><a href="{{ .Permalink }}">Read more...</a></p>
+
+            {{ if .Params.media }}
+            <p>
+                {{ range .Params.media }}
+                    {{ if eq .type "photo" }}
+                    <img src="{{ "im/imc_photo.gif" | relURL }}" class="media-icon" alt="photo">
+                    {{ else if eq .type "audio" }}
+                    <img src="{{ "im/imc_audio.gif" | relURL }}" class="media-icon" alt="audio">
+                    {{ else if eq .type "video" }}
+                    <img src="{{ "im/imc_video.gif" | relURL }}" class="media-icon" alt="video">
+                    {{ end }}
+                    <a href="{{ .url }}">{{ .title }}</a>
+                {{ end }}
+            </p>
+            {{ end }}
+        </td>
+    </tr>
+</table>
+<br>
+{{ end }}
+
+{{ if or .Paginator.HasPrev .Paginator.HasNext }}
+<div align="center">
+    {{ if .Paginator.HasPrev }}
+    <a href="{{ .Paginator.Prev.URL }}">« Newer</a>
+    {{ end }}
+    {{ if and .Paginator.HasPrev .Paginator.HasNext }}|{{ end }}
+    {{ if .Paginator.HasNext }}
+    <a href="{{ .Paginator.Next.URL }}">Older »</a>
+    {{ end }}
+</div>
+{{ end }}
+
+<br>
+<p><a href="{{ .Site.BaseURL }}">« Back to home</a></p>
+
+{{ end }}

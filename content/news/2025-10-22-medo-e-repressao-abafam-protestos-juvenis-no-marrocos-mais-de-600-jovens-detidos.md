@@ -1,0 +1,74 @@
+---
+title: 'Medo e repressão abafam protestos juvenis no Marrocos: mais de 600 jovens detidos'
+author: Publicação Comunitária
+type: post
+date: 2025-10-21T23:56:24+00:00
+url:
+  - https://aapsocidental.blogspot.com/2025/10/medo-e-repressao-abafam-protestos.html
+activitypub_status:
+  - federated
+fpsm_author_name:
+  - Sahara Ocidental Informação
+classic-editor-remember:
+  - classic-editor
+categories:
+  - Repressão
+tags:
+  - GenZ212
+
+---
+<table class="tr-caption-container" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td>
+      <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1arnu5qbB6U-hdGHsUgD5QJVJo6dFb6ibkx9HsyU7tkPVfLsc1ABAgAXYxsFUz7q1qHs2PudMiczD6_8eVrD7LwdBCNsVWL94-AbhSd1nL5Pb8XNMonMQhzwp3ro0njJXMK1LGdi309DDcG0yek7oaur9bzUAEYiycXSWpJLnJ_oKhlYGsYmpjs8Y3lkU/s557/f.elconfidencial.com_original_REUTERS.jpg"><span data-darkreader-inline-color=""><img loading="lazy" decoding="async" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1arnu5qbB6U-hdGHsUgD5QJVJo6dFb6ibkx9HsyU7tkPVfLsc1ABAgAXYxsFUz7q1qHs2PudMiczD6_8eVrD7LwdBCNsVWL94-AbhSd1nL5Pb8XNMonMQhzwp3ro0njJXMK1LGdi309DDcG0yek7oaur9bzUAEYiycXSWpJLnJ_oKhlYGsYmpjs8Y3lkU/w471-h353/f.elconfidencial.com_original_REUTERS.jpg" width="471" height="353" border="0" data-original-height="418" data-original-width="557" /></span></a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td class="tr-caption">
+      <span data-darkreader-inline-color="">Foto Reuters/El Confidencial</span>
+    </td>
+  </tr>
+</table>
+
+<div class="region-inner header-inner">
+  <div id="header" class="header section">
+    <div id="Header1" class="widget Header" data-version="1">
+      <div id="header-inner">
+        <div class="titlewrapper">
+          <p class="title">
+            <strong>Sahara Ocidental Informação</strong><br /> Espaço de informação e debate promovido pela <i>Associação de Amizade Portugal &#8211; Sahara Ocidental</i>.<br /> Pelo direito à autodeterminação do povo Saharauí.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<p data-end="472" data-start="89">
+  «Três semanas após o início das manifestações juvenis no Marrocos, a mobilização do coletivo <strong data-end="192" data-start="181">GenZ212</strong> perdeu força, travada pela repressão policial, detenções em massa e campanhas de desinformação &#8211; revela o jornalista Ignacio Cembrero nas páginas do <b><a href="https://www.elconfidencial.com/mundo/2025-10-20/protestas-marruecos-jovenes-represion-1hms_4230976/" target="_blank" rel="noopener">El Confidencial</a></b>. Segundo a <strong data-end="352" data-start="299">Associação Marroquina dos Direitos Humanos (AMDH)</strong>, pelo menos <strong data-end="379" data-start="365">597 jovens</strong> estão presos ou a aguardar julgamento, número que o Ministério do Interior reduz para 409.
+</p>
+
+<p data-end="912" data-start="474">
+  Os protestos, que exigiam <strong data-end="541" data-start="500">mais investimento em saúde e educação</strong>, reacenderam no sábado em <strong data-end="582" data-start="568">Casablanca</strong>, com escassa participação. O movimento pede agora a <strong data-end="661" data-start="635">libertação dos detidos</strong>, entre os quais dezenas de menores. Desde o início de outubro, <strong data-end="765" data-start="725">tribunais têm aplicado penas pesadas</strong> por “desordem pública” e “participação em manifestações não autorizadas”, chegando a <strong data-end="872" data-start="851">15 anos de prisão</strong> em casos ligados a confrontos locais.
+</p>
+
+<p data-end="1218" data-start="914">
+  O rei <strong data-end="935" data-start="920">Mohamed VI</strong>, no discurso de 10 de outubro, prometeu acelerar políticas sociais, mas sem medidas concretas. Um dia depois, anunciou um <strong data-end="1112" data-start="1058">aumento do orçamento de 2026 para saúde e educação</strong>, incluindo <strong data-end="1158" data-start="1124">27 mil novos empregos públicos</strong> e a construção de hospitais em <strong data-end="1200" data-start="1190">Agadir</strong> e <strong data-end="1215" data-start="1203">Laayoune</strong>.
+</p>
+
+<div class="separator">
+  <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhFnvrSbsffgat4lJYH11niE_AwF-rFdc_Ah9Jf3e4rRmg5bgS_LQRUQq5rEQLtokxuWN630axqNVHUsZFBbhKldR60cmkTqm_gwpREXwsDgRtta1n-dIUsbHD5OTyKF-L_yArOrLzNNcogFVyBIqSSjptdk495u5SDlGRoYqVoSZ_pPOGe2J5w4GI5bOo/s678/genz-logo-1-678x362.png"><img loading="lazy" decoding="async" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhFnvrSbsffgat4lJYH11niE_AwF-rFdc_Ah9Jf3e4rRmg5bgS_LQRUQq5rEQLtokxuWN630axqNVHUsZFBbhKldR60cmkTqm_gwpREXwsDgRtta1n-dIUsbHD5OTyKF-L_yArOrLzNNcogFVyBIqSSjptdk495u5SDlGRoYqVoSZ_pPOGe2J5w4GI5bOo/w403-h215/genz-logo-1-678x362.png" width="403" height="215" border="0" data-original-height="362" data-original-width="678" /></a>
+</div>
+
+<p data-end="1634" data-is-last-node="" data-is-only-node="" data-start="1220">
+  Organizações de direitos humanos denunciam uma <strong data-end="1333" data-start="1267">repressão crescente e o estreitamento dos espaços de liberdade</strong>, enquanto o regime tenta desacreditar os jovens ativistas através de <strong data-end="1452" data-start="1403">trolls e falsos comunicados nas redes sociais</strong>. Analistas lembram que Rabat já enfrentou revoltas semelhantes — em 2011 e 2017 — com <strong data-end="1583" data-start="1539">promessas incumpridas e repressão severa</strong>, e alertam que a história pode estar a repetir-se.»
+</p>
+
+<p data-end="1634" data-is-last-node="" data-is-only-node="" data-start="1220">
+  Sahara Ocidental Informação
+</p>
+
+<p data-end="1634" data-is-last-node="" data-is-only-node="" data-start="1220">
+  <a href="https://aapsocidental.blogspot.com/2025/10/medo-e-repressao-abafam-protestos.html">https://aapsocidental.blogspot.com/2025/10/medo-e-repressao-abafam-protestos.html</a>
+</p>

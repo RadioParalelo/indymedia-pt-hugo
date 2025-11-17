@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FMI on indymedia.pt</title>
+    <link>http://localhost:1313/tags/fmi/</link>
+    <description>Recent content in FMI on indymedia.pt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Thu, 12 Oct 2023 14:53:45 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fmi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contra Cimeira Mundial dos Movimentos Sociais nas Assembleias Anuais FMI-BM em Marraquexe</title>
+      <link>http://localhost:1313/?p=32740/</link>
+      <pubDate>Thu, 12 Oct 2023 14:53:45 +0000</pubDate>
+      <guid>http://localhost:1313/?p=32740/</guid>
+      <description>Decorre hoje a marcha da Contra Cimeira em Marraqueche. Aqui um texto onde se anuncia a contra cimeira e algumas imagens de hoje.&#xA;As assembleias anuais do Grupo Banco Mundial (GBM) e do Fundo Monetário Internacional (FMI) vão se realizar do 9 ao 15 de outubro de 2023 em Marraquexe, Marrocos. O FMI está assumindo um papel central à medida que a crise multifacetada que tem afetado o mundo desde 2020 se aprofunda.</description>
+    </item>
+  </channel>
+</rss>

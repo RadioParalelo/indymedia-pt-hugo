@@ -1,0 +1,91 @@
+---
+title: ATAQUE AÉREO DA TURQUIA AO NORTE E LESTE DA SÍRIA OUTUBRO DE 2023
+author: Publicação Comunitária
+type: post
+date: 2023-10-07T11:02:41+00:00
+url: /?p=32487
+admin_form_source:
+  - form65033c1176054
+Ligação:
+  - https://x.com/RojavaIC/status/1710012141279838241?s=20
+tags:
+  - AltPT
+  - Indymedia
+  - Internacional
+  - Kurdistão
+  - Liberdade
+  - PKK
+  - Síria
+tema:
+  - 'a:3:{i:0;s:3:"110";i:1;s:3:"111";i:2;s:3:"113";}'
+classic-editor-remember:
+  - classic-editor
+categories:
+  - Guerra e Paz
+  - Indymedia
+  - Poder e Autodeterminação
+
+---
+PONTOS-CHAVE
+
+&#8211; Mais de 20 ataques aéreos turcos visam a eletricidade, a água, o petróleo e outras infra-estruturas humanitárias básicas em todo o Norte e Leste da Síria, sob controlo curdo (NES)  
+&#8211; Refugiados fogem dos ataques aéreos e o pessoal das ONGI retira-se do campo; oito mortos Hoje, o número total de mortos em ataques aéreos turcos ascende a mais de 80 só em 2023  
+&#8211; Não há eletricidade nem água nas regiões curdas do NES, incluindo nos hospitais; teme-se agora um colapso humanitário na região que alberga milhões de pessoas que já sofrem de milhões de pessoas que já sofrem de escassez de água e cortes de eletricidade  
+&#8211; As forças dos EUA na região terão abatido um drone turco num raro confronto entre a NATO e a NATO contra NATO  
+&#8211; Centro de Informação de Rojava disponível para fornecer comentários no terreno, além de fotos e vídeos dos locais dos ataques aéreos e contactos com representantes políticos e pessoal humanitário para comentários
+
+CONTEXTO
+
+&#8211; A campanha de ataques aéreos da Turquia contra o NES está em curso desde 2019  
+invasão, matando centenas de civis até à data  
+&#8211; A campanha de bombardeamento de hoje marca a pior escalada desde 2019, colocando milhões de vidas de civis em perigo  
+&#8211; A Turquia anunciou a sua intenção de tratar o que designou por &#8220;infraestruturas das YPG&#8221; como como alvo legítimo na sequência de um recente ataque terrorista em Ancara, que feriu dois polícias e foi reivindicado pelo Partido dos Trabalhadores do Curdistão (PKK)  
+&#8211; Mas os dirigentes políticos e militares do NES sublinharam que não têm qualquer ligação alguma com o ataque de Ancara, acusando a Turquia de utilizar o o incidente como um casus belli  
+&#8211; Num briefing, o Departamento de Estado norte-americano reiterou a sua posição de que o YPG curdo sírio, formalmente aliado dos EUA na luta contra o ISIS, são distintas do PKK, sublinhando ainda que os ataques turcos na região poderiam prejudicar a continuação da luta contra o ISIS
+
+ÚLTIMOS ATAQUES
+
+&#8211; Mais de 20 ataques até agora (ver abaixo a lista completa), visando uma barragem, três subestações eléctricas e quatro campos de petróleo, bem como veículos civis, matando oito pessoas até agora  
+&#8211; Os ataques aéreos perto do campo de refugiados de Washokani, que alberga deslocados internos que fugiram da invasão e ocupação turcas em 2019, provocaram o pânico entre os deslocados internos e a retirada do pessoal das ONG do campo  
+&#8211; Registaram-se apagões generalizados na cidade de maioria curda de Qamishlo e cidades de Tirbe Spi, Gire Spi, Amude e Cil Agha, incluindo em hospitais civis  
+&#8211; Cerca de um milhão de pessoas sofrem já de escassez de água devido ao facto de a Turquia Turquia, condenada pela ONU e pela Human Rights Watch. Rights Watch  
+&#8211; Greves em curso desde 4 de outubro até à noite de 5 de outubro
+
+DECLARAÇÃO
+
+Numa declaração à imprensa, o líder político curdo sírio Saleh Muslim afirmou:  
+&#8220;Anteriormente, o ministro dos Negócios Estrangeiros, Hakan Fidan, ameaçou atacar todas as nossas infra-estruturas, tanto as menores como as maiores. Com esta declaração, declarou abertamente ao mundo a sua intenção de cometer crimes contra a humanidade. Os ataques têm sido contínuos desde ontem, 4 de outubro. Até à data, bombardearam 10 locais, incluindo instalações civis e governamentais. Os alvos são civis, transformadores eléctricos, veículos civis, refinarias de petróleo e tanques de água.
+
+&#8220;[O Estado turco] nunca se coibiu de [atacar aqueles que alinham com os curdos]. O que estão a fazer é bárbaro. É um ataque não só ao povo curdo curdo, mas a toda a humanidade.  
+Há quem afirme que se trata de terrorismo, referindo-se ao incidente em Ancara. O nosso O nosso movimento e as SDF [Forças Democráticas Sírias] afirmaram claramente que não temos qualquer relação com esse incidente.  
+Não nos envolvemos nos assuntos internos da Turquia. Acreditamos que se os aviões de guerra acreditamos que, se os aviões de guerra deixarem de sobrevoar a Síria, seremos capazes de nos defender&#8221;.
+
+LISTA COMPLETA DOS ATAQUES ATÉ À DATA
+
+1. Zona de Mushairfah, Heseke (depósito de gasóleo incendiado, 3 feridos);  
+2. Cruzamento de Darbasiyah/Heseke/Tel Tamir (ataque a um automóvel);  
+3. Oeste do campo de deslocados Washokani, Heseke (provocou o êxodo de ONG do campo);  
+4. Zona de Mushairfah, Heseke;  
+5. Perto da barragem de Cil Axa;  
+6. Tal Habash, Amude (6 mortos, 2 feridos);  
+7. Al-Tawila, Tel Tamir;  
+8. Instalação petrolífera de Gerdahol, Tirbespi;  
+9. Instalação petrolífera de Saida, Tirbespi;  
+10. Qasf, Sarrin;  
+11. Instalação petrolífera de Al Qaws, Cil Axa;  
+12. Central eléctrica, Qamishlo;  
+13. Jalabiyah, Kobane (2 mortos);  
+14. Al-Rakbah, Tel Tamir;  
+15. Subestação de eletricidade, a oeste de Heseke;  
+16. Estação de eletricidade de Amude;  
+17. Instalação petrolífera de Al-Zarba, Tirbespi;  
+18. Dardara, Tel Tamir;  
+19. Instalação petrolífera de Odeh, Tirbespi;  
+20. Estaleiro de construção de Qamishlo;
+
+CONTACTO
+
+Contacte o Centro de Informação de Rojava através do **WhatsApp: +963 992 461 683** para  
+fotos, vídeos, comentários e contactos com os entrevistados no terreno.
+
+RIC (https://x.com/RojavaIC/status/1710012141279838241?s=20)

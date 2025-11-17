@@ -1,0 +1,63 @@
+---
+title: 'Comunicado no  seguimento de diversas ocorrências durante o Arraial pela Liberdade em Guimarães.'
+author: Publicação Comunitária
+type: post
+date: 2024-10-08T10:24:33+00:00
+url: /?p=224463
+post_list_status:
+  - off
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Cultura e Arte
+  - Discriminação
+  - Movimentos Sociais
+  - Repressão
+
+---
+Comunicado de Imprensa  
+7 de outubro de 2024  
+Guimarães pela Liberdade
+
+  
+Este comunicado vem no seguimento de diversas ocorrências durante o Arraial pela Liberdade — organizado por diferentes coletivos sob o nome Guimarães pela Liberdade, que tomou lugar no coreto da Alameda de São Dâmaso, no passado dia 5 de outubro.
+
+  
+Como foi público, o aparato policial destacado, foi sem precedentes neste tipo de manifestações, equiparado apenas “ao de jogos de futebol de alto risco” (segundo o Jornal de Notícias). Entendemos que esse complexo dispositivo policial não se deveu ao facto de vários coletivos pretenderem celebrar o Arraial pela Liberdade com poesia, concertos, ou atividades para crianças, mas sim pela realização de uma outra manifestação nesse mesmo dia com caráter violento e de perigo para as pessoas que habitam, visitam, ou se manifestavam pela Liberdade, na cidade de Guimarães.
+
+  
+Deste entendimento, das advertências recebidas aquando do pedido de realização do Arraial pela Liberdade e do contacto feito com a pessoa responsável pelo mesmo, no próprio dia, surgem algumas questões que gostaríamos de não só tornar públicas, como também ver respondidas, devido à gravidade que acarretam para a Liberdade que defendemos para todas as pessoas.
+
+  
+Primeiramente, observamos a utilização de um duplo critério, por parte das autoridades desde o início da concentração: quando qualquer pessoa que participava no Arraial pela Liberdade se movia dentro do parque que envolve o coreto, os agentes da polícia aproximavam-se apressadamente, ou movimentavam-se com um sentido de vigilância sobre manifestantes antifascistas. Este cuidado não se verificou quando os manifestantes da marcha organizada pelo grupo 1143 atravessavam o parque, ou as redondezas, ou quando provocavam repetidamente pessoas que participavam do Arraial pela Liberdade, o que aconteceu pelo menos três vezes, no decorrer das manifestações.  
+É mais bizarro ainda analisar os intervenientes e a demonstração de autoridade no vídeo <https://x.com/sensidiota/status/1842645672098746478?s=46>. 
+
+Após a respostapacífica das pessoas manifestantes antifascistas a desacatos e provocações repetidas, por parte dos simpatizantes neonazis, a atuação da polícia passou por criar um cordão policial em frente a estes manifestantes antifascistas, durante o qual um dos agentes lhes apontou uma arma (espingarda). A garantia destas intenções nota-se quando as pessoas manifestantes se mantêm dentro dos limites da área reservada ao Arraial. No momento em que a arma é apontada a manifestantes antifascistas, podemos ver, claramente, a mesma força policial a acariciar as costas de um dos elementos da manifestação neonazi, acompanhando-o cordialmente para fora do local do conflito. Podemos ver também, nesse mesmo vídeo, o agente a dizer-lhe algo ao ouvido, de forma tranquila e afável.  
+Tendo em vista a conduta repressora e violenta que a PSP tem adotado perante manifestantes antifascistas em recentes protestos nacionais, como observado na manifestação em Lisboa a 29 de Setembro, na qual duas pessoas foram detidas após serem fisicamente agredidas, por um manifestante fascista, enquanto gritavam “25 de Abril sempre, fascismo nunca mais”, concluímos que estas ocorrências não configuram casos  
+isolados e revelam um modo de atuação desigual e parcial por parte das forças policiais do estado português.
+
+Estes comportamentos são preocupantes e não podem deixar de ser  
+questionados.  
+
+
+Adicionalmente, enquanto proponentes do Arraial pela Liberdade, destacamos uma outra questão que agradecemos ver respondida. A pessoa responsável pelo arraial foi obrigada a assinar um termo de responsabilidade sobre a não utilização de drones, tochas, petardos, ou qualquer material pirotécnico, sob pena de responder judicialmente. Supondo, pela igualdade de critérios que, os proponentes da manifestação neonazi tiveram de assinar  
+o mesmo termo de responsabilidade, perguntamos qual o efeito desse termo de responsabilidade, uma vez que, como é transmitido em todos os meios de comunicação, a manifestação organizada pelo Grupo 1143 decorreu sem incidentes. Como é visível em qualquer documentação imagética daquele evento, foram utilizados diversos artefactos pirotécnicos, sem qualquer repercussão durante todo o percurso da mesma. Esta intenção havia sido já anunciada no perfil do Grupo 1143 na rede social X, onde afirmaram a  
+utilização de “400 tochas, fogo de artifício e 2 drones”.  
+Por este meio, queremos saber quais serão as consequências para estas ações, visto não ter havido nenhuma na duração da mesma, superior a duas horas.
+
+  
+Ao abrigo da lei n.º 64/78, em Portugal, são proibidas organizações que configuram a ideologia fascista, como é de conhecimento geral. Se a realização deste tipo de manifestações é já questionável à luz da constituição, mais nos surpreende o que foi possível acontecer no decorrer da mesma pois, nos vídeos da manifestação neonazi, ouve-se de forma clara e repetida, vários elementos gritarem “Salazar, Salazar, Salazar”, em adição ao generalizado discurso racista e de ódio. No seguimento deste ocorrido, que está devidamente documentado em vídeo e partilhado pelos próprios, queremos saber quais as medidas que estão a ser tomadas para enquadrar estes elementos que, ao terem as suas manifestações aprovadas em espaço público, utilizam discurso de ódio e fascista e material pirotécnico com a total ausência de consequências. De referir ainda que os únicos desacatos ocorridos neste dia em Guimarães (para além dos supramencionados) se  
+passaram nessa dita manifestação e terminaram com a identificação de uma pessoa como agente da GNR, conforme tornado público e sem que esta tenha sido (que se saiba) alvo de qualquer violência, ou ameaça com arma de fogo por parte da polícia.
+
+  
+Assim e, por acreditarmos que se a polícia quer ter um papel no espaço público, este deve, no mínimo, ser igual para todas as pessoas, questionamos a atuação parcial que tem acontecido repetidamente em todo o país e que nos parece vir no sentido de, mais do que criar espaços seguros e de liberdade, ser demolidora da mesma.
+
+  
+Por tudo isto e porque não podemos calar, 25 de Abril sempre, fascismo nunca mais!  
+Os coletivos de Guimarães pela Liberdade
+
+<guimaraespelaliberdade@gmail.com><figure class="wp-block-image size-full">
+
+<img alt='452048823_821278733070074_7193395213817722516_n-4232510-3543501-1137654-9785823-6210381-3259169-1672851' alt='452048823_821278733070074_7193395213817722516_n-4232510-3543501-1137654-9785823-6210381-3259169' src='https://cmi.indymedia.pt/wp-content/uploads/2024/10/452048823_821278733070074_7193395213817722516_n-4232510-3543501-1137654-9785823-6210381-3259169-1672851.jpg' alt="452048823_821278733070074_7193395213817722516_n-4232510-3543501-1137654-9785823-6210381" class="wp-image-224464" /> </figure>

@@ -1,0 +1,32 @@
+---
+title: Saímos à Rua pelo Direito à Habitação e por Justiça Climática
+author: Publicação Comunitária
+type: post
+date: 2023-09-29T10:23:00+00:00
+url: /?p=21260
+classic-editor-remember:
+  - block-editor
+categories:
+  - Indymedia
+tags:
+  - AltPT
+  - Casa para Viver
+  - Direito à Cidade
+  - Ecologia
+  - Indymedia
+  - Manifestação
+  - Protesto
+  - PTrevolutionTV
+
+---
+<figure class="wp-block-image size-large"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Copia-de-MODELO-PTREV-17-1024x576.png" alt="" class="wp-image-21261" /></figure> 
+
+**MANIF﻿ESTAÇÃO 30 DE SETEMBRO**
+
+Queremos aproveitar esta oportunidade para fazer uma cobertura a nível nacional deste protesto tão importante.
+
+Para ajudar ou públicas tudo (fotos, vídeos, textos) com as hashtags #casaparaviver #indymedia nas tuas redes sociais, ou envias directamente para o CMI Centro Média Independente, para nós partilharmos nas nossas redes, se preferes mais áudio, entra em contacto com a Rádio Paralelo e articula a melhor forma para ajudar, se preferes vídeo, em especial emissões em directo, livestream, fala. com os NINJAS da PTrevolutionTV, mas seja como for regista.
+
+Todo o trabalho da PTrevolutionTV é auto financiado, se quiseres ajudar entra em contacto connosco.
+
+Pela soberania da Informação.

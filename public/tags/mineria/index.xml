@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mineria on indymedia.pt</title>
+    <link>http://localhost:1313/tags/mineria/</link>
+    <description>Recent content in Mineria on indymedia.pt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Thu, 21 Dec 2023 19:32:12 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mineria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Galiza] Máis dun cento de entidades ecoloxistas e sociais rexeitan a Axenda Mineira da Xunta por criminalizar a sociedade civil</title>
+      <link>http://localhost:1313/?p=214834/</link>
+      <pubDate>Thu, 21 Dec 2023 19:32:12 +0000</pubDate>
+      <guid>http://localhost:1313/?p=214834/</guid>
+      <description>Esixen á Xunta a retirada do documento porque vulnera os principios de neutralidade e obxectividade da administración, sendo absolutamente tendencioso.&#xA;Denuncian que a estratexia da Xunta fomenta o ‘lawfare’ contra as organizacións sociais e ampara unha campaña descarada de proselitismo e propaganda en centros educativos.&#xA;Máis de 100 entidades ecoloxistas, veciñais, sindicais, agrarias e do mar veñen de denunciar publicamente a “Axenda de Impulso da Minaría Sostible de Galicia 2030” que lanzou este mes a Xunta de Galicia.</description>
+    </item>
+  </channel>
+</rss>

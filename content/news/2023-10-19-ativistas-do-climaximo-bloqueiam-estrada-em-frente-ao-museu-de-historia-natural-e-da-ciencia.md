@@ -1,0 +1,62 @@
+---
+title: Ativistas do Climáximo bloqueiam estrada em frente ao Museu de História Natural e da Ciência
+author: Publicação Comunitária
+type: post
+date: 2023-10-19T08:35:18+00:00
+url: /?p=33063
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/10/IMG_9032.mp4
+        11000525
+        video/mp4
+        
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111260763910753491
+mf2_syndication:
+  - 'a:1:{i:0;s:61:"https://climatejustice.social/@indymediapt/111260775731583253";}'
+categories:
+  - Cultura e Arte
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+  - Repressão
+tags:
+  - AltPT
+  - Climaximo
+  - Ecologia
+  - Indymedia
+  - Lisboa
+  - Protesto
+  - PTrevolutionTV
+
+---
+<figure class="wp-block-image size-large"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/photo_2023-10-19_09-29-17-1024x606.jpg" alt="" class="wp-image-33064" /></figure> 
+
+COMUNICADO DE IMPRENSA
+
+Ativistas do Climáximo bloqueiam estrada em frente ao Museu de História Natural e da Ciência
+
+Grupo interrompeu o trânsito na Rua da Escola Politécnica, em frente ao Museu de História Natural e da Ciência, exigindo que as instituições encarem a verdade e ajam de acordo com a emergência climática.
+
+Durante uma tempestade, ativistas do Climáximo bloquearam o trânsito em frente ao Museu de História Natural e da Ciência, antiga Faculdade de Ciências, sentando-se e segurando faixa onde se lê &#8220;Estão a destruir tudo o que tu amas&#8221;.
+
+Leonor Canadas, agrónoma e porta-voz no local, afirma que &#8220;há milhões de mortes declaradas pela crise climática, e têm culpados. Os governos e empresas emissoras estão neste momento a matar milhares de pessoas, a despejar dezenas de milhões, a queimá-las vivas, a afogá-las. Estas mortes foram conscientes. Isto é guerra. Temos o dever de resistir, e as instituições de dizer a verdade.&#8221;<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/photo_2023-10-19_09-28-51-1024x576.jpg" alt="" class="wp-image-33065" /> </figure> 
+
+O grupo reivindica, como parte de um programa de reivindicações baseado na ciência e relatórios passados (empregos-clima.pt), honestidade por parte de todas as instituições sobre o estado de crise climática, entrando estas em emergência climática, reconhecendo-a como prioridade central da sociedade, e agindo de acordo com a ciência. &#8220;É necessário dizer a verdade às pessoas para que possamos tomar decisões informadas e honestas para travar o colapso climático.&#8221; Para isso, dentro dos prazos da ciência e com base em justiça global, é absolutamente necessário alcançar neutralidade carbónica até 2030 em Portugal, entre um grupo extenso de medidas disponíveis online, avança o coletivo.
+
+O Climáximo convida todas as pessoas a participar na próxima palestra pública, e resistir pela vida e por tudo o que amam.<figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/IMG_9032.mp4"></video></figure> 
+
+09h07 &#8211; Três ativistas estão neste momento a ser levadas para a esquadra pela PSP
+
+A nossa solidariedade com estes activista que com estas acções têm mantido o tema das alterações climáticas nos jornais e telejornais.
+
+Lá estaremos ao vosso lado nas sessões públicas tal como tantas outras vezes.
+
+Pela soberania da informação.

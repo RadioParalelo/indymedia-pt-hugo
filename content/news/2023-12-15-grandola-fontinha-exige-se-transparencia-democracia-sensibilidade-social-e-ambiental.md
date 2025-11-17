@@ -1,0 +1,58 @@
+---
+title: '[Grândola] “Fontinha” – exige-se transparência, democracia, sensibilidade social e ambiental'
+author: Publicação Comunitária
+type: post
+date: 2023-12-15T00:01:16+00:00
+url: /?p=214429
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111581494272826809
+mf2_syndication:
+  - 'a:1:{i:0;s:61:"https://climatejustice.social/@indymediapt/111581506260839603";}'
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - Grândola
+  - Minas
+
+---
+<p class="has-primary-color has-text-color has-link-color wp-elements-469b6fd044493a495e6ad0841092e4b1">
+  <strong>Comunicado conjunto por: Associação Protege Alentejo / Dunas Livres / GAIA – Alentejo / Juntos pelo Cercal / Minas Não / Roda Inquieta; sobre o pedido de atribuição de direitos de prospeção e pesquisa mineira na área denominada &#8220;Fontinha&#8221;, em Grândola, Setúbal.</strong>
+</p>
+
+O Litoral Alentejano está a ser sacrificado em nome dos interesses económicos, com graves consequências para quem aqui vive e trabalha. As minas têm estado na mira e não estão fora desta equação, é assim com o projeto “Cercal”, “Santiago” e “Ermidas” (Santiago do Cacém e Odemira), e o da “Lagoa Salgada” (Grândola e Alcácer do Sal) com efeitos devastadores para o ambiente, e agora com pedido de atribuição de direitos de prospeção e pesquisa de depósitos minerais de areias siliciosas e argilas especiais, denominado “Fontinha” no concelho de Grândola.
+
+É mais um projeto a colocar a região sob pressão e em especial Grândola que além do projeto mineiro “Lagoa Salgada”, o contestado traçado ferroviário Relvas Verdes Grândola Norte, assiste à proliferação de empreendimentos turístico-imobiliários de luxo na costa, campos de golf e centenas de piscinas privativas, colocando em vias de extinção o último cordão dunar selvagem, esgotando recursos hídricos e fomentando a especulação imobiliária.
+
+O pedido de prospeção e pesquisa, cujo único objetivo é aferir a viabilidade económica para a exploração (cenário não acautelado), está em consulta pública no portal [participa.pt][1] desde 18-10-23 até 30-11-23, promovido pela sociedade ALDEIA SA numa área de 158 hectares e duração de 2 anos. Apesar da escassa informação disponibilizada e insuficiente identificação de impactos, contempla vários métodos de sondagem inclusive perfurações com impactos na paisagem, fauna e flora, que colocam em risco os solos e potenciam a contaminação dos recursos hídricos superficiais e subterrâneos, operará a céu-aberto e sobrepõe-se a áreas de Reserva Ecológica Nacional.
+
+Perante isto, lamentamos a ausência de parecer das Autarquias Locais e notamos que a Agência Portuguesa do Ambiente não se coíbe de expressar a sua tácita aprovação ao pedido, numa clara antecipação e desvalorização da consulta popular e vontade das populações.
+
+**Os movimentos abaixo indicados**, expressam as mais profundas preocupações relativas a mais um projeto extrativista que surge à boleia de um modelo económico e uma Lei das Minas insensíveis à destruição ambiental, à degradação da qualidade de vida das populações e à exploração desenfreada de recursos ao serviço de interesses e lucro de alguns.
+
+**Exigimos:**
+
+<ul class="wp-block-list">
+  <li>
+    Um processo de esclarecimento e auscultação às populações locais, prévio à consulta pública;
+  </li>
+  <li>
+    Uma tomada de posição urgente e inequívoca de Governo e Autarquias Locais;
+  </li>
+  <li>
+    A introdução de estudo dos impactos da exploração e efeitos cumulativos com os restantes projetos e opções na região.
+  </li>
+</ul>
+
+**Subescrevem:** Associação ProtegeAlentejo; Dunas Livres; GAIA – Alentejo; Juntos pelo Cercal; Minas Não; Roda Inquieta.
+
+[Pedido de atribuição de direitos de prospeção e pesquisa – Fontinha (participa.pt)][1]
+
+Publicado originalmente em: [Roda Inquieta][2]  
+<a href="https://rodainquietaonline.wordpress.com/2023/11/16/comunicado-fontinha-exige-se-transparencia-democracia-sensibilidade-social-e-ambiental/" target="_blank" rel="noreferrer noopener">https://rodainquietaonline.wordpress.com/2023/11/16/comunicado-fontinha-exige-se-transparencia-democracia-sensibilidade-social-e-ambiental/</a>
+
+ [1]: https://participa.pt/pt/consulta/pedido-de-atribuicao-de-direitos-de-prospecao-e-pesquisa-fontinha
+ [2]: https://rodainquietaonline.wordpress.com/2023/11/16/comunicado-fontinha-exige-se-transparencia-democracia-sensibilidade-social-e-ambiental/

@@ -1,0 +1,32 @@
+---
+title: '[Live Lisboa] Visita de estudo ao ministério do ambiente'
+author: Publicação Comunitária
+type: post
+date: 2023-11-24T12:25:33+00:00
+url: /?p=211562
+embed_privacy_thumbnail_youtube_PkVBqOdNsqo:
+  - youtube-PkVBqOdNsqo-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_PkVBqOdNsqo_url:
+  - https://youtube.com/watch?v=PkVBqOdNsqo
+categories:
+  - Ecologia e Animais
+  - Indymedia
+tags:
+  - AltPT
+  - Livestream
+  - PTrevolutionTV
+
+---
+<figure class="wp-block-embed is-type-rich is-provider-gestor-de-incorpora-es wp-block-embed-gestor-de-incorpora-es wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div><figcaption class="wp-element-caption">(
+
+[Youtube][1]) ([Invidious][2]) </figcaption></figure> <figure class="wp-block-audio"><audio controls src="https://vid.puffyan.us/latest_version?id=PkVBqOdNsqo&itag=140"></audio></figure> 
+
+This stream is created with #PRISMLiveStudio
+
+<!-- /wp:post-content -->
+
+ [1]: https://youtu.be/PkVBqOdNsqo
+ [2]: https://vid.puffyan.us/watch?v=PkVBqOdNsqo

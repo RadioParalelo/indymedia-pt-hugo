@@ -1,0 +1,32 @@
+---
+title: 'Manifesto: Isto não é uma casa, somos todas!'
+author: Publicação Comunitária
+type: post
+date: 2023-10-05T12:46:36+00:00
+url: /?p=32401
+classic-editor-remember:
+  - block-editor
+categories:
+  - Habitação
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+tags:
+  - Direito à Cidade
+
+---
+**Hoje, 5 de Outubro, junto ao jardim da Igreja de São Jorge de Arroios junta-te a nós numa ocupação em praça pública, com piquenique comunitário, música, assembleia &#8211; um espaço para reflectir sobre habitação e ocupação.**
+
+No contexto da atual crise habitacional, ocupámos esta casa, abandonada há anos, na Rua de Arroios. Acreditamos que isto não é apenas uma solução para todas nós, mas também para a casa, para que esta possa cumprir a sua necessidade de ser cuidade, habitada e vivida.
+
+Não esperamos mais que as instituições e Estado assumam responsabilidades nem confiamos nas soluções que propõe. Sabemos que fazem parte do problema e que não nos representam. Tomámos assim as rédeas das nossas vidas e criámos nós as respostas diretas aos problemas de habitação em Lisboa. Na nossa diversidade somos insubmissas, libertárias, transfeministas, e anti-racistas. Praticamos a auto-gestão com apoio mútuo, em solidariedade com todas as pessoas que estão e estiveram em situações de despejo, desalojamento ou demolição do seu lar.Ao mesmo tempo, casas como esta são transformadas em mercadoria, sem cumprir com a sua função social de habitação. 
+
+Por consequência, nos últimos tempos vemos cada vez mais pessoas e colectivas a serem despejadas para que os edifícios possam ser vendidos e revendidos por fundos de investimento. Ficamos sem presente e futuro, dependentes destas empresas que determinam as nossas vidas e vivências. Criados por pessoas que construíram o seu próprio lar, vemos também os bairros de construção informal na periferia a serem demolidos (Talude, Trafaria, 2º Torrão). 
+
+Basta! Não aceitamos mais isto. Recusamo-nos a ser cúmplices de qualquer tipo de desajolamento, despejo ou demolição. Recusamo-nos a ser afectadas pelos jogos de poder do capitalismo e por todas as estruturas de dominação associadas. 
+
+Eu, casa localizada na Rua de Arroios, pertenço desde 1936 a seguradores, empresas-fantasma e fundos de investimento. Tenho 7 apartamentos, 48 quartos, 4 salas grandes, 6 cozinhas, casas de banho e lojas. Partes de mim abandonadas há décadas. Eu podia ser uma biblioteca, uma cantina, um cinema, um ginásio, um sítio de enonctro entre pessoass, onde se fala, se dança, se come, se partilham experiências ou histórias. Onde as pessoas se sentem seguras para dormir e habitar, independentemente do estaututo social e económico. Eu, tal como outros edifícios, podia ser um lar. Mas ultimamente não sou nada.
+
+Agora, tenho sido tudo. Temos sido todas isto. Temos sido o palco de combate direto contra a violência que é sobreviver sem casa. Quando o sistema económico atual nos roua o direito fundamental à habitação, exigimos espaços para viver, e apelamos às ocupações. Quando o sistema económico actual nos rouba o direito fundamental à habitação, exigimos espaços para viver e apelamos às ocupações. <figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/photo_2023-10-05_13-27-55-768x1024.jpg" alt="" class="wp-image-32415" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/photo_2023-10-05_13-26-04-1-1024x768.jpg" alt="" class="wp-image-32417" /></figure> <figure class="wp-block-image size-large"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/photo_2023-10-05_13-04-16-2-905x1024.jpg" alt="" class="wp-image-32427" /></figure>

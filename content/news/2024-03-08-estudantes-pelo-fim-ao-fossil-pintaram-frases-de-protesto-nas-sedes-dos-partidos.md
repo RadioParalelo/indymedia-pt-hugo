@@ -1,0 +1,33 @@
+---
+title: Estudantes pelo fim ao fóssil pintaram frases de protesto nas sedes dos partidos
+author: Publicação Comunitária
+type: post
+date: 2024-03-08T18:28:45+00:00
+url: /?p=221172
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Ecologia e Animais
+
+---
+ 
+
+
+
+&#8220;Eletricidade 100% renovável e gratuita&#8221;, &#8220;Fim ao fóssil 2030&#8221; e &#8220;Este partido não tem um plano&#8221;: partidos acordam com frases de protesto pintadas nas suas sedes.<figure class="wp-block-image size-large">
+
+<img alt='img_20240308_182257_287-3482454-1024x768-8659855' src='https://cmi.indymedia.pt/wp-content/uploads/2024/03/IMG_20240308_182257_287-3482454-1024x768-8659855.jpg' alt="img_20240308_182257_287-3482454" class="wp-image-221173" /> </figure> 
+
+Eleições em 2024 dão mandato até 2028. O último mandato para resolver crise climática. Não ter agora um plano para fim ao fóssil até 2030 é condenar o nosso futuro. É condenar milhões à morte, Em Portugal, já começamos a sentir os efeitos desta crise. E vão ser cada vez mais frequentes e intensos enquanto nada fizerem.
+
+A sede do Chega não mereceu nenhuma mensagem política. Não passa do cão de guarda do sistema fóssil. O ódio e sistemas de opressão que o partido representa são sintomas do sistema fóssil que coloca o lucro acima da vida, e estão ao serviço dele.<figure class="wp-block-image size-large">
+
+<img alt='img_20240308_182242_297-2031805-1024x768-8245717-5698536' alt='img_20240308_182242_297-2031805-1024x768-8245717' src='https://cmi.indymedia.pt/wp-content/uploads/2024/03/IMG_20240308_182242_297-2031805-1024x768-8245717-5698536.jpg' alt="img_20240308_182242_297-2031805" class="wp-image-221177" /> </figure> 
+
+A inação dos partidos está a pôr em causa os direitos que esta revolução ganhou. Em colapso climático não há paz, pão, saúde, habitação ou educação.
+
+Já levámos aos partidos o plano que explica como podem cumprir esta meta. Nenhum partido pode alegar não saber como fazer o fim ao fóssil nos prazos da ciência.
+
+<a href="https://greveclimaticalisboa.org" data-type="link" data-id="https://greveclimaticalisboa.org">greveclimaticalisboa.org</a>

@@ -1,0 +1,38 @@
+---
+title: Onde vamos andar?
+author: Publicação Comunitária
+type: post
+date: 2023-10-17T11:54:32+00:00
+url: /?p=33004
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111250222661568197
+categories:
+  - Indymedia
+tags:
+  - AltPT
+  - Direito à Cidade
+  - Indymedia
+  - Lisboa
+  - Manifestação
+  - Protesto
+  - PTrevolutionTV
+  - Vida Justa
+
+---
+<figure class="wp-block-image size-large"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/Apresentacao-de-brainstorm-geometrica-colorida-1-1024x576.png" alt="" class="wp-image-33005" /></figure> 
+
+Se não puderes marcar presença podes seguir estes eventos nos nossos directos.
+
+Não te esqueças de usar a hash tag #vidajusta dia 21 de Outurbro. 
+
+Todo o nosso trabalho é auto financiado se puderes nos ajudar a cobrir custos relacionados com deslocações, alimentação e internet, entra em contacto connosco.
+
+<https://eventos.coletivos.org/event/manifestacao-pela-paz-no-medio-oriente>
+
+<https://eventos.coletivos.org/event/queremos-uma-vida-justa>
+
+Sem tretas

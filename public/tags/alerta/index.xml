@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alerta on indymedia.pt</title>
+    <link>http://localhost:1313/tags/alerta/</link>
+    <description>Recent content in Alerta on indymedia.pt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Tue, 03 Oct 2023 14:52:49 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/alerta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Lisboa]  Resistência na Rua de Arroios: despejo adiado, a polícia foi embora.</title>
+      <link>http://localhost:1313/?p=30704/</link>
+      <pubDate>Tue, 03 Oct 2023 14:52:49 +0000</pubDate>
+      <guid>http://localhost:1313/?p=30704/</guid>
+      <description>ALERTA DESPEJO NESTE MOMENTO. Todo o apoio é bem-vindo na Rua Arroios 34. Chegou polícia para despejar sem alternativa a Alcina e o Carlos.&#xA;Alcina sempre morou com a sua tia nesta casa. Mas a tia morreu recentemente e agora Alcina e seu marido Carlos receberam uma carta de despejo do agente de execução para sair em 20 dias. O pai da Alcina, de 86 anos, mora com eles e tem várias doenças.</description>
+    </item>
+  </channel>
+</rss>

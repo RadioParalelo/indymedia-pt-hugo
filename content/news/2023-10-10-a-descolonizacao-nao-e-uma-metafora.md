@@ -1,0 +1,46 @@
+---
+title: 'A descolonização não é uma metáfora: Manifestações pela Palestina'
+author: Publicação Comunitária
+type: post
+date: 2023-10-10T11:42:13+00:00
+url: /?p=32577
+classic-editor-remember:
+  - block-editor
+mastoshare-post-status:
+  - off
+mastoshareshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111210538073600792
+categories:
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+tags:
+  - Palestina
+  - Protesto
+
+---
+**Esta semana saímos à rua em solidariedade com o povo palestiniano, na sua resistência de há 75 anos contra o projeto colonial sionista.**
+
+**Manifestações:**  
+**9/10, em Lisboa, no Largo de Camões, pelas 18h00**  
+**11/10, às 18h00, na Praça Martim Moniz, em Lisboa!**
+
+**Sábado 14/10, no Porto, 17h00, à frente da Cadeia da Relação.**
+
+Na madrugada de 7 de outubro de 2023, parte da resistência palestiniana, a partir da Faixa de Gaza, iniciou uma ação de resistência contra o projeto colonial sionista, liderada pelo Hamas, a que se juntaram outros coletivos em toda a Palestina. Esta é uma resposta ao escalar de violência por parte do exército e de colonos israelitas, principalmente na Cisjordânia e em Jerusalém. O ano de 2023 é já o mais mortal para pessoas palestinianas desde 2005 — mais de 200 tinham sido mortas ainda antes dos acontecimentos deste fim-de-semana. As últimas semanas têm também sido marcadas por um aumento do número de colonos que, em Jerusalém, têm forçado a entrada na praça onde se encontra a mesquita de Al-Aqsa, um dos mais importantes locais de culto do islão.
+
+Esta ação surge quando se cumprem quase 20 anos de bloqueio&nbsp;a Gaza por parte do Estado sionista (e também do Estado egípcio), que tornou esta região uma prisão a céu aberto, onde cerca de dois milhões de pessoas&nbsp;vivem na miséria, sem dinheiro, sem acesso constante a água potável&nbsp;ou eletricidade, sem a possibilidade de fugirem ou se refugiarem, e com a constante ameaça de bombardeamentos e massacres por parte do poder ocupante. Recentemente, no passado maio, mais de 30 pessoas palestinianas foram mortas em mais um ataque israelita.
+
+Foi isso que as forças militares ocupantes fizeram novamente como resposta a esta ação de resistência. Depois dos guerrilheiros do Hamas terem lançados rockets e conseguido, pela primeira vez em anos, destruir a separação de metal construída para dividir Gaza dos territórios ocupados em 1948 pelo Estado de Israel, infiltrando-se em colonatos para destruir edifícios como esquadras da polícia e para capturar soldados e colonos, o exército sionista iniciou mais uma campanha de punição coletiva, bombardeando algumas das zonas mais densamente povoadas da Faixa de Gaza. Já centenas de pessoas morreram desde a manhã de sábado. Infelizmente, a normalização desta dimensão de violência e devastação da resposta israelita — cujo poderio militar é inúmeras vezes superior ao palestiniano — &nbsp;é também uma realidade. Como se lê no editorial do jornal Público de ontem, “os Israelitas irão responder de forma brutal nas próximas horas.”
+
+Mas o que se passa na Palestina não pode entender-se sem o devido contexto dos últimos 75 anos de ocupação. Pelo menos desde 1948 que a _nakba_&nbsp;(catástrofe, em árabe) é uma realidade para a população palestiniana, que resiste contra a limpeza étnica de todo um povo por parte de um império colonial que mantém o apoio das maiores potências do ocidente. Como têm feito sucessivamente, representantes políticos como&nbsp;Roberta Metsola, presidente do Parlamento Europeu, Ursula von der Leyen, presidente da Comissão Europeia, ou António Costa, primeiro-ministro de Portugal&nbsp;mostram solidariedade com o _apartheid_.
+
+Todos os dias são mortas&nbsp;pessoas civis na Palestina pelo Estado de Israel e pelos seus colonos. No entanto, a violência a que agora assistimos é resultado direto da ocupação do povo palestiniano por parte de um projeto colonial e os seus 75 anos de limpeza étnica. Negar o seu direito a fazê-lo é contrariar o direito à resistência dos povos ocupados. Não temos qualquer afinidade com o projeto político do Hamas, mas reconhecemos o desejo de libertação de todo um povo.
+
+Porque acreditamos no direito do povo palestiniano de resistir à ocupação colonial com qualquer meio à sua disposição (como, aliás, expressa a lei internacional), manifestamo-nos em solidariedade com a sua luta na segunda-feira, dia 9 de outubro, pelas 18 horas, no Largo de Camões, em Lisboa. A descolonização não é apenas uma metáfora, um enquadramento teórico. E é quando ela se torna real que temos de dizer: sim, defendemos a Palestina livre.<figure class="wp-block-image size-full">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/Screenshot-2023-10-10-at-12-39-35-Coletivo-pela-Libertacao-da-Palestina-@libertacaopalestina-•-Instagram-photos-and-videos.png" alt="" class="wp-image-32579" /> </figure> 
+
+<a href="https://www.instagram.com/libertacaopalestina/" data-type="link" data-id="https://www.instagram.com/libertacaopalestina/">Coletivo pela Libertação da Palestina</a>
+
+<https://docs.google.com/document/d/1bB01Syl69P1mr8vtuDBKg7iTjF9j5GITeKyzMYyVNHY/mobilebasic>

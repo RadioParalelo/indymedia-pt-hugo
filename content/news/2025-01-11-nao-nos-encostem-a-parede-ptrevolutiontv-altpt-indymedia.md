@@ -1,0 +1,46 @@
+---
+title: 'Não nos encostem à parede #PTrevolutionTV #AltPt #Indymedia'
+author: Publicação Comunitária
+type: post
+date: 2025-01-11T16:21:19+00:00
+url: /?p=225026
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+tags:
+  - AltPT
+  - Indymedia
+  - PTrevolutionTV
+
+---
+Não nos encostem à parede #PTrevolutionTV #AltPt #Indymedia
+
+
+
+  
+
+
+ <https://youtube.com/watch?v=r1YMvr4l5Y4> 
+
+<!-- /wp:post-content --></div> 
+
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+
+Instâncias [Invidious][1] alternativas:  
+<https://redirect.invidious.io/watch?v=r1YMvr4l5Y4>
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+**[@PTrevolutionTV][2]**
+
+<!-- /wp:paragraph -->
+
+ [1]: https://invidious.io/
+ [2]: https://www.youtube.com/@ptrevolutiontv

@@ -1,0 +1,45 @@
+---
+title: Lugar de Fala nº 172 com Rita Cássia
+author: Publicação Comunitária
+type: post
+date: 2024-07-11T15:08:28+00:00
+excerpt: 'Nascida em Salvador, Bahia, Brasil, em 1980. Rita CássiaIniciou-se nas artes do palco aos 12 anos de idade. Reside em Portugal há 24 anos. Trabalhou com crianças e jovens através da arte-educação, desde 2001, em escolas do ensino básico e em espaços artísticos localizados em diferentes Concelhos portugueses. Licenciada em Antropologia pelo ISCTE. Doutoranda em Ciências da Comunicação, na . Tem artigos e crónicas publicados em diferentes mídias, em Portugal e no Brasil. Nos últimos anos tem desenvolvido projetos de criação artística em cruzamentos disciplinares entre as artes e a antropologia  É membro fundadora do Teatro Bocage e da UNA - União Negra das Artes. Integra a Femafro e o Comitê Popular de Mulheres Portugal. Ativista antirracista.'
+url: /?p=223659
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <p>
+    <a href="https://vid.puffyan.us/watch?v=_7svhq-QC3I">https://vid.puffyan.us/watch?v=_7svhq-QC3I</a>
+  </p>
+</div>
+
+Nascida em Salvador, Bahia, Brasil, em 1980. Rita CássiaIniciou-se nas artes do palco aos 12 anos de idade. Reside em Portugal há 24 anos. Trabalhou com crianças e jovens através da arte-educação, desde 2001, em escolas do ensino básico e em espaços artísticos localizados em diferentes Concelhos portugueses. Licenciada em Antropologia pelo ISCTE. Doutoranda em Ciências da Comunicação, na . Tem artigos e crónicas publicados em diferentes mídias, em Portugal e no Brasil. Nos últimos anos tem desenvolvido projetos de criação artística em cruzamentos disciplinares entre as artes e a antropologia É membro fundadora do Teatro Bocage e da UNA &#8211; União Negra das Artes. Integra a Femafro e o Comitê Popular de Mulheres Portugal. Ativista antirracista.
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  </div>
+  
+  <p>
+    <a href="https://youtube.com/watch?v=_7svhq-QC3I"> https://youtube.com/watch?v=_7svhq-QC3I </a>
+  </p>
+</div>
+
+Instâncias [Invidious][1] alternativas:  
+<https://redirect.invidious.io/watch?v=_7svhq-QC3I><figure class="wp-block-image size-large">
+
+![][2] </figure> 
+
+**O Lado Negro da Força** | A força da opinião negra  
+[Youtube][3] | [Facebook][4] | Também no [AfroLink][5]
+
+ [1]: https://invidious.io/
+ [2]: https://cmi.indymedia.pt/wp-content/uploads/2024/07/maxres-8481626.jpg
+ [3]: https://www.youtube.com/@OLadoNegrodaForca/videos
+ [4]: https://www.facebook.com/oladonegrodaforca2019/
+ [5]: https://afrolink.pt/?s=O+Lado+Negro+da+For%C3%A7a+

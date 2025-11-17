@@ -1,0 +1,95 @@
+---
+title: 'Academia Não Assedia: Manifestação Nacional a 7 de Novembro'
+author: Publicação Comunitária
+type: post
+date: 2023-10-30T13:48:53+00:00
+url: /?p=74078
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111324282281582113
+post_views_count:
+  - 5
+categories:
+  - Indymedia
+  - Movimentos Sociais
+  - Queer Feminismo
+tags:
+  - Academia
+  - Assédio
+  - Manifestação
+
+---
+<gancio-event baseurl='https://eventos.coletivos.org' id=3761></gancio-event> 
+
+O assédio no meio académico dura há demasiado tempo e com a complacência da comunidade académica. Juntamo-nos para dizer basta. O assédio não tem lugar nas nossas universidades.
+
+&nbsp;
+
+Todes sabemos o que se passa nas nossas faculdades. Todes sabemos porque o assédio está institucionalizado; está sistematizado. E as nossas instituições calam &#8211; por todo o país. Nos últimos dois anos têm-se sabido inúmeros casos de assédio moral e sexual de norte a sul do país. No entanto, o corpo estudantil sabe que os casos que saem para fora e são divulgados pelas fontes mediáticas são residuais. Infelizmente, estes são apenas uma parte do problema.
+
+&nbsp;
+
+O caso mais recente de que tivemos conhecimento aconteceu na Universidade de Coimbra, no Centro de Estudos Sociais da Universidade. Em abril foram realizadas denúncias de situações de assédio e discriminação nesta instituição; três investigadoras que passaram por este Centro denunciaram situações de assédio no livro “Má conduta sexual na Academia &#8211; Para uma Ética de Cuidado na Universidade”. A esta denúncia, juntaram-se outras e ressurgiram denúncias que tinham sido feitas anos antes. Então, o CES nomeou uma comissão independente para investigar as acusações em causa e destacou o canal de denúncia interna para situações de assédio e/ou discriminação já existente. A 27 de junho deste ano, tinham sido recebidas 42 queixas pela Universidade de Coimbra relacionadas com conduta imprópria e assédio moral, sendo que metade destas queixas diz respeito ao comportamento de professores.
+
+&nbsp;
+
+A estes casos somam-se tantos outros pelo território nacional. Na Universidade do Minho, no final de 2021, um porteiro da residência Lloyd foi acusado de assédio sexual por duas residentes. Em resposta, a comunidade estudantil juntou-se numa manifestação pelas ruas da cidade contra o assédio sexual na instituição. O funcionário foi absolvido. Mais tarde, foram registadas mais de 100 denúncias de assédio sexual no campus de Gualtar. O Código de Conduta Ética da Universidade foi revisto e um novo gabinete foi criado, com intuito de criar um meio independente direcionado à resposta a casos de assédio e prevenção e combate ao assédio. No entanto, segundo es alunes, o clima de impunidade e encobrimento permanece enraizado na faculdade.
+
+&nbsp;
+
+Em 2022, a sociedade civil ficou chocada com o caso da Faculdade de Direito da Universidade de Lisboa. Mas es alunes não. Em abril desse ano, foram noticiadas 50 queixas de assédio moral e sexual, as quais acusavam 10% do corpo docente. Consoante a pressão mediática, a faculdade criou o Gabinete de Apoio à Vítima (GAV), cujo funcionamento foi anunciado ao corpo estudantil no penúltimo dia de aulas. Este gabinete trabalha sob a alçada da subdiretora da faculdade, não contempla um espaço físico fora da FDUL, e apresenta três canais de e-mail como via de comunicação e apresentação de queixas. Ainda para mais, o reitor da Universidade de Lisboa demarcou-se dos problemas estruturais da instituição, desmarcando-se das responsabilidades do seu cargo e nutrindo zero preocupação pelos estudantes. No dia 12 de abril foi noticiado pela comunicação social que o Dr. Rogério Alves &#8211; jurista escolhido para prestar apoio jurídico no GAV &#8211; não se encontrava em funções desde 31 de dezembro de 2022. Não houve qualquer tipo de comunicado à Comunidade Académica pelos Órgãos da Faculdade. Tal evidência demonstra o caráter fútil e insuficiente das medidas aplicadas pela instituição na Academia.
+
+&nbsp;
+
+Mais uma vez, denúncias surgem por todo o país. No Instituto Superior Técnico, quase 100 alunes acusavam existir assédio sexual na faculdade, enquanto mais de 300 alunes falavam de assédio moral. Na Universidade de Aveiro, es alunes acusavam a faculdade de ser cúmplice do problema sistemático do assédio. Na Universidade do Porto, o corpo estudantil exigia ação contra a xenofobia e o racismo. Na Universidade da Madeira, es alunes falavam sobre queixas de assédio sexual e moral. Em abril de 2022, centenas de estudantes juntaram-se em frente à Reitoria da Universidade de Lisboa num protesto contra o assédio sexual e moral, e contra a recusa da academia em atuar no sentido de solucionar esta violação dos direitos des estudantes. Deste modo, poderemos sofrer a crítica de que as queixas só surgem em momentos mediáticos, mas a verdade é que são os mesmos que dão a coragem necessária às vítimas para, num meio académico silencioso e indiferente ao seu sofrimento, se fazerem ouvir!
+
+&nbsp;
+
+O assédio na academia é generalizado e prejudica todes es alunes. O assédio está presente nas salas de aula, em conferências, em reuniões, em festas, e em todos os espaços ligados ao espaço académico. É neste sentido que o movimento Academia Não Assedia exige uma academia segura e inclusiva, onde não exista espaço para o assédio sexual ou moral. Exigimos uma academia livre de todas as formas de intimidação e humilhação, na qual o foco seja a aprendizagem baseada em oportunidades equitativas. Exigimos o respeito de todes es membros da comunidade académica. Exigimos soluções eficazes, e chega de gabinetes a fingir! Deste modo, a Academia Não Assedia propõe para todo o contexto académico:
+
+&nbsp;
+
+1. Criação de um gabinete independente de apoio psicológico e jurídico à vítima para todas as universidades e composta por membros externos às faculdades que sejam formados nesta área, com instalações físicas;
+
+&nbsp;
+
+2. Realização de um questionário institucional anónimo e dirigido a todes es estudantes e funcionários – docentes e não docentes – de recolha de testemunhos de assédio, com o objetivo de obter dados quantitativos, qualitativos e atualizados sobre os casos de assédio e\ou discriminatórios na academia;
+
+&nbsp;
+
+3. Distribuição de informação sobre assédio e mecanismos de apoio a todo o corpo académico (docentes, discentes e não docentes), através de meios institucionais;
+
+&nbsp;
+
+4. Criação de Códigos de Conduta e revisão dos já existentes no sentido de garantir uma efetiva resposta a casos de assédio em contexto institucional ou relacionado, e reformulação dos mesmos sempre que tal não se verifique;
+
+&nbsp;
+
+5. Promoção de medidas sancionatórias eficientes para os agressores como a instauração de processos disciplinares e a suspensão ou expulsão dos mesmos da Universidade;
+
+&nbsp;
+
+6. Garantir que as vítimas não são avaliadas por Professoras/es contra quem fizeram queixa;
+
+&nbsp;
+
+7. Assegurar um real serviço psicológico a custo zero;
+
+&nbsp;
+
+8. Ao Ministério do Ensino Superior, cabe assegurar ações de formação obrigatória a todo o corpo docente sobre pedagogia e assédio sexual e moral, bem como racismo, xenofobia ou orientação sexual (o que é, consequências e penalizações), incluindo uma formação sobre assédio em contexto laboral.
+
+&nbsp;
+
+Unimo-nos contra todas as formas de assédio nas instituições de ensino em Portugal.
+
+&nbsp;
+
+Que todas as instituições académicas saibam que não nos vamos calar e não nos podem parar.
+
+&nbsp;
+
+Não passarão.

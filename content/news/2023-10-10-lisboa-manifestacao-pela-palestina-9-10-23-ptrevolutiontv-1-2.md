@@ -1,0 +1,21 @@
+---
+title: '[Lisboa] Manifestação pela Palestina 9/10/23 PTrevolutionTV [1/2]'
+author: Publicação Comunitária
+type: post
+date: 2023-10-10T15:08:54+00:00
+url: /?p=32594
+categories:
+  - Guerra e Paz
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - FreePalastine
+  - Indymedia
+  - PalestineUnderAttack
+  - PTrevolutionTV
+
+---
+<figure class="wp-block-video"><video controls src="https://invidious.fdn.fr/latest_version?id=2UHRfjwVOX8&itag=18"></video></figure> <figure class="wp-block-audio"><audio controls src="https://invidious.fdn.fr/latest_version?id=2UHRfjwVOX8&itag=140"></audio></figure> #FreePalastine #PalestineUnderAttack #PTrevolutionTV #AltPt #Indymedia Demonstration Pro Palestina yesterday, 9 October, in Lisbon Portugal. Manifestação pro palestina em Lisboa ontem. Pela soberania da Informação <figure class="wp-block-image size-large"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/17_mqdefault.jpg" alt="" /></figure> 
+
+<https://invidious.fdn.fr/watch?v=2UHRfjwVOX8>

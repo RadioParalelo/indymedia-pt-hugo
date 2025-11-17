@@ -1,0 +1,141 @@
+---
+title: '[Lisboa] Apresentação do livro “No meu bairro” na Fundação José Saramago face à ameaça fascista'
+author: Publicação Comunitária
+type: post
+date: 2023-09-29T22:22:45+00:00
+url: /?p=26283
+classic-editor-remember:
+  - block-editor
+categories:
+  - Cultura e Arte
+  - Discriminação
+  - Indymedia
+  - Movimentos Sociais
+  - Queer Feminismo
+tags:
+  - Censura
+  - Fascistas
+  - LGBTQIA+
+
+---
+ 
+
+Hoje, decorreu a apresentação do livro &#8220;No Meu Bairro,&#8221; de Lúcia Vicente e com ilustrações de Tiago M, na Fundação José Saramago. O evento atraiu grande atenção, tanto que muitas pessaos ficaram do lado de fora, uma vez que as portas foram fechadas devido à lotação da sala.
+
+O livro, que se propõe a promover a inclusão e a diversidade, foi alvo de medidas de segurança rigorosas. Os participantes precisaram de registar os seus nomes e documentos de identidade na porta para entrar, e a PSP estava presente no interior da Fundação. <figure class="wp-block-image size-full">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/photo_2023-09-29_23-12-48.jpg" alt="" class="wp-image-26368" /> </figure> 
+
+As medidas foram [motivadas pelo ataque recente à apresentação do livro na livraria Almedina][1], quando um grupo de 10 fascistas interromperam a apresentação gritando com megafones, numa violenta demonstração da sua cultura do ódio e tentativa de censura do evento e provávelmente, para criar um caso mediático à sua volta, na busca de atenção e polarização crescente da sociedade.
+
+Do lado de fora, um grupo de pessoas apoiantes que não conseguiu entrar ficou do lado de fora do &#8216;recinto de segurança&#8217;, com a polícia a estabelecer uma barricada em torno do local do evento.
+
+Enquanto dentro da Fundação Saramago o clima era de expectativa e tensão, mas também de luta e resistência, pois estavam a combater uma tentativa de censura fascista, que lá fora, com megafones tentava fazer barulho e expressar opiniões transfóbicas, homofóbicas e machistas.
+
+Estes fascistas alegaram que o livro promove o que eles chamam de &#8220;ideologia de género&#8221;, vestiam coletes amarelos e seguravam bandeiras de Portugal cantando o hino da &#8220;portuguesa&#8221;. Convocados pelo partido ADN e por um grupo de Telegram, gritavam palavras de ordem como &#8220;vergonha&#8221; e &#8220;nojento,&#8221; além de entoar o hino nacional. Seguravam também cartazes contra o aborto.<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/photo_2023-09-29_22-59-09-1-1024x768.jpg" alt="" class="wp-image-26369" /> </figure> 
+
+No entanto, muitos dos&#8221;manifestantes&#8221; fascistas, pareciam estar ali sem compreender completamente o que estavam a fazer ou qual era o contexto ou conteúdo do livro. 
+
+Alguns expressaram preocupações de forma confusa, como quando um deles afirmou: &#8220;Que os adultos e os jovens sejam homossexuais, não quero saber, mas as crianças não, não passarão.&#8221;.
+
+Um dos presentes observou que muitos manifestantes pareciam desorientados e mal informados sobre o conteúdo do livro. 
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    <strong>&#8220;Via-se mesmo que metade nem sabia direito o que estava a dizer. Alguém lhes imbuiu que o livro queria tornar as crianças gays, e eles compraram essa ideia, tanto que um deles disse &#8216;que os adultos e os jovens sejam homossexuais, não quero saber, mas as crianças não, não passarão&#8217;. Muita desta malta é gente ignorante a ser manipulada por uma rede maior.&#8221;</strong>
+  </p>
+  
+  <cite>Apoiante da apresentação</cite>
+</blockquote><figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/photo_2023-09-29_22-59-11-1024x768.jpg" alt="" class="wp-image-26370" /> </figure> 
+
+Enquanto isso, do lado de fora, um grupo de pessoas Queer e apoiantes, que não conseguiu entrar na Fundação Saramago foi recebido com hostilidade pela polícia, que não mostrou a mesma repressão aos manifestantes fascistas. 
+
+Um policia empurrou violentamente um dos presentes do lado Queer. Assim, não foi possível à comunidade Queer defender a apresentação, já que a polícia estava também a afastar os apoiantes do local e a reprimir as suas ações.
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    &#8220;<strong>O mínimo de ação nossa era interrompida pela polícia, isto é, tentaram parar uma pessoa que estava a tocar música do nosso lado, empurraram e afastaram-nos.</strong>&#8220;
+  </p>
+  
+  <p>
+  </p>
+  
+  <cite>Apoiante da apresentação</cite>
+</blockquote>
+
+A comunidade Queer demonstrou solidariedade dentro e fora da Fundação José Saramago e celebrou a diversidade, enquanto enfrenta uma situação de pressão crescente por parte de grupos fascistas. <figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Screenshot-from-2023-09-29-23-20-39-1024x576.png" alt="" class="wp-image-26374" /> <figcaption class="wp-element-caption">O grupo Queer começou uma festa no exterior.</figcaption></figure> 
+
+&#8220;A saída terá que ser feita pelas traseiras da Fundação Saramago porque os manifestantes prometem bolas de fogo a cair dos céus.&#8221; [diz a reportagem da SAPO 24][2], acrescentando que no interior houve apenas &#8220;abraços e livros a serem assinados&#8221;. 
+
+Sérgio Machado Letria, o diretor da Fundação disse:
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    “Cá estamos em paz e liberdade para apresentar este livro.”
+  </p>
+  
+  <p>
+    &#8220;Tivemos que tomar uma posição”
+  </p>
+  
+  <p>
+    “Gostar ou não do livro é da competência dos leitores. A análise técnica será da competência dos peritos em literatura”. Termina resumindo, “queremos que todos os bairros sejam plurais livres e democráticos”.
+  </p>
+  
+  <cite><a href="https://24.sapo.pt/atualidade/artigos/no-meu-bairro-uma-tomada-de-posicao-pela-liberdade-porque-as-criancas-nao-sao-patetas">https://24.sapo.pt/atualidade/artigos/no-meu-bairro-uma-tomada-de-posicao-pela-liberdade-porque-as-criancas-nao-sao-patetas</a></cite>
+</blockquote>
+
+Esta polémica gerou uma grande onda de solidariedade em torno do Livro, que praticamente esgotou. No entanto, no interior, a autora teve de falar ao som do hino nacional e de cânticos como &#8220;portugal&#8221; que ecoavam vindos do exterior. A autora diz que &#8220;as crianças não são patetas&#8221; , que sabem pensar por elas mesmas, e que em vez de nos focarmos nos protestos, é importante ver a grande onda de solidariedade que se gerou esta semana.
+
+A repórter da SAPO falou também com Pilar del Rio, perguntando-lhe se sentia ansiedade, ao que ela respondeu:
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    “Ansiedade não, respeito. Nós nascemos para a liberdade e para que as pessoas se possam expressar livremente. Nesta ocasião em especial, se haviam sido impedidos de manifestar-se e expressar-se que o possam fazer nesta sala com uma firme convicção.” E acrescenta que a Fundação servirá sempre “para defender a liberdade de expressão e os valores que nos fazem humanos. Os valores que estão consagrados na Constituição e na Declaração Universal de Direitos Humanos”. O que este livro conta são também expressões humanas e formas de desenvolvimento a que os seres humanos têm direito”.
+  </p>
+  
+  <cite><a href="https://24.sapo.pt/atualidade/artigos/no-meu-bairro-uma-tomada-de-posicao-pela-liberdade-porque-as-criancas-nao-sao-patetas">https://24.sapo.pt/atualidade/artigos/no-meu-bairro-uma-tomada-de-posicao-pela-liberdade-porque-as-criancas-nao-sao-patetas</a></cite>
+</blockquote>
+
+A polarização na sociedade e os questionamentos sobre liberdade de expressão continuam a ser temas centrais na face destes eventos.<figure class="wp-block-image size-full">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/photo_2023-09-29_22-58-59-edited-1.jpg" alt="" class="wp-image-26388" /> </figure> 
+
+A psicóloga [Joana Rodrigues][3] diz que o livro promove a compaixão e inclusão, e está de acordo com a maioria das perspetivas científicas. Além disso ela refere que:
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    &#8220;aprender a conviver com a diversidade que habita no nosso mundo e entender que essas experiências não são sinónimos de erro ou desvio é fundamental para a saúde mental&#8221; e que &#8220;o mal estar e problemas emocionais vem da não aceitação por parte dos outros, da comunidade, não da condição em que a criança está!&#8221;.
+  </p>
+  
+  <p>
+    &#8220;É nessa aceitação ou exclusão e humilhação que residem as fontes do dano psicológico&#8221;.
+  </p>
+  
+  <p>
+    &#8220;Então, ensinar inclusividade, aceitação e promover a representatividade não só é bastante importante como é realmente imprescindível.&#8221;
+  </p>
+</blockquote><figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/photo_2023-09-29_22-59-07-1024x1024.jpg" alt="" class="wp-image-26389" /> </figure> 
+
+Levantam questões importantes para a comunidade Queer e a autodefesa das comunidades contra a ameaça fascista, já que a Polícia é apenas capaz de manter a segurança dos atores instituicionais, não oferecendo qualquer proteção à comunidade Queer nas ruas.
+
+Bem pelo contrário, a comunidade Queer é atacada e violentada sistemáticamente, tanto pela Polícia como pelos fascistas, que hoje, (apenas temporáriamente) a polícia não deixou passar. No mesmo dia em que foram chamados a defender a apresentação de um livro com temática Queer na Fundação José Saramago, não se inibiram de ser violentos contra a mesma comunidade Queer no exterior.
+
+É nas ruas que se luta pela democracia, contra o fascismo, e pelos direitos de todes à igualdade e dignidade. E é nas ruas que teremos de cada dia mais, defender as nossas comunidades contra a ameaça fascista crescente.
+
+Três marchas [LGBT+ foram atacadas este mês][4], além [da barulhenta e agressiva interrupção da apresentação anterior deste mesmo livro.][1]<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/photo_2023-09-29_22-59-13-1024x576.jpg" alt="" class="wp-image-26366" /> </figure>
+
+ [1]: https://cmi.indymedia.pt/2023/09/24/apresentacao-do-livro-no-meu-bairro-com-linguagem-inclusiva-atacada-por-fascistas/
+ [2]: https://24.sapo.pt/atualidade/artigos/no-meu-bairro-uma-tomada-de-posicao-pela-liberdade-porque-as-criancas-nao-sao-patetas
+ [3]: https://www.instagram.com/p/CxxP7iis_sU/?img_index=6
+ [4]: https://cmi.indymedia.pt/?s=marcha+LGBT+alvo

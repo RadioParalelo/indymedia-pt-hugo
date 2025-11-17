@@ -1,0 +1,52 @@
+---
+title: Vais a manifestação da Vida Justa hoje?? Espreita isto
+author: Publicação Comunitária
+type: post
+date: 2023-10-21T12:21:03+00:00
+url: /?p=40443
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111272976319162550
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/10/hashvidajusta.mp4
+        3824735
+        video/mp4
+        
+categories:
+  - Habitação
+  - Indymedia
+tags:
+  - AltPT
+  - Direito à Cidade
+  - hashtag
+  - Indymedia
+  - Lisboa
+  - Manifestação
+  - Protesto
+  - PTrevolutionTV
+  - Vida Justa
+  - VidaJusta
+
+---
+#CMI #VidaJusta #AltPt 
+
+Let&#8217;s get connected!<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-124 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="40445" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/2-1-1024x576.png" alt="" class="wp-image-40445" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="40444" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/3-1-1024x576.png" alt="" class="wp-image-40444" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="40448" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/4-1-1024x576.png" alt="" class="wp-image-40448" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="40446" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/5-1-1024x576.png" alt="" class="wp-image-40446" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="40447" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/6-1024x576.png" alt="" class="wp-image-40447" /></figure> </figure> 
+
+Se gostas de andar com os teus audiovisuais e vais Hoje a manifestação Vida Justa, quando voltares para casa e publicares os teus registos nas redes sociais não te esqueças de usar as #hashtag.
+
+[#CMI #VidaJusta #AltPt][1]<figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/hashvidajusta.mp4"></video></figure> 
+
+Ou podes ir a https://cmi.indymedia.pt/ usar a publicação livre e partilhar nas nossas redes.
+
+Pela soberania da informação.
+
+Todo o nosso trabalho é auto financiado se puderes ajudar entra em contacto connosco.
+
+ [1]: https://cmi.indymedia.pt/2023/10/12/dia-21-vamos-as-rua-manifestacao-vida-justa/

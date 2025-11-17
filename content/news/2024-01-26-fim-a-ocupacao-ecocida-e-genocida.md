@@ -1,0 +1,45 @@
+---
+title: “Fim à ocupação ecocida e genocida”.
+author: Publicação Comunitária
+type: post
+date: 2024-01-26T07:50:33+00:00
+url: /?p=216437
+autopostToMastodon-post-status:
+  - on
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111821158177233082
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Guerra e Paz
+  - Indymedia
+
+---
+Hoje, dia 26 de Janeiro, pelas 7 horas da manhã ativistas do Fim ao fóssil pintaram a bandeira da Palestina nas escadas monumentais de Coimbra, um dos pontos mais emblemáticos da cidade, e penduraram uma faixa onde se pode ler &#8220;Fim à ocupação ecocida e genocida&#8221;.<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-245 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img data-id="216438" alt='photo_2024-01-26_07-46-30-9312470-1024x768-8354165-8157579' alt='photo_2024-01-26_07-46-30-9312470-1024x768-8354165' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-26_07-46-30-9312470-1024x768-8354165-8157579.jpg' class="wp-image-216438" /> </figure> <figure class="wp-block-image size-large"><img data-id="216439" alt='photo_2024-01-26_07-46-25-2540674-1024x768-6545817-1628648' alt='photo_2024-01-26_07-46-25-2540674-1024x768-6545817' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-26_07-46-25-2540674-1024x768-6545817-1628648.jpg' class="wp-image-216439" /></figure> <figure class="wp-block-image size-large"><img data-id="216440" alt='photo_2024-01-26_07-46-19-6407895-768x1024-9152153-1731360' alt='photo_2024-01-26_07-46-19-6407895-768x1024-9152153' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/photo_2024-01-26_07-46-19-6407895-768x1024-9152153-1731360.jpg' class="wp-image-216440" /></figure> </figure> 
+
+Passadas 3 semanas do escalar do conflito de 7 de outubro,juntamente com os bombardeamentos consecutivos o governo israelita anunciou planos de expansão das indústrias de gás e petróleo com investimentos sem precedentes de 6 companhias, entre estas a BP.
+
+E depois de três semanas consecutivas de bombardeamento, o governo israelita anunciou planos de expansão das indústrias de gás e petróleo com investimentos sem precedentes de 6 companhias, entre estas a BP.  
+Não é novidade que o estado Israelita compactua ativamente com as indústrias fósseis, especialmente na extração e distribuição de gás natural. Deste modo, denunciámos o que estes têm vindo a procurar e a estabelecer-se como uma importante figura na exportação de gás fóssil.
+
+Sabemos que há muito que o estado sionista condena a população da palestina à precariedade e pobreza energética &#8211; mantendo-a sob a sua dependência a esse nível, enquanto explora incessantemente os recursos naturais palestinos sem qualquer consideração pelas consequências para a população e regiões ou para as alterações climática.
+
+Nos últimos 4 meses o genocídio e ecocídio é evidente. Por isso, não podemos deixar de exigir:  
+1. Exerça pressão internacional por um cessar-fogo imediato
+
+<ol class="wp-block-list" start="2">
+  <li>
+    Interrompa qualquer colaboração com empresas israelitas ligadas à indústria do armamento ou cúmplices da ocupação de territórios palestinianos
+  </li>
+  <li>
+    Recuse qualquer colaboração militar ou logística em operações que envolvam as IDF bem como a utilização dos espaços das Lages e do espaço aéreo e/ou marítimo português para o esforço de guerra israelita
+  </li>
+  <li>
+    Pressione a UE para a aplicação de sanções ao estado de Israel
+  </li>
+  <li>
+    Exerça pressão internacional para que sejam cumpridas todas as resoluções aprovadas pela ONU e restantes leis do Direito
+  </li>
+</ol>

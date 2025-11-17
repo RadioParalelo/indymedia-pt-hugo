@@ -1,0 +1,46 @@
+---
+title: '[Lisboa] Concentração Espontânea em Solidariedade com Freedom Flotilla #PTrevolutionTV #AltPT #indym'
+author: Publicação Comunitária
+type: post
+date: 2025-06-21T17:36:04+00:00
+url: /?p=225583
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+tags:
+  - AltPT
+  - indym
+  - PTrevolutionTV
+
+---
+[Lisboa] Concentração Espontânea em Solidariedade com Freedom Flotilla #PTrevolutionTV #AltPT #indym
+
+
+
+  
+
+
+ <https://youtube.com/watch?v=3g3ByHTc6EM> 
+
+<!-- /wp:post-content --></div> 
+
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+
+Instâncias [Invidious][1] alternativas:  
+<https://redirect.invidious.io/watch?v=3g3ByHTc6EM>
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+**[@PTrevolutionTV][2]**
+
+<!-- /wp:paragraph -->
+
+ [1]: https://invidious.io/
+ [2]: https://www.youtube.com/@ptrevolutiontv

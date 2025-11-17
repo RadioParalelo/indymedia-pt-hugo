@@ -1,0 +1,56 @@
+---
+title: A Força da Opinião Negra . Manifestações Nacionalistas
+author: Publicação Comunitária
+type: post
+date: 2024-02-03T13:46:41+00:00
+excerpt: As preocupantes mostras de nacionalismo nas manifestações das forças de segurança e a extrema direita nas ruas com pautas inconstitucionais merecem a nossa atenção.
+url: /?p=218066
+burst_page_id_upgraded:
+  - 1
+embed_privacy_thumbnail_youtube_SCVKjIiYNrc:
+  - youtube-SCVKjIiYNrc-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_SCVKjIiYNrc_url:
+  - https://youtube.com/watch?v=SCVKjIiYNrc
+categories:
+  - Indymedia
+
+---
+<figure class="wp-block-embed is-type-rich is-provider-gestor-de-incorpora-es wp-block-embed-gestor-de-incorpora-es wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div><figcaption class="wp-element-caption">(
+
+[Youtube][1]) ([Invidious][2]) </figcaption></figure> <figure class="wp-block-audio"><audio controls src="https://vid.puffyan.us/latest_version?id=SCVKjIiYNrc&itag=140"></audio></figure> 
+
+As preocupantes mostras de nacionalismo nas manifestações das forças de segurança e a extrema direita nas ruas com pautas inconstitucionais merecem a nossa atenção.
+
+<!-- /wp:post-content -->
+
+<!-- wp:post-title {"level":6} /-->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|light-green-cyan"}}}},"textColor":"light-green-cyan"} -->
+
+<p class="has-light-green-cyan-color has-text-color has-link-color">
+  <a href="https://www.youtube.com/@OLadoNegrodaForca">@oladonegrodaforca</a>
+</p>
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|light-green-cyan"}}}},"textColor":"light-green-cyan"} -->
+
+<p class="has-light-green-cyan-color has-text-color has-link-color">
+  <a href="https://www.youtube.com/watch?v=SCVKjIiYNrc" target="_blank" rel="noreferrer noopener">https://www.youtube.com/watch?v=SCVKjIiYNrc</a>
+</p>
+
+<!-- /wp:paragraph -->
+
+<!-- wp:post-author {"showBio":true,"isLink":true,"linkTarget":"_blank","style":{"elements":{"link":{"color":{"text":"var:preset|color|light-green-cyan"}}}},"textColor":"light-green-cyan"} /-->
+
+<!-- wp:friends/friend-posts {"count":3,"only_users":" O-Lado-Negro-da-Forca"} /-->
+
+<!-- wp:image {"align":"center","width":"650px","height":"auto","sizeSlug":"large"} --><figure class="wp-block-image aligncenter size-large is-resized">
+
+<img alt='mqdefault-8661605' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/mqdefault-8661605.jpg' alt="" style="width:650px;height:auto" /> </figure> <!-- /wp:image -->
+
+ [1]: https://youtu.be/SCVKjIiYNrc
+ [2]: https://vid.puffyan.us/watch?v=SCVKjIiYNrc

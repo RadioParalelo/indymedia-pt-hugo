@@ -1,0 +1,114 @@
+---
+title: Crowdfunding para vigílias em apoio à Palestina em Portugal
+author: Publicação Comunitária
+type: post
+date: 2023-10-16T13:15:15+00:00
+url: /?p=32965
+classic-editor-remember:
+  - block-editor
+categories:
+  - Guerra e Paz
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - Protesto
+
+---
+Para sustentar protestos, vigílias e ações para aumentar a visibilidade da crise humanitária e do genocídio na Palestina, criei esta campanha de crowdfunding:  
+<https://gf.me/u/44gzxp>
+
+Conforme anunciado na descrição, todo o excedente de despesas será utilizado para sustentar outras ações (como marchas, adesivos, intervenções de Halloween e potencialmente outras que virão).  
+O apoio à vigília a iniciar em Lisboa (e Braga, em discussão) poderá ser feito, dependendo de donativos.
+
+E por último, doação a organizações humanitárias que actuam em Gaza de todos os fundos restantes.
+
+Isto de acordo com um padrão de 100% de transparência e com a minha promessa de publicação de todas as atualizações e recibos/comprovantes no feed do gofundme.
+
+Pedimos a sua contribuição e compartilhe!
+
+Obrigada 💪🏼🇵🇸
+
+## Vigília e plenário para ação humanitária em Gaza {.wp-block-heading}
+
+PT
+
+Vigília e plenário para ação humanitária em Gaza  
+Nada justifica a violência? Sim, condeno a violência de todos os tipos. Mas quando você passa anos aterrorizando, pilhando, assassinando e destruindo uma civilização inteira, você pode realmente esperar que aqueles cujas vidas você roubou não retaliarão por desespero?
+
+Sim, o que o Hamas fez foi cruel. Mas não vejo vocês fazendo tanto barulho e tomando posição com a Palestina quando é isso que Israel faz TODOS OS DIAS, DURANTE DÉCADAS, ao povo palestino!
+
+Sem justiça, sem paz. E quando você realiza atos terroristas contra toda uma cultura e povo, rouba seu país, eles são filhos, avós e pais… O povo palestino não tem nada a perder porque Israel roubou tudo! Eles foram negligenciados e deixados sozinhos por décadas! É uma pena que tenham de confiar em extremistas para defenderem as suas próprias vidas.
+
+Algumas crianças cresceram em silêncio e temem por toda a vida.
+
+Na verdade, isto está a tornar-se ainda mais chocante pela quantidade de pessoas que vejo a falar e a afirmar a sua posição junto do povo israelita. Gostaria de saber se você apoia o povo russo que perdeu a vida durante a invasão ativa da Ucrânia. Eu me pergunto se você apoia o homem que se sente no direito de atacar mulheres que “mostram a pele” porque “elas estavam pedindo isso”. Eu me pergunto se você está do lado do ladrão que levou um soco na cara da pessoa que estava tentando roubar. E se a sua posição é sobre a paz e a objecção à violência, então a acção humanitária é urgentemente necessária e devemos pressionar os nossos representantes para nos representarem, como seres humanos!
+
+A você que está lendo isto, pergunto: seu coração bate de tristeza por todas as vítimas civis deste conflito?  
+Você concorda que isso não pode continuar?
+
+Esta é a triste história da guerra. Esta é a triste história de uma civilização destruída, sendo continuamente empurrada para a fronteira em plena luz do dia, enquanto pessoas de todo o mundo olham para o outro lado. Isso é o que acontece quando você nasce e tem uma bala com o seu nome esperando.
+
+AÇÃO DEVE SER TOMADA!
+
+Este apelo à ação está a ser fundamentado com ações pró-humanas através da cidade do Porto (manifestações, vigílias, etc.) a fim de tocar a opinião pública e pressionar os governos a agirem, como Estados de direito, respeitando as resoluções das organizações de direitos humanos ao abrigo do direito internacional.
+
+Até agora, enfrentei o custo de realizar a vigília que acontece todas as noites em frente à câmara municipal (velas, bandeiras, keffiyehs e consumíveis, materiais de difusão para demonstração e intervenção).  
+Mas isto está rapidamente a tornar-se financeiramente impossível.
+
+Peço, portanto, a sua contribuição: seja ela voluntária, todo valor será dedicado para tornar esta vigília e outros protestos mais poderosos e impactantes.
+
+A vigília permanecerá todas as noites, faça chuva ou faça sol, até que as atrocidades em Gaza acabem!  
+A ajuda humanitária deve ser permitida, o cerco deve ser levantado, os refugiados devem ser autorizados a permanecer afastados do conflito e a viver em segurança nas suas próprias casas.
+
+O direito internacional deve ser respeitado!
+
+Obrigado pela sua gentileza, sua empatia e ajuda para que esta causa chegue ao maior número de mentes possível.  
+Prometo, do fundo do coração, que vocês poderão acompanhar a aplicação dos recursos com total transparência.
+
+Fique à vontade para me questionar sobre qualquer coisa, e espero vê-lo todas as noites, às 22h, em frente à prefeitura.
+
+Para sempre grato,
+
+&#8211;
+
+**ENG**
+
+Nothing justifies violence? Yes, I condemn violence of all sorts. But when you spend years terrorising, pillaging, murdering and destroying an entire civilization, can you really expect the ones whose lives you&#8217;ve stolen not to retaliate out of desperation?
+
+Yes, what the Hamas did was cruel. But I don&#8217;t see you people making such a fuss and taking a stand with Palestine when this is what Israel does EVERY SINGLE DAY, FOR DECADES to the Palestinian people!
+
+No justice, no peace. And when you perform terrorist acts on an entire culture and people, steal their country, they&#8217;re children, grandparents and parents&#8230; Palestinian people have got nothing to loose because Israel stole it all! They have been neglected and left alone for decades! It&#8217;s a shame they have to rely on extremists to defend their own lives.
+
+Some children have grown in silence and fear their whole lives now..
+
+This is actually becoming even more shocking by the amount of people I see speaking up and stating their stance with Israeli people. I wonder if you stand with Russian people who lose their lives during the active invasion of Ukraine. I wonder if you stand with the man who feels the right to attack women who &#8220;show skin&#8221; because &#8220;they were asking for it&#8221;. I wonder if you stand with the robber who got punched in the face by the person they were trying to rob. And if your stance is about peace and the objection to violence, then humanitarian action is needed urgently and we must pressure our representatives to represent us, as human beings!
+
+To you reading this, I ask: does your heart beat with sorrow for all the civilian victims of this conflict?
+
+Do you agree that it cannot go on?
+
+This is the sad story of war. This is the sad story about a destroyed civilization, being continuously pushed to the border in the plain light of day while people from around the world look the other way. This is what happens when you are born and there&#8217;s a bullet with your name on, waiting.
+
+ACTION MUST BE TAKEN!
+
+This call for action is being substantiated with pro-human actions through the city of Porto (demonstrations, vigils, etc) in order to touch public opinion and pressure governments to act, as lawful States respecting human rights organisations resolutions under international law.
+
+So far, I&#8217;ve faced the cost of holding the vigil that&#8217;s been happening every night in front of the city hall (candles, flags, keffiyehs, and consumables, diffusion materials for demonstration and intervention).
+
+But this is rapidly becoming financially impossible.
+
+I therefore ask for your contribution: be it voluntary, every amount will be dedicated to making this vigil and other protests more powerful and impactful.
+
+The vigil will remain for every night, rain or shine, until the atrocities in Gaza reach a stop!
+
+Humanitarian aid must be allowed, the siege must be lifted, refugees must be allowed to remain apart from the conflict and live safely in their own homes.
+
+International law must be uphold!
+
+Thank you for your kindness, your empathy and help to make this cause reach as many minds as possible.
+
+I promise, from the bottom of my heart, that you&#8217;ll be able to observe the application of the funds with full transparency.
+
+Feel free to question me about anything, and I hope to see you every night, at 22h, in front of the city hall.
+
+Forever grateful,

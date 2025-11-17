@@ -1,0 +1,56 @@
+---
+title: Lugar de Fala nº 160 com Priscila Valadão
+author: Publicação Comunitária
+type: post
+date: 2024-01-11T12:43:03+00:00
+excerpt: 'Brasileira nascida na Alemanha, Priscila Valadão vive em Portugal há oito anos, destino que a confrontou com uma identidade até aí desconhecida: a de pessoa racializada. A descoberta, conta a administrativa, “guinou a sua vida para a militância marxista-leninista, o que inclui a luta anti-racista”, mas não só. A partir das 21h saberemos mais, n’ O Lado Negro da Força.'
+url: /?p=215614
+burst_page_id_upgraded:
+  - 1
+embed_privacy_thumbnail_youtube_5mT4TaSQdBs:
+  - youtube-5mT4TaSQdBs-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_5mT4TaSQdBs_url:
+  - https://youtube.com/watch?v=5mT4TaSQdBs
+categories:
+  - Indymedia
+
+---
+ <figure class="wp-block-embed is-type-rich is-provider-gestor-de-incorpora-es wp-block-embed-gestor-de-incorpora-es wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div><figcaption class="wp-element-caption">(
+
+[Youtube][1]) ([Invidious][2]) </figcaption></figure> <figure class="wp-block-audio"><audio controls src="https://vid.puffyan.us/latest_version?id=5mT4TaSQdBs&itag=140"></audio></figure> 
+
+Brasileira nascida na Alemanha, Priscila Valadão vive em Portugal há oito anos, destino que a confrontou com uma identidade até aí desconhecida: a de pessoa racializada. A descoberta, conta a administrativa, “guinou a sua vida para a militância marxista-leninista, o que inclui a luta anti-racista”, mas não só. A partir das 21h saberemos mais, n’ O Lado Negro da Força.
+
+<!-- /wp:post-content -->
+
+<!-- wp:post-title {"level":6} /-->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|light-green-cyan"}}}},"textColor":"light-green-cyan"} -->
+
+<p class="has-light-green-cyan-color has-text-color has-link-color">
+  <a href="https://www.youtube.com/@OLadoNegrodaForca">@oladonegrodaforca</a>
+</p>
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|light-green-cyan"}}}},"textColor":"light-green-cyan"} -->
+
+<p class="has-light-green-cyan-color has-text-color has-link-color">
+  <a href="https://www.youtube.com/watch?v=5mT4TaSQdBs" target="_blank" rel="noreferrer noopener">https://www.youtube.com/watch?v=5mT4TaSQdBs</a>
+</p>
+
+<!-- /wp:paragraph -->
+
+<!-- wp:post-author {"showBio":true,"isLink":true,"linkTarget":"_blank","style":{"elements":{"link":{"color":{"text":"var:preset|color|light-green-cyan"}}}},"textColor":"light-green-cyan"} /-->
+
+<!-- wp:friends/friend-posts {"count":3,"only_users":" O-Lado-Negro-da-Forca"} /-->
+
+<!-- wp:image {"align":"center","width":"650px","height":"auto","sizeSlug":"large"} --><figure class="wp-block-image aligncenter size-large is-resized">
+
+<img alt='mqdefault-9997543' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/mqdefault-9997543.jpg' alt="" style="width:650px;height:auto" /> </figure> <!-- /wp:image -->
+
+ [1]: https://youtu.be/5mT4TaSQdBs
+ [2]: https://vid.puffyan.us/watch?v=5mT4TaSQdBs

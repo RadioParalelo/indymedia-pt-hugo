@@ -1,0 +1,47 @@
+---
+title: '[Lisboa] Vigília pela Palestina #PTrevolutionTV'
+author: Publicação Comunitária
+type: post
+date: 2024-03-06T21:53:41+00:00
+excerpt: 'Livestream PTrevolutionTV: https://vid.puffyan.us/watch?v=hNKncgxcFS4'
+url: /?p=220819
+activitypub_status:
+  - federated
+mf2_syndication:
+  - 'a:1:{i:0;s:61:"https://climatejustice.social/@indymediapt/112050975926264043";}'
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <p>
+    <a href="https://vid.puffyan.us/watch?v=hNKncgxcFS4">https://vid.puffyan.us/watch?v=64uSPtlrN5Q</a>
+  </p>
+  
+  <p class="has-small-font-size">
+    Durante o Livestream este player não funciona.<br />Se estiveres a ver ao vivo clica no link em baixo, que diz &#8220;Ver no YouTube&#8221;
+  </p>
+</div>
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  </div>
+  
+  <p>
+    <a href="https://youtube.com/watch?v=hNKncgxcFS4"> https://youtube.com/watch?v=64uSPtlrN5Q</a>
+  </p>
+</div>
+
+Instâncias [Invidious][1] alternativas:  
+[https://redirect.invidious.io/watch?v=64uSPtlrN5Q][2]
+
+**Este stream foi criado pela [PTrevolutionTV][3], um coletivo autónomo, que coopera com o Centro de Média Independente.**<figure class="wp-block-image size-large">
+
+![][4] </figure>
+
+ [1]: https://invidious.io/
+ [2]: https://redirect.invidious.io/watch?v=hNKncgxcFS4
+ [3]: https://www.youtube.com/@ptrevolutiontv
+ [4]: https://cmi.indymedia.pt/wp-content/uploads/2024/03/maxres-4490532-7265849.jpg

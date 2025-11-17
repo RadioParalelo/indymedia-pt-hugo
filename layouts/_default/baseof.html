@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang | default "en" }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    {{ $style := resources.Get "css/style.css" }}
+    {{ if $style }}
+        {{ $secureStyle := $style | resources.Minify | resources.Fingerprint }}
+        <link rel="stylesheet" href="{{ $secureStyle.Permalink }}">
+    {{ end }}
+    {{ block "head" . }}{{ end }}
+</head>
+<body>
+    <div class="container">
+        <table cellpadding="5" cellspacing="0" width="90%" border="0">
+            <tr>
+                <!-- LEFT COLUMN - SIDEBAR -->
+                <td valign="top" width="136" rowspan="2" bgcolor="#003300" class="left-column">
+                    {{ partial "sidebar.html" . }}
+                </td>
+
+                <!-- CENTER COLUMN - MAIN CONTENT -->
+                <td valign="top" align="left" class="center-column">
+                    <!-- HEADER AREA -->
+                    <table cellpadding="5" cellspacing="0" border="0">
+                        <tr>
+                            <td colspan="2">
+                                <div align="right" class="header-area">
+                                    <img src="{{ "images/cover.png" | relURL }}" alt="{{ .Site.Title }}" class="coyote-logo">
+                                    <br>
+                                    <div align="right" class="site-tagline">
+                                        {{ .Site.Params.tagline | default "Indymedia is an outlet for the creation of radical, accurate, and passionate tellings of truth. Don't hate the media, become the media!" }}
+                                    </div>
+                                    <br>
+                                    {{ .Site.Params.publishText | default "Got something to report? Need to get out photos, audio, or video?" }}
+                                    <b><a href="{{ .Site.Params.publishURL | default "/publish" }}">Publish</a></b> it here.
+                                    <hr noshade size="1">
+                                    <div align="right">
+                              
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+
+                        <!-- MAIN CONTENT AREA -->
+                        <tr>
+                            <td valign="top">
+                                {{ block "main" . }}{{ end }}
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </div>
+    {{ block "footer" . }}{{ end }}
+</body>
+</html>

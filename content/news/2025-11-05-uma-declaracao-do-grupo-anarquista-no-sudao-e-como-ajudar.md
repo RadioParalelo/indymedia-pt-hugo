@@ -1,0 +1,81 @@
+---
+title: Uma declaração do grupo anarquista no Sudão e como ajudar
+author: Publicação Comunitária
+type: post
+date: 2025-11-05T12:44:47+00:00
+url:
+  - https://theanarchistlibrary.org/library/mourning-our-martyrs-in-sudan
+activitypub_status:
+  - federated
+fpsm_author_name:
+  - Grupo Anarquista do Sudão
+categories:
+  - Guerra e Paz
+tags:
+  - Sudão
+
+---
+Publicada a 2 de Novembro
+
+A todos os revolucionários do mundo, a todos os socialistas libertadores, a todos os anarquistas:
+
+Hoje lamentamos o martírio dos nossos camaradas em Al-Fashir que caíram defendendo sua cidade, suas famílias e eles mesmos. Eles são:
+
+Faisal Adam Ali
+
+Radwan Abdel Jabbar (“Kahraba”)
+
+Adam Kibir Musa
+
+Abdel Ghaffar Al-Tahir (“Al-Sini”)
+
+Também lamentamos uma série de jovens voluntários que foram mortos pela milícia das Forças de Apoio Rápidas terroristas, enquanto seu único “crime” foi trazer comida para os moradores da cidade.
+
+Nós, no Grupo Anarquista, convocamos camaradas em todos os lugares: chegou o momento de nos reunirmos e ficarmos contra esta guerra autoritária destrutiva. Devemos aumentar a conscientização em todo o mundo sobre o extermínio em massa que está sendo realizado pelas milícias das Forças de Apoio Rápidas – apoiadas pelos Emirados Árabes Unidos – que estão transformando suas armas em limpeza étnica e genocídio por motivos raciais e por interesses imperialistas viciosos que buscam controlar recursos e ouro em troca de sangue. O mundo não deve ficar a observar-nos em silêncio. Os revolucionários em todo lugar devem conhecer nossos sacrifícios e nossa luta contra o terror capitalista selvagem, contra a autoridade sangrenta e contra a limpeza étnica sistemática.
+
+Nós no Grupo Anarquista no Sudão perdemos camaradas; alguns de nossos membros foram feridos e alguns morreram; outros enfrentam o perigo iminente de guerra. Nossas famílias sofrem de fome, falta de remédios e falta de comida. Acreditamos no anarquismo numa terra onde a autoridade está em todos os lugares, e lutamos para nos defender, à nossa ideia e nossa unidade. Hoje precisamos de você — estende as mãos para nós e fica conosco para que possamos resistir às autoridades e ao Janjaweed.
+
+Que a revolução resista — uma adaga envenenada nos corações dos tiranos.
+
+Ali Abdel Moneim
+
+Porta-voz do Grupo
+
+<https://theanarchistlibrary.org/library/mourning-our-martyrs-in-sudan>
+
+&#8230;  
+Para doar ao grupo, clique neste link:
+
+<https://opencollective.com/support-sudanese-comrades>
+
+via The Dugout
+
+https://tdugout.substack.com/p/statement-from-the-anarchist-group
+
+**Para saber mais sobre o que está acontecendo&#8230;**
+
+A agitação do Sudão: O que as Forças de Suporte Rápido? (RSF)
+
+O grupo evoluiu das chamadas milícias Janjaweed, que lutaram num conflito na década de 2000 na região de Darfur, onde foram usadas pelo governo do presidente de longa data Omar al-Bashir para ajudar o exército a derrubar uma rebelião.
+
+Estima-se que 2,5 milhões de pessoas foram deslocadas e 300.000 mortos no conflito.
+
+Os promotores do Tribunal Penal Internacional acusaram funcionários do governo e comandantes de milícias de genocídio, crimes de guerra e crimes contra a humanidade em Darfur.
+
+Com o tempo, a milícia cresceu. Foi feita na RSF em 2013, e suas forças foram usadas como guardas fronteiriços em particular. Em 2015, a RSF junto com o exército do Sudão começou a enviar tropas para lutar na guerra no Iêmen ao lado das forças sauditas e emiradas.
+
+Contagem de mortos em El-Fasher pode ultrapassar 5.000 à medida que as RSF continuam seu genocídio brutal no Sudão
+
+Centenas de pacientes hospitalares foram massacrados pelas Forças de Apoio Rápidas, paramilitares dos Emirados Árabes Unidos (UAE) no Sudão, segundo relatos. A RSF capturou a cidade de Darfur de El-Fasher esta semana. Eles foram acusados de executar atrocidades generalizadas quase imediatamente.
+
+Sobreviventes que fogem do terror el-Fasher do Sudão, corpos nas ruas
+
+Mais de 36.000 pessoas fugiram desde sábado, em grande parte a pé, para Tawila, uma cidade em torno de 70 quilômetros (43 milhas) oeste que já está abrigando cerca de 650.000 pessoas deslocadas.
+
+Hayat, uma mãe de cinco filhos, disse à agência de notícias da AFP via telefone via satélite que sete lutadores da RSF atacaram sua casa, revistaram seus menores e mataram seu filho de 16 anos na frente dela.
+
+Ao fugir com os vizinhos, “vimos muitos corpos mortos deitados no chão e feridos deixados para trás em aberto, porque suas famílias não podiam carregá-los”, lembrou.
+
+via: <https://anarchistnews.org/content/statement-anarchist-group-sudan-how-help>
+
+imagem: <https://abolitionmedia.noblogs.org/22428/>

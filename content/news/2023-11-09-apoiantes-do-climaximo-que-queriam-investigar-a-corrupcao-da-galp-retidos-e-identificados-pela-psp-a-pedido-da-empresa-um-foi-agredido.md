@@ -1,0 +1,46 @@
+---
+title: Apoiantes do Climáximo que queriam investigar a corrupção da Galp retidos e identificados pela PSP a pedido da empresa. Um foi agredido.
+author: Publicação Comunitária
+type: post
+date: 2023-11-09T08:26:41+00:00
+url: /?p=170866
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111379638467043374
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+  - Repressão
+tags:
+  - AltPT
+  - Climaximo
+  - Ecologia
+  - Lisboa
+  - Protesto
+  - PTrevolutionTV
+
+---
+ 
+
+Depois da visita a EDP ontem, apoiantes do Climáximo dirigiram-se para a sede da Galpa exigir uma investigação ao seus negócios de Lítio e Hidrogénio
+
+  
+COMUNICADO:  
+Apoiantes do Climáximo que queriam investigar a corrupção da Galp retidos e identificados pela PSP a pedido da empresa. Um foi agredido.
+
+Após serem recebidos com polícias de intervenção na sede da EDP, apoiantes do Climáximo foram interceptados, identificados, e revistados pela PSP quando queriam investigar o papel da Galp no escândalo de corrupção atual. Um ativista sofreu um soco no estômago.
+
+Esta tarde, após serem recebidos com polícia de intervenção na sede da EDP por querer averiguar o seu papel no atual escândalo de corrupção, apoiantes do Climáximo dirigiram-se à sede da Galp (agente central nos negócios controversos de lítio e hidrogénio) com o mesmo fim.
+
+“A Policia veio proteger a Galp contra ativistas pacíficos.” afirma Hugo Paz, que esteve no local. “Em vez de fazer buscas à Galp, revistaram ativistas que se encontravam já a caminho de casa, após um momento que terminou sem qualquer incidente ou ação policial &#8211; apenas o uso de força por parte de seguranças, que impediram a entrada na empresa apenas às apoiantes do Climáximo.”
+
+As ativistas foram identificadas por suspeita de bloquear a sede da empresa, quando tal não sucedeu. Uma das apoiantes revistada sofreu ainda de um murro no estômago por parte da polícia, após os agentes terem ido à sede da Galp confirmar informação.
+
+Mais informação:  
+Assessoria: Noah Zino &#8211; 911857620<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-137 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="170867" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-08_13-55-48.jpg" alt="" class="wp-image-170867" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="170868" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-09_08-24-25-1024x731.jpg" alt="" class="wp-image-170868" /></figure> </figure>

@@ -1,0 +1,155 @@
+baseURL = 'https://blog.indymedia.pt/'
+languageCode = 'pt-pt'
+title = 'indymedia.pt'
+theme = "az-indymedia-theme"  # Set the theme to az-indymedia-theme
+
+# Enable HTML in markdown
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+
+  description = "Centro de Media Independente - Portugal"
+  logo = "static/images/imcpt.png"  # Add your logo if applicable
+
+  # Site tagline
+  tagline = "Indymedia is an outlet for the creation of radical, accurate, and passionate tellings of truth. Don't hate the media, become the media!"
+
+  # Publish section text
+  publishText = "Got something to report? Need to get out photos, audio, or video?"
+  publishURL = "https://indymedia.pt/publicar"
+
+  # Newswire links
+  newswireURL = "/news"
+  audioURL = "https://radio.indymedia.pt"
+
+  # Search
+  searchURL = "/search"
+  
+  # Pagination
+  paginate = 20
+
+  # Features info
+  featuresInfoURL = "/about#features"
+
+  # Show IMC list in sidebar
+  showIMCList = true
+
+  # Hosting info (footer of sidebar)
+  hostingInfo = false
+  hostingTech = "sf-active"
+  hostingTechURL = "https://tech.example.net/"
+  hostingProvider = "linefeed"
+  hostingProviderURL = "https://linefeed.org/"
+
+# Sidebar menu items
+[[menu.sidebar]]
+  name = "ptrevolutiontv"
+  url = "https://youtube.com/@ptrevolutiontv"
+  weight = 1
+
+[[menu.sidebar]]
+  name = "links"
+  url = "/links"
+  weight = 2
+
+[[menu.sidebar]]
+  name = "about us"
+  url = "/about"
+  weight = 3
+
+[[menu.sidebar]]
+  name = "politica editorial"
+  url = "/politica"
+  weight = 4
+
+[[menu.sidebar]]
+  name = "contacto"
+  url = "/contacto"
+  weight = 5
+
+[[menu.sidebar]]
+  name = "guia de publicação"
+  url = "/guia"
+  weight = 6
+
+
+[[params.imcRegions]]
+  name = "Global"
+  [[params.imcRegions.sites]]
+    name = "indymedia.org"
+    url = "http://indymedia.org/"
+  [[params.imcRegions.sites]]
+    name = "radio.indymedia.org"
+    url = "http://radio.indymedia.org/"
+  [[params.imcRegions.sites]]
+    name = "Argentina"
+    url = "https://argentina.indymedia.org/"
+  [[params.imcRegions.sites]]
+    name = "Athens"
+    url = "https://athens.indymedia.org/"
+  [[params.imcRegions.sites]]
+    name = "Barcelona"
+    url = "http://barcelona.indymedia.org/"
+  [[params.imcRegions.sites]]
+    name = "Belgium (archive)"
+    url = "https://bxl.indymedia.org/?lang=fr"
+  [[params.imcRegions.sites]]
+    name = "Brasil"
+    url = "https://midiaindependente.org/"
+  [[params.imcRegions.sites]]
+    name = "Chicago"
+    url = "https://chicago.indymedia.org/"
+  [[params.imcRegions.sites]]
+    name = "Ecuador"
+    url = "https://ecuadorindymedia.org/"
+  [[params.imcRegions.sites]]
+    name = "Germany"
+    url = "https://de.indymedia.org/"
+  [[params.imcRegions.sites]]
+    name = "Guatemala"
+    url = "https://cmiguate.org/"
+  [[params.imcRegions.sites]]
+    name = "Ireland"
+    url = "http://www.indymedia.ie/"
+  [[params.imcRegions.sites]]
+    name = "Italy (archive)"
+    url = "https://archive.autistici.org/ai/20210701082026/https://italy.indymedia.org/index.php"
+  [[params.imcRegions.sites]]
+    name = "Lille"
+    url = "https://lille.indymedia.org/?lang=fr"
+  [[params.imcRegions.sites]]
+    name = "Los Angeles"
+    url = "https://la.indymedia.org/"
+  [[params.imcRegions.sites]]
+    name = "México"
+    url = "http://mexico.indymedia.org/"
+  [[params.imcRegions.sites]]
+    name = "Nantes"
+    url = "https://nantes.indymedia.org/"
+  [[params.imcRegions.sites]]
+    name = "Netherlands"
+    url = "https://indymedia.nl/"
+  [[params.imcRegions.sites]]
+    name = "Perth"
+    url = "https://podcasts.apple.com/us/podcast/perth-indymedia/id1244713881"
+  [[params.imcRegions.sites]]
+    name = "Portugal"
+    url = "https://indymedia.pt/"
+  [[params.imcRegions.sites]]
+    name = "San Francisco IndyBay"
+    url = "https://www.indybay.org/"
+  [[params.imcRegions.sites]]
+    name = "Santa Cruz"
+    url = "https://www.indybay.org/santa-cruz/"
+  [[params.imcRegions.sites]]
+    name = "Urbana Champain"
+    url = "https://www.ucimc.org/"
+  [[params.imcRegions.sites]]
+    name = "Venezuela"
+    url = "https://indymedia-venezuela.contrapoder.org/?lang=es"
+  [[params.imcRegions.sites]]
+    name = "Washington DC"
+    url = "https://dcindymedia.org/"

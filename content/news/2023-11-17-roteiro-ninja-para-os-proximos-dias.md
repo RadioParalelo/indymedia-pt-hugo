@@ -1,0 +1,45 @@
+---
+title: Roteiro Ninja para os próximos dias
+author: Publicação Comunitária
+type: post
+date: 2023-11-17T11:13:44+00:00
+url: /?p=207358
+classic-editor-remember:
+  - block-editor
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/11/Post-para-Instagram-Comunicado-Importante-Aviso.mp4
+        2142040
+        video/mp4
+        
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111425593827524836
+categories:
+  - Indymedia
+tags:
+  - AltPT
+  - Ecologia
+  - FreePalestine
+  - Indymedia
+  - Lisboa
+  - ocupapeloclima
+  - Palestina
+  - Palestina Livre
+  - Protesto
+  - PTrevolutionTV
+
+---
+Felizmente temos passado a grande maior parte dos dias nas ruas a mostrar o que podemos do que por lá se tem passado e os próximos dias não vão ser diferentes.<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/Post-para-Instagram-Comunicado-Importante-Aviso-1024x1024.png" alt="" class="wp-image-207376" /> </figure> 
+
+Já sabemos quais são os acontecimentos que vamos acompanhar nos próximos dias a começar logo hoje com o 2º Julgamento do Kiko, um activista da [ATERRA][1].
+
+Infelizmente não temos recursos humanos para filmar a Acampada / Assembleia Estudantil no Domingo a Tarde, se tiveres disponibilidade, nós temos material e no Domingo de manhã na Talk podemos fazer uma pequena formação para ficares a vontade.
+
+Pela soberania da informação.<figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/Post-para-Instagram-Comunicado-Importante-Aviso.mp4"></video></figure>
+
+ [1]: https://aterra.info/

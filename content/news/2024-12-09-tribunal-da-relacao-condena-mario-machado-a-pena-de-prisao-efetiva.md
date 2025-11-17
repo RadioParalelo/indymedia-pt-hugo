@@ -1,0 +1,19 @@
+---
+title: Tribunal da Relação condena Mário Machado a pena de prisão efetiva
+author: Publicação Comunitária
+type: post
+date: 2024-12-09T22:10:48+00:00
+url: /?p=224864
+activitypub_status:
+  - federated
+post_list_status:
+  - off
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+<div data-wp-interactive="core/file" class="wp-block-file">
+  <a id="wp-block-file--media-69177ad9-3f8a-40db-8c45-1b9d9dc6754f" href="http://localhost:8000/wp-content/uploads/2024/12/Acordao_Relacao_06_12_24-2-2209210.pdf">Acórdão_Relação_06_12_24-2</a><a href="http://localhost:8000/wp-content/uploads/2024/12/Acordao_Relacao_06_12_24-2-2209210.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-69177ad9-3f8a-40db-8c45-1b9d9dc6754f">Descarregar</a>
+</div>

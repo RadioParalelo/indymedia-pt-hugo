@@ -1,0 +1,35 @@
+---
+title: 'Execução racista em Setúbal: SOS Racismo Exige Ação Imediata Contra o Ódio'
+author: Publicação Comunitária
+type: post
+date: 2023-12-19T02:24:39+00:00
+url: /?p=214753
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111604707287849884
+mf2_syndication:
+  - 'a:1:{i:0;s:61:"https://climatejustice.social/@indymediapt/111604719337714564";}'
+categories:
+  - Discriminação
+  - Indymedia
+
+---
+Segundo informação expressa nos meios de comunicação, um imigrante indiano foi vítima de um ato de violência extrema em Setúbal, na Rua Engenheiro Ribeiro da Silva, nas Praias do Sado, que culminou na sua execução. A Polícia Judiciária de Setúbal, segundo as mesmas fontes, deteve dois irmãos, de 22 e 29 anos, pelo homicídio de Shahil Gurpreet Singh, jovem de 25 anos, no dia 5 de Novembro. Os dois suspeitos de nacionalidade portuguesa tentaram matar todos os seis ocupantes da casa por motivação racista. Nesse domingo, Gurpreet Singh, estava no seu quarto quando foi assassinado com um tiro de caçadeira no peito disparado através de uma janela. Outra pessoa, de 33 anos, foi atingida num ombro – a Polícia Judiciária acredita que o objetivo dos criminosos era atingir todos os moradores.
+
+Expressamos a nossa mais veemente condenação a este ato hediondo. O SOS Racismo repudia qualquer forma de discriminação e apela à sociedade para que se una na condenação deste crime de ódio. A perda de uma vida humana em circunstâncias tão cruéis é inaceitável e representa um ataque não apenas à vítima e à sua família, mas também a todos os pilares por que se deve pautar a nossa sociedade.
+
+Instamos as autoridades competentes a conduzirem uma investigação rigorosa e célere para identificar e responsabilizar os autores deste ato criminoso. Oferecemos o nosso apoio e solidariedade à comunidade indiana, e apelamos a um reforço das medidas de combate ao racismo, promovendo a educação e sensibilização para a diversidade cultural.
+
+Este crime é um aviso sombrio de que a luta contra o racismo é urgente e não pode parar. O SOS Racismo permanece comprometido em promover uma sociedade justa e inclusiva, onde todos os indivíduos possam viver livres de discriminação e violência.
+
+SOS RACISMO  
+18 Dezembro 2023
+
+<https://www.sosracismo.pt/comunicados-de-imprensa/execucao-racista-em-setubal-sos-racismo-exige-acao-imediata-contra-o-odio>
+
+<https://www.jn.pt/1351386344/imigrante-indiano-foi-executado-em-setubal-por-motivacao-racista/>
+
+<https://www.dn.pt/opiniao/assassinato-de-um-alegado-jogador-de-padel-17515349.html>
+
+<https://www.facebook.com/708498211/videos/369581858886396/>

@@ -1,0 +1,47 @@
+---
+title: As estudantes da Faculdade de Psicologia bloqueiam o anfiteatro.
+author: Publicação Comunitária
+type: post
+date: 2023-11-13T15:56:11+00:00
+url: /?p=200511
+classic-editor-remember:
+  - block-editor
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/11/video_2023-11-13_15-50-39.mp4
+        5515300
+        video/mp4
+        
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/11/video_2023-11-13_15-51-00.mp4
+        1952263
+        video/mp4
+        
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111404055950091298
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - Ecologia
+  - FPUL
+  - Indymedia
+  - Lisboa
+  - ocupapeloclima
+  - Protesto
+  - PTrevolutionTV
+
+---
+<figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/video\_2023-11-13\_15-50-39.mp4"></video></figure> <figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/video\_2023-11-13\_15-51-00.mp4"></video></figure> 
+
+As estudantes da faculdade de psicologia bloqueiam o anfiteatro e dão uma palestra sobre emergência climática. Já depois do bloqueio ter terminado, a faculdade chamou a polícia para parar com a palestra. Segundo a polícia &#8220;A estudante podia defender as suas causas mas não dentro de um espaço privado, e se não saísse ia ser detida&#8221; #FPUL<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-146 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="200513" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-13_15-50-34-1024x683.jpg" alt="" class="wp-image-200513" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="200516" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-13_15-50-43-1024x683.jpg" alt="" class="wp-image-200516" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="200515" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-13_15-50-46-683x1024.jpg" alt="" class="wp-image-200515" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="200514" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-13_15-50-50-1024x683.jpg" alt="" class="wp-image-200514" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="200517" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-13_15-50-53-1024x683.jpg" alt="" class="wp-image-200517" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="200518" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-13_15-50-57-1024x768.jpg" alt="" class="wp-image-200518" /></figure> </figure> 
+
+Pela soberania da informação.

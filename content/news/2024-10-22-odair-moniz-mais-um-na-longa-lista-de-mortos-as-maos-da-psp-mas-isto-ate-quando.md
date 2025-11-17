@@ -1,0 +1,46 @@
+---
+title: Odair Moniz, mais um na longa lista de mortos às mãos da PSP. Mas, isto até quando?
+author: Publicação Comunitária
+type: post
+date: 2024-10-22T12:39:29+00:00
+url: /?p=224627
+activitypub_status:
+  - federated
+post_list_status:
+  - off
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Repressão
+
+---
+[Comunicado SOS Racismo][1] 
+
+Na madrugada de 21, Odair Moniz de 43 anos foi alvejado por um agente da PSP e acabou por sucumbir às suas feridas. Odair Moniz junta-se à longa lista de pessoas negras mortas às mãos da polícia de segurança pública. A sua morte acontece num contexto político  
+de exacerbação do discurso de ódio e de um securitarismo estigmatizante dirigido às comunidades negras.
+
+A leitura do comunicado da PSP suscita mais dúvidas do que traz esclarecimentos sobre as condições da morte de Odair Moniz.  
+Como é que alguém que se despistou num carro em fuga pode sair em condições de querer agredir agentes armados? Tendo sido a tentativa de agressão com arma branca segundo a PSP, supõe-se  
+então ter existido uma efetiva proximidade como agente atirador?
+
+Se sim, porque não alvejou a vítima na parte inferior do corpo para imobilizá-lo, em vez de atirar para a axila, uma zona mais propensa a resultar em morte?
+
+Em todos os casos de brutalidade policial que resultou nas mortes de cidadãos negros, racializados, a PSP nunca foi convincente sobre as condições e motivos destas mortes. 
+
+Portanto num país cuja polícia está inegávelmente infiltrada pela extrema-direita racista, as mortes de pessoas negras às mãos de agentes policiais levantam as maiores dúvidas e preocupações sobre as reais motivações das intervenções policiais que acabam nestas mortes.
+
+Para que a morte de Odair Moniz não se resuma a mais um caso, mais um número da macabra estatística mortífera da intervenção policial nos territórios e nos corpos habitados por pessoas negras, há que se abrir um inquérito para apurar com a maior das celeridades todas as responsabilidades dos agentes envolvidos neste assassinato, incluindo as da própria cadeia de comando. 
+
+Enquanto decorrem as investigações para o apuramento das  
+responsabilidades dos envolvidos, exige-se a sua suspensão imediata de funções.
+
+O SOS Racismo apresenta as condolências e manifesta a sua  
+total solidariedade à família de Odair Moniz e a toda a comunidade  
+enlutada, disponibilizando-se a acompanhá-las em tudo o que seja  
+necessário para o apuramento da verdade sobre este assassinato.
+
+SOS Racismo  
+22 de outubro de 2024  
+<https://www.sosracismo.pt>
+
+ [1]: https://instagram.com/p/DBbFvQhseJR/

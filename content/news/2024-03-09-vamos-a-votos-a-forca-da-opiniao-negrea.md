@@ -1,0 +1,29 @@
+---
+title: Vamos a Votos! – A Força da Opinião Negrea
+author: Publicação Comunitária
+type: post
+date: 2024-03-09T11:17:58+00:00
+excerpt: Danilo, Ricardo, Zé Rui e Carlos M Dias falam das eleições e do que está em jogo nesta vez.
+url: /?p=221279
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+<figure class="wp-block-audio"><audio controls src="https://vid.puffyan.us/latest_version?id=XL41qT8cIcM&itag=140"></audio></figure> <figure class="wp-block-video"><video controls src="https://invidious.protokolla.fi/latest_version?id=XL41qT8cIcM&itag=18"></video></figure> 
+
+Danilo, Ricardo, Zé Rui e Carlos M Dias falam das eleições e do que está em jogo nesta vez.
+
+Vê no Invidious: <https://vid.puffyan.us/watch?v=XL41qT8cIcM>
+
+Vê no Youtube: <a href="https://youtube.com/watch?v=XL41qT8cIcM" target="_blank" rel="noreferrer noopener">https://youtube.com/watch?v=XL41qT8cIcM </a>
+
+[O Lado Negro da Força][1]<figure class="wp-block-image size-large">
+
+![][2] </figure>
+
+ [1]: https://www.youtube.com/@oladoNegrodaForca
+ [2]: https://cmi.indymedia.pt/wp-content/uploads/2024/03/maxres-1249247.jpg

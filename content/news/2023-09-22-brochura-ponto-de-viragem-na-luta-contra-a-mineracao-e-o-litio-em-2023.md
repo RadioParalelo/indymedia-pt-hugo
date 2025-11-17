@@ -1,0 +1,86 @@
+---
+title: '[Brochura] Ponto de viragem na luta contra a mIneração e o lítio em 2023'
+author: Publicação Comunitária
+type: post
+date: 2023-09-22T16:50:21+00:00
+url: /?p=1434
+admin_form_source:
+  - form65033c1176054
+imagem_2:
+  - 1433
+Ficheiros:
+  - 1432
+Ligação:
+  - https://t.me/minanao/2219
+categories:
+  - Indymedia
+tags:
+  - interseccionais
+
+---
+## <span><b>Ponto de viragem na luta contra a mineração e o lítio em 2023</b></span>
+
+<span><em>Brochura para impressão em anexo</em><b><br /> </b></span>
+
+<h5 align="”RIGHT”">
+  <span><b><br /> Esta é uma análise crua enquanto ao busílis da inquietante passividade e falta de iniciativas difusas e directas contra a mineração no último ano.</b></span>
+</h5>
+
+<h5 align="”RIGHT”">
+  <span><b><br /> Pretende dar pistas para inverter este processo, multiplicar as formas e os focos da luta, apelar à acção difusa e directa contra as empresas, instituições e projectos relacionados, nas zonas rurais, urbanas e periféricas.<br /> Criar e reforçar laços com as localidades ameaçadas, e por fim, alimentar a vontade de lutar para relançar a oposição sem chefes nem concessões ao espólio do território.<br /> </b></span>
+</h5>
+
+<p align="”JUSTIFY”">
+  <span><b><br /> </b>Com os mecanismos próprios da pacificação social e de delegação do Estado português e da Comissão Europeia, as lutas que se têem vindo a materializar desde 2018 e 2019 contra a campanha de mineração de lítio em grande parte do norte e centro de Portugal têm vindo a perder a difusão, criatividade e espontaneidade que lhes eram próprias, para serem absorvidas nos modelos políticos e académicos de contestação característicos dos cosmopolitas centros urbanos, à hora destes projectos se aproximarem da sua materialização e de requererem acções concretas, contundentes e inequívocas quanto à sua rejeição global, e não circunscrita. Porém estes métodos contra-insurreccionais não se encontram apenas nestes mecanismos de pacificação e delegação, mas dentro das próprias organizações que têm por fim opôr-se aos projectos nas suas respectivas áreas, de forma a manterem o status-quo depois de completo o objectivo do abandono das ameaças imediatas aos seus respectivos interesses. </span>
+</p>
+
+<p align="”JUSTIFY”">
+  <span><br /> Especialistas de universidades de renome, sindicalistas afins ao poder, partidos de esquerda, activistas digitais aprestam-se a fazerem a maquilhagem digital e intelectual de heterogéneas lutas em defesa do território, com o fim de se assemelharem, senão de se <i>fundirem</i>, aos movimentos modernos do clima 2.0.<br /> Virtuais, #interseccionais qb, em que se confundem fórmulas políticas de representação social-democrata (porta-voz, ONG, verticalidade de proposta e acção) com o véu ideológico pós-moderno em que o colonialismo o fascismo e o patriarcado – que por suposto devem ser combatidos nas suas frentes reais – vincam repetitivos argumentos que tentam uniformizar estas oposições, sem o aval das populações em causa, ou sequer integrá-las realmente na pretensão deste processo ideológico.</span>
+</p>
+
+<p align="”LEFT”">
+  <span>Inúteis e ineficientes à hora de armar as populações de vontade e ferramentas para se opôrem à vontade do poder, e úteis à hora de meterem estas populações no arquivo das víctimas da história – impotentes e casualmente atropeladas pelo desenvolvimento, neste caso, do extractivismo – apelam ao bom julgamento, à pena e à misericórdia das instituições democráticas nacionais e internacionais, quais padres António Vieira das redes sociais, para não voltarem a repetir as suas exações para com estes índios do hoje, para com estas bruxas prestes a serem queimadas na fogueira da Inquisição do progresso, para com estes ursos polares nos icebergues da ruralidade moderna.<br /> </span>
+</p>
+
+<p align="”JUSTIFY”">
+  <span>Os velhos jogos de influência nas localidades afectadas pelos projectos de mineração confundem-se no tempo com o progresso destas lógicas de delegação das lutas, onde o clientelismo dos poderes rurais joga com os financiamentos europeus repartidos pelos autarcas e caciques locais, capitalizando assim o abandono da população jovem à migração de forma a perpetuar o sentimento de impotência e inevitabilidade dos que ficaram a presenciar o desaparecimento progressivo das formas de vida locais com pouca ou nenhuma oposição, sem terem materializado as polémicas em actos. A crença inculcada pelo Estado e pela sociedade espectacular de que apenas nas Instituições se contesta e se decide. De que na democracia os doutores substituíram os santos, e a vontade do dinheiro aquela divina de outrora, que viria a legitimar monarcas e ditadores e hoje legitimam a ciência e o poder que determinam a morte e a vida na superfície da Terra. Isto conleva a que os sucessos iniciais da luta difusa sejam substituídos pelo fatalismo do triste fado lusitano da luta concentrada em organizações que concentram em si a responsabilidade da luta, e que ao momento de anúncios estatais desmobilizam as populações, com clamores de vitórias temporárias e parciais: tal como o ocorrido na serra d\’arga, onde a desmobilização esvaziou a solidariedade e os encontros entre regiões e populações vizinhas, enquanto pairam ainda contratos em stand-by na serra.</span>
+</p>
+
+<p align="”JUSTIFY”">
+  <span>Onde antes se esvaziavam pneus de funcionários de empresas e departamentos do Estado, hoje publicam-se abaixo-assinados de personalidades políticas e académicas. Onde antes se bloqueavam colégios eleitorais, hoje partidos passseiam as suas bandeiras. Onde antes responsáveis políticos e representantes das empresas tinham medo de pôr os pés sem escolta policial, hoje sentam-se confortavelmente em salões públicos, cinicamente tomando nota dos argumentos de descontento para demonstrarem que os mecanismos democráticos e de regulamentação ambiental dão ouvidos às preocupações populares, acompanhados com algumas migalhas e subvenções para modificarem a proporção de descontentes segundo a relação luta/preço do m2.<br /> Onde antes a gente fazia vaquinhas e auto-financiava eventos, hoje ONG de milionários preocupados pelo estado do mundo – e em manterem a sua contestação controlável e civilizada -, financiam as iniciativas onde se ía lutar, mas se saía inculcado de ideologia até agora estéril na prática, safando-se como ponto de encontro para activistas cada vez mais afastados da realidade da luta das localidades, que são expostas à realidade virtual dos vícios da luta esquerdista urbana composta pela política, pela delegação e sua representação – no fundo, pela falta de iniciativas que incluam a população, vanguardizando as novas ideias pós-modernas inculcadas nas redes sociais e nas universidades – evangelizando a miséria de quem acaba por perder, fazendo carreira política e académica no processo.</span>
+</p>
+
+<p align="”JUSTIFY”">
+  <span>Este texto parte desta análise para formular uma reacção concreta: o reconhecimento do falhanço redondo dos movimentos sociais e da defesa do território em Portugal nas últimas décadas, a sua sucessiva recuperação – incluso lá onde a política encontra-se completamente descredibilizada – e a procura de métodos múltiformes, directos, e criativos, de nutrir a oposição no terreno, ultrapassando mediante o selvagem natural os métodos domesticados de contestação, para armar as populações de vontade de lutar e desenterrar as organizações da sua inerente passividade. </span>
+</p>
+
+<p align="”JUSTIFY”">
+  <span>Isto não é um apelo aos radicais, aos activistas ou aos anarquistas: isto é um apelo dirigido a quem se quer levantar e lutar incondicionalmente, até estes projectos serem definitivos riscados do mapa, sem prematuras falsas vitórias nem possíveis derrotas por desistência de quem quer que seja. </span>
+</p>
+
+<p align="”JUSTIFY”">
+  <span>Extendamos sem retorno a práctica de acções concretas contra as estruturas de legitimização estatal destes projectos, procuremos o sair fora do quadro das rituais formas de contestação, previsíveis e calculadas, através de formas de negação intrínseca do terreno e da propaganda das empresas invasoras, extravasemos o conflito para além da ameaça mineira – contra a indústria do eléctrico, do digital, e do virtual – voltando a colocar a realidade da defesa das nossas vidas e daquela dos seres vivos que povoam os territórios que pretendemos negar ao capital e à violência de Estado como aquela que faça juz à palavra luta. </span>
+</p>
+
+<p align="”RIGHT”">
+  <span>Pelo conflito permanente contra as minas, a indústria do lítio e o seu decrépito mundo </span>
+</p>
+
+<p align="”RIGHT”">
+  – <span>pela vida.</span>
+</p>
+
+<p align="”RIGHT”">
+  <span><b>Nuno Bosque, Primavera 2023<br /> </b></span>
+</p>
+
+<p align="”RIGHT”">
+  <b><strong><span><i>\” A política é a arte da representação</i></span></strong><span><i>. </i></span></b><span><i>Para governar as mutilações infligidas à vida, obriga os indivíduos à passividade, à contemplação do espectáculo que põe em cena a sua própria impossibilidade de agir, a delegação irresponsável da suas própias decisões. Assim, enquanto a abdicação da vontade de autodeterminação transforma os indivíduos em apêndices da máquina estatal, a política recompõe a totalidade dos fragmentos numa falsa unidade. O poder e a ideologia celebram assim o seu próprio matrimónio fatal. Se a representação é o que tira aos indivíduos a capacidade de agir, a troco de proporcionar-lhes a ilusão de serem partícipes e não espectadores, esta dimensão da política sempre reaparece cuando alguma organização suplanta os individuos e algum programa os mantém passivos.<br /> Reaparece sempre lá onde uma ideologia une o que na vida é separado. </i></span><b><span><i>\”<br /> </i></span><span>Il Pugnale, 1996<br /> </span></b>
+</p>
+
+<p align="”CENTER”">
+  <b><span><br /> </span><em><span>Toda a acusação deste texto ter como objectivo a \”divisão\” ou a \”confusão\” dentro dos movimentos é remetida à responsabilidade destes mesmos críticos quanto ao facto destas lutas estarem a ser arrebatadas às populações e entregues em bandeja ao institucionalismo e à ideologia de uma esquerda em busca de conseguir representar e comandar de novo movimentos sociais difusos e potencialmente selvagens.</p> 
+  
+  <p>
+    Para informar-se mais, recomenda-se a leitura do texto publicado na<br /> primavera de 2022 \”Lítio branco e buracos negros da mineração na<br /> Península Ibérica: notas em torno da transição energética, a<br /> destruição contínua do território e suas oposições\”<br /> </span></em></b>
+  </p>

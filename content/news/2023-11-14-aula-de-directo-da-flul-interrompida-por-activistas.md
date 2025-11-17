@@ -1,0 +1,45 @@
+---
+title: Aula de director da FLUL interrompida por activistas.
+author: Publicação Comunitária
+type: post
+date: 2023-11-14T08:09:58+00:00
+url: /?p=201083
+classic-editor-remember:
+  - block-editor
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/11/IMG_3869.mov
+        41446461
+        video/quicktime
+        
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111407884486424279
+mf2_syndication:
+  - 'a:1:{i:0;s:61:"https://climatejustice.social/@indymediapt/111407895904770802";}'
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - Ecologia
+  - FLUL
+  - Indymedia
+  - Lisboa
+  - ocupapeloclima
+  - Protesto
+  - PTrevolutionTV
+
+---
+ 
+
+A ocupa da FLUL, Faculdade de Letras da Universidade de Lisboa, ocupou o maior anfiteatro da faculdade interrompendo uma aula dada pelo diretor, com a proposta da apresentação de uma palestra sobre a crise climática anunciando o início da onda de ações. Não podemos continuar a estudar num mundo em chamas #FLUL<figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/IMG_3869.mov"></video></figure> <figure class="wp-block-image size-full">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/Captura-de-Ecra-45.png" alt="" class="wp-image-201088" /> </figure> 
+
+Se puderes ajudar com as nossas despesas, entra em contacto connosco.
+
+Pela soberania da informação.

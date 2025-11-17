@@ -1,0 +1,96 @@
+---
+title: '#PeoplesBlockade – Canoas vs Cargueiros'
+author: Publicação Comunitária
+type: post
+date: 2023-11-26T13:24:43+00:00
+url: /?p=211619
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111477069695464944
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - Australia
+  - Ecologia
+  - Indymedia
+  - Protesto
+  - PTrevolutionTV
+
+---
+Decorreu durante este fim de semana um mega protesto contra a industria do carvão na Austrália com o bloqueio do porto de NewCastle, o maior porto de carvão do mundo.<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  https://twitter.com/i/status/1728195874243961189
+</div><figcaption class="wp-element-caption">Momento da primeira partida para o mar dos activistas.</figcaption></figure> 
+
+Cerca de 1500 pessoas juntaram-se e a vez com o recurso de 100 pequenas embarcações, que variam entre canoas, pranchas e outros, bloquearam o porto por um período de 32 horas, o que provocou constrangimentos na navegação de pelo menos 7 navios.<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="en" dir="ltr">
+      WOW‼️ <a href="https://twitter.com/nswpolice?ref_src=twsrc%5Etfw">@NSWPolice</a> are advancing on the 100+ CLIMATE PROTECTORS RISKING ARREST at the <a href="https://twitter.com/hashtag/PeoplesBlockade?src=hash&ref_src=twsrc%5Etfw">#PeoplesBlockade</a>, stopping coal ships at the world's largest coal port.<br /><br />Concerned citizens aged 15-97 are demanding <a href="https://twitter.com/hashtag/NoNewCoal?src=hash&ref_src=twsrc%5Etfw">#NoNewCoal</a> and for our leaders to <a href="https://twitter.com/hashtag/MakePollutersPay?src=hash&ref_src=twsrc%5Etfw">#MakePollutersPay</a> for a <a href="https://twitter.com/hashtag/JustTransition?src=hash&ref_src=twsrc%5Etfw">#JustTransition</a>. <a href="https://t.co/bZgeN04TMG">pic.twitter.com/bZgeN04TMG</a>
+    </p>&mdash; RisingTideAustralia (@RisingTideAus) 
+    
+    <a href="https://twitter.com/RisingTideAus/status/1728662976453124414?ref_src=twsrc%5Etfw">November 26, 2023</a>
+  </blockquote>
+</div></figure> 
+
+Apôs as 30 horas negociadas, após meses de negociações, a policia começou a deter pessoas, 82 no total, quando voltavam a terra ao terminar o seu turno ou abordando os ativistas dentro de água com lanchas rápidas, tendo inclusive detido o Reverendo Alan Stewart de 97 anos.<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="en" dir="ltr">
+      How to arrest a 97yo climate protector at the <a href="https://twitter.com/hashtag/PeoplesBlockade?src=hash&ref_src=twsrc%5Etfw">#PeoplesBlockade</a>? Very carefully and to a heroes welcome! If charged, Reverend Alan Stuart will be the oldest person ever charged in Australia 😲 <br /><br />"I think it is my duty to do what I can and to stand up for what I know is right.” <a href="https://t.co/mZLunitdRa">pic.twitter.com/mZLunitdRa</a>
+    </p>&mdash; RisingTideAustralia (@RisingTideAus) 
+    
+    <a href="https://twitter.com/RisingTideAus/status/1728683938967884006?ref_src=twsrc%5Etfw">November 26, 2023</a>
+  </blockquote>
+</div></figure> <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="en" dir="ltr">
+      At least 82 climate activists at the <a href="https://twitter.com/hashtag/PeoplesBlockade?src=hash&ref_src=twsrc%5Etfw">#PeoplesBlockade</a> have been arrested, including 97 year old Alan Stuart<a href="https://twitter.com/hashtag/risingtide?src=hash&ref_src=twsrc%5Etfw">#risingtide</a> <a href="https://twitter.com/hashtag/climateaction?src=hash&ref_src=twsrc%5Etfw">#climateaction</a> <a href="https://twitter.com/hashtag/greenleft?src=hash&ref_src=twsrc%5Etfw">#greenleft</a> <a href="https://t.co/jyRsDrpVx1">pic.twitter.com/jyRsDrpVx1</a>
+    </p>&mdash; Green Left (@GreenLeftOnline) 
+    
+    <a href="https://twitter.com/GreenLeftOnline/status/1728704621114445883?ref_src=twsrc%5Etfw">November 26, 2023</a>
+  </blockquote>
+</div></figure> <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="en" dir="ltr">
+      <a href="https://twitter.com/nswpolice?ref_src=twsrc%5Etfw">@NSWPolice</a> threatening prison terms for the climate protectors at the <a href="https://twitter.com/hashtag/PeoplesBlockade?src=hash&ref_src=twsrc%5Etfw">#PeoplesBlockade</a>.<br /><br />Who do they want in jail? 97-year-old Uniting Church minister Reverend Alan Stuart doing this for his grandchildren? 17yo school striker Anjali Beams? Coal miner Grant Howard? <a href="https://t.co/GCE978THhi">pic.twitter.com/GCE978THhi</a>
+    </p>&mdash; RisingTideAustralia (@RisingTideAus) 
+    
+    <a href="https://twitter.com/RisingTideAus/status/1728675564498960510?ref_src=twsrc%5Etfw">November 26, 2023</a>
+  </blockquote>
+</div></figure> 
+
+Enquanto alguns bloqueavam o canal de navegação outros na praia faziam uma grande festa em especial durante o período da noite.<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-189 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="211620" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F_0NuRFawAAB91E-1024x667.jpg" alt="" class="wp-image-211620" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="211621" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F_0NuROa4AAR3rG-1024x963.jpg" alt="" class="wp-image-211621" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="211622" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F_0Vgkaa8AAU2gg-1024x683.jpg" alt="" class="wp-image-211622" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="211623" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F_xQ9ztaIAA_pyy-1024x768.jpg" alt="" class="wp-image-211623" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="211624" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F_xWvu1aIAAdigu-1024x768.jpg" alt="" class="wp-image-211624" /></figure> </figure> <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="en" dir="ltr">
+      Good morning‼️ <a href="https://twitter.com/hashtag/Climate?src=hash&ref_src=twsrc%5Etfw">#Climate</a> protectors have been BLOCKADING THE WORLD'S BIGGEST COAL PORT ALL NIGHT 💚 Join us to support them and enjoy the entertainment at the <a href="https://twitter.com/hashtag/PeoplesBlockade?src=hash&ref_src=twsrc%5Etfw">#PeoplesBlockade</a>. We're demanding <a href="https://twitter.com/hashtag/NoNewCoal?src=hash&ref_src=twsrc%5Etfw">#NoNewCoal</a> and to <a href="https://twitter.com/hashtag/MakePollutersPay?src=hash&ref_src=twsrc%5Etfw">#MakePollutersPay</a> for a <a href="https://twitter.com/hashtag/JustTransition?src=hash&ref_src=twsrc%5Etfw">#JustTransition</a> 👇🏽<br /><br /> <a href="https://t.co/iIkK23eET4">https://t.co/iIkK23eET4</a> <a href="https://t.co/hIwKuxwZa4">pic.twitter.com/hIwKuxwZa4</a>
+    </p>&mdash; RisingTideAustralia (@RisingTideAus) 
+    
+    <a href="https://twitter.com/RisingTideAus/status/1728509133190725793?ref_src=twsrc%5Etfw">November 25, 2023</a>
+  </blockquote>
+</div></figure> 
+
+Para saberes mais sobre o assunto usa a hashtag [#PeoplesBlockade][1] ou espreita o site <https://www.risingtide.org.au/><figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-190 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="211625" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F_0riQibgAAuLXL-1024x768.jpg" alt="" class="wp-image-211625" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="211626" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F_2XqmJbUAAvpyZ-1024x576.jpg" alt="" class="wp-image-211626" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="211630" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F_2ZwCIbQAAQq9w-1024x1024.jpg" alt="" class="wp-image-211630" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="211627" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F_3A7AKagAA_zhv-1024x634.jpg" alt="" class="wp-image-211627" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="211628" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F_23hvTa8AAMurZ-1024x768.jpg" alt="" class="wp-image-211628" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="211629" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F_v0MCwbAAAHMSH-1024x513.jpg" alt="" class="wp-image-211629" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="211631" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F_wKcWAaAAAw_UR-1024x863.jpg" alt="" class="wp-image-211631" /></figure> </figure> 
+
+A PTrevolutionTV é um projeto auto financiado se puderes ajudar a suportar as nossas despesas entra em contacto connosco via mensagem
+
+Pela soberania da informação.
+
+ [1]: https://twitter.com/hashtag/PeoplesBlockade?src=hashtag_click

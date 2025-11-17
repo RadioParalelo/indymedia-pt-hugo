@@ -1,0 +1,76 @@
+---
+title: proTEJO denuncia que a poluição de bloom de algas (cianobactérias) com elevada toxicidade e cheiro putrefacto tendo origem em Espanha invadiu novamente o rio Tejo
+author: Publicação Comunitária
+type: post
+date: 2023-09-13T00:06:12+00:00
+excerpt: '9 de setembro de 2023 O proTEJO constatou hoje, à semelhança de anos anteriores, que um novo bloom de algas (cianobactérias que podem produzir cianotoxinas prejudiciais aos seres vivos – ver Caixa) com elevada toxicidade e cheiro putrefacto proveniente de Espanha invadiu o rio Tejo em Vila Velha de Ródão estendendo-se pela albufeira do Fratel […]'
+url: /?p=529
+syndication_source:
+  - Rede de Contra Informação
+syndication_source_uri:
+  - https://rcinfo.noblogs.org
+syndication_source_id:
+  - https://rcinfo.noblogs.org/feed
+"rss:comments":
+  - 'https://rcinfo.noblogs.org/protejo-denuncia-que-a-poluicao-de-bloom-de-algas-cianobacterias-com-elevada-toxicidade-e-cheiro-putrefacto-tendo-origem-em-espanha-invadiu-novamente-o-rio-tejo/#respond'
+"wfw:commentRSS":
+  - https://rcinfo.noblogs.org/protejo-denuncia-que-a-poluicao-de-bloom-de-algas-cianobacterias-com-elevada-toxicidade-e-cheiro-putrefacto-tendo-origem-em-espanha-invadiu-novamente-o-rio-tejo/feed/
+syndication_feed:
+  - https://rcinfo.noblogs.org/feed
+syndication_permalink:
+  - https://rcinfo.noblogs.org/protejo-denuncia-que-a-poluicao-de-bloom-de-algas-cianobacterias-com-elevada-toxicidade-e-cheiro-putrefacto-tendo-origem-em-espanha-invadiu-novamente-o-rio-tejo/
+syndication_item_hash:
+  - 22d9b1edc2b172cc622970cfbaecf8d7
+  - c79c2e92726e2c0fdab606f350c14972
+  - fc82fef3f016313a826ac3275190a7b5
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - Ecologia
+
+---
+<figure class="wp-block-post-featured-image"><img loading="lazy" width="2560" height="1920" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Foto-scaled-2630448-3591472..jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" style="object-fit:cover;" srcset="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Foto-scaled-2630448-3591472..jpg 2560w, https://cmi.indymedia.pt/wp-content/uploads/2023/09/Foto-300x225-3103354-6182729..jpg 300w, https://cmi.indymedia.pt/wp-content/uploads/2023/09/Foto-1024x768-9210373-5705711..jpg 1024w, https://cmi.indymedia.pt/wp-content/uploads/2023/09/Foto-768x576-1764518-7708478..jpg 768w, https://cmi.indymedia.pt/wp-content/uploads/2023/09/Foto-1536x1152-9845447-9272858..jpg 1536w, https://cmi.indymedia.pt/wp-content/uploads/2023/09/Foto-2048x1536-1103747-9919480..jpg 2048w" sizes="auto, (max-width: 2560px) 100vw, 2560px" /></figure> 
+
+9 de setembro de 2023
+
+O proTEJO constatou hoje, à semelhança de anos anteriores, que um novo bloom de algas (cianobactérias que podem produzir cianotoxinas prejudiciais aos seres vivos – ver Caixa) com elevada toxicidade e cheiro putrefacto proveniente de Espanha invadiu o rio Tejo em Vila Velha de Ródão estendendo-se pela albufeira do Fratel e que irá progredir contaminando todo o rio Tejo a montante da barragem do Fratel – ver videos 1, 2, 3, 4, 5,&nbsp;6&nbsp;e 7 &#8211; galeria de fotos.&nbsp;
+
+Bloom de algas na foz de uma linha de água afluente do rio Tejo&nbsp;
+
+na albufeira do Fratel &#8211; 08-09-2023
+
+Este bloom de algas resulta de vários fatores que indicamos de seguida.
+
+Primeiro, a concentração elevada de nutrientes, nomeadamente fósforo, e as substâncias tóxicas depositadas no fundo das albufeiras da Extremadura espanhola, Azutan, Torrejon, Valdecañas, Alcantâra e Cedillo, ao longo de décadas de descargas de águas residuais sem adequado tratamento e das escorrências de fertilizantes agrícolas.
+
+Segundo, a permissão à empresa Iberdrola, por parte dos governos de Portugal e Espanha, de livre gestão das descargas de caudais das suas barragens, uma vez que não se encontram implementados caudais ecológicos entre ambos os países, conduz a uma constante e contínua volatilidade do caudal do rio Tejo com alternância de ausência de caudal e de descargas significativas de água pelas barragens espanholas, que tem como única finalidade maximizar o lucro da produção de energia hidroelétrica fazendo descargas quando o preço da energia no mercado espanhol se encontra em níveis bastante elevados.
+
+Lembramos que, em 2021, o governo espanhol colocou um processo de investigação à empresa concessionária destas barragens, a Iberdrola, pela drástica redução de água para aproveitar o elevado preço para multiplicar a sua produção hidroelétrica, do qual nada se sabe até hoje.
+
+Bloom de algas na Barragem de Alcântara – 14/09/2021<figure class="wp-block-image size-full">
+
+<img decoding="async" loading="lazy" width="956" height="538" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Alcantara-8722311-5314923..png" alt="" class="wp-image-9198" srcset="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Alcantara-8722311-5314923..png 956w, https://cmi.indymedia.pt/wp-content/uploads/2023/09/Alcantara-300x169-6094875-6953517..png 300w, https://cmi.indymedia.pt/wp-content/uploads/2023/09/Alcantara-768x432-9639579-1696700..png 768w" sizes="auto, (max-width: 956px) 100vw, 956px" /> </figure> 
+
+Créditos: El Periódico Extremadura
+
+Terceiro, as condições de temperatura e luminosidade elevadas, que se observam nos meses de Verão em que estas barragens armazenam pouca água em resultado do seu esvaziamento artificial pelas barragens, criam as condições propícias à proliferação deste bloom de algas que também dispõe dos nutrientes necessários.
+
+Neste contexto, o proTEJO considera que o Senhor Ministro do Ambiente e Ação Climática deve exigir explicações ao seu congénere espanhol visto que esta situação, que ocorre ano após ano, constitui um agravamento adicional do estado ecológico das massas de água do rio Tejo em Portugal em incumprimento da Convenção de Albufeira quanto à obrigatoriedade de garantir o bom estado ecológico das massas fronteiriças e transfronteiriças e em incumprimento da Diretiva Quadro da Água que impõe o objetivo de alcançar um bom estado ecológico das massas de água.
+
+Além disso, o proTEJO considera que se encontram reforçados os fundamentos para apresentar uma Queixa à Comissão Europeia contra os governos de Portugal e Espanha assente no incumprimento da Diretiva Quadro da Água por permitirem uma gestão das barragens para a produção hidroelétrica com critérios meramente economicistas de maximização do lucro que causa uma deterioração adicional do estado ecológico das massas de água do rio Tejo e impede que se alcancem os objetivos ambientais do nº 1 do Artigo 4º da DQA ao não assegurar um “regime hidrológico consistente com o alcance dos objetivos ambientais da DQA em massas de águas superficiais naturais” como decorre do documento de orientação nº 31 “Caudais ecológicos na implementação da Diretiva Quadro da Água”.<figure class="wp-block-image size-large">
+
+<img decoding="async" loading="lazy" width="1024" height="768" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/IMG_1065-1024x768-4179602-5736873..jpg" alt="" class="wp-image-9197" srcset="https://cmi.indymedia.pt/wp-content/uploads/2023/09/IMG_1065-1024x768-4179602-5736873..jpg 1024w, https://cmi.indymedia.pt/wp-content/uploads/2023/09/IMG_1065-300x225-8376564-5713668..jpg 300w, https://cmi.indymedia.pt/wp-content/uploads/2023/09/IMG_1065-768x576-1498460-3694258..jpg 768w, https://cmi.indymedia.pt/wp-content/uploads/2023/09/IMG_1065-1536x1152-2146259-9919241..jpg 1536w, https://cmi.indymedia.pt/wp-content/uploads/2023/09/IMG_1065-2048x1536-7545154-2802226..jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /> </figure> 
+
+O filo Cyanobacteria (cianobactérias), ou divisão Cyanophyta (cianófitas), é um grupo de bactérias que obtêm energia por fotossíntese. O nome &#8220;cianobactéria&#8221; vem de sua cor (do grego: κυανός (kyanós) = azul). São chamadas também de algas azuis ou algas verde-azuladas, embora alguns autores considerem estes nomes inadequados, uma vez que cianobactérias são procariontes, e algas deveriam ser apenas eucariontes.&nbsp;
+
+Algumas cianobactérias produzem cianotoxinas, entre as quais anatoxina-a, anatoxina-as, aplisiatoxina, cilindrospermopsina, ácido domoico, microcistina LR, nodularina R e saxitoxina, algumas destas sendo de ação hepatóxica e neurotóxica, podendo ainda causar gastrointerites em mamíferos, inclusive na espécie humana. Isso ocorre apenas quando estão em proliferação, e o ambiente se torna favorável a ela.
+
+Em altas concentrações de cianotoxinas, primeiramente as comunidades aquáticas são afetadas. As florações de cianobactérias tóxicas podem provocar a mortandade de peixes e outros animais, incluindo o homem, que consomem a água ou organismos contaminados. Tais florações muitas vezes são causadas por ações dos homens (como represamento e eutrofização dos corpos d’água).
+
+Diversas cianotoxinas têm importância para a saúde pública. Estas toxinas quando presentes na água utilizada para abastecimento doméstico, pesca ou lazer, podem atingir as populações humanas e provocar efeitos adversos como gastrenterite, hepato-enterite e outras doenças do fígado e rim, câncer, irritações na pele, alergias, conjuntivite, problemas com a visão, fraqueza muscular, problemas respiratórios, asfixia, convulsões e morte, dependendo do tipo da toxina, da concentração e da via de contato.
+
+Wikipédia:  
+https://pt.wikipedia.org/wiki/Cyanobacteria  
+https://pt.wikipedia.org/wiki/Cianotoxina

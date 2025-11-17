@@ -1,0 +1,234 @@
+---
+title: Code Rouge-Rood, cá foi um avião na Bélgica foram 2 aeroportos.
+author: Publicação Comunitária
+type: post
+date: 2023-12-17T17:31:51+00:00
+url: /?p=214519
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111596950066294908
+embed_privacy_thumbnail_youtube_DMjpopMfJlE:
+  - youtube-DMjpopMfJlE-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_DMjpopMfJlE_url:
+  - 'https://www.youtube.com/watch?v=DMjpopMfJlE&ab_channel=Coderougerood'
+embed_privacy_thumbnail_youtube_NyuxW8mKMQo:
+  - youtube-NyuxW8mKMQo-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_NyuxW8mKMQo_url:
+  - https://www.youtube.com/watch?v=NyuxW8mKMQo
+embed_privacy_thumbnail_youtube_TeFrlLsVlFs:
+  - youtube-TeFrlLsVlFs-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_TeFrlLsVlFs_url:
+  - 'https://www.youtube.com/watch?v=TeFrlLsVlFs&list=PLZjJqQatwB41l3kY0aHRos3pHfqp_DFlt&ab_channel=Coderougerood'
+iworks_yt_thumbnails:
+  - 'a:3:{s:11:"DMjpopMfJlE";a:5:{s:3:"url";s:55:"http://img.youtube.com/vi/DMjpopMfJlE/maxresdefault.jpg";s:10:"secure_url";s:56:"https://img.youtube.com/vi/DMjpopMfJlE/maxresdefault.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:4:"type";s:10:"image/jpeg";}s:11:"NyuxW8mKMQo";a:5:{s:3:"url";s:55:"http://img.youtube.com/vi/NyuxW8mKMQo/maxresdefault.jpg";s:10:"secure_url";s:56:"https://img.youtube.com/vi/NyuxW8mKMQo/maxresdefault.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:4:"type";s:10:"image/jpeg";}s:11:"TeFrlLsVlFs";a:5:{s:3:"url";s:55:"http://img.youtube.com/vi/TeFrlLsVlFs/maxresdefault.jpg";s:10:"secure_url";s:56:"https://img.youtube.com/vi/TeFrlLsVlFs/maxresdefault.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:4:"type";s:10:"image/jpeg";}}'
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - BlockEngie
+  - Ecologia
+  - Indymedia
+  - Protesto
+  - PTrevolutionTV
+  - StopTotal
+
+---
+ 
+
+São cada vez mais as ações de desobediência civil contra a aviação, em especial a direcionada para as pequenas elites como é o caso dos jatos privados.
+
+Depois do Climáximo fazer uma ação contra um jato estacionado no aeródromo de Tires, desta vez foi na Bélgica que se realizou uma grande uma ação de desobediência civil convocada pelo [Coletivo Code Rouge-Rood][1].
+
+&#8220;Code Red é um movimento de desobediência civil criado por ativistas e apoiado por diferentes organizações e grupos de ação. **Juntos, clamamos pela desobediência civil.**&#8220;
+
+Depois de um primeiro código vermelho em contra a [**TotalEnergies** #StopTotal][2] <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> 
+
+em Outubro do ano passado e um segundo em Julho deste ano conta a  ****[**Engie** #BlockEngie][2] <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> 
+
+este ano o alvo foi a aviação, porque &#8220;O setor aéreo polui cada vez mais. Esta indústria, especialista em greenwashing, beneficia de todo o tipo de vantagens financeiras, enquanto a sua expansão ameaça o equilíbrio do nosso planeta, afetando desproporcionalmente a maioria global. Uma injustiça tanto mais flagrante quanto é prerrogativa dos 1% que muitas vezes não têm de sofrer os seus efeitos nefastos.&#8221;
+
+No dia 20 de Novembro soube-se finalmente qual o sector alvo do [3º Código Vermelho][3] <figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/12/F83QrvMWgAALtPa-1024x1024.jpg" alt="" class="wp-image-214520" /> </figure> 
+
+Começando ai um Roda de Alvos em que durante toda semana, os pilotos Cecil Parker e Sing giram a Roda do Alvo e apresentam um POSSÍVEL alvo para nossa ação nos dias 15/17 de dezembro. 🎯<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> 
+
+No dia 12 de Dezembro saíram as demandas: <figure class="wp-block-image size-full">
+
+[<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/12/GBJdHa4XUAAaWk0.jpg" alt="" class="wp-image-214521" />][4]</figure> 
+
+<ol class="wp-block-list">
+  <li>
+    Proibir jatos particulares, voos curtos e ultracurtos;
+  </li>
+  <li>
+    Acabar com os subsídios e as isenções fiscais sobre o querosene
+  </li>
+  <li>
+    Tornar o transporte público mais acessível do que voar
+  </li>
+  <li>
+    Diminuir o frete aéreo
+  </li>
+  <li>
+    Parar toda a expansão dos aeroportos na Bélgica
+  </li>
+  <li>
+    Fechar aeroportos regionais na Flandres
+  </li>
+  <li>
+    Preservar a saúde dos trabalhadores do aeroporto, vizinhos, flora e fauna
+  </li>
+  <li>
+    Proporcionar uma transição justa para os trabalhadores aeroportuários;
+  </li>
+  <li>
+    Acabar com o greenwashing da indústria, como a compensação de carbono
+  </li>
+  <li>
+    Proibir anúncios para voar;
+  </li>
+</ol>
+
+para além de outros mais genéricos.
+
+No dia 15 os ativistas começaram a juntar-se nos locais indicados para um dia de formação intensivo e seria aqui que seriam confirmados os alvos específicos desta ação:
+
+<ul class="wp-block-list">
+  <li>
+    Aeroporto Internacional de Antuérpia, um dos maiores aeroportos de jatos particulares da Bélgica
+  </li>
+</ul>
+
+<ul class="wp-block-list">
+  <li>
+    Aeroporto de Liège, o aeroporto de carga que mais cresce na Europa e o principal centro logístico europeu para a empresa de comércio eletrónico Alibaba
+  </li>
+</ul>
+
+No dia 16 de Dezembro em Antuérpia por volta da 13h00 quando os ativistas se preparavam para sair para ação depararam-se com uma grande presença policial que levou a detenções aleatórias bem como outros atos de violência policial desproporcionais ao ato de desobediência civil que estava planeado.<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="en" dir="ltr">
+      There is disproportionate police violence. Our activists were just walking on the streets. They were beaten, pepper-sprayed and many were arrested. Even the president of @leaguedh_be was arrested. This is not okay! <a href="https://t.co/JXCWP1ejNo">pic.twitter.com/JXCWP1ejNo</a>
+    </p>&mdash; Coderougerood (@coderoodrouge) 
+    
+    <a href="https://twitter.com/coderoodrouge/status/1736027140259201138?ref_src=twsrc%5Etfw">December 16, 2023</a>
+  </blockquote>
+</div></figure> <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="en" dir="ltr">
+      RECAP of police violence: Our activists in Antwerp yesterday faced massive and disproportionate police violence, here's a summary: <a href="https://t.co/08IdnAcnYi">pic.twitter.com/08IdnAcnYi</a>
+    </p>&mdash; Coderougerood (@coderoodrouge) 
+    
+    <a href="https://twitter.com/coderoodrouge/status/1736417682193338473?ref_src=twsrc%5Etfw">December 17, 2023</a>
+  </blockquote>
+</div></figure> 
+
+&#8220;Há uma presença policial massiva no local dos nossos ativistas. Os ativistas não estão autorizados a sair do prédio e a polícia entra no comboio para deter outro grupo de ativistas pacíficos. Esta é uma violação desproporcional da liberdade de expressão.&#8221;
+
+&#8220;Há violência policial desproporcional. Nossos ativistas estavam apenas andando pelas ruas. Eles foram espancados, pulverizados com spray de pimenta e muitos foram presos. Até o presidente da @leaguedh_be foi preso. Isso não está bem!&#8221;
+
+Cerca de 700 ativistas foram detidos nesta altura, incluindo o diretor da Liga dos Direitos Humanos Belga, EdgarSzoc, <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="fr" dir="ltr">
+      <a href="https://twitter.com/EdgarSzoc?ref_src=twsrc%5Etfw">@EdgarSzoc</a> président de la <a href="https://twitter.com/liguedh_be?ref_src=twsrc%5Etfw">@liguedh_be</a> arrêté cette après-midi comme observateur légal de l’action Code Rouge, toujours détenu à Anvers <a href="https://t.co/Pxs7bEyOvN">pic.twitter.com/Pxs7bEyOvN</a>
+    </p>&mdash; P-A Perrouty (@PAPerrouty) 
+    
+    <a href="https://twitter.com/PAPerrouty/status/1736084012932743186?ref_src=twsrc%5Etfw">December 16, 2023</a>
+  </blockquote>
+</div></figure> 
+
+que estava lá como observador, mas ainda assim alguns conseguiram escapar acabando por concretizar o bloqueio do Aeroporto de Antuérpia, provocando o cancelamento de vários voos planeados para esse dia.<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="en" dir="ltr">
+      Some of the few activists who were not arrested managed to enter Antwerp airport. <br />(Although most of them have since been pepper-sprayed and arrested.) <a href="https://t.co/j6J44HSPEH">pic.twitter.com/j6J44HSPEH</a>
+    </p>&mdash; Coderougerood (@coderoodrouge) 
+    
+    <a href="https://twitter.com/coderoodrouge/status/1736060340658417726?ref_src=twsrc%5Etfw">December 16, 2023</a>
+  </blockquote>
+</div></figure> 
+
+Entretanto em Liège 600 ativistas conseguiram parar o Aeroporto com estruturas a bloquear os acessos e posteriormente com a ocupação de um hangar que viria a durar perto de 24 horas<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="en" dir="ltr">
+      🔥 Hell yesss 🔥<br /><br />Despite all obstacles, activists with <a href="https://twitter.com/coderoodrouge?ref_src=twsrc%5Etfw">@coderoodrouge</a> are now ready to block Liège Airport, the fastest growing cargo airport in Europe! <a href="https://t.co/TqIUIT41yZ">https://t.co/TqIUIT41yZ</a> <a href="https://t.co/cK1ocYLjnm">pic.twitter.com/cK1ocYLjnm</a>
+    </p>&mdash; Stay Grounded &#8211; @staygroundednet on Bluesky 🦋 (@StayGroundedNet) 
+    
+    <a href="https://twitter.com/StayGroundedNet/status/1736055002873905220?ref_src=twsrc%5Etfw">December 16, 2023</a>
+  </blockquote>
+</div></figure> 
+
+Foi ao final da tarde que saiu o primeiro comunicado a comunicar o sucesso da ação:
+
+&#8220;Que dia, 1.500 ativistas ocuparam os aeroportos de Antuérpia e Liège em prol da justiça social e climática! 😍🙌 Os que estavam no aeroporto de Antuérpia enfrentaram violência policial brutal e desproporcional, enquanto os ativistas no aeroporto de Liège ainda bloqueiam o Alibaba.
+
+✈️ O aeroporto de Antuérpia atende principalmente uma elite privilegiada por seus jatos particulares, e o mais maluco de tudo é que esse aeroporto não sobreviveria sem subsídios. Por cada euro de volume de negócios, recebem três euros em subsídios. 🤑
+
+✈️ O aeroporto de Liège é o aeroporto que mais cresce na Europa. 🤯 Enquanto empresas como a chinesa Alibaba colhem os lucros, a maioria global e os residentes locais pagam os custos. 😱&#8221;
+
+Enquanto em Antuérpia as coisas começaram a acalmar em Liège os ativistas preparam-se para uma longa noite, bloqueando os acessos ao Hangar ocupado provocando que há polícia procura-se outra forma para entrar, sempre com a boa disposição característica destas ações.<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="fr" dir="ltr">
+      Belle ambiance devant l'entrepôt d'Alibaba à Liège, malgré le froid 😊<a href="https://twitter.com/hashtag/CodeRouge?src=hash&ref_src=twsrc%5Etfw">#CodeRouge</a> <a href="https://t.co/uJ6QHu6PL9">pic.twitter.com/uJ6QHu6PL9</a>
+    </p>&mdash; Louis Droussin (@LouisDroussin) 
+    
+    <a href="https://twitter.com/LouisDroussin/status/1736082027839963293?ref_src=twsrc%5Etfw">December 16, 2023</a>
+  </blockquote>
+</div></figure> <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  https://twitter.com/coderoodrouge/status/1736342066567749740?s=20
+</div></figure> 
+
+Foi só hoje por volta da hora de almoço que as ativistas abandoaram o aeroporto de Liège pelo Liège seu próprio pé para irem participar numa manifestação em solidariedade com a ação acabada de realizar.<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="en" dir="ltr">
+      It's a wrap: After 24 hours, our last activists leave Alibaba full of hope. If there's one thing we've shown this weekend: Another world is possible ‼️ 🌍🥲<br />We will no longer tolerate the aviation industry continuing to grow and pollute at the expense of us all. 🚫 ✈️🚫 <a href="https://t.co/2TL5rWKHv4">pic.twitter.com/2TL5rWKHv4</a>
+    </p>&mdash; Coderougerood (@coderoodrouge) 
+    
+    <a href="https://twitter.com/coderoodrouge/status/1736360775185297673?ref_src=twsrc%5Etfw">December 17, 2023</a>
+  </blockquote>
+</div></figure> 
+
+<https://www.facebook.com/events/365337582558942/>
+
+&#8220;Manifestação do Código Vermelho contra a aviação! ✈️🚫  
+Você não quer ou não pode participar de ações de desobediência civil, mas ainda quer fazer ouvir sua voz contra o setor aéreo? Então venha para a demonstração do Code Red no domingo, 17 de dezembro, às 14h! ✊  
+No sábado, dia 16, informaremos em qual aeroporto internacional será realizado o evento. Organizaremos uma caminhada da estação ao aeroporto. Na chegada: música, palestrantes, ativistas e claro chocolate quente (vegano)! 🔥&#8221;
+
+E assim foi mais um dia de luta pela justiça climática em terras da Bélgica.
+
+Se estas ações criam transtornos imagina as alterações climáticas.
+
+Pela soberania da informação.
+
+ [1]: https://code-rouge.be/
+ [2]: https://code-rouge.be/a-propos/actions-passees/
+ [3]: https://code-rouge.be/en/about-us/why-aviation/
+ [4]: /code-rouge.be/en/our-demands/

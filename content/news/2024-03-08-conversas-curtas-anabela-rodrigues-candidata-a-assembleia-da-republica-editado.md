@@ -1,0 +1,29 @@
+---
+title: Conversas Curtas – Anabela Rodrigues – Candidata à Assembleia da República Editado
+author: Publicação Comunitária
+type: post
+date: 2024-03-08T12:45:08+00:00
+excerpt: No dia das mulheres e nas vésperas das eleições. Fomos fazer um Conversa Curta mas boa com a candidata à Assembleia da República independente pela lista do distrito de Lisboa do Bloco de Esquerda.
+url: /?p=221167
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+ <figure class="wp-block-audio"><audio controls src="https://vid.puffyan.us/latest\_version?id=wSoC\_13QmIM&itag=140"></audio></figure> <figure class="wp-block-video"><video controls src="https://invidious.protokolla.fi/latest\_version?id=wSoC\_13QmIM&itag=18"></video></figure> 
+
+No dia das mulheres e nas vésperas das eleições. Fomos fazer um Conversa Curta mas boa com a candidata à Assembleia da República independente pela lista do distrito de Lisboa do Bloco de Esquerda.
+
+Vê no Invidious: <https://vid.puffyan.us/watch?v=wSoC_13QmIM>
+
+Vê no Youtube: <a href="https://youtube.com/watch?v=wSoC_13QmIM" target="_blank" rel="noreferrer noopener">https://youtube.com/watch?v=wSoC_13QmIM </a>
+
+[O Lado Negro da Força][1]<figure class="wp-block-image size-large">
+
+![][2] </figure>
+
+ [1]: https://www.youtube.com/@oladoNegrodaForca
+ [2]: https://cmi.indymedia.pt/wp-content/uploads/2024/03/maxres-5875892.jpg

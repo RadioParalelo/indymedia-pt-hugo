@@ -1,0 +1,60 @@
+---
+title: Primeira semana de ações estudantis pelo fim ao fóssil termina com 7 estudantes detidas na reitoria da ULisboa. Prometem continuar com as ações.
+author: Publicação Comunitária
+type: post
+date: 2023-11-19T10:09:30+00:00
+url: /?p=207402
+classic-editor-remember:
+  - block-editor
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/11/10000000_359504833331747_5550521664534020204_n.mp4
+        40733848
+        video/mp4
+        
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111436665914135364
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - Ecologia
+  - Indymedia
+  - Lisboa
+  - ocupapeloclima
+  - Protesto
+  - PTrevolutionTV
+
+---
+Para a nossa equipa de Ninjas já são 7 dias, 9 directos e mais de 9 horas em directo.
+
+Pelos vistos a próxima semana vai voltar a ser animada e precisamos do vosso contributo monetário para mantermos o nosso trabalho.
+
+Se puderes entra em contacto connosco.
+
+Comunicado da Greve Climática Estudantil<figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/10000000\_359504833331747\_5550521664534020204_n.mp4"></video></figure> 
+
+&#8220;_Estudantes garantem que na próxima semana vão “parar as instituições de poder que estão a condenar o nosso futuro”_
+
+Esta sexta-feira terminou a primeira semana da onda de ações pelo fim ao fóssil organizada pela Greve Climática Estudantil Lisboa. Na próxima semana, os estudantes que reivindicam o fim aos combustíveis fósseis até 2030 e eletricidade 100% renovável e acessível até 2025 prometem que irão fazer ações em instituições de poder que “não estão a fazer nada para parar a crise climática”.&nbsp;
+
+Ontem, aconteceram ações na faculdade de ciências sociais e humanas da universidade nova de Lisboa e na reitoria da ULisboa. Na FCSH, estudantes barricaram-se de madrugada num dos edifícios, que ficou fechado até a faculdade conseguir abrir uma das portas. Quando isto aconteceu, os estudantes saíram e fizeram uma manifestação frente ao edifício principal, com faixas e fumos e pintaram na fachada do edifício frases como “Valores de Abril só na Fachada” e “fim ao fóssil até 2030”.
+
+Na reitoria da Ulisboa, os estudantes organizaram um protesto pelo fim ao fóssil e contra a repressão policial que o movimento tem sofrido nesta instituição. Quando a reitoria, segundo estes, disse-lhes que achava legítimo reprimir com polícia protestos contra os combustíveis fósseis, cerca de 20 estudantes pintaram a fachada do edifício com palavras de ordem e invadiram e ocuparam o átrio em protesto, enquanto os restantes apoiavam de fora. A polícia foi novamente chamada e deteve 7 estudantes.&nbsp;
+
+Os estudantes vão continuar a onda de ações em instituições políticas. “Começámos esta onda de ações para nos organizarmos nos nossos espaços de luta, tendo mobilizado vários estudantes”, diz Beatriz Xavier, porta-voz da onda de ações. “Agora rumamos às instituições de poder que estão a condenar o nosso futuro em nome do lucro.”
+
+“A repressão que sofremos nas nossas escolas é apenas uma das formas do sistema fóssil se defender. Todas as instituições neste sistema estão controladas por uma lógica de mercado, que não permite qualquer contestação ou disrupção”, diz Beatriz. “Agora vamos responsabilizar quem efetivamente toma as decisões que reforçam este sistema e que estão a condenar o nosso futuro”.&nbsp;
+
+Dia 24 os estudantes vão ocupar o Ministério do Ambiente, que dizem representar “a inação geral do nosso governo para acabar com os combustíveis fósseis”. Apelam a que todos se juntem: “temos pouco tempo para mudar, vão querer ficar do lado certo da história?”, pergunta Beatriz.&#8221;
+
+Precisamos muito da vossa ajuda para garantirmos uma semana de transmissões como a desta semana.<figure class="wp-block-image size-full">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/Captura-de-Ecra-54.png" alt="" class="wp-image-207404" /> </figure> 
+
+Pela soberania da informação.

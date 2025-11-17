@@ -1,0 +1,46 @@
+---
+title: Apoiantes do Climáximo Inutilizam Campo de Golf do Paço do Lumiar
+author: Publicação Comunitária
+type: post
+date: 2023-10-12T08:06:11+00:00
+url: /?p=32687
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111221013241550493
+categories:
+  - Ecologia e Animais
+  - Indymedia
+tags:
+  - AltPT
+  - Climaximo
+  - Ecologia
+  - Indymedia
+  - Lisboa
+  - Protesto
+  - PTrevolutionTV
+
+---
+Na noite de quarta-feira para quinta-feira, apoiantes do Climáximo entraram no campo de golf do Paço do Lumiar e inutilizaram vários buracos, cimentando-os. Substituíram ainda as bandeiras destes pela sua mensagem<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/unnamed-1-20231012-080510-768x1024.jpg" alt="" class="wp-image-32688" /> </figure> 
+
+A semana passada, na Índia, chuvas intensas fizeram transbordar um lago glacial, causando grandes inundações. Foram afetadas 22 mil pessoas. Há 40 mortos, 26 pessoas feridas e outras 102 dadas como desaparecidas. Há mais 200 lagos como este em risco muito elevado de transbordarem, e causarem mais destruição. &#8220;A crise climática transformou cada um destes lagos numa mina aquática, prestes a explodir e matar dezenas de pessoas à mínima perturbação meteorológica&#8221; avisa o colectivo. Segundo os cientistas, os oceanos estão a aquecer ao mesmo ritmo do que se cinco bombas atómicas de Hiroshima fossem lançadas na água a cada segundo.
+
+Entretanto, em Portugal, a crise de habitação continua, alimentada pela crise climática. &#8220;E estes espaços, dentro da cidade, ao invés de serem convertidos em floresta, habitação, hortas urbanas, ou dados qualquer tipo de uso público, servem para o luxo dos ricos, à custa de uma quantidade absurda de água&#8221; diz uma das pessoas que fez a ação, &#8220;São como uma torre de marfim onde os culpados por estas crises se escondem enquanto que a população sofre com a seca e ondas de calor&#8221;.
+
+&#8220;Nós sabemos como parar esta guerra e instaurar a paz. E isso significa que as empresas, os CEOs e acionistas que gastam os seus lucros exorbitantes nestes campos de luxo têm que pagar a transição energética&#8221; continua uma das apoiantes, referenciando o plano de paz do Climáximo. &#8220;Precisamos também de revalorizar o bem comum. O lazer, a cultura e o desporto têm que ser acessíveis para todas as pessoas, não o luxo de uma elite.&#8221;
+
+O Climáximo apela ainda a todas as pessoas para se juntarem para travar esta guerra. &#8220;As pessoas comuns estão a sofrer, a serem despejadas por senhorios ou inundações, sujeitas à precariedade pelos preços de uma energia fóssil e obsoleta, enquanto que uma elite goza descaradamente dos seus luxos. Vais aceitar isto?&#8221;
+
+Para mais informação: climaximo@riseup.net
+
+Fontes:
+
+​​​​​​​https://www.publico.pt/2023/10/06/azul/noticia/lago-glaciar-transborda-causa-40-mortes-himalaias-indianos-ha-dezenas-desaparecidos-2065759<figure class="wp-block-embed">
+
+<div class="wp-block-embed__wrapper">
+  https://cnnespanol.cnn.com/2020/01/13/los-oceanos-se-calientan-a-la-misma-tasa-que-si-5-bombas-de-hiroshima-se-arrojaran-cada-segundo/
+</div></figure>

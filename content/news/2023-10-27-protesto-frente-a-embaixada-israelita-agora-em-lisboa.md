@@ -1,0 +1,53 @@
+---
+title: '[Lisboa] Protesto pela Palestina, frente à embaixada Israelita'
+author: Publicação Comunitária
+type: post
+date: 2023-10-27T21:24:00+00:00
+url: /?p=63945
+micropub_auth_response:
+  - 'a:2:{s:9:"client_id";s:22:"https://indiepass.app/";s:4:"uuid";s:36:"86bcf26b-c980-490d-8b7c-51eae471854f";}'
+mf2_type:
+  - 'a:1:{i:0;s:7:"h-entry";}'
+geo_timezone:
+  - +01:00
+mf2_content:
+  - |
+    a:1:{i:0;s:97:""Israel estado genocida"
+    
+    Cerca de cem pessoas agora em Frente à Embaixada de Israel em Lisboa
+    
+    ";}
+mf2_post-status:
+  - 'a:1:{i:0;s:9:"published";}'
+mf2_visibility:
+  - 'a:1:{i:0;s:6:"public";}'
+mf2_photo:
+  - 'a:1:{i:0;s:69:"https://cmi.indymedia.pt/wp-content/uploads/2023/10/1698441855282.jpg";}'
+classic-editor-remember:
+  - block-editor
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/10/video_2023-10-29_14-31-01.mp4
+        14910776
+        video/mp4
+        
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/10/video_2023-10-29_14-31-00-1.mp4
+        18032700
+        video/mp4
+        
+categories:
+  - Guerra e Paz
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+format: image
+
+---
+ <figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/video\_2023-10-29\_14-31-01.mp4"></video></figure> <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-127 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large"><img decoding="async" data-id="71309" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/photo_2023-10-29_14-32-09-1-1024x768.jpg" alt="" class="wp-image-71309" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="71310" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/photo_2023-10-29_14-31-31-1-1024x768.jpg" alt="" class="wp-image-71310" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="71323" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/photo_2023-10-27_22-16-10-1-1024x768.jpg" alt="" class="wp-image-71323" /></figure> </figure> <figure class="wp-block-image size-large"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/photo_2023-10-29_14-31-33-2-1024x768.jpg" alt="" class="wp-image-71321" /></figure> <figure class="wp-block-image size-large"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-10-29_14-33-46-edited.jpg" alt="" class="wp-image-165383" /></figure> <figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/video\_2023-10-29\_14-31-00-1.mp4"></video></figure> 
+
+&#8220;Israel estado genocida&#8221;
+
+Cerca de cem pessoas agora em Frente à Embaixada de Israel em Lisboa

@@ -1,0 +1,212 @@
+---
+title: Demolições no Bairro da Jamaika / Entrevista com a Habita!
+author: Publicação Comunitária
+type: post
+date: 2023-10-17T15:24:20+00:00
+url: /?p=33006
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111250261718103915
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/10/video_2023-10-17_12-51-17.mp4
+        955073
+        video/mp4
+        
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/10/316161845_1023918198949177_2802758184361407227_n.mp4
+        4919132
+        video/mp4
+        
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/10/Habita.ogg
+        21955060
+        audio/ogg
+        
+mf2_syndication:
+  - 'a:1:{i:0;s:61:"https://climatejustice.social/@indymediapt/111250273143226496";}'
+categories:
+  - Discriminação
+  - Habitação
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+  - Repressão
+tags:
+  - Demolições
+  - Despejos
+  - Direito à Cidade
+  - Habita!
+  - Habitação
+  - Indymedia
+  - Jamaika
+  - Seixal
+  - STOP Despejos
+
+---
+Hoje a partir das 8h recomeçaram as demolições anunciadas pela Câmara do Seixal, nos lotes 7 e 8, no Bairro da Jamaika. O Bairro está desde 2018 sinalizado para demolição, depois de décadas de abandono. A demolição do lote 7 avança, a do lote 8 está parada pelo tribunal, depois de providência cautelar. No entanto, grande parte das pessoas não tem soluções habitacionais alternativas.
+
+<div class="wp-block-group has-vivid-purple-background-color has-background has-global-padding is-layout-constrained wp-container-core-group-is-layout-927d3892 wp-block-group-is-layout-constrained" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--30);padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)">
+  <p>
+    <strong>Entrevistamos uma das pessoas que fazem parte da <a href="https://habita.info/">Habita!</a>, podes ouvir a entrevista aqui:</strong>
+  </p><figure class="wp-block-audio"><audio controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/Habita.ogg"></audio></figure>
+</div>
+
+A [Habita!][1] esteve lá hoje e difundimos aqui as informações que publicaram na sua conta de Instagram:
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    <strong>&#8220;Os apartamentos do Lote 7 estão a ser esvaziados. As máquinas de demolição estão no local.</strong>
+  </p>
+  
+  <p>
+    <strong>As pessoas estão a ser impedidas de entrar nas suas casas pela polícia. Incluíndo mães com crianças à chuva</strong>.
+  </p>
+  
+  <p>
+    <strong>Algumas famílias apresentaram providência caultelar pedindo a suspensão das demolições até que tenham alternativa habitacional.</strong>
+  </p>
+  
+  <p>
+    <strong>Ontem o tribunal de Almada decretou a providência cautelar estando a Câmara Municipal do Seixal proibida de efetuar a demolição do Lote 8.</strong>
+  </p>
+  
+  <p>
+    <strong>A Câmara do Seixal, em retaliação contra estas famílias disse que já não seriam realojadas. É repugnante! Não vamos parar de lutar pelas nossas casas!</strong>
+  </p>
+  
+  <p>
+    <strong>A Polícia veio bloquear os pontos de entrada e saída do Bairro da Jamaica sem qualquer base legal, para continuar com as demolições.</strong>
+  </p>
+  
+  <cite><a href="https://www.instagram.com/habita.colectivo/">Habita!</a></cite>
+</blockquote>
+
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:28% auto">
+  <figure class="wp-block-media-text__media"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/video_2023-10-17_12-51-17.mp4"></video></figure>
+  
+  <div class="wp-block-media-text__content">
+    <p>
+      As pessoas estavam impedidas de entrar ou sair do Bairro. A polícia cercou completamente o Bairro. A polícia tinha na sua posse listas com nomes de pessoas, mas as listas estavam incorretas. Pessoas ficaram retidas pela polícia, por não terem o seu nome na lista de pessoas que seriam moradoras do bairro, e apenas após a intervenção de uma pessoa da câmara a polícia deixou as pessoas passar.
+    </p>
+  </div>
+</div>
+
+As pessoas já assinaram os contratos de realojamento com a câmara, no entanto, a câmara, hoje, recusa-se a entregar estes contratos. As casas para onde as pessoas seriam realojadas, estavam sem obras completas, e foram encaminhadas para um hotel, que não tinha conhecimento de que as iria receber, então queria cobrar a estadia. Algumas pessoas estão a receber telefonemas ameaçadores por parte da câmara, dizendo que não haverá realojamentos.
+
+A advogada que está responsável pela providência cautelar e pela defesa dos moradores, não foi autorizada a aproximar-se das famílias. Esta conduta é ilegal, denunciam as associações, mas é comum. Já no último realojamento os advogados não puderam aproximar-se do local. A advogada deveria poder contactar com as pessoas que está a defender.
+
+Quando confrontadas com os despejos ou realojamentos, muitas das pessoas que habitam os bairros ficam sem possibilidade de receber apoio do estado. Isto porque o estado espera que as pessoas procurem solução no mercado habitacional, dizendo que depois poderia ajudá-las com a renda. No entanto, ter contratos, fiadores de nacionalidade portuguesa, rendas de avanço, não é assim tão fácil, sendo que geralmente as pessoas ficam de fora desta possibilidade de apoio.
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    <strong>O Bairro da Jamaika precisa da solidariedade de todes!</strong>
+  </p>
+  
+  <p>
+    <strong>As demolições foram marcadas sem que todas as famílias tivessem sido realojadas. O estado não pode despejar sem garantir alternativa habitacional. Vem ajudar a parar as demolições.</strong>
+  </p>
+  
+  <p>
+    <strong>Vale de Chícaros, Seixal.</strong>
+  </p>
+  
+  <cite><a href="https://www.instagram.com/habita.colectivo/">Habita!</a></cite>
+</blockquote>
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    &#8220;<strong>AGORA NO BAIRRO JAMAICA (SEIXAL): Estão a expulsar famílias do lote 7 e começaram as demolições. A polícia cercou o bairro. É preciso solidariedade aquí.</strong>&#8220;
+  </p>
+  
+  <cite><a href="https://www.instagram.com/p/Cyf6uyGOCM-/">STOP Despejos</a></cite>
+</blockquote>
+
+**Ainda sobre os despejos do Talude**:
+
+As 7 famílias despejadas do Bairro do Talude no início do ano, continuam sem soluções. Estão a viver em pensões, e foram separadas. As demolições no Talude continuaram, e muitas pessoas são deixadas na rua, tendo de encontrar por si mesmas soluções.
+
+Estas pessoas eram principalmente mulheres sozinhas com crianças e um idoso. Estiveram lá três unidades de Polícia da PSP com metrelhadoras para despejar estas sete mulheres.
+
+As técnicas de assistência social estavam lá a dizer que não tinham solução. Apenas pela presença da comunicação social, se pôde, já à noite, encontrar uma solução de emêrgência, a casa da cultura de Sacavém, para realojar as pessoas temporáriamente.
+
+[A Fumaça está a trabalhar numa série sobre o policiamento dos bairros que sairá em breve.][2]
+
+10% das Habitações em Portugal estão sobrelotas. Cerca de 20% da população de Lisboa vive em sobrelotação. Cerca de dois milhões de pessoas vivem abaixo do limiar de pobreza, em Portugal.
+
+<div class="wp-block-media-text is-stacked-on-mobile">
+  <figure class="wp-block-media-text__media"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/316161845_1023918198949177_2802758184361407227_n.mp4"></video></figure>
+  
+  <div class="wp-block-media-text__content">
+    <p>
+      <a href="https://www.instagram.com/p/CyQeFJaM89P/">Recentemente a STOP Despejos, a Habita!, e outras coletividades pela Habitação reuniram com a Ministra da Habitação, que se recusou a parar os Despejos.</a>
+    </p>
+  </div>
+</div>
+
+[Habita!][1] / [STOP Despejos][3]
+
+## Mail Bombing: {.wp-block-heading}
+
+[https://docs.google.com/document/d/1a\_9EH4WL\__WlpuFzxKdrUoWHtJmP1W6hbrgg1-1t6Mk/edit][4]
+
+**Para quem está longe e não consegue ir ao Jamaika prestar solidariedade, vamos fazer mail bombing aos órgãos camarários que estão a permitir estas demolições violentas**
+
+**PROPOSTA DE MAIL:**
+
+Assunto: Despejos e demolições a acontecer agora, no Vale de Chícharos, Seixal
+
+Parem imediatamente a expulsão das famílias e as demolições no bairro da Jamaika, no Vale de Chícharos, Seixal! A violência do que estão a fazer é inadmissível, as pessoas não têm para onde ir! Para além do que está a acontecer ser desumano, é também contra a lei. A Lei de Bases da Habitação diz que ninguém pode ser despejado sem alternativa de realojamento, mas a Câmara Municipal do Seixal está a tirar a casa às pessoas sem lhes dar qualquer solução de habitação. Não podemos permitir que isto continue!
+
+Parem com esta violência imediatamente! É contra a lei e é um ataque aos direitos fundamentais de qualquer pessoa.
+
+**A ENVIAR PARA:**
+
+pauloalexandresilva@cm-seixal.pt
+
+camara.geral@cm-seixal.pt
+
+protecao.civil@cm-seixal.pt
+
+espaco.cidadania@cm-seixal.pt
+
+assembleia.municipal@cm-seixal.pt
+
+dh@cm-seixal.pt
+
+juventude@cm-seixal.pt
+
+drh@cm-seixal.pt
+
+nelson.ramos@jf-amora.pt
+
+joaquimtavares@cm-seixal.pt&nbsp;
+
+mariajoaomacau@cm-seixal.pt&nbsp;
+
+brunosantos@cm-seixal.pt&nbsp;
+
+lilianacunha@cm-seixal.pt&nbsp;
+
+henrique.vicoso.freire@cm-seixal.pt&nbsp;
+
+eduardo.rodrigues@cm-seixal.pt&nbsp;
+
+miguelfeio@cm-seixal.pt&nbsp;
+
+elisabeteadriao@cm-seixal.pt&nbsp;
+
+brunovasconcelos@cm-seixal.pt&nbsp;
+
+nuno.moreira@cm-seixal.pt
+
+ [1]: https://www.instagram.com/habita.colectivo/
+ [2]: https://www.instagram.com/p/Cyfys4dLe7n/
+ [3]: https://www.instagram.com/stopdespejos/
+ [4]: https://docs.google.com/document/d/1a_9EH4WL__WlpuFzxKdrUoWHtJmP1W6hbrgg1-1t6Mk/edit

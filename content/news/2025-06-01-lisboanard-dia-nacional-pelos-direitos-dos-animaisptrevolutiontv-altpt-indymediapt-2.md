@@ -1,0 +1,47 @@
+---
+title: |
+  [Lisboa]NARD Dia Nacional.pelos Direitos dos Animais
+  #PTrevolutionTV #AltPT #indymediaPT
+author: Publicação Comunitária
+type: post
+date: 2025-06-01T12:32:57+00:00
+url: /?p=225519
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+tags:
+  - AltPT
+  - PTrevolutionTV
+
+---
+[Lisboa]NARD Dia Nacional.pelos Direitos dos Animais #PTrevolutionTV #AltPT #indymediaPT
+
+
+
+  
+
+
+ <https://youtube.com/watch?v=Cx-B6RYDjNI> 
+
+<!-- /wp:post-content --></div> 
+
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+
+Instâncias [Invidious][1] alternativas:  
+<https://redirect.invidious.io/watch?v=Cx-B6RYDjNI>
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+**[@PTrevolutionTV][2]**
+
+<!-- /wp:paragraph -->
+
+ [1]: https://invidious.io/
+ [2]: https://www.youtube.com/@ptrevolutiontv

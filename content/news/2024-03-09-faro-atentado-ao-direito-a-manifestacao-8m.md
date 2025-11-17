@@ -1,0 +1,60 @@
+---
+title: '[Faro] Atentado ao direito à manifestação 8 de Março'
+author: Publicação Comunitária
+type: post
+date: 2024-03-09T02:09:46+00:00
+url: /?p=221264
+activitypub_status:
+  - federated
+enclosure:
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2024/03/WhatsApp-Video-2024-03-08-at-22.33.42-1038880.mp4
+        47631330
+        video/mp4
+        
+mf2_syndication:
+  - 'a:1:{i:0;s:61:"https://climatejustice.social/@indymediapt/112063307333226012";}'
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+  - Queer Feminismo
+
+---
+[Comunicado][1] | [Rede 8 Março Algarve][2]
+
+**Dia 8 de Março, em Faro, a polícia tentou impedir uma companheira de participar na marcha pelos direitos das mulheres por se encontrar com o seu bebé.**<figure class="wp-block-video aligncenter"><video controls src="http://localhost:8000/wp-content/uploads/2024/03/WhatsApp-Video-2024-03-08-at-22.33.42-1038880.mp4"></video></figure> 
+
+Pelas 18h, enquanto as companheiras se juntavam próximo do Tribunal de Faro, dois agentes de polícia (Marco de Sá e João Silva) dirigiram-se ao grupo de manifestantes para confirmar o trajeto da marcha.
+
+Ao verem chegar uma companheira com o seu bebé no carrinho, bem protegido por uma capa de chuva própria para dias chuvosos, o agente Marco de Sá dirigiu-se a ela e perguntou se ela ia &#8220;participar na marcha com o bebé&#8221;. 
+
+A companheira respondeu-lhe que sim e o agente disse-lhe de imediato que iria por em risco a criança.
+
+Quando questionado por várias companheiras do porquê, disse, num tom intimidatório, que se ela avançasse para a marcha com a criança, ele teria de a identificar: &#8220;ou se identifica ou é privada da liberdade&#8221;. Questionado por todas pelo motivo da identificação, prosseguiu pondo em causa a capacidade desta mãe de cuidar da sua criança.
+
+Alegou primeiro que estava a chover. Foi-lhe respondido que a criança estava bem protegida da chuva pelo carrinho e por mantas, e que qualquer mãe tem, obviamente, o direito de andar na rua com o seu bebé, faça chuva ou sol.
+
+Passou então para o argumento que, por ser uma manifestação, poderia haver situações de risco, como uma contra-manifestação, dando o exemplo de apoiantes do Ch#ga.
+
+Quando questionados se a sua função não era também a de garantir a segurança de quem marchava connosco, respondem que não podem garantir, insistindo que a mãe está a pôr em risco a criança.
+
+Mesmo perante os argumentos das companheiras, de que enquanto mulheres, estamos todos os dias em situações de insegurança, quer na via pública, quer dentro das nossas casas, que a nossa companheira marchava por ela e pela sua criança, insistiram no seu “zelo”, dizendo que a companheira teria de se &#8220;demarcar da manifestação ou ser identificada”, chegando mesmo a dizer que iriam reportar a situação à CPCJ.
+
+Perante os protestos de todas as companheiras, disseram-nos então que “a manifestação só avança quando nós (PSP) dermos ordem para isso”, obrigando-nos a todas a esperar que falassem com os seus superiores (aqui a chuva já não importava, nem o bebé, com certeza).
+
+Temos de ficar em casa. vestir-nos e comportarmo-nos de maneiras impostas ou então “merecemos o mal que nos pode acontecer?? Tornem as ruas seguras para todes! As ruas não são seguras para as mulheres QUALQUER DIA DO ANO e se for uma mulher com carrinho de bebé ou com cadeira de rodas. onde está a sua segurança garantida. se. para além dos riscos que corre só por ser mulher, ainda tem de andar no meio da estrada por não haver passeios acessíveis?
+
+ESTA MÃE FOI INTIMIDADA. Questionaram a sua capacidade de cuidar da sua criança. Quiseram impedi-la de exercer o seu direito a manifestar-se.
+
+NÃO PODEMOS FICAR CALADAS. 
+
+PRECISAMOS DE TODAS PARA PROTEGÊ-LA. 
+
+CALADAS NOS QUEREM? REBELDES NOS TERÃO!
+
+<https://proxigram.lunar.icu/p/C4RhmiyouTu>
+
+ [1]: https://proxigram.lunar.icu/p/C4RhmiyouTu
+ [2]: https://instagram.com/rede8demarcoalgarve

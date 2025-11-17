@@ -1,0 +1,91 @@
+---
+title: Nota de Repúdio e Solidariedade com a 1ª Marcha do Orgulho LGBTQIA+ de Castelo Branco
+author: Publicação Comunitária
+type: post
+date: 2024-08-27T15:57:01+00:00
+excerpt: 'É com indignação e repúdio que vemos organizações extremistas como a Habeas Corpus legitimarem a violência e o ódio. A mais recente tentativa de intimidação da Marcha do Orgulho LGBTQIA+ de Castelo Branco por parte deste grupo extremista só merece a nossa repulsa e solidariedade na mobilização para a primeira marcha LGBTQIA + neste concelho! […]'
+url: /?p=223881
+syndication_source:
+  - Rede de Contra Informação
+syndication_source_uri:
+  - https://rcinfo.noblogs.org
+syndication_source_id:
+  - https://rcinfo.noblogs.org/feed
+syndication_feed:
+  - https://rcinfo.noblogs.org/feed
+syndication_feed_id:
+  - 14
+syndication_permalink:
+  - https://rcinfo.noblogs.org/nota-de-repudio-e-solidariedade-com-a-1a-marcha-do-orgulho-lgbtqia-de-castelo-branco/
+syndication_item_hash:
+  - 938e0eee039af7119626abc85e3b1e2f
+  - 6e1b0c9d10c4f7e2bcce3d91bc540467
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+tags:
+  - Protesto
+
+---
+É com indignação e repúdio que vemos organizações extremistas como a Habeas Corpus legitimarem a violência e o ódio. A mais recente tentativa de intimidação da Marcha do Orgulho LGBTQIA+ de Castelo Branco por parte deste grupo extremista só merece a nossa repulsa e solidariedade na mobilização para a primeira marcha LGBTQIA + neste concelho!<figure class="wp-block-post-featured-image">
+
+<img alt='456144106_17976738104737317_7365333648660691831_n-6383989' fetchpriority="high" decoding="async" width='640' height='640' src='https://cmi.indymedia.pt/wp-content/uploads/2024/08/456144106_17976738104737317_7365333648660691831_n-6383989.jpg' class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" style="object-fit:cover;" srcset='https://cmi.indymedia.pt/wp-content/uploads/2024/08/456144106_17976738104737317_7365333648660691831_n-6383989.jpg 640w, https://cmi.indymedia.pt/wp-content/uploads/2024/08/456144106_17976738104737317_7365333648660691831_n-6383989-300x300.jpg 300w, https://cmi.indymedia.pt/wp-content/uploads/2024/08/456144106_17976738104737317_7365333648660691831_n-6383989-150x150.jpg 150w' sizes='(max-width: 640px) 100vw, 640px' /> </figure> 
+
+Publicação Original: <https://instagram.com/p/C-3fqxNoFCa/>
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+No mês de junho vimos Mariana Jones, autora do livro “O Pedro gosta do Afonso”, a ser alvo de ameaças homofóbicas, vendo a apresentação de um outro livro a ser-lhe impedida pelo grupo de extrema-direita Habeas Corpus, no Porto. No início do mês também a autora Ana Rita Almeida viu a apresentação do seu livro “Mamã, quero ser um menino!” ser interrompida pelo fundador da organização, Rui Fonseca e Castro, em Idanha a Nova. Nenhum destes episódios são casos isolados. Desde junho do ano passado que temos vindo a assistir a diversos episódios de violência e ameaças homofóbicas por parte de grupos com uma agenda anti-direitos LGBTQIA +, resultado da legitimação do discurso de ódio.&nbsp;
+
+Existe uma ordem internacional de ódio conservador, que tem raízes na extrema-direita, que incentivam a discriminação e a violência, não sendo exceção em Portugal, em total&nbsp; repulsa à Constituição da República Portuguesa e da legislação em vigor. A discriminação e a violência não são apenas realidades simbólicas, elas têm raízes materiais que operam nas mais diversas formas da vida em coletivo, sendo uma delas o acesso ao espaço público.
+
+As marchas LGBTQIA+ têm tido um papel fundamental na articulação com agendas políticas, conjugando a luta pela liberdade e a luta contra as várias formas de opressão e discriminação. Elas têm aumentado em número significativo em todo o país, e este ano acontece pela 1ª vez a Marcha do Orgulho de Castelo Branco a 14 de setembro. Este será um momento de afirmação política no espaço público com o compromisso de transformar e ocupar as ruas de Castelo Branco com as cores da igualdade, liberdade e do orgulho.&nbsp;
+
+Desta forma, repudiamos a organização Habeas Corpus pela divulgação nas suas redes sociais que pretendem intimidar a 1ª Marcha do Orgulho de Castelo Branco. Enquanto organizações de Marchas do Orgulho por todo país, compostas por coletivos, associações e ativistas LGBTQIA+, exigimos que o Governo tome iniciativa e atue garantindo o desmantelamento necessário destes grupos de extrema-direita, pois não pode existir espaço para que grupos extremistas condicionem a ação de coletivos que defendem os direitos LGBTQIA+.&nbsp;
+
+Apelamos ainda para que a 14 de setembro, marchemos juntas, juntos e juntes em Castelo Branco contra a homofobia, a transfobia e o ódio!
+
+Subscreve:
+
+AMPLOS
+
+Associação Queer Tropical
+
+Braga Fora do Armário
+
+Coletivo Joe &#8211; Marcha do Orgulho LGBTQIA+ Albicastrense
+
+Covilhã a Marchar
+
+Coletivo Venham Mais Cinco (Guarda)
+
+Espaço Escuta Ativa &#8211; saúde mental anti-autoritária
+
+Humanamente &#8211; Movimento Pela Defesa dos Direitos Humanos&nbsp;
+
+Marcha do Orgulho do Porto&nbsp;
+
+Núcleo Antifascista de Bragança&nbsp;
+
+Marcha LGBTQIAP+ de Vila Nova de Famalicão
+
+Marcha LGBTQIAP+ de Santo Tirso
+
+Marcha LGBTQIAP+ de Vizela
+
+Marcha LGBTQIAP+ de Póvoa de Varzim
+
+LGBT+ Vila Real&nbsp;
+
+Plataforma Já Marchavas (Viseu)
+
+SintraFriendly &#8211; Colectivo Juvenil LGBTIQA+ de Sintra e Apoiantes
+
+Comissão Organizadora da Marcha do Orgulho LGBT+ de Barcelos
+
+Núcleo Antifascista de Barcelos
+
+Marcha do Orgulho LGBTQIA+ de Esposende&nbsp;

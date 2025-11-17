@@ -1,0 +1,108 @@
+---
+title: COMUNICADO DA UNIÃO DOS BLOCOS DE CARNAVAL DE RUA DE LISBOA
+author: Publicação Comunitária
+type: post
+date: 2024-02-09T21:07:55+00:00
+url: /?p=218428
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111903567295502956
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Cultura e Arte
+  - Indymedia
+  - Repressão
+tags:
+  - AltPT
+  - Indymedia
+  - LIBERDADEPARAOCARNAVALDERUADELISBOA
+  - Lisboa
+
+---
+CARNAVAL 2024
+
+A União de Blocos de Carnaval de Rua de Lisboa tem estado empenhada na definição de uma política pública para o Carnaval de Lisboa, assente no interesse público e coletivo que a data tem para a comunidade brasileira. Através de uma petição pública com quase 2 mil assinaturas discutida na Assembleia Municipal e da apresentação de um projeto unificado e organizado para o Carnaval, defendemos junto das autoridades administrativas a gratuitidade do acesso à rua para as celebrações carnavalescas que são promovidas por coletivos sem fins lucrativos.
+
+Porém, mesmo com a abertura de canais de diálogo com as autoridades competentes, apoio institucional da Embaixada do Brasil, manifestações públicas com a participação de centenas de pessoas, e a total disponibilidade dos blocos para buscar soluções, as exigências só aumentaram e os custos para os blocos de carnaval em 2024 ultrapassam 20.000 euros. Em função disso, 7 cortejos e concentrações programados para este ano já foram cancelados. Provavelmente nos próximos dias outros serão.
+
+Os carnavais brasileiros em Lisboa têm conhecido um aumento exponencial de adesão popular, e essa tendência vai permanecer. Trata-se de um movimento de caráter comunitário e associativo, realizado pela principal comunidade imigrante de Portugal, que representa cerca de 10% da população da cidade e constitui uma parcela significativa da população economicamente ativa. O objetivo da União dos Blocos é justamente garantir que esta celebração cultural possa acontecer da melhor maneira possível, com segurança, conforto e previsibilidade, trazendo assim inúmeros benefícios não só para a comunidade brasileira, mas para toda a cidade de Lisboa. O carnaval de Lisboa tem potencial para contribuir (e muito!) para movimentar atividades económicas, como o turismo e o comércio local, numa época em que tradicionalmente a cidade não oferece muitas atrações culturais.&nbsp;
+
+No entanto, diante de tamanha burocracia, restrições, obrigações e falta de apoio, com o carnaval de rua a ser submetido às mesmas exigências de grandes eventos empresariais como o Rock in Rio, infelizmente as alternativas apresentadas até o momento pela Câmara Municipal de Lisboa são insuficientes e não representam uma solução definitiva para o carnaval, nem sustentáveis a longo prazo. O apoio conferido pela CML continua a circunscrever-se à isenção de taxas camarárias e disponibilização de serviços de limpeza, cabendo aos blocos o pagamento do corte de estrada, policiamento, casas de banho públicas, seguros e ainda sofrerem com a disponibilização dos custos finais das licenças poucos dias antes do carnaval &#8211; o que inviabiliza qualquer busca de apoio financeiro externo.
+
+Independentemente dos nossos esforços, a falta de apoio do executivo camarário ao Carnaval 2024 fatalmente conduzirá à inviabilização e ao enfraquecimento das ações de rua e dos foliões. Perdem os Blocos, perde a cidade de Lisboa. Seguimos na luta em defesa da Liberdade do Carnaval de Rua de Lisboa e todo o apoio popular é imprescindível para conseguirmos avançar.
+
+O CARNAVAL NÃO PEDE LICENÇA. O CARNAVAL PEDE PASSAGEM!
+
+#LIBERDADEPARAOCARNAVALDERUADELISBOA
+
+SUBSCRITORES :
+
+BAQUE DO TEJO  
+BAQUE MULHER LISBOA  
+BLOCO OXALÁ  
+BLOCU  
+BUÉ TOLO  
+CUIQUEIROS DE LISBOA  
+LISBLOCO  
+PALHINHA MALUCA  
+PANDEIRO LX  
+QUI NEM JILÓ  
+SARDINHAS NÓMADES  
+VIEMOS DO EGYTO<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-253 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img data-id="218439" alt='425249209_895070888985474_1008904081863214281_n-6232454-1024x1024-5358094-7788605' alt='425249209_895070888985474_1008904081863214281_n-6232454-1024x1024-5358094' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/425249209_895070888985474_1008904081863214281_n-6232454-1024x1024-5358094-7788605.jpg' class="wp-image-218439" /> </figure> <figure class="wp-block-image size-large"><img data-id="218436" alt='424464742_705382955108838_8400339277299209956_n-9243061-1024x1024-7392452-2651120' alt='424464742_705382955108838_8400339277299209956_n-9243061-1024x1024-7392452' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/424464742_705382955108838_8400339277299209956_n-9243061-1024x1024-7392452-2651120.jpg' class="wp-image-218436" /></figure> <figure class="wp-block-image size-large"><img data-id="218437" alt='424644793_825908999248713_6155330301549142469_n-7442076-1024x1024-7718404-9366580' alt='424644793_825908999248713_6155330301549142469_n-7442076-1024x1024-7718404' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/424644793_825908999248713_6155330301549142469_n-7442076-1024x1024-7718404-9366580.jpg' class="wp-image-218437" /></figure> <figure class="wp-block-image size-large"><img data-id="218438" alt='424791541_1424109341441628_296956353198844261_n-7050806-1024x1024-8604263-6084793' alt='424791541_1424109341441628_296956353198844261_n-7050806-1024x1024-8604263' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/424791541_1424109341441628_296956353198844261_n-7050806-1024x1024-8604263-6084793.jpg' class="wp-image-218438" /></figure> <figure class="wp-block-image size-large"><img data-id="218435" alt='424931125_1534789863750210_3780628482991819482_n-3365911-1024x1024-5019842-5396780' alt='424931125_1534789863750210_3780628482991819482_n-3365911-1024x1024-5019842' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/424931125_1534789863750210_3780628482991819482_n-3365911-1024x1024-5019842-5396780.jpg' class="wp-image-218435" /></figure> <figure class="wp-block-image size-large"><img data-id="218434" alt='424730510_1766275703819771_1783097352432151151_n-6405410-1024x1024-5941075-1542379' alt='424730510_1766275703819771_1783097352432151151_n-6405410-1024x1024-5941075' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/424730510_1766275703819771_1783097352432151151_n-6405410-1024x1024-5941075-1542379.jpg' class="wp-image-218434" /></figure> </figure> 
+
+📣 Junte-se a nós na manifestação pelo direito à cultura independente em Lisboa!
+
+Na próxima segunda estaremos unidos com outras coletividades contra os despejos de associações culturais causados pela especulação imobiliária. Também nos unimos em defesa do direito de desfrutar do Carnaval de rua!  
+🎉
+
+🗓️ 12/02  
+⏰ 16h  
+📍 Campo de Santa Clara (feira da Ladra)
+
+Mais informações em breve!
+
+__
+
+📣 Join us at the demonstration for the right to independent culture in Lisbon!
+
+Next monday we will be united with other collectives against the evictions of cultural associations caused by real estate speculation. We also unite in defense of the right to enjoy the street Carnival! 🎉
+
+🗓️ 12/02  
+⏰ 4 PM  
+📍 Campo de Santa Clara (feira da Ladra)
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    Quem conhece o BLOCU sabe que o nosso grito de ManiFestAção ecoa junto da folia e o ativismo de rua na reivindicação pelos corpos livres e a cultura independente, hoje e sempre! Nós, apoiando a União de Blocos de Carnaval de Rua de Lisboa, estivemos empenhados na defesa da gratuitidade do nosso acesso à rua. Porém, mesmo com a abertura de diálogo com as autoridades, apoio institucional da Embaixada do Brasil, manifestações públicas com de centenas de pessoas, petição com quase 2 mil assinaturas discutida na Assembleia Municipal e da apresentação de um projeto unificado e organizado, as exigências só aumentaram e os custos para os blocos de carnaval em 2024 ultrapassam 20.000 euros. Os órgãos públicos além de não facilitarem ainda supertaxaram e atrasaram o processo, colocando todos os blocos em risco de não saírem às ruas. Mas nós seguimos nessa reivindicação em defesa da Liberdade do Carnaval de Rua de Lisboa e todo o apoio popular é imprescindível para conseguirmos avançar na intersecção das causas que defendem o direito à cultura na cidade.
+  </p>
+  
+  <p>
+    Este ano, mais do que nunca vamos para a rua reafirmando todo nosso carater político com um cortejo-manifestação que conta com a parceria da&nbsp;<a href="https://www.instagram.com/arrozestudios/">@arrozestudios</a>,&nbsp;<a href="https://www.instagram.com/casa_t_lisboa/">@casa_t_lisboa</a>&nbsp;,&nbsp;<a href="https://www.instagram.com/uniaodocarnavalderualisboa__/">@uniaodocarnavalderualisboa__</a>&nbsp;, Sambacção&nbsp;<a href="https://www.instagram.com/ritmosderesistencia_lx/">@ritmosderesistencia_lx</a>&nbsp;,&nbsp;<a href="https://www.instagram.com/viemosdoegyto/">@viemosdoegyto</a>&nbsp;. Nosso grito em uníssono vem em reivindicação pelo DIREITO À CULTURA INDEPENDENTE EM LISBOA. Como sabem, estamos sob um governo de políticas públicas conservadoras, as especulações barganhando nos espaços culturais e a crescente direita que ameaça nossos direitos básicos.<br />Diante disso, nossa resposta será nas ruas! Bóra!?
+  </p>
+  
+  <p>
+    O CARNAVAL NÃO PEDE LICENÇA. O CARNAVAL PEDE PASSAGEM!<br /><a href="https://www.instagram.com/explore/tags/liberdadeparaocarnavalderuadelisboa/">#liberdadeparaocarnavalderuadelisboa</a>
+  </p>
+  
+  <cite><a href="https://www.instagram.com/blocublocu/">https://www.instagram.com/blocublocu/</a></cite>
+</blockquote>
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    Se ainda resta alguma duvida: SIM, O BLOCU SAI EM CORTEJO novamente este ano. O carnaval se faz Manifestação. Festa também é reivindicação! Na segunda feira de carnaval (12/02) a partir das 16h na Feira da Ladra (Campo de Santa Clara) a concentração e, por volta de 19h sai pelas ruas de Lisboa em direção ao Beato.<br />Nosso cortejo que é sempre politico e manifestativo dessa vez, por questões burocráticas e pela alta taxação da câmara, se une a manifestação pelo direito a Cultura Independente de Lisboa e aos coletivos Arroz Estudios, Casa T, União dos Blocos de Caraval de Rua de Lisboa, Sambacção, Viemos do Egyto.
+  </p>
+  
+  <cite><a href="https://www.instagram.com/blocublocu">https://www.instagram.com/blocublocu</a></cite>
+</blockquote><figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-254 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img data-id="218440" alt='421747940_1139317224094047_637713915398692457_n-8638269-1024x1024-4013500-7901563' alt='421747940_1139317224094047_637713915398692457_n-8638269-1024x1024-4013500' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/421747940_1139317224094047_637713915398692457_n-8638269-1024x1024-4013500-7901563.jpg' class="wp-image-218440" /> </figure> <figure class="wp-block-image size-large"><img data-id="218441" alt='426428083_18022307095963624_2084145390919408370_n-1-2760288-819x1024-6468696-6686801' alt='426428083_18022307095963624_2084145390919408370_n-1-2760288-819x1024-6468696' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/426428083_18022307095963624_2084145390919408370_n-1-2760288-819x1024-6468696-6686801.jpg' class="wp-image-218441" /></figure> <figure class="wp-block-image size-large"><img data-id="218442" alt='426428083_18022307095963624_2084145390919408370_n-6234736-819x1024-7137202-9230597' alt='426428083_18022307095963624_2084145390919408370_n-6234736-819x1024-7137202' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/426428083_18022307095963624_2084145390919408370_n-6234736-819x1024-7137202-9230597.jpg' class="wp-image-218442" /></figure> <figure class="wp-block-image size-large"><img data-id="218443" alt='426627947_18022307074963624_53769207971692192_n-8950361-819x1024-5246070-3999430' alt='426627947_18022307074963624_53769207971692192_n-8950361-819x1024-5246070' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/426627947_18022307074963624_53769207971692192_n-8950361-819x1024-5246070-3999430.jpg' class="wp-image-218443" /></figure> <figure class="wp-block-image size-large"><img data-id="218444" alt='426422654_18022306747963624_8424140646037146983_n-1297796-819x1024-1657440-1722493' alt='426422654_18022306747963624_8424140646037146983_n-1297796-819x1024-1657440' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/426422654_18022306747963624_8424140646037146983_n-1297796-819x1024-1657440-1722493.jpg' class="wp-image-218444" /></figure> </figure> 
+
+O CARNAVAL NÃO PEDE LICENÇA. O CARNAVAL PEDE PASSAGEM!
+
+#LIBERDADEPARAOCARNAVALDERUADELISBOA

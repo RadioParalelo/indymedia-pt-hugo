@@ -1,0 +1,160 @@
+---
+title: Myanmar – Trabalhadores de saúde debatem-se para dar resposta às necessidades, sob fortes restrições
+author: Publicação Comunitária
+type: post
+date: 2024-01-29T00:59:51+00:00
+excerpt: A escala da violência em Myanmar nos meses mais recentes não tem precedentes e está a afetar profundamente as pessoas que vivem nas áreas onde há combates e onde os serviços médico-humanitários que salvam vidas não estão a funcionar
+url: /?p=216583
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+<div class="elementor-element elementor-element-14933270 elementor-widget elementor-widget-theme-post-content" data-id="14933270" data-element\_type="widget" data-widget\_type="theme-post-content.default"> 
+
+<div class="elementor-widget-container">
+  <p>
+    Uma nova vaga de combates tem assolado Myanmar ao longo dos últimos dois meses. A Médicos Sem Fronteiras (MSF) está a prestar assistência médica-humanitária nos estados de Shan, Kachin e Rakhine, tendo as equipas observado <strong>instalações de saúde danificadas ou abandonadas e que centenas de milhares de pessoas foram recentemente deslocadas na tentativa de fugir em busca de segurança</strong>.
+  </p>
+  
+  <p>
+    O conflito reacendeu-se no estado de Rakhine a 13 de novembro passado, pondo fim a um cessar-fogo informal que durara um ano. Desde então, fortes restrições à movimentação estão a impedir as equipas da MSF de operar qualquer das 25 clínicas móveis com as quais eram providenciadas cerca de 1 500 consultas por semana.
+  </p>
+  
+  <p>
+    Ao longo das quase dez últimas semanas, e apesar dos esforços feitos pela MSF para encontrar soluções para estes bloqueios – prestando, por exemplo, teleconsultas dos médicos aos pacientes –, <strong>os trabalhadores de saúde comunitária da organização humanitária são das poucas pessoas que continuam a ter acesso direto aos pacientes</strong>.
+  </p>
+  
+  <p>
+    Trabalhadores de saúde comunitária providenciam cuidados vitais
+  </p>
+  
+  <p>
+    A clínica Ann Thar, situada em Min Bya, no estado de Rakhine, presta apoio a mais de 4 000 pessoas deslocadas internamente e pertencentes a ambas as comunidades rakhine e rohingya. As equipas da MSF não conseguem ter esta clínica a funcionar desde 13 de novembro do ano passado. E, a 17 de novembro, o Hospital Geral de Min Bya, estrutura que a MSF usa para encaminhamento de urgência de pacientes, foi atacado.
+  </p>
+  
+  <p>
+    “Chamo-me Aung Aung*. Trabalho em saúde comunitária na clínica Ann Thar.  <strong>A diferença aqui, antes e depois do conflito atual, é muito clara: antes eu podia fazer o meu trabalho regularmente e em paz, mas depois dos combates de agora não posso.</strong> Em vez disso, preocupo-me constantemente que algo possa acontecer, sentindo insegurança nas ruas, e, por isso, faço desvios através dos campos. É que já não há segurança.”
+  </p>
+  
+  <p>
+    “Sou trabalhador de saúde comunitária, pelo que as minhas capacidades médicas são limitadas. Em situações como esta, aquilo que posso fazer é telefonar aos médicos e cuidar dos pacientes de acordo com as instruções que me dão. Mas às vezes as ligações dos telemóveis não funcionam e tenho muita dificuldade em conseguir falar com eles”, descreve Aung Aung.
+  </p>
+  
+  <p>
+    Na clínica de Ann Thar há também pacientes com doenças não transmissíveis como a diabetes e hipertensão. “Mas agora não temos medicamentos para lhes dar”, frisa. “Não sei como é que a nossa equipa vai resolver isto. Atualmente, temos medicamentos para cuidados pré-natais e para pacientes com epilepsia”, prossegue.
+  </p>
+  
+  <p>
+    O aumento nos preços da gasolina constitui um dos maiores desafios na região. Se uma pessoa quiser deslocar-se da aldeia de Aung Aung até à vila para ir à clínica, tal custar-lhe-á 60 000 quiates (cerca de 26 euros) para a ida e volta. “O aumento deu-se desde que os combates eclodiram. Antes era só 2 000 ou 2 500 quiates. <strong>Da nossa aldeia à vila são oito quilómetros, mas os custos da deslocação são agora mais caros do que as despesas em cuidados médicos</strong>”, conta.
+  </p>
+  
+  <p>
+    “Estou preocupado e ansioso pelos nossos pacientes aqui na aldeia”, expressa ainda Aung Aung. “No futuro, pacientes com urgências e as pessoas que precisam de medicamentos todos os meses enfrentarão muitas dificuldades. Enquanto as estradas estiverem bloqueadas e os combates continuarem, as clínicas e as farmácias na vila de Min Bya vão permanecer fechadas.”
+  </p>
+  
+  <p>
+    Ataques violentos e deslocações populacionais maciças
+  </p>
+  
+  <p>
+    Min Thu*, de 33 anos, é também trabalhador de saúde comunitária. Faz parte das equipas da MSF no campo para pessoas deslocadas em Kyein Ni Pyin, na área de Pauktaw, também no estado de Rakhine. Este campo abriga mais de 7 500 pessoas, na maioria rohingya que foram deslocadas desde 2012.
+  </p>
+  
+  <p>
+    Pauktaw é uma das cidades que mais impactos sofreu em Rakhine, com intensos ataques e deslocações em larga escala. O hospital de Pauktaw teve de encerrar e as deslocações de pessoas para fora e para dentro desta área, incluindo os campos, são praticamente impossíveis.
+  </p>
+  
+  <p>
+    A MSF e outras organizações estão a enfrentar graves obstáculos para conseguirem providenciar qualquer tipo de assistência, e o transporte de pacientes em risco de vida e que requerem cuidados de emergência é um desafio cada vez maior.
+  </p>
+  
+  <p>
+    “Sou trabalhador comunitário de saúde da MSF e faço sessões de educação para a saúde para as pessoas no campo [de Kyein Ni Pyin]. Ajudo em quase tudo, incluindo ser tradutor para os pacientes nos dias de clínica aberta. E, quando há pacientes em situação de urgência, encaminho-os também para a clínica”, explica Min Thu.
+  </p>
+  
+  <p>
+    “Por causa do conflito atual, enfrentamos desafios nos transportes e na alimentação. <strong>Não recebemos as rações com regularidade e os preços estão altos.</strong> Antes dos combates podíamos deslocar-nos se informássemos as autoridades, mas agora isso é absolutamente proibido.”
+  </p>
+  
+  <p>
+    Min Thu conta também que já não é possível abrir as clínicas como anteriormente e que “isso está a afetar os pacientes de muitas formas”. “Nos pacientes de emergência tentamos contactar os médicos da MSF por telefone para lhes pedir aconselhamento e tentamos seguir as orientações que nos dão. Mas é uma situação muito difícil quando não estão a observar presencialmente os pacientes – têm de receitar o tratamento ou recomendar o que fazer de acordo com o que ouvem dos pacientes. E nós seguimos essas instruções por telefone e ajudamos a tratá-los.”
+  </p>
+  
+  <p>
+    “Tememos o futuro. <strong>Se não conseguirmos abrir as nossas clínicas devido às restrições às deslocações e ao conflito, os nossos pacientes vão ter graves impactos</strong>”, alerta ainda.
+  </p>
+  
+  <p>
+    A ameaça constante do conflito
+  </p>
+  
+  <p>
+    Em Rathedaung há muitos campos para pessoas deslocadas internamente situados muito perto da cidade, onde vivem maioritariamente pessoas da etnia rakhine que estão deslocadas desde 2019 devido a conflitos anteriores. Quando os combates eclodiram recentemente na área, as pessoas abrigadas nestes campos fugiram para zonas mais rurais em busca de segurança, incluindo trabalhadores da MSF de saúde comunitária.
+  </p>
+  
+  <p>
+    “Atualmente, há combates próximos dos nossos campos. As pessoas dos campos que ficam na zona da cidade tiveram de ir para outros lugares. Havia disparos intensos perto dos nossos campos, por isso toda a gente teve de fugir e procurar abrigo, incluindo eu mesmo”, descreve Yan Naing*, outro trabalhador de saúde comunitária que faz parte das equipas da MSF em Rakhine.
+  </p>
+  
+  <p>
+    “É um desafio e um inconveniente para nós instalarmo-nos em lugares diferentes porque estamos constantemente a ir de um lado para outro, e a escassez de artigos básicos também tem um impacto negativo. [Quando estamos deslocados] não há eletricidade, por isso temos de poupar as baterias dos nossos telefones”, explica.
+  </p>
+  
+  <p>
+    Yan Naing não acredita ser possível para já regressar à zona da cidade de Rathedaung “devido aos combates intensos”. “<strong>As pessoas têm medo de se deslocar porque ouvimos rumores de outras áreas sobre civis a serem detidos ou usados como escudos-humanos.</strong>”
+  </p>
+  
+  <p>
+    Nos campos de deslocados internos nesta área há pacientes com doenças não transmissíveis, que são alguns dos regularmente atendidos na clínica da MSF em Rathedaung desde há muito tempo. “Como há bloqueios nos transportes, pacientes que precisam de ir à clínica podem não conseguir chegar lá. E a escassez nas provisões de comida também está a ter impactos para as pessoas. <strong>A minha única preocupação neste momento é sobre saúde e sobre alimentação para as pessoas</strong>”, sublinha Yan Naing.
+  </p>
+  
+  <p>
+    Violência sem precedentes em Myanmar
+  </p>
+  
+  <p>
+    A escala da violência em Myanmar nos meses mais recentes não tem precedentes. E está a afetar profundamente as pessoas que vivem nas áreas onde há combates ou os combates estão próximos, e onde serviços que salvam vidas não estão a funcionar ou operam com limitações e aos quais é muito perigoso chegar.
+  </p>
+  
+  <p>
+    No estado de Rakhine, as comunidades estão já fortemente dependentes de assistência humanitária e vivem com a imposição de restrições que lhes limita a liberdade de movimento. A assistência que foi permitido providenciar nesta região antes do conflito era já uma tábua de salvação, especialmente para comunidades em muitas das áreas rurais, onde clínicas móveis da MSF prestavam serviços, e as quais não têm outras opções acessíveis de cuidados médicos.
+  </p>
+  
+  <p>
+    <strong>O acesso das organizações humanitárias no estado de Rakhine foi sempre controlado de forma meticulosa, mas a continuação dos atuais bloqueios terá um impacto catastrófico na saúde das pessoas.</strong>
+  </p>
+  
+  <p>
+    Os trabalhadores comunitários de saúde da MSF estão a testemunhar que pacientes se encontram sem os medicamentos regulares de que precisam, que têm dificuldades em falar com os profissionais médicos e também que há pacientes impedidos de aceder a cuidados de saúde especializados.
+  </p>
+  
+  <p>
+    Segundo os dados mais recentes da Coordenação e Gestão Global dos Campos, houve mais de 120 000 pessoas novas deslocadas em Rakhine desde 13 de novembro – e este número não dá sinais de desaceleração.
+  </p>
+  
+  <p>
+    <strong>Hospitais em Rakhine foram atingidos durante combates intensos ou abandonados pelos trabalhadores que se viram forçados a fugir.</strong> Dois hospitais na zona central de Rakhine, onde equipas da MSF normalmente prestam atendimento de urgências a pacientes, deixaram de funcionar, e um outro, o Hospitaal Geral de Min Bya, sofreu danos a 17 de novembro.
+  </p>
+  
+  <p>
+    Na zona Norte do estado de Rakhine, foi possível fazer alguns encaminhamentos de urgência através do apoio dado pelos trabalhadores de saúde comunitária da MSF. Há instalações de saúde a funcionar, mas algumas operam apenas com uma equipa mínima e limitadas provisões médicas, ou estão a direcionar os recursos de que dispõem para áreas mais remotas de forma a prestar apoio a pessoas deslocadas que procuram segurança.
+  </p>
+  
+  <p>
+    <strong>Com as vias de acesso bloqueadas e sem autorizações para providenciar assistência, a MSF não tem condições para operar as 25 clínicas móveis na região.</strong> As restrições impostas estão a afetar também o trabalho de outras organizações humanitárias, muitas das quais reportam que não conseguem realizar atividades regulares.
+  </p>
+  
+  <p>
+    Todas as partes envolvidas no conflito têm de assegurar que as instalações de saúde e os trabalhadores humanitários podem continuar a operar, e têm de garantir o acesso seguro das pessoas em Rakhine a cuidados de saúde.
+  </p>
+  
+  <p>
+    <em>* nomes alterados para proteção de identidade</em>
+  </p>
+  
+  <p>
+    [retirado de <a href="https://msf.org.pt/artigos/trabalhadores-de-saude-debatem-se-para-dar-resposta-as-necessidades-sob-fortes-restricoes-em-rakhine">https://msf.org.pt/artigos/trabalhadores-de-saude-debatem-se-para-dar-resposta-as-necessidades-sob-fortes-restricoes-em-rakhine</a>]
+  </p>
+</div></div>

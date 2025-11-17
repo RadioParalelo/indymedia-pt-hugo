@@ -1,0 +1,80 @@
+---
+title: Angariação de fundos para salvar a Quinta dos Ingleses – Nós Acreditamos!
+author: Publicação Comunitária
+type: post
+date: 2023-10-30T16:55:24+00:00
+url: /?p=74618
+admin_form_source:
+  - form65033c1176054
+Ligação:
+  - https://youtu.be/58pvUpDHRzk?si=6fXqajPepWQC_0a6
+classic-editor-remember:
+  - block-editor
+embed_privacy_thumbnail_youtube_58pvUpDHRzk:
+  - youtube-58pvUpDHRzk-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_58pvUpDHRzk_url:
+  - https://youtu.be/58pvUpDHRzk
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Poder e Autodeterminação
+
+---
+NÓS ACREDITAMOS!
+
+Acreditamos que a Quinta dos Ingleses pode ser valorizada e transformada num maravilhoso parque urbano. Acreditamos que o direito à vida e à qualidade de vida se sobrepõem aos meros valores económicos. Basta de betão na nossa freguesia, queremos manter o verde.
+
+É por isso que precisamos da vossa ajuda e temos uma angariação de fundos a decorrer [AQUI][1]
+
+<https://www.gofundme.com/f/nos-acreditamos>
+
+Agradecemos a todos os que nos têm ajudado e vamos continuar!<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> 
+
+_Nota: no acto da transferência, cabe ao doador decidir o valor da comissão que doa à plataforma._
+
+Somos a Maria, o José, a Ana, o Tiago, o Pedro, o Manuel, a Sofia, a Rita, entre tantos outros voluntários e apoiantes. O movimento cívico em torno da defesa do bosque da Quinta dos Ingleses tem várias décadas, mas foi em 2021 que criámos legalmente o SOS Quinta dos Ingleses.
+
+**O que se passa?**
+
+A 18 de julho passado, a Câmara de Cascais deu luz verde a que se iniciem as obras do megaprojeto PPERUCS, pelos seus promotores Alves Ribeiro e Colégio St. Julian´s. São 850 apartamentos em prédios de 7 a 9 andares, 120 unidades de alojamento, zonas comerciais e hotéis, que reduzirão os 50 hectares de verde a um pequeno jardim público rodeado de prédios. Esta deliberação ignorou os incontáveis protestos contra a urbanização da quinta, incluindo uma petição em 2018 com 9 mil assinaturas e uma resolução em 2021 da Assembleia da República em favor da sua conservação.
+
+**Do choque à convicção**
+
+No início foi um choque. Invadiu-nos um sentimento de impotência e a sensação de que já nada havia a fazer. Anos a fio, e a par dos afazeres profissionais, pessoais e familiares, temos dedicado horas incontáveis à Quinta. De repente, parecia que a causa se desmoronava.
+
+Porém, decidimos não baixar os braços. E porquê? Porque queremos ter a certeza de que eticamente faremos tudo o que nos for possível para salvar a Quinta. Queremos ter essa certeza, quando nos olharmos no espelho de manhã, quando olharmos olhos nos olhos para os nossos filhos, pais e amigos.
+
+**A causa**
+
+Acreditamos que a Quinta dos Ingleses pode ser valorizada e transformada num maravilhoso parque urbano. Acreditamos que o direito à vida e à qualidade de vida se sobrepõem aos meros valores económicos. Basta de betão na nossa freguesia, queremos manter o verde.
+
+É um facto que vivemos em plena emergência climática. Sentimos essa realidade na pele, e vemo-la nas barragens, campos e serras. É também um facto que o concelho Cascais é considerado zona de risco sísmico e de tsunami.
+
+Permitir que as obras avancem é permitir um ecocídio, é colocar a saúde e segurança da população de Carcavelos em maior risco nos próximos anos. É consentir que se continue a abater e a destruir aquilo que nos proporciona sombra e ameniza as ondas de calor, que absorve e retém as águas da chuva, prevenindo as cheias e o deslizamento de terras e a erosão da costa: AS ÁRVORES.
+
+**Sabias que?**
+
+» As florestas e vegetação densa são exponencialmente mais eficientes na redução da temperatura dos centros urbanos do que as árvores em vias públicas.
+
+» As árvores são a melhor tecnologia filtradora de carbono, essenciais para se reduzir e controlar a poluição atmosférica.
+
+» As escavações e impermeabilização do solo em construção urbana próxima do mar tornam a zona costeira mais permeável à erosão e deslizamentos de terra.
+
+» As construções em altura afetam os ventos off-shore e as ondas de surf.
+
+» O contacto imersivo com a natureza reduz os níveis de stress (cortisol) e contribui para o nosso equilíbrio e o bem-estar.
+
+**Todos podem ajudar**
+
+Temos programado um conjunto articulado de iniciativas e eventos, de entre os quais algumas ações judiciais e outros no âmbito da sensibilização. Estamos a fazer o nosso melhor, e precisamos de fundos financeiros à altura para travar a destruição do último grande pulmão a sul do concelho.
+
+Cada gesto conta. Ficamos muito gratos pelo vosso contributo.
+
+Muito obrigado!
+
+Saiba mais aqui: <a href="https://www.sosquintadosingleses.com" target="_blank" rel="noreferrer noopener"></a><a href="https://www.sosquintadosingleses.com" target="_blank" rel="noreferrer noopener">https://www.sosquintadosingleses.com</a> Siga-nos nas redes.
+
+ [1]: https://www.gofundme.com/f/nos-acreditamos

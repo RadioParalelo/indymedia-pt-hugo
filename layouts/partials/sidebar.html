@@ -1,0 +1,61 @@
+<font face="Helvetica, Arial" color="white" size="-1">
+    <a href="{{ .Site.BaseURL }}">
+        <img src="{{ "images/imc.png" | relURL }}" alt="{{ .Site.Title }}" border="0">
+    </a>
+
+    <hr noshade size="1">
+
+    <!-- MAIN NAVIGATION -->
+    <div class="nav-section">
+        <a href="{{ .Site.Params.publishURL | default "/publish" }}">publish</a><br>
+        publica instantâneamente as tuas notícias, audios, fotos ou vídeos no teu navegador
+        <p>
+
+        <a href="{{ .Site.Params.newswireURL | default "/news" }}">newswire</a><br>
+        cobertura ao minuto de protestos e eventos 
+        <p>
+
+        {{ if .Site.Params.backgroundURL }}
+        <a href="{{ .Site.Params.backgroundURL }}">background</a><br>
+        in-depth analysis on capitalism and global economics
+        <p>
+        {{ end }}
+
+        {{ range .Site.Menus.sidebar }}
+        <a href="{{ .URL }}">{{ .Name }}</a><br>
+        {{ end }}
+    </div>
+
+    <hr noshade size="1">
+
+    <!-- OTHER IMC SITES -->
+    {{ if .Site.Params.showIMCList }}
+    <div class="cities-list">
+        other imc's:<br>
+       
+        {{ if .Site.Params.imcRegions }}
+        {{ range .Site.Params.imcRegions }}
+        <b>{{ .name }}</b><br/>
+        {{ range .sites }}
+        <a href="{{ .url }}">{{ .name }}</a><br/>
+        {{ end }}
+        <br/>
+        {{ end }}
+        {{ end }}
+    </div>
+    {{ end }}
+
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+
+    <hr noshade size="1">
+
+    <!-- FOOTER INFO -->
+    {{ if .Site.Params.hostingInfo }}
+    <a href="{{ .Site.Params.hostingTechURL }}">{{ .Site.Params.hostingTech }}</a>
+    <br>hosting by <a href="{{ .Site.Params.hostingProviderURL }}">{{ .Site.Params.hostingProvider }}</a>
+    {{ end }}
+
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+</font>

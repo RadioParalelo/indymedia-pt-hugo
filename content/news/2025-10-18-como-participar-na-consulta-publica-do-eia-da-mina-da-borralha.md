@@ -1,0 +1,61 @@
+---
+title: Como participar na Consulta Pública do EIA da Mina da Borralha
+author: Publicação Comunitária
+type: post
+date: 2025-10-18T18:30:34+00:00
+url:
+  - https://www.instagram.com/minasnao/
+activitypub_status:
+  - federated
+fpsm_author_name:
+  - Minas Não
+categories:
+  - Ecologia e Animais
+tags:
+  - Borralha
+  - Minas Não
+
+---
+➡️ Foi aberta a Consulta Pública da Avaliação de Impacte Ambiental (AIA) sobre o Estudo de Impacte Ambiental (EIA) apresentado pela Minerália &#8211; Minas, Geotécnia e Construções Lda para a Mina da Borralha à APA – Agência Portuguesa do Ambiente.
+
+🚨 ATENÇÃO: esta consulta não é sobre a decisão de conceder ou não a exploração — esta concessão mineira de volfrâmio foi atribuída em 2021! O que está agora em causa é o Estudo de Impacte Ambiental, que a empresa apresentou e que a APA vai avaliar. É neste momento que podemos contestar e refutar as informações que lá constam.
+
+📃 Pedimos a todos que leiam com atenção o resumo não técnico do EIA e que baseiem as vossas participações em argumentos concretos que refutem o conteúdo do estudo. A força da consulta pública depende da qualidade e número das participações.
+
+👩‍🏫 Além disso, apelamos especialmente a quem tenha formação ou experiência técnica em áreas relevantes — como geologia, hidrogeologia, engenharia sanitária, recursos hídricos, medicina, saúde pública, agronomia, ecologia, biodiversidade, qualidade do ar ou direito ambiental — para contribuir com uma análise fundamentada do Estudo de Impacte Ambiental. A vossa colaboração técnica é essencial para desmontar os argumentos do promotor e reforçar a credibilidade da nossa contestação.
+
+💪 Esta é a oportunidade de mostrar que a comunidade está atenta e informada. Cada participação conta!Como escrever uma boa contestação ao EIA
+
+1. Leiam o Resumo Não Técnico (RNT)  
+Está disponível no portal da APA (https://siaia.apambiente.pt/AIA.aspx?ID=3738 ). É o documento mais acessível e onde estão descritas as intenções da empresa.
+
+2. Identifiquem erros, omissões ou inconsistências  
+Procurem pontos em que o estudo minimiza impactos, ignora riscos ou falta com dados — por exemplo:
+
+distância real às habitações, às linhas de água e ás pastagens;  
+Impactes reais nas linhas de água e a importância que esta representa em toda a região;  
+ausência de dados sobre metais pesados nas escombreiras;  
+impactos sobre agricultura, água, fauna, ar e ruído;  
+ausência de consulta à população ou às entidades locais.
+
+3. Utilizem linguagem clara e fundamentada  
+Não é preciso ser técnico — basta ser objetivo. Usem frases como:
+
+“O estudo não considera…”  
+“A informação apresentada é insuficiente em relação a…”  
+“Há contradição entre os dados do EIA e as observações no terreno…”
+
+4. Referenciem fontes quando possível
+
+Se tiverem documentos, relatórios (ex: LNEG: https://www.lneg.pt/wp-content/uploads/2020/03/9-Avila-et-al\_Metais-pesados-solos-Borralha\_v2\_rede\_SM.pdf, Universidade do Porto: https://repositorio-aberto.up.pt/handle/10216/59270 ) ou testemunhos locais que vejam nas redes sociais ou no terreno, mencionem-nos. Isso dá força ao argumento.  
+Façam uma conclusão firme  
+Terminem sempre pedindo que a APA rejeite o EIA apresentado e que não aprove a exploração mineira nas condições atuais, pela incompatibilidade com a proteção ambiental e a saúde pública.  
+Enviem dentro do prazo (7 de outubro a 17 de novembro de 2025)  
+As participações serão submetidas através do Portal https://participa.pt/pt/consulta/mina-da-borralha ou por email indicado no site da APA.
+
+Vamos fazer ouvir a nossa voz!  
+A Borralha, o Barroso e as nossas aldeias merecem ser defendidas.
+
+Informem-se, participem e partilhem — juntos somos mais fortes!  
+_  
+Na imagem: a Aldeia de Paredes, vista do local da exploração. Esta aldeia, com exploração agrícola, tem terrenos Baldios e particulares dentro da área do projecto mineiro.

@@ -1,0 +1,51 @@
+---
+title: Queremos uma vida justa!
+author: Publicação Comunitária
+type: post
+date: 2023-10-13T12:00:00+00:00
+url: /?p=32793
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodon-toot:
+  - |
+    Queremos uma vida justa!
+    
+    Em Lisboa, do Rossio até à Assembleia da República, em São Bento, no sábado, 21 de Outubro de 2023, pelas 15h00.
+    
+    
+    
+    Somos a maioria. Temos dificuldade em ter casa, vivemos em habitações sem condições, hoje o aluguer de um quarto custa o que se pagava por uma casa há dez anos; trabalhamos com salários que nunca aumentam e não chegam para os 30 dias do mês; os nossos bairros têm falta de t
+    
+    https://cmi.indymedia.pt/?p=32793
+    
+    #PublicaoAberta #Protesto #VidaJusta
+autopostToMastodon-toot-thumbnail:
+  - /usr/share/nginx/indymedia//wp-content/uploads/2023/10/vj_21out_ig-1-768x767.jpg
+categories:
+  - Discriminação
+  - Habitação
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+tags:
+  - Protesto
+  - VidaJusta
+
+---
+[Em Lisboa, do Rossio até à Assembleia da República, em São Bento, no sábado, 21 de Outubro de 2023, pelas 15h00.][1]
+
+Somos a maioria. Temos dificuldade em ter casa, vivemos em habitações sem condições, hoje o aluguer de um quarto custa o que se pagava por uma casa há dez anos; trabalhamos com salários que nunca aumentam e não chegam para os 30 dias do mês; os nossos bairros têm falta de transportes públicos, os grandes investimentos são feitos para linhas circulares para turistas, é suposto nós não termos direito à cidade, fora da hora de trabalho; os preços dos bens essenciais estão cada vez mais caros, há muito que não tínhamos dinheiro para férias, hoje não temos dinheiro para o leite; os governos não nos respeitam, a polícia trata-nos como se não fossemos pessoas: cercam os nossos bairros e agridem os jovens.
+
+Os nossos problemas parecem invisíveis. Apesar de criarmos riqueza e trabalharmos todos os dias, haja pandemia ou não, a verdade é que aquilo que se vê nas televisões, aquilo que se preocupam os governos é com os banqueiros e «contas certas». São sempre contas para quem é rico nunca pensam em quem trabalha.
+
+Vamos para a rua, no dia 21 de Outubro, para que percebam uma coisa: somos a maioria. E é tempo dos muitos fazerem ouvir a sua voz. A injustiça persiste também por causa do nosso silêncio. Vamos tomar a palavra e exigir que se façam políticas justas que promovam a igualdade: todos e todas temos direito a ter uma vida justa, merecemo-la todos os dias em que trabalhamos, e os jovens merecem ter um futuro melhor.
+
+Basta de aumento de preços, queremos casa para viver, transportes para todos, aumento dos salários, contra a repressão policial nos bairros.
+
+Manifestação, dia 21 de Outubro, 15 horas, do Rossio ao Parlamento.
+
+Estamos juntos, estamos fortes.
+
+ [1]: https://vidajusta.org/manifestacao-vida-justa-21out23/

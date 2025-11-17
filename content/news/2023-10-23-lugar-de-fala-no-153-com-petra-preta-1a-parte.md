@@ -1,0 +1,34 @@
+---
+title: Lugar de Fala nº 153 com Petra Preta (1ª Parte)
+author: Publicação Comunitária
+type: post
+date: 2023-10-23T11:45:33+00:00
+url: /?p=47594
+enclosure:
+  - |
+    |
+        https://anchor.fm/s/53fb5678/podcast/play/77596655/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-23%2F6629cacf-8390-9c3e-732b-b2ddf4800b1d.mp3
+        118
+        audio/mpeg
+        
+categories:
+  - Indymedia
+
+---
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <figure class="wp-block-audio"><audio controls src="https://anchor.fm/s/53fb5678/podcast/play/77596655/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-23%2F6629cacf-8390-9c3e-732b-b2ddf4800b1d.mp3"></audio></figure> 
+  
+  <p>
+    rtista transdisciplinar, Sara Fonseca da Graça, aka Petra.Preta, nasceu em Almada em 1992. É licenciada em Teatro-Actores pela Escola Superior de Teatro e Cinema, e co-fundadora do colectivo Medalha d’Ouro. Iniciou o percurso a solo em Cabo Verde, onde tem raízes familiares, e, do seu lugar de fala, questiona-se “sobre problemáticas identitárias e de sistemas sociais”, bem como “as relações de poder que operam na sociedade como repercussões de um passado colonial”.
+  </p>
+  
+  <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:15% auto">
+    <figure class="wp-block-media-text__media"><a href="/"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/13989806-1634130061216-ee3d161e67ed-4370536-scaled.jpg" alt="" /></a></figure>
+    
+    <div class="wp-block-media-text__content">
+      <p>
+        <a href="https://linktr.ee/oladonegrodaforca" data-type="link" data-id="https://linktr.ee/oladonegrodaforca">@oladonegrodaforca</a> &#8211; Um espaço onde a força negra é motor de mudança.
+      </p>
+    </div>
+  </div>
+</div>

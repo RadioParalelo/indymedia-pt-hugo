@@ -1,0 +1,29 @@
+---
+title: Lugar de Fala nº 154 com Hélder Lopes
+author: Publicação Comunitária
+type: post
+date: 2023-10-19T12:59:15+00:00
+url: /?p=33085
+classic-editor-remember:
+  - block-editor
+categories:
+  - Indymedia
+
+---
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <figure class="wp-block-video"><video controls src="https://vid.puffyan.us/latest_version?id=uBi2aTH28xs;itag=18"></video></figure> <figure class="wp-block-audio"><audio controls src="https://vid.puffyan.us/latest_version?id=uBi2aTH28xs&itag=140"></audio></figure> 
+  
+  <p>
+    Nascido no Barreiro com raízes em Cabo Verde, Hélder Lopes decidiu agir quando se deparou com a ausência da língua e cultura cabo-verdianas ao longo da sua formação. Empenhado em transportar para as instituições de saber as aprendizagens construídas no seio familiar, o investigador e tradutor está a debruçar-se sobre tradução, teatro e o fenómeno da crioulização, no âmbito do seu doutoramento.
+  </p>
+  
+  <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:15% auto">
+    <figure class="wp-block-media-text__media"><a href="https://www.youtube.com/@OLadoNegrodaForca"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/16_mqdefault.jpg" alt="" /></a></figure>
+    
+    <div class="wp-block-media-text__content">
+      <p>
+        <a href="https://linktr.ee/oladonegrodaforca" data-type="link" data-id="https://linktr.ee/oladonegrodaforca">@oladonegrodaforca</a> &#8211; Um espaço onde a força negra é motor de mudança.
+      </p>
+    </div>
+  </div>
+</div>

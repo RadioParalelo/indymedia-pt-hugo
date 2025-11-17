@@ -1,0 +1,40 @@
+---
+title: '[Coimbra] Manifesto Anti-Latada Feminista'
+author: Publicação Comunitária
+type: post
+date: 2023-10-03T12:06:35+00:00
+url: /?p=30708
+classic-editor-remember:
+  - block-editor
+categories:
+  - Cultura e Arte
+  - Indymedia
+  - Movimentos Sociais
+  - Queer Feminismo
+tags:
+  - Anti-Latada
+  - Anti-Praxe
+  - Estudantes
+  - Latada
+
+---
+**Decorre hoje 3/10, em Coimbra, a Anti-Latada Feminista, na praça em frente à** [**República Marias do Loureiro**][1]. Parte do programa alternativo à praxe, **[Cria&#8217;ctividade][2]** que termina com este evento.
+
+A Anti-Latada Feminista é um evento desenvolvido por um grupo informal de pessoas, que se organiza de forma autónoma e livre. Vemos na praxe uma prática contra os direitos humanos mais elementares, nomeadamente a liberdade, a igualdade, a integridade física e psicológica. Lutamos para que as relações entre as pessoas se estabeleçam com base no respeito recíproco. Assim, consideramos a praxe um instrumento de alienação, que elimina a voz ativa e reivindicativa e o pensamento crítico imprescindível à autonomia e liberdade individuais.
+
+Um dos argumentos para se fazer parte da praxe é que nela são eliminadas as diferenças entre estudantes, mas a verdade é que alimenta a distinção através do poder e elitismo, entre quem usa traje e quem “não pode usar&#8221;, marcando, desta forma, as escalas e relações sociais hierárquicas contra as quais nos colocamos. A tentativa de que todes sejam “iguais&#8221; através do traje e da praxe leva, na realidade, à uniformização e à redução e descaracterização da individualidade de cada estudante, com a intenção de criar, assim, corpos uniformizados e regulamentados receptivos à humilhação, submissão e opressão.
+
+As insígnias da praxe, impostas durante a Latada e que servem para aplicar sanções, demonstram, tal como a generalidade das regras e pressupostos da praxe, a hierarquização, sendo esta a premissa que se encontra em sua base, na qual estão imprimidos os valores de superioridade, autoridade e poder. No final da hierarquia encontra-se e “caloire”, também chamade de bicho ou besta, por oposição ao ser humano (&#8220;doutor&#8221;). E caloire é assim considerade um ser sem direitos, com o dever da obediência e respeito aos seus superiores.
+
+A ideia de que es noves estudantes têm de ultrapassar a praxe, como um desafio, para serem aceites por seus &#8220;superiores&#8221;, afirma que rebaixar, humilhar, e discriminar com base em preconceitos é aceitável. A praxe é, desta forma, uma prática que promove formas de opressão, tais como o sexismo, a homo-lesbo-transfobia, o racismo: &#8220;A praxe é hierárquica, é machista, é sexista. São características intrínsecas à praxe da UC e quando isso deixar de existir, deixa de ser a praxe da UC.&#8221; (João Luís Jesus, Dux Veteranorum da Universidade de Coimbra, in Jornal a Cabra, 17 de Abril de 2012)
+
+Defendemos uma universidade sem preconceitos e hierarquias &#8211; sem praxe!
+
+Pela não mercantilização do ensino, pelo livre acesso ao conhecimento e por uma educação livre, defendemos uma universidade que promova a co-educação e políticas universitárias construídas horizontalmente com a participação igualitária de todes es intervenientes. Exigimos um ensino que compreenda o conhecimento enquanto desenvolvimento pessoal e intelectual e que promova a autonomia individual, a liberdade e o pensamento crítico.
+
+Reivindicamos uma universidade que se insurja no combate à práticas que promovam qualquer forma de opressão. A praxe é dominante nos vários espaços da Academia, contudo sempre existiram e existem cada vez mais espaços livres de hierarquias, opressão e humilhação.
+
+A Anti-Latada Feminista é uma festa que apela à solidariedade, apoio mútuo e companheirismo. É um espaço de convívio sem praxe, onde podemos ser livres e onde comprovamos que podemos nos integrar e socializar sem a necessidade de dinâmicas de submissão e opressão.
+
+ [1]: https://www.instagram.com/mariasdoloureiro/?img_index=3
+ [2]: https://www.instagram.com/cria.ctividade/

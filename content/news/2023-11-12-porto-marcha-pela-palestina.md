@@ -1,0 +1,22 @@
+---
+title: '[Porto] Marcha pela Palestina'
+author: Publicação Comunitária
+type: post
+date: 2023-11-12T16:04:10+00:00
+url: /?p=198843
+categories:
+  - Guerra e Paz
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+tags:
+  - AltPT
+  - Livestream
+  - PTrevolutionTV
+
+---
+<figure class="wp-block-video"><video controls src="https://invidious.fdn.fr/latest\_version?id=i9-dgX\_1_-k&itag=18"></video></figure> <figure class="wp-block-audio"><audio controls src="https://invidious.fdn.fr/latest\_version?id=i9-dgX\_1_-k&itag=140"></audio></figure> #altpt #indymediapt #ptrevolutiontv This stream is created with #PRISMLiveStudio <figure class="wp-block-image size-large"><img decoding="async" src="https://invidious.fdn.fr/vi/i9-dgX_1_-k/mqdefault.jpg" alt="" /></figure> 
+
+[https://invidious.fdn.fr/watch?v=i9-dgX\_1\_-k][1]
+
+ [1]: https://invidious.fdn.fr/watch?v=i9-dgX_1_-k

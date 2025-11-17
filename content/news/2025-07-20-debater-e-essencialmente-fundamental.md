@@ -1,0 +1,38 @@
+---
+title: Debater é essencialmente fundamental
+author: Publicação Comunitária
+type: post
+date: 2025-07-20T18:07:55+00:00
+url: /?p=225660
+activitypub_status:
+  - federated
+post_list_status:
+  - off
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+  - Repressão
+tags:
+  - AltPT
+
+---
+Sabendo-se do debate interno da actual equipa do Indymedia sobre o âmbito de publicação no Indymedia, e sobre a publicação livre no geral&#8230;
+
+&#8230;responde-se ao apelo feito o ano passado aquando da [entrevista][1] ao jornal mapa
+
+&#8220;Contactem-nos para continuar o debate…&#8221;,
+
+introduzindo-se aqui uma pequena contribuição, roubando a [intervenção][2] de um grande companheiro (e um grande bombeiro) aquando de um outro artigo em 2017:
+
+&#8220;_Só faltava o indymedia iniciar um processo de censura a publicações que não estão em contradição com nenhum dos princípios editoriais._
+
+_Se assim não fosse, não terias espaço para criticares, e muito bem, a notícia aqui publicada._
+
+_Tens ideias diferentes, usa o indymedia para as publicares sem achares que só deve ser publicado aquilo com que te identificas._&#8220;
+
+Debater: bom ou mau?
+
+ [1]: https://www.jornalmapa.pt/2024/03/06/a-internet-esta-capturada/
+ [2]: https://web.archive.org/web/20170731164656/http://pt.indymedia.org/conteudo/newswire/37634

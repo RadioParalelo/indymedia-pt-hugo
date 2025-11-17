@@ -1,0 +1,213 @@
+---
+title: Gaza sofre bombardeamentos extremamente intensos em áreas residenciais, onda massiva de despejos
+author: Publicação Comunitária
+type: post
+date: 2025-10-04T05:05:19+00:00
+url: /?p=227789
+activitypub_status:
+  - federated
+fpsm_author_name:
+  - Quds News Network
+enclosure:
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2025/10/WhatsApp-Video-2025-10-04-at-2.16.43-AM.mp4
+        4793700
+        video/mp4
+        
+categories:
+  - Guerra e Paz
+tags:
+  - Gaza
+
+---
+ 
+
+**Quds News Network &#8211; 3 Outubro:**
+
+**Bombardeamentos incessantes em áreas residenciais**
+
+Dezenas de palestinos estão evacuando suas casas e tendas de deslocamento para as ruas no meio da noite, enquanto o bombardeio israelense se intensifica.
+
+As forças de ocupação israelense detonam edifícios residenciais na cidade de Gaza.
+
+Centenas de palestinos, incluindo crianças, estão a ser forçados a evacuar para as ruas na meia-noite, enquanto os ataques aéreos israelenses intensivamente atingem vários bairros residenciais da cidade de Gaza.
+
+O porta-voz da Defesa Civil de Gaza: “Estamos sob bombardeio israelense extremamente pesado aqui na cidade de Gaza. ”
+
+Ao mesmo tempo que Hamas envia sua resposta positiva às negociações internacionais sobre Gaza , as forças de ocupação israelenses intensificam os seus ataques através da Faixa de Gaza.<figure class="wp-block-video"><video controls src="http://localhost:8000/wp-content/uploads/2025/10/WhatsApp-Video-2025-10-04-at-2.16.43-AM.mp4"></video></figure> 
+
+Os ataques aéreos israelenses na cidade de Gaza intensificam-se, mergulhando meio milhão de moradores em uma crise humanitária extrema.
+
+A Câmara Municipal de Gaza adverte sobre a escassez severa de alimentos, água potável e cuidados médicos, exortando as organizações internacionais e humanitárias a agir imediatamente para fornecer ajuda salva-vidas e proteger civis presos sob bombardeio implacável.  
+  
+https://t.me/QudsNen  
+<https://qudsnen.co/>
+
+*
+
+### **“Places of Death”: UN Says Israel’s Notion of a Safe Zone in Southern Gaza ‘Farcical’** {.wp-block-heading.post-title.entry-title}
+
+<span class="meta-item last-updated">October 4, 2025</span> &#8211; Geneva (QNN)  
+  
+The United Nations has reiterated there are no safe areas for Palestinians forcibly ordered by Israel to leave Gaza City, and Israel-designated so-called “humanitarian zones” in the south of the enclave are “places of death”. “The notion of a safe zone in the south is farcical,” UNICEF spokesman James Elder told reporters in Geneva. Addressing the catastrophe in the Gaza Strip, he noted, “Bombs are dropped from the sky with chilling predictability; schools, which had been designated as temporary shelters, are regularly reduced to rubble. Tents … are regularly engulfed in fire from air attacks.”
+
+**What’s Happening in Gaza City?** 
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    According to local sources on the ground, Gaza City is being systematically emptied, building by building, family by family.
+  </p>
+</blockquote>
+
+Hundreds of Palestinians are being forcibly displaced each day by Israel’s ongoing, indiscriminate bombing of Gaza City, which is killing dozens of civilians daily. Families are fleeing south, following Israeli threats to head to the so-called ‘safe zone’ of al-Mawasi, an area that is overcrowded and has been repeatedly targeted by Israeli forces. According to local sources on the ground, Gaza City is being systematically emptied, building by building, family by family. Sources added that Israeli forces have intensified their attacks on Gaza City, destroying dozens of residential buildings and shelters. Gaza’s Government Media Office said Israel has carried out “systematic bombing of towers, residential buildings, schools and civilian institutions with the aim of extermination and forced displacement” as its offensive on Gaza City continues. 
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    Civil Defense spokesperson Mahmoud Basal said, “What is falling on Gaza is not just missiles, but barrels of fire and destructive volcanic lava that burn the land and everything on it.”
+  </p>
+</blockquote>
+
+This comes amid Israeli plans to occupy Gaza City and ethnically cleansing the northern city of its residents by forcibly displacing them. Heavy bombardment pounded the city, and forces began advancing after weeks of deadly strikes. Prime Minister Benjamin Netanyahu confirmed the launch of “a powerful operation in Gaza” that began on Tuesday, dubbed Gideon’s Chariots 2. The deadly assault on Gaza City was met with celebration in Israel, as Defense Minister Israel Katz said that “Gaza [City] is burning.” The offensive began the same day that independent experts commissioned by the United Nations Human Rights Council confirmed that Israel is committing genocide in Gaza. Israel’s military said last week it is deepening its offensive in Gaza City. Israel threatened tens of thousands remaining in Gaza City with a forced order to leave, saying it was their “last opportunity” to flee or face the “full force” of Israel’s assault. Katz wrote on X on Wednesday that anyone who stayed would be considered “terrorists and terror supporters”.
+
+Philippe Lazzarini, head of the United Nations agency for Palestinian refugees (UNRWA), condemned Israel’s threat as an ominous signal that anyone who cannot or will not leave the area will be targeted by the Israeli military.
+
+##### “Labelling the nearly 250,000 people currently trapped in Gaza City and the north as ‘terrorists or terror supporters’ by the government of Israel is a statement suggesting planned large-scale massacres: killing more women, children, elderly and vulnerable people unable to move out,” Lazzarini said. {.wp-block-heading}
+
+Gaza’s Civil Defense said hundreds of families, forcibly displaced from northern Gaza after being threatened by the Israeli military to flee south, are now sleeping on the ground without any shelter, despite Israel’s claims of available shelters, aid, and designated safe zones.
+
+People do not even have plastic sheets to use as tents, the rescue organisation said, adding that families are financially incapable of buying any supplies that could provide them with some respite.
+
+“We emphasise that the Israeli occupation bears direct responsibility for the tragic conditions in which thousands of displaced people are at risk of death, in grave violation of international humanitarian law,” the group said, calling for international intervention.
+
+<p class="post-title entry-title">
+  <a href="https://qudsnen.co/places-of-death-un-says-israels-notion-of-a-safe-zone-in-southern-gaza-farcical/">https://qudsnen.co/places-of-death-un-says-israels-notion-of-a-safe-zone-in-southern-gaza-farcical/</a>
+</p>
+
+*<header class="wp-block-group article-header is-layout-flow wp-block-group-is-layout-flow"> 
+
+## Israel/ OPT: Catastrophic wave of mass displacement under inhumane conditions as Israel obliterates Gaza City {.article-title.wp-block-post-title}
+
+3 October 2025 &#8211; Amnesty International</header> <article class="wp-block-group article-content is-layout-flow wp-block-group-is-layout-flow"> 
+
+<div class="entry-content wp-block-post-content is-layout-flow wp-block-post-content-is-layout-flow">
+  <p>
+    The intensification of Israel’s brutal military offensive in Gaza City since mid-August has unleashed a new catastrophic phase of mass forced displacement, forcing hundreds of thousands of Palestinians – many of whom have already been uprooted multiple times -into overcrowded enclaves in the south of the occupied Gaza Strip&nbsp;that lack access to clean water, food, medical care, shelter and life-sustaining infrastructure, Amnesty International said today.
+  </p>
+  
+  <p>
+    Since it escalated its operations in Gaza City, the Israeli military has adopted a series of measures designed to sow panic among the city’s residents and to forcibly displace them, knowingly, into unsafe areas unequipped to receive them. These tactics include issuing unlawful and sweeping mass displacement orders, beginning a campaign to destroy multi-story residential buildings where hundreds of displaced families have been sheltering, deploying explosive remote-controlled vehicles to carry out controlled demolitions, as well as intensifying aerial bombardments on already overcrowded neighborhoods and refugee camps.
+  </p>
+  
+  <p>
+    “As Israel steps up its cataclysmic onslaught, it appears hell-bent on obliterating Gaza City, deliberately driving out its entire population, levelling large swathes of the city, and seizing full control. For nearly two years, Palestinians civilians throughout the Gaza Strip have been bombarded, starved, and subjected to wave after wave of mass forced displacement, as Israel continues&nbsp;its genocide in Gaza. Deliberately inflicting yet another devastating wave of mass displacement amidst this suffering is not just inhumane, it is a flagrant violation of international law,” said Erika Guevara Rosas,&nbsp;Senior Director of Research, Advocacy, Policy, and Campaigns&nbsp;at Amnesty International.
+  </p>
+  
+  <p>
+    [&#8230;] Hospitals and health facilities in Gaza City are collapsing and humanitarian organizations, including Médecins Sans Frontières and the International Committee of the Red Cross, have been forced to suspend their operations in the city as a result of the latest escalation.
+  </p>
+  
+  <p>
+    While there are no accurate figures for the number of people who have been forcibly displaced from Gaza City since mid-August, the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) reported that the site-management cluster has recorded over 400,000 movements from north to south Gaza, mainly to Deir al-Balah and Khan Younis. The waves of displacement have particularly escalated since 5 September, when the Israeli military announced and began a concerted operation targeting high-rise buildings, followed by a mass displacement order to the whole of Gaza City on 9 September.
+  </p>
+  
+  <p>
+    However, hundreds of thousands of civilians remain trapped under relentless bombardment in Gaza City and the north of the Gaza Strip. Many are unable to flee because they cannot afford transportation costs or because the small area designated by Israel for evacuation is overcrowded and not fit for human habitation. For people with disabilities, older people, and people who have long exhausted their support networks, there is effectively no choice but to remain where they are.
+  </p>
+  
+  <p>
+    <a href="https://www.amnesty.org/en/latest/news/2025/10/catastrophic-mass-displacement-as-israel-obliterates-gaza-city/">https://www.amnesty.org/en/latest/news/2025/10/catastrophic-mass-displacement-as-israel-obliterates-gaza-city/</a>
+  </p>
+</div></article> 
+
+&#8211;
+
+### **OCHA warns that the situation in northern Gaza continues to rapidly deteriorate. Military operations and heavy strikes, hitting residential areas and buildings, are driving up the death toll and continue to wreak havoc on the area.** {.wp-block-heading}
+
+Humanitarian partners report that hundreds of thousands of desperate civilians remain trapped in the north, as many have no means to relocate and are exhausted by continued displacement. Colleagues who visited Gaza city yesterday reported that many displaced families are now living in the parking lot of Al Shifa hospital, some for more than two weeks, without any means of support. Pregnant women and children are among the displaced sheltering in Al Shifa.
+
+<https://www.unocha.org/news/todays-top-news-occupied-palestinian-territory-19>
+
+*
+
+### Gaza: Geospatial data shows intensifying damage to cropland {.wp-block-heading.detail-title.mt-4.mb-3}
+
+<p class="mb-3 text-color-gray-medium">
+  <br />New FAO and UNOSAT assessment highlights the impact of conflict on Gaza’s agricultural infrastructure
+</p>
+
+**Rome** – The <a href="https://openknowledge.fao.org/items/6dff587c-451b-4afe-a56d-a707b27a1449" data-sf-ec-immutable="">latest assessment</a> using satellite data produced by the Food and Agriculture Organization of the United Nations (FAO) and the United Nations Satellite Centre (<a href="https://unosat.org/" data-sf-ec-immutable="">UNOSAT</a>) shows escalating damage to farmland and agricultural infrastructure in the Gaza Strip, further exacerbating the humanitarian and hunger crisis resulting from the ongoing conflict.
+
+As of 1 September 2024, 67.6 percent of Gaza’s cropland – or 10 183 hectares (ha) – has been damaged. This is up from 57.3 percent (8 660 ha) in May and 42.6 percent (6 694 ha) in February 2024. More specifically, 71.2 percent of orchards and other trees, 67.1 percent of field crops, and 58.5 percent of vegetables have been damaged.
+
+The satellite images indicate that heavy vehicle tracks, razing, shelling, and other conflict-related pressures have also significantly damaged Gaza’s agricultural infrastructure, with a total of 1 188 agricultural wells (52.5 percent) and 577.9 ha of greenhouses (44.3 percent) damaged.
+
+<ul class="wp-block-list">
+  <li>
+    Khan Younis has the largest area of damaged cropland (2 589 ha or 61.5 percent), while North Gaza has the highest proportion of damage per governorate (78.2 percent).
+  </li>
+  <li>
+    The Port of Gaza City has been severely damaged, with most fishing boats destroyed.
+  </li>
+  <li>
+    Rafah has seen a sharp increase (183 percent) in damaged greenhouses, rising from 44 ha in April to 124.7 ha in September 2024, accounting for 27.7 percent of its total greenhouses.
+  </li>
+  <li>
+    Almost 95 percent (about 15 000) of cattle have died, and nearly all calves have been slaughtered.
+  </li>
+  <li>
+    Around 43 percent of sheep (less than 25 000 heads) and 37 percent of goats (about 3 000 heads) remain alive.
+  </li>
+  <li>
+    Dramatic losses are reported in the poultry sector, with only 1 percent (ca. 34 000) of heads alive. Commercial poultry production has largely ceased, with most operations now limited to household-level production for self-consumption.
+  </li>
+</ul>
+
+<https://www.fao.org/newsroom/detail/gaza-geospatial-data-shows-intensifying-damage-to-cropland/en>
+
+### Hamas Responds to Trump’s Gaza Plan, Agrees to Prisoner Exchange, Rejects Occupation {.wp-block-heading.post-title.entry-title}
+
+<p class="post-title entry-title">
+  <span class="meta-item last-updated"> October 3, 2025</span><br />Gaza (QNN)- Hamas has issued a formal statement, responding to US President Donald Trump’s infamous Gaza plan.
+</p>
+
+The resistance group said it carefully studied Trump’s proposal. It consulted its leadership, Palestinian factions, and mediators. Hamas stressed its responsibility to protect Gaza residents and safeguard Palestinian rights.
+
+Hamas expressed appreciation for Arab, Islamic, and international efforts, including Trump’s call to halt the war, exchange prisoners, allow humanitarian aid, and prevent the occupation of Gaza or the forced displacement of Palestinians.
+
+*
+
+**Translated Copy of Hamas’&nbsp;Full Statement**  
+ <span class="meta-item last-updated">October 3, 2025</span>
+
+In the name of Allah, the Most Gracious, the Most Merciful
+
+Important Statement
+
+On Hamas’ Response to US President Trump’s Proposal
+
+To protect our steadfast people in Gaza from aggression and the ongoing campaign of extermination, and out of national responsibility and concern for our people’s principles, rights, and higher interests, the Islamic Resistance Movement “Hamas” conducted in-depth consultations within its leadership, with Palestinian factions, and with trusted mediators and friends, to reach a responsible position regarding US President Donald Trump’s proposal.
+
+After thorough study, the movement made its decision and delivered the following response to the mediators:
+
+Hamas appreciates the Arab, Islamic, and international efforts, as well as the efforts of US President Donald Trump, calling for an immediate halt to the war on Gaza, prisoner exchanges, the entry of humanitarian aid, rejection of occupation, and rejection of the displacement of our Palestinian people.
+
+In this framework, and to achieve a complete cessation of hostilities and full withdrawal from Gaza, Hamas agrees to release all prisoners held by Israel, including bodies, under the exchange formula proposed by President Trump. Hamas also confirms its readiness to enter immediate negotiations through mediators to discuss the details of the exchange.
+
+The movement also reaffirms its approval to transfer the administration of Gaza to a Palestinian technocratic authority, based on national consensus and Arab-Islamic support.
+
+Regarding other issues in Trump’s proposal related to Gaza’s future and the authentic rights of the Palestinian people, Hamas stated that these matters are linked to a comprehensive national position and relevant international laws and resolutions. Hamas will participate in a national Palestinian framework and contribute responsibly.
+
+The Islamic Resistance Movement – Hamas
+
+<span class="css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3">Friday, 11 Rabi’ al-Akhir 1447 AH<br />Corresponding to: October 3, 2025 AD<br /></span>
+
++
+
+**Hamas has submitted its response to US President Donald Trump’s Gaza plan to end the two-year genocide, agreeing to release all Israeli captives. World leaders have welcomed the response and are calling for an immediate end to the Israeli assault.**  
+<https://qudsnen.co/world-welcomes-hamas-response-to-trump-gaza-plan/>
+
+**Hamas Responds to Trump’s Gaza Plan, Agrees to Prisoner Exchange, Rejects Occupation**  
+<https://qudsnen.co/hamas-responds-to-trumps-gaza-plan-agrees-to-prisoner-exchange-rejects-occupation/>
+
+<span class="css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3">&nbsp;</span>

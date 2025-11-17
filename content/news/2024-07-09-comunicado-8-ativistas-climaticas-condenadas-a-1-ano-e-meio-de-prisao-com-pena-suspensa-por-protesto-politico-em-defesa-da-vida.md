@@ -1,0 +1,51 @@
+---
+title: 'COMUNICADO: 8 ATIVISTAS CLIMÁTICAS CONDENADAS A 1 ANO E MEIO DE PRISÃO COM PENA SUSPENSA POR PROTESTO POLÍTICO “EM DEFESA DA VIDA”'
+author: Publicação Comunitária
+type: post
+date: 2024-07-09T23:38:11+00:00
+url: /?p=223653
+activitypub_status:
+  - federated
+fpsm_author_email:
+  - adolfo@gmail.com
+fpsm_author_name:
+  - Climáximo
+links:
+  - https://www.climaximo.pt
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Ecologia e Animais
+  - Movimentos Sociais
+  - Repressão
+
+---
+<div class="moz-forward-container">
+  <p align="center">
+    <span style="font-family: Liberation Serif,serif"><b>COMUNICADO:</b><b> </b><b>8</b><b> ATIVISTAS CLIMÁTICAS CONDENADAS A </b><b>1 ANO E MEIO DE PRISÃO COM PENA SUSPENSA </b><b>P</b><b>OR PROTESTO POLÍTICO “EM DEFESA DA VIDA”</b></span>
+  </p>
+  
+  <p align="center">
+    <span style="font-family: Liberation Serif,serif"><br /> </span> <span style="font-family: Liberation Serif,serif"><i>“</i><i>É dever de todas as pessoas vivas neste momento resistirem contra a destruição que os governos e as empresas estão a provocar na sociedade e no planeta”, afirma Maria Mesquita</i></span>
+  </p>
+  
+  <p align="justify">
+    <span style="font-family: Liberation Serif,serif;font-size: medium">Decorreu hoje [8 de julho] de manhã a leitura da sentença dos “Onze de Abril”, as onze pessoas apoiantes do Climáximo que em Dezembro de 2023 bloquearam a Avenida Engenheiro Duarte Pacheco, em Lisboa, para alertar que “os governos e as empresas declararam guerra à sociedade e ao planeta”. </span><span style="font-family: Liberation Serif,serif;font-size: medium">O “histórico” julgamento dos “Onze de Abril”, que iniciou poucos dias antes da comemoração dos 50 anos da Revolução dos Cravos, foi marcado por ser, nas palavras da porta-voz Maria Mesquita, um “julgamento político” onde “a crise climática é deliberadamente excluída da sala de audiên</span><span style="font-family: Liberation Serif,serif;font-size: medium">ci</span><span style="font-family: Liberation Serif,serif;font-size: medium">as”. </span><span style="font-family: Liberation Serif,serif;font-size: medium">8 pessoas foram condenadas a 1 ano e meio de prisão com pena suspensa para o crime de atentado à segurança rodoviária. </span>
+  </p>
+  
+  <p align="justify">
+    <span style="font-family: Liberation Serif,serif;font-size: medium">Ao longo do processo houve demonstrações de solidariedade por parte do movimento por justiça climática e da sociedade civil, mas também de personalidades como Manuel Alegre que, numa carta datada de 1 de Junho, escreve “<span style="color: #000000">Tem-se muitas vezes a pouca sorte de ter razão antes de tempo. Acontece com grandes causas, com aquela que hoje abraçam os jovens preocupados com a inoperância dos Estados no combate às alterações climáticas. A sua desobediência é, em si mesma, legítima. E talvez eles mais não façam do que lançar as sementes de um futuro acordar para os perigos que ameaçam o planeta.”</span></span>
+  </p>
+  
+  <p align="justify">
+    <span style="font-family: Liberation Serif,serif">Maria Mesquita afirma que esta condenação é “um sinal” da repressão ao movimento por justiça climática que, a nível internacional, “se intensifica”. A estudante de 22 anos relembra o raid sofrido pelo grupo britânico Just Stop Oil ainda há poucos dias; bem como a Alemanha que “está na vanguarda da criminalização do ativismo na Europa, descredibilizando todo o aparelho jurídico e atacando a sociedade civil como um todo ao aplicar pela primeira vez o enquadramento legal de crime organizado violento ao ativismo climático que desde há vários anos mobiliza milhares de pessoas para alertar para o estado de emergência climática em que vivemos”</span>
+  </p>
+  
+  <p align="left">
+    <span style="font-family: Liberation Serif,serif">Maria garante que a repressão não irá intimidar nem parar as ativistas: “as empresas e os governos declararam guerra contra a Humanidade ao provocarem e continuarem a alimentar a crise climática. Sabemos que vão tentar esmagar toda a luta pela vida, mas não podem impedir os cravos nascerem. As pessoas vão parar a destruição. Outro mundo é possível”. </span>
+  </p>
+  
+  <p align="justify">
+    <span style="font-family: Liberation Serif,serif"><b>Assessoria de imprensa: </b>Matilde Alvim (915041438)</span>
+  </p>
+</div>

@@ -1,0 +1,39 @@
+---
+title: “Travar a crise climática não está na mesa de voto” – Apoiantes do Climáximo interrompem o debate com todos os partidos e pintaram as instalações
+author: Publicação Comunitária
+type: post
+date: 2024-02-23T21:42:18+00:00
+url: /?p=219654
+activitypub_status:
+  - federated
+enclosure:
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2024/02/VID_20240223_214415_248-3552271.mp4
+        7816027
+        video/mp4
+        
+mf2_syndication:
+  - 'a:1:{i:0;s:61:"https://climatejustice.social/@indymediapt/111982984329341625";}'
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Ecologia e Animais
+
+---
+<figure class="wp-block-image size-large"><img alt='img_20240223_214312_585-1655154-1024x768-7228435-2258049-1121704-9809280' alt='img_20240223_214312_585-1655154-1024x768-7228435-2258049-1121704' alt='img_20240223_214312_585-1655154-1024x768-7228435-2258049' alt='img_20240223_214312_585-1655154-1024x768-7228435' src='https://cmi.indymedia.pt/wp-content/uploads/2024/02/IMG_20240223_214312_585-1655154-1024x768-7228435-2258049-1121704-9809280.jpg' class="wp-image-219660" /></figure> 
+
+_Durante o último debate televisivo destas legislativas, na Nova SBE, apoiantes do Climáximo invadiram o palco onde se encontravam os representantes de todos os partidos com assento parlamentar com palavras de ordem: &#8220;Travar a crise climática não está na mesa de voto, está nas mãos das pessoas!&#8221; e ainda pintaram os vidros por detrás dos candidatos._
+
+_  
+  
+O pr_otesto do Climáximo &#8211; que na última semana já havia alterado os _outdoors_ de diversos partidos -, pretendeu, segundo o coletivo, interromper a normalidade dos debates eleitorais que ignoram a crise climática e cujos planos levam-nos rumo ao colapso climático: escassez de água para as pessoas, quebras na agricultura e produção de comida, mortes devido a ondas de calor insuportáveis, desalojamentos por causa de incêndios mortíferos.  
+Segundo António Assunção, porta-voz, &#8220;O próximo governo terá mandato até 2028. Portugal precisa de cortar, no mínimo, 75% das suas emissões até 2030. Nestas eleições, não só travar a crise climática não é o assunto principal, como nenhum partido &#8211; com ou sem assento parlamentar &#8211; apresenta um plano compatível com os limites da natureza.&nbsp;Não implementar estes cortes é garantir o colapso climático e civilizacional. É colocar o interesse das empresas e dos acionistas acima da vida e das necessidades das pessoas. A democracia não é uma cerimónia. Os termos em que estas eleições estão a ser disputadas são uma perversão da democracia.&#8221;<figure class="wp-block-video"><video controls src="http://localhost:8000/wp-content/uploads/2024/02/VID\_20240223\_214415_248-3552271.mp4"></video></figure> 
+
+António Assunção&nbsp;acrescenta ainda que &#8220;Não podemos consentir que eles continuem a levar-nos para o inferno climático. Todos os partidos reiteram premeditadamente a declaração de guerra contra as pessoas. A sociedade tem de resistir e lutar para travar a crise climática. Não podemos esperar que quem propõe ou consente com planos para destruir a vida &#8211; desde a falta de metas para cortar as emissões necessárias nos prazos necessários, a planos para as aumentar, como é o caso de novos gasodutos e novos aeroportos &#8211; nos salve. As soluções existem. É possível mudar o rumo e travar a crise climática. Precisamos de uma verdadeira alternativa a este sistema mortífero, e essa alternativa está nas ruas, não nas urnas&#8221;.
+
+O Climáximo apela a que, independentemente de em quem vão votar, todas as pessoas parem de consentir com a violência brutal atual e que se juntem à luta pela vida. O grupo convida todas as pessoas a consultarem o Plano de Desarmamento e o Plano de Paz, que une&nbsp;propostas formuladas e discutidas ao longo das últimas décadas por movimentos sociais, académicos, assembleias populares, sindicatos e técnicos, &#8211; um plano realista de acordo com os prazos climáticos para cortar emissões e para atingir justiça climática e social -, e a participar na sua próxima apresentação pública, dia 24 de Fevereiro, às 15h, no BOTA, em Lisboa.
+
+&#8212;&#8212;&#8212;&#8212;-  
+Para mais informações:  
+www.climaximo.pt

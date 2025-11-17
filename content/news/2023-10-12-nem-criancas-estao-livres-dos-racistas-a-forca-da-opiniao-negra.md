@@ -1,0 +1,31 @@
+---
+title: Nem crianças estão livres dos racistas – A Força da Opinião Negra
+author: Publicação Comunitária
+type: post
+date: 2023-10-12T19:35:33+00:00
+url: /?p=32772
+classic-editor-remember:
+  - block-editor
+categories:
+  - Discriminação
+  - Indymedia
+  - Poder e Autodeterminação
+
+---
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <figure class="wp-block-video"><video controls src="https://vid.puffyan.us/latest_version?id=mXjbGMklmk4;itag=18"></video></figure> <figure class="wp-block-audio"><audio controls src="https://vid.puffyan.us/latest_version?id=mXjbGMklmk4&itag=140"></audio></figure> 
+  
+  <p>
+    Zé Rui, Danilo, Petra Preta e a Laura comentam mais um caso de violência racista contra duas crianças negras.
+  </p>
+  
+  <div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:15% auto">
+    <figure class="wp-block-media-text__media"><a href="https://yewtu.be/watch?v=8xe_9fX9rn8"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/19_mqdefault.jpg" alt="" /></a></figure>
+    
+    <div class="wp-block-media-text__content">
+      <p>
+        <a href="https://linktr.ee/oladonegrodaforca" data-type="link" data-id="https://linktr.ee/oladonegrodaforca">@oladonegrodaforca</a> &#8211; Um espaço onde a força negra é motor de mudança.
+      </p>
+    </div>
+  </div>
+</div>

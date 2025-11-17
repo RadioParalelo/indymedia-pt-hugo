@@ -1,0 +1,53 @@
+---
+title: Se não puderes marcar presença acompanha os nossos lives.
+author: Publicação Comunitária
+type: post
+date: 2023-12-19T11:51:46+00:00
+url: /?p=214781
+autopostToMastodon-post-status:
+  - off
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/12/Post-para-instagram-atencao-simples-amarelo-6-4121308.mp4
+        1748573
+        video/mp4
+        
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111606937314699588
+categories:
+  - Guerra e Paz
+  - Habitação
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - FreePalestine
+  - Indymedia
+  - Lisboa
+  - Palestina
+  - PalestinaLivre
+  - Protesto
+
+---
+Depois de 2 dias sem lives é já hoje que voltamos à rua.
+
+Estes são os nossos planos para os próximos dias.<figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/12/Post-para-instagram-atencao-simples-amarelo-6-4121308.mp4"></video></figure> 
+
+**Pela Palestina, 15h, em frente à Assembleia da República**
+
+<https://eventos.coletivos.org/event/pela-palestina-15h-em-frente-a-assembleia-da-republica>
+
+**DESPEJADOS PARA NADA &#8211; uma visita guiada** (ainda a espera de confirmação)
+
+<https://eventos.coletivos.org/event/despejados-para-nada-uma-visita-guiada>
+
+**Vigília &#8211; No Natal estamos com a Palestina**
+
+<https://eventos.coletivos.org/event/vigilia-no-natal-estamos-com-a-palestina>
+
+A PTrevolutionTV é um projecto auto financiado, toda a ajuda é bem vinda.
+
+Se puderes ajudar com as despesas associadas ao nosso trabalho entra em contacto connosco via mensagem.
+
+Pela soberania da informação.

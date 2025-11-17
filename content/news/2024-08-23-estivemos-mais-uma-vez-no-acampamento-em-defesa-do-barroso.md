@@ -1,0 +1,61 @@
+---
+title: Estivemos mais uma vez no Acampamento em Defesa do Barroso.
+author: Publicação Comunitária
+type: post
+date: 2024-08-23T14:52:08+00:00
+url: /?p=223795
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+embed_privacy_thumbnail_youtube_VfjSiyeb6_A:
+  - youtube-VfjSiyeb6_A-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_VfjSiyeb6_A_url:
+  - 'https://www.youtube.com/watch?v=VfjSiyeb6_A&list=PLjNRWCGVvTV7_3bZgmkeTmSAFwroOXh0O'
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - Indymedia
+  - Lisboa
+  - minasnao
+  - PTrevolutionTV
+
+---
+<figure class="wp-block-image size-large"><img alt='335b74f1-2919-4d03-a920-fc2a9617ddaf-3096932-1024x768-9406430-8861866' alt='335b74f1-2919-4d03-a920-fc2a9617ddaf-3096932-1024x768-9406430' src='https://cmi.indymedia.pt/wp-content/uploads/2024/08/335b74f1-2919-4d03-a920-fc2a9617ddaf-3096932-1024x768-9406430-8861866.jpg' alt="335b74f1-2919-4d03-a920-fc2a9617ddaf" class="wp-image-223796" /></figure> 
+
+E vão quatro anos.
+
+Mais uma vez marcamos presença no Acampamento em Defesa do Barroso, e como habito tivemos algumas dificuldades fruto do calor extremo que se sente estes dias em Covas do Barroso.
+
+Ainda assim conseguimos fazer um belos diretos com especial destaque para a conversa sobre a Palestina e podes espreitar o nosso trabalho na Play List abaixo.
+
+Espreita os vídeos e não te esqueças de subescrever o nosso canal.<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> 
+
+Como posso ajudar?
+
+O serviço de internet é fundamental para fazer os nossos diretos e temos 2 routers da Vodafone que podes carregar 921 053 597 (prioritário) e 921 696 861.
+
+Com um carregamento de 32€ temos internet para 30 dias, mas podes carregar qualquer valor.
+
+Gostos, partilhas e especialmente comentários com mais de 5 palavras ajudam muito com os algoritmos
+
+Subscrever o nosso canal de Youtube para nos ajudar a atingir níveis de monetização e saberes sempre que estivermos em direto&nbsp;<a href="https://www.youtube.com/@ptrevolutiontv" target="_blank" rel="noreferrer noopener">https://www.youtube.com/@ptrevolutiontv</a>
+
+Fazer donativos pontuais que são encaminhados para o conforto das nossas equipas de rua;
+
+Se quiseres apoiar o nosso trabalho monetariamente podes fazê-lo das seguintes formas:
+
+Entrar em contacto connosco e fazer um código de levantamento MBWAY
+
+Fazer transferência para a nossa conta Revolut  
+IBAN &#8211; LT523250092089824892
+
+Pela soberania da informação.
+
+#PTrevolutionTV #AltPT #indymediaPT

@@ -1,0 +1,30 @@
+---
+title: '“Temos de ser nós a travá-los”: Climáximo pinta a fachada da sede da REN em Lisboa'
+author: Publicação Comunitária
+type: post
+date: 2023-10-05T11:16:42+00:00
+url: /?p=32380
+classic-editor-remember:
+  - block-editor
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - Ecologia
+  - Protesto
+
+---
+Esta manhã, ativistas do Climáximo voltaram à ação pelo terceiro dia, depois dos bloqueios da 2ª circular e da rua de S. Bento. Desta vez pintaram de vermelho a sede da REN em Lisboa, que consideram &#8220;uma das empresas que declarou guerra à sociedade e ao planeta&#8221;.
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+Segundo uma das porta-vozes do Climáximo, Alice Gato, &#8220;Nos últimos dois dias parámos o funcionamento normal da sociedade para dizer às pessoas que precisam de parar de consentir, e que temos de resistir contra o genocídio que é a crise climática. Hoje, fomos a um dos atores mais responsáveis por este genocídio. A REN, responsável pela infraestrutura de gás fóssil em Portugal, pelo projeto de expansão do terminal de GNL em Sines e da construção de novos gasodutos. A REN está conscientemente a escolher manter e expandir a infraestrutura de gás fóssil em vez de parar estas armas de destruição em massa e implementar a transformação necessária em toda a rede elétrica. Está assim deliberadamente a garantir a morte de milhares de pessoas, todos os anos. Este é um dos crimes de guerra mais horrendos da história da humanidade, e não o deixaremos passar em branco.&#8221;
+
+A ativista acrescenta que &#8220;a melhor forma de se comemorar o aniversário da implementação da República é retomar o direito à vida digna que está a ser roubado pelos governos e as empresas, travando a guerra que declararam à sociedade e ao planeta. A História de Portugal mostra-nos que o poder popular é capaz de grandes mudanças. Hoje vivemos num momento decisivo que requer grandes mudanças, e cabe a nós, as pessoas comuns, de fazer esta mudança em conjunto&#8221;.
+
+Em comunicado, o grupo Climáximo afirma que para se travar essa guerra é necessário um plano de desarmamento, impedindo a construção de novas armas de destruição em massa &#8211; como dizem ser o caso da expansão do terminal de GNL em Sines e o gasoduto de Celorico da Beira até Zamora &#8211; e desativando as atuais armas, sendo uma das medidas que defendem a substituição de gás fóssil em Portugal por 100% de eletricidade renovável e acessível até 2025.&nbsp;
+
+O grupo promete continuar com estas e outro tipo de ações para que seja possível travar esta guerra e garantir os direitos que os ditos defensores da República estão a roubar. Apelam a que a todas as pessoas parem de consentir com os culpados pela crise climática e que através de democracia radical, decidamos em conjunto como vamos para-los. Apelam igualmente a que se juntem às ações. Têm palestras públicas já agendadas a partir de 9 de outubro.<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/photo_2023-10-05_12-15-04-768x1024.jpg" alt="" class="wp-image-32381" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/photo_2023-10-05_12-15-05-1024x767.jpg" alt="" class="wp-image-32384" /></figure>

@@ -1,0 +1,30 @@
+---
+title: 'Caravana Anti-Mineração e Pela Vida: 1 de Dezembro todes ao Barroso!'
+author: Publicação Comunitária
+type: post
+date: 2023-11-28T18:17:03+00:00
+url: /?p=213427
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111489543756810512
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - Barroso
+  - Ecologia
+
+---
+**CARAVANA ANTI-MINERAÇÃO: PELO FIM DE TODOS OS CONTRATOS DE EXPLORAÇÃO MINEIRA**<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-192 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img data-id="213430" alt='cartaj1-723x1024-2637069' src='https://cmi.indymedia.pt/wp-content/uploads/2023/11/CARTAJ1-723x1024-2637069.jpg' alt="" class="wp-image-213430" /> </figure> <figure class="wp-block-image size-large"><img data-id="213429" alt='cartaj2-723x1024-9647260' src='https://cmi.indymedia.pt/wp-content/uploads/2023/11/CARTAJ2-723x1024-9647260.jpg' alt="" class="wp-image-213429" /></figure> </figure> <gancio-event baseurl='https://eventos.coletivos.org' id=3850></gancio-event> 
+
+Na tarde de sexta-feira, dia 1 de dezembro, tratores e carros inundarão as estradas da região do Barroso, pedindo o cancelamento de todos os contratos de exploração mineira.
+
+A caravana anti-mineração começará em Morgade, pelas 13h, junto à área de concessão da Mina do Romano, projeto que está nas mãos da Lusorecursos. De seguida, continuará até Caniçó, parando na área de concessão da Mina da Borralha, detida pela Minerália. Depois, rumará até Dornelas, parando na área de exploração da Mina de Lousas. Por fim, irá até Covas do Barroso, estacionando na área de concessão da Mina do Barroso, da Savannah Resources.
+
+Em cada mina, pararemos para discursar e fazer barulho. Queremos alertar para a destruição socioecológica que representa a mineração e desmascarar a falsa narrativa da transição verde.
+
+Convidamos todo/as a juntarem-se a nós.

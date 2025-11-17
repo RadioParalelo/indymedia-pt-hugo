@@ -1,0 +1,48 @@
+---
+title: Climáximo pinta fachada do MAAT
+author: Publicação Comunitária
+type: post
+date: 2023-12-03T11:57:57+00:00
+url: /?p=213897
+admin_form_source:
+  - form65033c1176054
+imagem_2:
+  - 213896
+categories:
+  - Ecologia e Animais
+  - Indymedia
+
+---
+COMUNICADO
+
+ 
+
+Climáximo pinta fachada do MAAT para denunciar a guerra da EDP
+
+ 
+
+&#8212;&#8212;&#8212;-
+
+ 
+
+Esta manhã, apoiantes do Climáximo pintaram a fachada do Museu de Arte, Arquitetura e Tecnologia (financiado pela EDP) denunciando a centralidade da empresa na economia fóssil portuguesa, o seu papel no custo de vida, e a sua falsa imagem de empresa &#8220;verde&#8221;.
+
+ 
+
+Duas apoiantes da Climáximo foram detidas esta manhã após cobrirem de vermelho a escadaria do Museu de Arte, Arquitetura e Tecnologia, da EDP, em Lisboa.
+
+ 
+
+&#8220;Viemos hoje ao MAAT para denunciar a guerra da EDP contra a sociedade e o planeta&#8221;, pode ler-se no comunicado recebido na redação. A EDP é uma das principais importadoras de combustíveis fósseis para produção de energia em Portugal, sendo &#8220;diretamente culpada pelas mortes e destruição que advêm da crise climática. Ao mesmo tempo que nos condena a catástrofes a curto e longo prazo, a empresa utiliza expedientes como a Fundação EDP, proprietária do MAAT, para lavar a sua imagem.&#8221;
+
+ 
+
+Ana Maria, ex-bombeira, enfermeira humanitária, e porta-voz da ação, avança que &#8220;a EDP está conscientemente a quebrar os limites colocados pela ciência climática, que corresponde à quebra dos nossos direitos humanos mais fundamentais. Eles estão ativamente a lucrar com a crise climática e do custo de vida, enquanto lavam a sua imagem com instituições como a fundação EDP, ou metas de descarbonização a décadas de distância. Sabemos que as crises que causaram estão presentes hoje e agora na vida das pessoas, por isso não podemos consentir com a sua normalidade.&#8221;. A EDP é proprietária de centrais a carvão em outros países e aposta no gás fóssil &#8211; em Portugal e fora &#8211; para continuar a aprofundar a guerra contra a sociedade.
+
+ 
+
+Este é já o 3º protesto do coletivo numa semana que começou com a interrupção da Conferência da Eurogas, no dia 28, e da Portugal Renewable Energy Summit, no dia 29. Demonstrando nestas ações o &#8220;Plano de Desarmamento&#8221; das empresas fósseis, o coletivo sublinha no seu site a necessidade de um &#8220;Plano de Paz&#8221; que garanta uma transição justa de todos os trabalhadores de indústrias poluentes, e a garantia de direitos para os portugueses.
+
+ 
+
+O Climáximo lançou esta semana, em conjunto com outras organizações, uma convocatória para a manifestação pública de Resistência Climática, que está marcada para o dia 9 de dezembro às 14 horas no Saldanha. Lá está planeada uma assembleia com os participantes sobre o que fazer face à crise climática e do custo de vida.

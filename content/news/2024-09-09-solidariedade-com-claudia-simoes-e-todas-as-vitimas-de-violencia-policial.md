@@ -1,0 +1,111 @@
+---
+title: Solidariedade com Cláudia Simões e todas as vítimas de violência policial
+author: Publicação Comunitária
+type: post
+date: 2024-09-09T04:44:10+00:00
+url: /?p=223989
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+<gancio-event baseurl='https://eventos.coletivos.org' id=5062></gancio-event> 
+
+Em 2020, Cláudia Simões foi brutalmente violentada pela polícia em frente à sua filha então com 8 anos, numa paragem de autocarro na Amadora. Chegados a 2024, o sistema de justiça português considera-a culpada dos seus próprios ferimentos e daqueles que, para se defender, infligiu ao agente Carlos Canha, sendo condenada a oito meses de pena suspensa e o agente ilibado. Este é mais um exemplo paradigmático do racismo institucional na polícia e tribunais&nbsp;portugueses.
+
+O caso chegou à opinião pública através de vídeos publicados nas redes sociais que mostravam Carlos Canha em cima de Cláudia Simões, já com vários ferimentos, a fazer-lhe uma chave de pescoço, mas a violência haveria de continuar nas horas seguintes. Em tribunal, a juíza Catarina Pires frisou que “ninguém fez mal a Cláudia Simões” e que “o choro da sua filha é à mãe que se deve”. Enfatizou ainda que não havia ali motivações racistas e que esperava que a decisão do Tribunal servisse para “pacificar” estas&nbsp;perceções.
+
+A violência sobre Cláudia Simões e a sua filha gerou um forte debate público sobre o racismo e a xenofobia nas forças de segurança e no sistema judicial, contribuindo para evidenciar a injustiça vivida perante agressões e mortes de pessoas negras, ciganas, imigrantes e pobres às mãos da polícia. Disso são exemplo, casos recentes com o da Esquadra de Alfragide (2015) e do Bairro da Jamaica (2019), da morte de Ihor Humenyuk no centro de detenção do SEF no aeroporto de Lisboa (2020), a violência sobre migrantes, no posto da GNR de Odemira (2021), a morte de Danijoy Pontes e de Daniel Rodrigues, no Estabelecimento Prisional de Lisboa (2021), e de Miguel Cesteiro, na cadeia de Alcoentre (2022), a condenação do ativista antirracista Mamadou Ba&nbsp;(2023).<figure class="wp-block-image aligncenter">
+
+![][1] </figure> 
+
+Em nenhum destes trágicos acontecimentos, tal como no de Cláudia Simões, o racismo e a xenofobia foram tidos em conta, como, aliás, em Portugal, nunca o são. A taxa de arquivamento de queixas apresentadas por racismo e xenofobia ronda os 80% e só 7,5% levam a condenação (2006-2016). Sabemos que não é por acaso que as pessoas racializadas e imigrantes são mais encarceradas e mortas pela polícia, consequência do cerco que lhes é feito através das chamadas “Zonas Urbanas Sensíveis” (ZUS), do artigo 250.º do Código do Processo Penal e do aparato legal que sustenta a Europa&nbsp;Fortaleza.
+
+Nos dias seguintes ao espancamento de Cláudia Simões, o então diretor nacional da PSP, Magina da Silva, afirmou tratar-se apenas de “um polícia a cumprir as suas obrigações e as normas que estão em vigor na PSP”. O Sindicato Unificado da Polícia de Segurança Pública, cuja liderança tem ligações à extrema-direita, já noticiadas em vários órgãos de comunicação social, insinuava nas suas redes sociais que Cláudia Simões poderia ter transmitido doenças ao agente Carlos Canha quando o mordeu para se defender. Após a sentença condenatória de Cláudia Simões, o líder do partido de extrema-direita haveria de continuar a capitalizar o caso, acicatando o ódio racial e xenófobo na&nbsp;polícia.
+
+É preciso lembrar que, após agredir Cláudia Simões, o mesmo polícia havia de espancar, dentro da esquadra, dois homens negros – Quintino Gomes e Ricardo Botelho – que, entre a multidão, haviam presenciado o que se passara na paragem de autocarro. Por essas agressões, Carlos Canha seria condenado a três anos de pena suspensa e ao pagamento de indemnização por ofensa à integridade física qualificada e sequestro. Os outros dois agentes que o acompanhavam – João Gouveia e Fernando Rodrigues – nada viram, nada fizeram e, portanto, não foram&nbsp;condenados.
+
+Porque teria ele agredido aqueles homens, mas não Cláudia Simões, afinal de contas, a pessoa central naquele caso? Em declarações que nos envergonham a todos, o Tribunal diz que o agente “descomprimiu” os nervos acumulados antes, durante a detenção de Cláudia Simões, naqueles dois homens. Durante as audiências no Tribunal os magistrados – do Ministério Público ao coletivo de juízes – acusaram Cláudia Simões de ser uma pessoa “arrogante”, “exagerada”, “impetuosa”, “não colaborante”, “exaltada”, “revoltada”, “possante”. A humilhação foi tal que Cláudia Simões teve de mostrar várias vezes a sua cabeça para demonstrar que o agente lhe havia arrancado o cabelo, mesmo existindo documentos médicos a&nbsp;comprová-lo.
+
+No fecho da leitura do acórdão, o Tribunal considerou ainda relevante dirigir-se ao movimento antirracista e à opinião pública em geral, como já havia feito um dos advogados dos agentes, dizendo que a comoção era derivada de “falsas assunções” construídas num quadro de “idiossincrasias”, “mundividências” e “preconceitos”, portanto, a falsa tese do racismo reverso, contra&nbsp;polícias.
+
+Sabemos que a polícia e os Tribunais estão institucionalmente desenhados para exercer o monopólio da violência sobre pessoas racializadas, imigrantes e pobres. A nossa luta não se move pela esperança de que o Estado reconheça o racismo que o constitui; mas pela dignidade de nos mantermos de pé e audíveis sobre as injustiças e hipocrisias de um sistema que se diz justo. Move-nos a necessidade de continuar a luta antirracista dos nossos antepassados, do nosso presente e&nbsp;futuro.
+
+**Apelamos a todas as pessoas, coletivos e demais forças da sociedade portuguesa e comunidade internacional que se juntem a nós na exigência de revogação da sentença e de reparação da violência infligida pela polícia e pelo sistema judicial a Cláudia Simões. Neste momento, em que ela se prepara para recorrer da decisão, a solidariedade de todes é indispensável, com Cláudia Simões e com todas as vítimas de violência policial e do&nbsp;estado.**
+
+Apelamos a TODES a participar na Manifestação JUSTIÇA POR CLÁUDIA SIMÕES E TODAS AS VÍTIMAS DA VIOLÊNCIA POLICIAL, no dia 14 de Setembro, a partir das 16 horas. O percurso começará no Estabelecimento Prisional de Lisboa, marcando os 3 anos das mortes ainda sem explicação de Danijoy Pontes e de Daniel Rodrigues, e prosseguirá até ao Martim&nbsp;Moniz.
+
+**Coletivos&nbsp;signatários:**
+
+Afrolink
+
+Afrolis&nbsp;
+
+Associação Cavaleiros de São&nbsp;Brás
+
+Associação Sendas e&nbsp;Pontes
+
+Baque do&nbsp;Tejo
+
+Batoto Yetu&nbsp;Portugal
+
+Buala
+
+Casa do Brasil de&nbsp;Lisboa&nbsp;
+
+Coletivo&nbsp;Afrontosas
+
+Consciência&nbsp;Negra
+
+Djass &#8211; Associação de&nbsp;Afrodescendentes
+
+Femafro &#8211; Associação de Mulheres Negras, Africanas e Afrodescendentes em&nbsp;Portugal&nbsp;
+
+Grupo&nbsp;EducAR
+
+GTO&nbsp;LX
+
+INMUNE &#8211; Instituto da Mulher Negra em&nbsp;Portugal
+
+Khapaz &#8211; Associação&nbsp;Cultural
+
+Mulheres Negras&nbsp;Escurecidas&nbsp;
+
+Muxima Bio&nbsp;BV
+
+Nêga Filmes &#8211; Associação&nbsp;Cultural&nbsp;
+
+Núcleo de Imigrantes das Belas Artes da Universidade do&nbsp;Porto
+
+Peles Negras, Máscaras&nbsp;Negras
+
+FAIASCA-P &#8211; Federação das Assoc. de Imigrantes e Amigos do Setor de Calequisse em&nbsp;Portugal&nbsp;
+
+Plataforma&nbsp;Geni
+
+Opus
+
+Renovar a&nbsp;Mouraria
+
+SaMaNe &#8211; Saúde das Mães Negras e Racializadas em&nbsp;Portugal&nbsp;
+
+Solidariedade Imigrante-Associação para a defesa dos direitos dos&nbsp;imigrantes
+
+SOS&nbsp;Racismo
+
+Teatro&nbsp;GRIOT
+
+The Blacker The Berry&nbsp;Project
+
+UNA &#8211; União Negra das&nbsp;Artes
+
+Vida&nbsp;Justa
+
+Vozes de&nbsp;Dentro
+
+<https://www.buala.org/pt/a-ler/solidariedade-com-claudia-simoes-e-todas-as-vitimas-de-violencia-policial>
+
+ [1]: https://cmi.indymedia.pt/wp-content/uploads/2024/09/img_2255-8815757-1017399.jpg

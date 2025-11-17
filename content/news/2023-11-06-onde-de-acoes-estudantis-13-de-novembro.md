@@ -1,0 +1,48 @@
+---
+title: Onda de ações estudantis – 13 de Novembro.
+author: Publicação Comunitária
+type: post
+date: 2023-11-06T19:04:47+00:00
+url: /?p=146555
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111365160652238021
+mf2_syndication:
+  - 'a:1:{i:0;s:61:"https://climatejustice.social/@indymediapt/111365172612591147";}'
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - Ecologia
+  - Manifestação
+  - ocupapeloclima
+  - Protesto
+  - PTrevolutionTV
+
+---
+&#8220;**OS ESTUDANTES PELO FIM AO FÓSSIL NÃO VÃO DAR PAZ AO GOVERNO ATÉ ESTE SER O ÚLTIMO INVERNO DE GÁS EM PORTUGAL**
+
+Somos jovens e estudantes. Nascemos em crise climática. De frente para o futuro, não conseguimos ver nada senão as chamas de ter de viver no caos climático: sem planeta, sem casa, sem emprego, sem estabilidade, sem dinheiro e, acima de tudo, sem futuro. Face a este abismo, porque haveríamos de estudar para um futuro que não existe? Recusamo-nos a continuar a fingir que está tudo bem e estamos determinadas a lutar.
+
+A partir de 13 Novembro de 2023, em conjunto com estudantes de todo o mundo, comprometemo-nos a parar as escolas e as instituições numa onda de ação estudantil para reivindicar o único plano realista para evitar o inferno climático: fim ao fóssil até 2030; e eletricidade 100% renovável e acessível até 2025, garantindo que 2023-24 é o último inverno de gás no país.&nbsp;
+
+Convocamos a força estudantil para que a partir de 13 de Novembro se comprometa a ocupar não só as escolas e universidades, mas também disromper instituições e processos governamentais até que as reivindicações serem cumpridas. Convocamos todas as estudantes a não darem paz ao governo até haver um compromisso com o fim ao fóssil até 2030 e com este ser o último inverno em que usamos gás fóssil no país, substituindo-o por eletricidade renovável até 2025.&nbsp;&nbsp;
+
+As ocupações representam o mundo que queremos construir não só porque são espaços onde a vida, a solidariedade e a aprendizagem estão no centro, mas também porque são um ensaio: se os governos e as instituições não tomarem ação pela crise climática, nós vamos tomar as escolas e os ministérios para tratar disso nós mesmos.&nbsp;
+
+O ano passado sacrificámos o nosso direito à educação para salvaguardar o direito à vida. Mesmo após as cheias, os fogos e as ondas de calor, o governo continua a não estar em emergência climática. Nós sabemos que é possível mudar. Por isso mesmo, a nossa raiva e coragem para agir de forma permanente aumenta à medida que a crise climática se agrava e as instituições continuam a falhar. Já muitos movimentos estudantis transformaram as sociedades. Hoje, é a nossa vez. Vamos&nbsp; mudar tudo, antes que tudo mude por nós.&nbsp;
+
+Precisamos do fim dos combustíveis fósseis, do fim do gás fóssil já, e de uma transição energética justa compatível com os prazos da ciência.&nbsp;
+
+Apelamos a que todas as estudantes se comprometam a disromper a normalidade e não dar paz ao governo até que este seja o último inverno de gás.&nbsp;
+
+Se és estudante e queres agir contra o sistema fóssil que nos está a levar ao colapso, cria ou junta-te a um núcleo de estudantes pelo fim ao fóssil na tua escola/universidade para participares nesta onda de ações.&nbsp;**Convocamos-te a**&nbsp;**ocupares o teu estabelecimento de ensino e a participares em ações para parar as instituições governamentais (ministérios, conselhos, reuniões, etc), em particular na&nbsp;ação da Visita de Estudo ao Ministério da (in)Ação Climática no dia 24 de Novembro.&nbsp;Até que as nossas reivindicações sejam atendidas, eles não vão ter paz!**&#8220;
+
+Para mais informações visita: <https://greveclimaticalisboa.org/><figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/signal-2023-09-16-184057-724x1024.jpeg" alt="" class="wp-image-146556" /> </figure>

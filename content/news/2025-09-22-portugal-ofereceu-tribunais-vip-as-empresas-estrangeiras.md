@@ -1,0 +1,183 @@
+---
+title: Portugal Ofereceu Tribunais VIP às Empresas Estrangeiras?
+author: Publicação Comunitária
+type: post
+date: 2025-09-22T01:14:02+00:00
+url: /?p=226288
+fpsm_author_name:
+  - Platafotma Troca
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+iworks_yt_thumbnails:
+  - 'a:2:{s:11:"g3xMUeATdIE";a:5:{s:3:"url";s:51:"http://img.youtube.com/vi/g3xMUeATdIE/hqdefault.jpg";s:10:"secure_url";s:52:"https://img.youtube.com/vi/g3xMUeATdIE/hqdefault.jpg";s:5:"width";i:480;s:6:"height";i:360;s:4:"type";s:10:"image/jpeg";}s:11:"UIU0l3ZjS_8";a:5:{s:3:"url";s:51:"http://img.youtube.com/vi/UIU0l3ZjS_8/hqdefault.jpg";s:10:"secure_url";s:52:"https://img.youtube.com/vi/UIU0l3ZjS_8/hqdefault.jpg";s:5:"width";i:480;s:6:"height";i:360;s:4:"type";s:10:"image/jpeg";}}'
+categories:
+  - Ecologia e Animais
+tags:
+  - AltPT
+
+---
+<div id="mozac-readerview-container" class="container" dir="ltr">
+  <div class="header">
+    <a class="domain" href="https://www.plataforma-troca.org/portugal-ofereceu-tribunais-vip-as-empresas-estrangeiras/">www.plataforma-troca.org</a></p> 
+    
+    <div class="domain-border">
+    </div>
+    
+    <blockquote>
+      <h1>
+        Portugal Ofereceu Tribunais VIP às Empresas Estrangeiras?
+      </h1>
+    </blockquote>
+    
+    <div class="credits">
+    </div>
+    
+    <div>
+      <div>
+        8 &#8211; 10 minutes
+      </div>
+    </div>
+  </div>
+  
+  <hr />
+  
+  <div class="content">
+    <div class="mozac-readerview-content">
+      <div id="readability-page-1" class="page">
+        <div>
+          <p>
+            No dia 5 de Junho, teve lugar o <a href="https://www.plataforma-troca.org/evento/lancamento-do-no-6-da-revista-outras-economias-do-cidac-com-a-colaboracao-da-troca/">lançamento</a> do <a href="https://outraseconomias.pt/outrasec/">número 6 da revista online, do CIDAC <b><i>“Outras Economias</i></b>”</a>, dedicado ao Comércio Internacional. A TROCA encontra-se a publicar semanalmente cada um dos artigos cuja autoria envolveu os seus activistas ou feitos em colaboração.
+          </p>
+          
+          <p>
+            Esta semana publicamos um artigo que escrevemos sobre os Tratados Bilaterais de Investimento assinados pelo Estado português e qual a sua ligação com o sistema de litigação de investimentos (ISDS), utilizado pelas multinacionais para atacar os Estados.
+          </p>
+          
+          <h6>
+            Tempo aproximado de leitura: 10 min
+          </h6>
+          
+          <p>
+            <strong>Os investidores estrangeiros</strong> de dezenas de países têm atualmente acesso a um sistema de justiça internacional privada extremamente controverso, a que podem recorrer para processar Portugal caso considerem que leis democraticamente aprovadas porão em causa as suas previsões de lucro. Trata-se do <strong>ISDS</strong>, sigla do inglês «<em>investor-state dispute settlement</em>» (em português, resolução de litígios entre investidor e Estado). Estes mecanismos de arbitragem internacional substituem o Direito nacional por tribunais <em>ad hoc</em>, constituídos por três advogados empresariais, e cujos procedimentos são em larga medida secretos. Por outras palavras, o ISDS é o “tribunal VIP” das grandes empresas multinacionais.
+          </p>
+          
+          <p>
+            O Estado português sujeitou-se ao ISDS através de uma série de acordos internacionais, assinados a partir de finais dos anos 80: os <strong>tratados bilaterais de investimento</strong>, também conhecidos pela sigla inglesa BIT (<em>Bilateral Investment Treaties</em>). Estes acordos são instrumentos pelos quais dois Estados se comprometem mutuamente a garantir uma série de proteções aos investidores oriundos do outro Estado, com o propósito expresso de atrair mais investimento estrangeiro. A pedra basilar destas garantias é o ISDS: uma justiça especial privada que protege os investidores das próprias leis nacionais.
+          </p>
+          
+          <p>
+            Apesar de o país nunca ter feito um debate sério sobre este tema, entre 1988 e 2019 Portugal assinou BITs com um total de 57 países de todo o mundo.
+          </p>
+          
+          <div>
+            <figure><a href="https://mlqqwnlerv17.i.optimole.com/w:1024/h:768/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig1.png" target="_self" rel="noopener noreferrer"><img loading="lazy" decoding="async" title="Fig1" src="https://mlqqwnlerv17.i.optimole.com/w:1024/h:768/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig1.png" alt="" width="1024" height="768" data-srcset="https://mlqqwnlerv17.i.optimole.com/w:1024/h:768/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig1.png 1024w, https://mlqqwnlerv17.i.optimole.com/w:300/h:225/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig1.png 300w, https://mlqqwnlerv17.i.optimole.com/w:768/h:576/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig1.png 768w" data-opt-id="1928630322" data-opt-lazy-loaded="false" data-src="https://mlqqwnlerv17.i.optimole.com/w:1024/h:768/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig1.png" data-sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
+          </div>
+          
+          <p>
+            No entanto, o número total de BITs assinados ascende a 61, porque os acordos bilaterais com a China (1992), Tunísia (1992), Argélia (1994) e Angola (1997) foram substituídos por versões atualizadas, durante a década de 2000. Para além destes quatro tratados, há outros doze que deixaram recentemente de estar em vigor:
+          </p>
+          
+          <p>
+            • Os onze BITs que Portugal tinha com outros Estados-Membros da União Europeia foram rescindidos através do «Acordo de Cessação», um acordo multilateral assinado em 2020 entre 23 países da UE; dois anos antes, o Tribunal de Justiça da União Europeia tinha declarado que o ISDS entre Estados-Membros era incompatível com a lei europeia, o que representa uma vitória importante para o Estado de Direito democrático.
+          </p>
+          
+          <p>
+            • A Índia retirou-se em 2017 do seu BIT com Portugal. Não foi o único acordo denunciado por este país: depois de sofrer uma vaga de casos ISDS iniciados por investidores estrangeiros, a Índia pôs fim a mais de 70 tratados de investimento que tinha em vigor.<br /> Vários outros BITs assinados por Portugal nunca chegaram a ser aprovados, por não terem sido ratificados por, pelo menos, uma das partes, ou seja, pelo menos um dos países não concluiu os procedimentos internos necessários para a entrada em vigor do acordo. Entre outros, este é o caso do Brasil, que apesar de ter assinado vários tratados de investimento, acabou por preferir não se submeter ao ISDS. Essa decisão não parece ter afetado negativamente o Brasil, que é atualmente um dos países com maior investimento estrangeiro.
+          </p>
+          
+          <p>
+            <strong>Em suma, do total de 61 BITs assinados por Portugal, apenas 35 estão atualmente em vigor.</strong> Com exceção de um caso particular – o BIT Portugal-Marrocos (1988), que curiosamente não inclui ISDS – <strong>são estes os tratados que expõem Portugal à ameaça de tribunais arbitrais privados.</strong>
+          </p>
+          
+          <div>
+            <figure></figure> <figure></figure> <figure></figure> <figure><a href="https://mlqqwnlerv17.i.optimole.com/w:1024/h:768/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig2.png" target="_self" rel="noopener noreferrer"><img loading="lazy" decoding="async" title="Fig2" src="https://mlqqwnlerv17.i.optimole.com/w:1024/h:768/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig2.png" alt="" width="599" height="449" data-srcset="https://mlqqwnlerv17.i.optimole.com/w:1024/h:768/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig2.png 1024w, https://mlqqwnlerv17.i.optimole.com/w:300/h:225/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig2.png 300w, https://mlqqwnlerv17.i.optimole.com/w:768/h:576/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig2.png 768w" data-opt-id="349959451" data-opt-lazy-loaded="false" data-src="https://mlqqwnlerv17.i.optimole.com/w:1024/h:768/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig2.png" data-sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
+          </div>
+          
+          <div>
+            <figure></figure> <figure></figure> <figure></figure> <figure><a href="https://mlqqwnlerv17.i.optimole.com/w:1024/h:768/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig3.png" target="_self" rel="noopener noreferrer"><img loading="lazy" decoding="async" title="Fig3" src="https://mlqqwnlerv17.i.optimole.com/w:555/h:416/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig3.png" alt="" width="651" height="488" data-opt-id="558100696" data-opt-="" data-opt-lazy-loaded="true" data-opt-optimized-width="555" data-opt-optimized-height="416" data-src="https://mlqqwnlerv17.i.optimole.com/w:555/h:416/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig3.png" /></a></figure>
+          </div>
+          
+          <p>
+            <strong>Os 34 BITs que atualmente estão em vigor e contêm ISDS foram assinados entre 1990 e 2011:</strong> todos os governos portugueses durante esse período de duas décadas são responsáveis pela assinatura de pelo menos um destes tratados, sendo que os executivos com maior número de BITs assinados são os de António Guterres (14) e Aníbal Cavaco Silva (9).
+          </p>
+          
+          <p>
+            Em particular, a maior parte dos tratados que hoje sujeitam Portugal ao ISDS foi assinada no virar do milénio.
+          </p>
+          
+          <p>
+            Um aspeto extremamente problemático dos BITs portugueses é o facto de incluírem as chamadas <strong>“cláusulas zombie”</strong>, através das quais os tratados continuam em vigor durante um grande número de anos após a sua rescisão, para dar previsibilidade aos investidores. Na prática, isto significa que, mesmo que Portugal denuncie todos os seus BITs (por exemplo, por pressão dos eleitores e da sociedade civil sobre os decisores políticos), <strong>os investidores continuarão protegidos pelos seus “tribunais VIP” durante décadas: nalguns tratados, a “cláusula zombie” chega mesmo a abranger 15 ou 20 anos.</strong>
+          </p>
+          
+          <div>
+            <figure><a href="https://mlqqwnlerv17.i.optimole.com/w:1024/h:768/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig4.png" target="_self" rel="noopener noreferrer"><img loading="lazy" decoding="async" title="Fig4" src="https://mlqqwnlerv17.i.optimole.com/w:555/h:416/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig4.png" alt="" width="708" height="531" data-opt-id="1714368499" data-opt-="" data-opt-lazy-loaded="true" data-opt-optimized-width="555" data-opt-optimized-height="416" data-src="https://mlqqwnlerv17.i.optimole.com/w:555/h:416/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig4.png" /></a></figure>
+          </div>
+          
+          <div>
+            <figure><a href="https://mlqqwnlerv17.i.optimole.com/w:1024/h:768/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig5.png" target="_self" rel="noopener noreferrer"><img loading="lazy" decoding="async" title="Fig5" src="https://mlqqwnlerv17.i.optimole.com/w:555/h:416/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig5.png" alt="" width="640" height="479" data-opt-id="150578085" data-opt-="" data-opt-lazy-loaded="true" data-opt-optimized-width="555" data-opt-optimized-height="416" data-src="https://mlqqwnlerv17.i.optimole.com/w:555/h:416/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/Fig5.png" /></a></figure>
+          </div>
+          
+          <h6>
+            Portugal enfrenta, desde 2022, o seu primeiro caso ISDS publicamente conhecido, através do BIT Portugal-Ilhas Maurícias.
+          </h6>
+          
+          <p>
+            O <a href="https://outraseconomias.pt/outrasec/isds-em-portugal-bd/" target="_blank" rel="noopener noreferrer"><strong>processo</strong></a> está relacionado com a liquidação do BES (Banco Espírito Santo), e é movido por três <em>offshores</em> mauricianas de dois <strong>«fundos-abutre»</strong> norte-americanos. Este tipo de fundos de investimento especializa-se em comprar dívida de empresas à beira da falência, ou de Estados em dificuldade financeira; em muitos casos, como os credores têm uma expectativa baixa de reaver o seu dinheiro (por exemplo, 100 milhões), vendem-no a baixo preço aos “abutres” (por exemplo, 20 milhões) que detêm uma capacidade de litigação muito maior, e vão depois, por sua vez, tentar exigir em tribunal o pagamento total dessa dívida, para lucrar com a diferença relativamente ao valor de compra (ou seja, no nosso exemplo, lucrariam 80 milhões). <strong>Os fundos que agora estão a processar Portugal terão comprado dívida do BES a baixo preço, em 2014, e agora procuram lucrar à custa de processos judiciais contra o Estado Português.</strong>
+          </p>
+          
+          <p>
+            Mas importa também não esquecer o <strong>impacto que os BITs portugueses têm nos países co-signatários</strong>. Desde 2011, ao abrigo destes tratados, o centro de arbitragem do Banco Mundial registou sete casos ISDS iniciados por investidores portugueses contra outros países, a maioria dos quais pertencentes ao chamado Sul Global. Estes casos decorrem, claro está, à margem das leis nacionais desses Estados, interferindo com a sua soberania e direito de regulação, e exigindo montantes financeiros astronómicos que tão necessários seriam para as populações desses países.
+          </p>
+          
+          <div>
+            <figure> 
+            
+            <div>
+              <p>
+                <img loading="lazy" decoding="async" title="quadro" src="https://mlqqwnlerv17.i.optimole.com/w:1069/h:424/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/quadro.jpg" alt="" width="1069" height="424" data-opt-id="1774053545" data-opt-="" data-opt-lazy-loaded="true" data-opt-optimized-width="1069" data-opt-optimized-height="424" data-src="https://mlqqwnlerv17.i.optimole.com/w:1069/h:424/q:mauto/f:best/https://outraseconomias.pt/outrasec/wp-content/uploads/2025/05/quadro.jpg" />
+              </p>
+              
+              <p class="wp-caption-text">
+                Fonte: UNCTAD
+              </p>
+            </div></figure>
+          </div>
+          
+          <p>
+            Ora, é precisamente no Sul Global que as <strong>alternativas à arbitragem internacional</strong> se têm vindo a afirmar nos últimos anos. Para além dos exemplos, acima citados, do Brasil e da Índia, importa referir o Equador e a Bolívia como exemplos de Estados que rejeitaram liminarmente o ISDS. Estes países não só rescindiram todos os BITs que tinham em vigor, como introduziram nas suas Constituições artigos que proíbem a adesão a quaisquer acordos que incluam cláusulas ISDS. Também a África do Sul, a partir de 2013, se retirou de vários BITs, depois de ter sido alvo de um processo ISDS <sup>1</sup> a propósito de uma lei que pretendia colmatar as desigualdades resultantes de décadas de segregação racial sob o regime do <em>Apartheid</em>.
+          </p>
+          
+          <p>
+            A experiência destes países é representativa de um momento de viragem global: um pouco por todo o mundo, os povos começam a dar-se conta de que as suas relações comerciais não têm de estar dependentes de um sistema de justiça secreta que concede benefícios especiais às multinacionais.
+          </p>
+          
+          <p>
+            <strong>A decisão que Portugal terá de enfrentar é portanto esta: vai optar pela democracia e o Estado de Direito, ou por 34 tratados que oferecem tribunais VIP às empresas estrangeiras?</strong>
+          </p>
+          
+          <p>
+            <strong><sup>1 </sup></strong>Caso Piero Foresti, Laura de Carli <em>vs</em> República da África do Sul.
+          </p>
+          
+          <h2>
+            Para saber mais
+          </h2>
+          
+          <p>
+            Sobre fundos “abutres” norte-americanos:<br /> <a href="https://www.youtube.com/watch?v=g3xMUeATdIE" target="_blank" rel="noopener noreferrer"><strong>Greg Palast Exposes How U.S. “Vulture” Funds Make Millions By Exploiting African Nations</strong></a><br /> <a href="https://www.youtube.com/watch?v=UIU0l3ZjS_8" target="_blank" rel="noopener noreferrer"><strong>Palast’s Hunt for the GOP’s Billionaire Vulture</strong></a>
+          </p>
+          
+          <p>
+            Artigo publicado originalmente na <a href="https://outraseconomias.pt/outrasec/portugal-ofereceu-tribunais-vip-as-empresas-estrangeiras/"><em>Outras Economias</em></a>.
+          </p>
+          
+          <p>
+            2 Set 2025 | <a href="https://www.plataforma-troca.org/category/comercio-toxico/sistemas-de-resolucao-de-litigios/caso-bes/" rel="category tag">Caso BES</a>, <a href="https://www.plataforma-troca.org/category/imprensa-2/" rel="category tag">Imprensa</a>, <a href="https://www.plataforma-troca.org/category/comercio-toxico/sistemas-de-resolucao-de-litigios/" rel="category tag">Sistemas de resolução de litígios</a><br /> TAGS: <a href="https://www.plataforma-troca.org/tag/bits-%e2%80%90-bilateral-investment-treaties/" rel="tag">BITs ‐ Bilateral Investment Treaties</a>, <a href="https://www.plataforma-troca.org/tag/portugal/" rel="tag">Portugal</a>, <a href="https://www.plataforma-troca.org/tag/stop-isds/" rel="tag">Stop-ISDS</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

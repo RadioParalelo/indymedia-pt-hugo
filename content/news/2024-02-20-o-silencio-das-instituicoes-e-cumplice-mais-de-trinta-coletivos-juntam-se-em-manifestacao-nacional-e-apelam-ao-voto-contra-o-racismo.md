@@ -1,0 +1,39 @@
+---
+title: “O silêncio das instituições é cúmplice!” Mais de trinta coletivos juntam-se em manifestação nacional e apelam ao voto contra o racismo
+author: Publicação Comunitária
+type: post
+date: 2024-02-20T15:11:27+00:00
+url: /?p=219499
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Movimentos Sociais
+
+---
+ 
+
+**Reunidos num Grupo de Ação Conjunta Contra o Racismo e Xenofobia,** **cerca de trinta coletivos convocaram para o dia 24 de fevereiro (sábado), às 15h, uma Manifestação Nacional Contra o Racismo, a Xenofobia e o Fascismo. A iniciativa acontecerá, em simultâneo, em várias cidades do país, num apelo à democracia e pela igualdade.**
+
+“Numa altura em que o racismo, a xenofobia e a extrema-direita ganham terreno, não só em Portugal, como em toda a Europa e a nível mundial, é urgente sair à rua e mostrar a nossa força, para exigir propostas e ações significativas, concretas e eficazes para combater o racismo estrutural e institucional patente na sociedade portuguesa”, afirma o Grupo de Ação Conjunta Contra o Racismo e Xenofobia, do qual fazem parte a Djass &#8211; Associação de afrodescendentes, a Frente Anti-Racista, a rede ex aequo, a SOS Racismo, a Stop Despejos, a Kilombo &#8211; Plataforma de Intervenção Anti-Racista, entre mais <a href="https://marapastp.org/contacto.html" target="_blank" rel="noreferrer noopener">de trinta associações e coletivos</a>, determinados a lutar por um Portugal, uma Europa e um mundo mais inclusivos e inter-culturais, contra todas as opressões e formas de discriminação.
+
+Com o mote &#8220;Vota Contra o Racismo&#8221;, a Manifestação Nacional Contra o Racismo, a Xenofobia e o Fascismo vai realizar-se, em simultâneo, no dia 24 de fevereiro, em vários pontos do país. O protesto começa às 15h: em Braga, no Coreto da Avenida Central; em Guimarães, no Coreto da Alameda de São Dâmaso; em Lisboa, na Alameda; no Porto, na Praça da Batalha; em Faro no Coreto do Jardim Manuel Bivar e também em Viseu, num local ainda por confirmar.
+
+“É urgente que, nos próximos dias, todas as forças políticas democráticas, assumam publicamente compromissos muito claros para combater o racismo, a xenofobia e a islamofobia, que afetam diretamente a vida das pessoas racializadas e comunidades imigrantes, sempre mais vulneráveis no que respeita ao acesso a direitos básicos como a habitação, saúde, educação, transportes, justiça, cultura e informação”, refere o grupo de coletivos, defendendo que esta luta se faz todos os dias, nas ruas, nas pequenas e grandes ações e nas urnas, nomeadamente, nas eleições legislativas antecipadas marcadas para o próximo dia 10 de março.
+
+“É urgente dar um sinal inequívoco e público de que recusamos conviver em Portugal com organizações políticas e sociais de extrema-direita, racistas, xenófobas, islamofóbicas e homofóbicas”, refere ainda o Grupo de Ação, sublinhando que essas entidades, para além de inaceitáveis e anti-democráticas, são também ilegais, uma vez que são contrárias à Constituição da República Portuguesa e ao artigo 240.º do <a href="https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-34437675" target="_blank" rel="noreferrer noopener">Código Penal.</a>
+
+“A negação da realidade, a inércia sistemática e omissão de assunção de responsabilidades que temos testemunhado ao longo de décadas, por parte das entidades com atribuições para zelar pela defesa do Estado de Direito são o terreno fértil para a impunidade dos atos de racismo e de xenofobia”, consideram os coletivos, alertando para o aumento destas práticas violentas e discriminatórias, tal como é descrito em relatórios emitidos pela Comissão para a Igualdade e Contra a Discriminação Racial,&nbsp; pelo Comité da ONU para a Eliminação da Discriminação Racial, pelo Grupo de trabalho das Nações Unidas sobre Pessoas de Ascendência Africana e pela Comissária do Conselho da Europa para os Direitos Humanos.&nbsp;
+
+“Sairemos à rua para mostrar que não nos conformamos com a indiferença, a inércia e o desrespeito pelas conquistas do 25 de Abril, de tantas pessoas que deram a sua vida para deixarmos para trás a ditadura que a extrema-direita quer recuperar. A liberdade e a igualdade são os valores que nos movem na defesa da democracia! O silêncio das instituições é cúmplice. Não o acompanharemos nem o legitimaremos”, declara ainda o Grupo de Ação Conjunta Contra o Racismo e Xenofobia, apelando que se juntem à manifestação do próximo dia 24 de fevereiro, às 15h, todas as pessoas que acreditam na democracia.
+
+**Carta Aberta Contra Manifestação Racista:**
+
+No passado dia 27 de janeiro, o Grupo de Ação Conjunta Contra o Racismo enviou uma carta aberta a várias entidades públicas, pedindo que impedissem uma marcha de movimentos de extrema-direita “contra a islamização da Europa”, prevista para o passado dia 3 de fevereiro e marcada pelo discurso de ódio contra as comunidades imigrantes – o que configura um crime, previsto e punido no Código Penal Português.
+
+A carta – <a href="https://drive.google.com/file/d/1KQpjEzU0cRsLpORjoLqpkvLT2Van4ZcG/view" target="_blank" rel="noreferrer noopener">disponível aqui</a> – foi assinada por mais de 200 coletivos e mais de 8400 cidadãos, mas não obteve resposta de nenhuma das entidades destinatárias, revelando um desprezo total das autoridades competentes pelo apelo feito.
+
+Apesar da ausência de resposta, a ação abriu o debate na esfera pública, levando à proibição da manifestação pela Câmara Municipal de Lisboa. Contudo, entre gritos por “Salazar” e outros contra os migrantes, a manifestação racista acabou por acontecer num local diferente, bem como as situações de violência policial contra pessoas que se opuseram à realização da manifestação na rua.
+
+<https://www.antiracismo.org>

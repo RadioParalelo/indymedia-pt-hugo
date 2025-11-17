@@ -1,0 +1,46 @@
+---
+title: '[Borralha] Os bombeiros de Salto, Montalegre e as actividades de prospeção'
+author: Publicação Comunitária
+type: post
+date: 2023-09-29T14:48:11+00:00
+url: /?p=25781
+admin_form_source:
+  - form65033c1176054
+Ligação:
+  - https://t.me/c/1458486360/803
+tags:
+  - Ecologia
+  - Mineração
+tema:
+  - 'a:1:{i:0;s:3:"106";}'
+admin_form_edited:
+  - form_65033c1176054
+classic-editor-remember:
+  - block-editor
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+
+---
+##### OS BOMBEIROS DE SALTO, MONTALEGRE, E AS ACTIVIDADES DE PROSPEÇÃO GEOLÓGICA PARA MINERAÇÃO NUMA REGIÃO PATRIMÓNIO AGRÍCOLA MUNDIAL {.wp-block-heading}
+
+Na foto podemos ver o estaleiro onde uma empresa privada de mineração (Minerália, segundo consta) se encontra a providenciar a realização de furos de prospeção geológica (aldeia de Caniçó, Salto, Montalegre).
+
+O objectivo é usufruir das concessões dadas pelo governo Português, o que implica rebentar com montes e vales da região, de modo a viabilizar a actividade mineira na margem de umas das barragens mais importantes do Norte de Portugal, região Património Mundial e a pouca distância da Zona Termal e Balnear do Gerês..logo ali abaixo (cerca de 20km).
+
+No estaleiro vemos uma viatura pertencente aos bombeiros da freguesia de Salto, ou seja, recursos com financiamento de contribuintes portugueses presentes numa obra de uma empresa privada. Não se percebe porque é que nesta obra estão a ser utilizados recursos dos bombeiros de Salto há tanto tempo. Não poderiam os operadores da obra solicitar o serviço de empresas privadas?
+
+O movimento de vai e vém de viaturas dos bombeiros é relevante, ocorre há, pelo menos, 6 dias, havendo ocasiões em que é intenso, como testemunharam populares no dia de hoje (27-06).
+
+Um dos recursos de que este tipo de operações necessita, é muita muita água, entre outros, para arrefecer e lubrificar a broca de perfuração. Sem água, não se pode fazer o trabalho.
+
+Predominantemente, a missão dos bombeiros é prestar serviços de socorro às populações, resolver situações de emergência previstas na regulamentação, auxiliar a comunidade em situação de necesidade, etc, como predominantemente regula a lei.
+
+Acham que confere uma boa imagem ao Corpo dos Bombeiros de Salto estar presente numa obra de uma empresa privada cujo objectivo é rebentar, para mineração, o ventre da terra que acolhe estes soldados da paz?
+
+###### Acham que isso faz parte da sua missão principal? Porque o estarão a fazer? {.wp-block-heading}
+
+_Publicado na página [facebook Couto Dornelas diz não às minas!][1]_
+
+ [1]: http://www.facebook.com/groups/201199971390165″”

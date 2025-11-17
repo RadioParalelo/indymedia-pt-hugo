@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mapa on indymedia.pt</title>
+    <link>http://localhost:1313/tags/mapa/</link>
+    <description>Recent content in Mapa on indymedia.pt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Fri, 15 Dec 2023 13:45:36 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mapa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>«Pontos Solidários Autónomos 2020», um vídeo produzido por @Outros Ângulos</title>
+      <link>http://localhost:1313/?p=214471/</link>
+      <pubDate>Fri, 15 Dec 2023 13:45:36 +0000</pubDate>
+      <guid>http://localhost:1313/?p=214471/</guid>
+      <description>«Pontos Solidários Autónomos 2020», um vídeo produzido por @Outros Ângulos, relata alguns pontos de solidariedade e apoio mútuo que surgiram durante o período de confinamento, em 2020. Leva-nos à Seara (Centro de Apoio Mútuo de Santa Bárbara), ao RDA 69 e ao A.M.A. (Apoio Mútuo Almada / Centro de Cultura Libertária) – e lembra-nos outras iniciativas de solidariedade ativas no mesmo período, como o Nu Sta Djunto, a Cooperativa Mula, a Rede Popular de Apoio Mútuo do Porto, a Cantina Temporária Solidária ou a Disgraça.</description>
+    </item>
+  </channel>
+</rss>

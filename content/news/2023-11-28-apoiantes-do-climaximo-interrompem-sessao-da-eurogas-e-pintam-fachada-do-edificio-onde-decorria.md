@@ -1,0 +1,48 @@
+---
+title: Apoiantes do Climáximo interrompem sessão da Eurogas e pintam fachada do edifício onde decorria.
+author: Publicação Comunitária
+type: post
+date: 2023-11-28T11:26:50+00:00
+url: /?p=213366
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111487930727958303
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/11/IMG_0602.mp4
+        12902046
+        video/mp4
+        
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/11/IMG_0603.mp4
+        11034243
+        video/mp4
+        
+categories:
+  - Ecologia e Animais
+  - Indymedia
+tags:
+  - AltPT
+  - Climaximo
+  - Ecologia
+  - Indymedia
+  - Protesto
+  - PTrevolutionTV
+
+---
+COMUNICADO: Apoiantes do Climáximo interrompem sessão da Eurogas e pintam fachada do edifício onde decorria<figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/IMG_0602.mp4"></video></figure> 
+
+Esta manhã, apoiantes do Climáximo pintaram a fachada do hotel Marriott em Lisboa e interromperam a sessão do grupo fóssil Eurogas que decorria no interior. Afirmam que “a sociedade não pode delegar a tarefa urgente e existencial de cortar emissões para as empresas culpadas, que lucram com esta crise.”
+
+Esta manhã, apoiantes do Climáximo pintaram a fachada do hotel Marriott em Lisboa, onde decorria uma sessão da Eurogas, uma associação de empresas de gás fóssil. Ao mesmo tempo, ativistas interromperam a sessão que decorria no interior porque &#8220;as empresas que englobam a Eurogas são culpadas pela morte de milhões de pessoas, segundo as últimas investigações sobre mortalidade da crise climática. Nenhuma empresa tem planos para reduzir a sua produção de gás fóssil, e vendem-nos falsas promessas de “transição” como o hidrogénio, que não está associado a qualquer corte de emissões. A sociedade não pode delegar a tarefa urgente e existencial de cortar emissões para as empresas culpadas, que lucram com esta crise&#8221; &#8211; partilha Mariana Rodrigues, porta-voz no local.<figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/IMG_0603.mp4"></video></figure> 
+
+A Eurogas foi criada em 1990, quando já eram reconhecidos os efeitos destruidores da queima de gás fóssil. As empresas, que nem sequer estão alinhadas com os objetivos assassinos da União Europeia (que condenam milhões à morte), afirmam querer atingir neutralidade carbónica por meio de magia e truques de contabilidade, pois não apresentam qualquer plano viável para acabar com o gás fóssil.
+
+O Climáximo convida toda a sociedade civil para uma manifestação a começar dia 9, às 14h no Saldanha, para montar uma assembleia onde se defina popularmente as prioridades do movimento por justiça climática para o ano de 2024.<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-191 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="213367" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-28_11-24-15-1024x738.jpg" alt="" class="wp-image-213367" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="213368" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-28_11-24-19-1024x676.jpg" alt="" class="wp-image-213368" /></figure> </figure> 
+
+Pela soberania da informação.

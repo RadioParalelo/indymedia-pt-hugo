@@ -1,0 +1,41 @@
+---
+title: '31 Janeiro – Conversas com Editores – Mário Rui Pinto [Barricada de Livros]'
+author: Publicação Comunitária
+type: post
+date: 2024-01-28T02:49:56+00:00
+excerpt: Prosseguimos com Mário Rui Pinto, da Barricada de Livros, a série de conversas com editores que iniciámos em Fevereiro de 2023. Partindo do percurso particular de cada um dos nossos convidados, pretendemos conversar sobre o estado actual da edição, as suas dificuldades e possibilidades, o que se pode imaginar para o seu eventual futuro.
+url: /?p=216486
+fpsm_author_name:
+  - Jornal MAPA
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Cultura e Arte
+  - Indymedia
+  - Poder e Autodeterminação
+tags:
+  - Barricada de Livros
+  - Tigre de Papel
+
+---
+<div class="xdj266r x11i5rnm xat24cr x1mh8g0r x1vvkbs">
+  <strong>Quarta-feira, 31 de Janeiro, às 18h30</strong><br /> Conversas com Editores | Mário Rui Pinto (Barricada de Livros)
+</div>
+
+<div>
+</div>
+
+<div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s">
+  Prosseguimos com Mário Rui Pinto, da Barricada de Livros, a série de conversas com editores que iniciámos em Fevereiro de 2023. Partindo do percurso particular de cada um dos nossos convidados, pretendemos conversar sobre o estado actual da edição, as suas dificuldades e possibilidades, o que se pode imaginar para o seu eventual futuro.
+</div>
+
+<div>
+</div>
+
+<div>
+  Na <a href="https://tigrepapel.pt">Tigre de Papel</a>
+</div>
+
+<div>
+  <strong>Rua de Arroios 25,</strong><br /> <strong>1150-053 Lisboa</strong>
+</div>

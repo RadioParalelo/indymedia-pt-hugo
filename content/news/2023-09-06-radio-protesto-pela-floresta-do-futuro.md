@@ -1,0 +1,53 @@
+---
+title: '[Rádio] Protesto Pela Floresta Do Futuro'
+author: Publicação Comunitária
+type: post
+date: 2023-09-06T01:48:50+00:00
+url: /?p=1341
+enclosure:
+  - |
+    |
+        https://archive.org/download/protesto-pela-floresta-do-futuro/format=VBR+MP3&ignore=x.mp3
+        0
+        audio/mpeg
+        
+categories:
+  - Ecologia e Animais
+  - Indymedia
+tags:
+  - Radio
+
+---
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <figure class="wp-block-audio"><audio controls src="https://archive.org/download/protesto-pela-floresta-do-futuro/format=VBR+MP3&ignore=x.mp3"></audio></figure> 
+  
+  <p>
+    <img decoding="async" width="160" style="padding-right:3px;float:left" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/get-item-image-5925678-7493140..jpg" />
+    
+    <p>
+      Protesto pela Floresta do Futuro O que era esperado continua a acontecer. A destruição de áreas rurais, comunidades e territórios continua após décadas de avisos, de pareceres, de discussões, de traições e desprezo&#8230;.
+    </p>
+    
+    <p>
+      This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, Ogg Vorbis, PNG, Spectrogram, VBR MP3
+    </p>
+  </p>
+  
+  <p>
+    <a href="https://archive.org/details/protesto-pela-floresta-do-futuro">Protesto Pela Floresta Do Futuro</a>
+  </p>
+  
+  <div class="wp-block-group has-text-color has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="color:#00000000">
+    <pre class="wp-block-code" style="font-size:0rem"><code>&lt;&lt;&lt;/p></code></pre>
+</div>
+
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:15% auto">
+  <figure class="wp-block-media-text__media"><a href="https://yewtu.be/watch?v=8xe_9fX9rn8"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Chamada-Aberta-Enviem-os-vossos-audios-8594717.png" alt="" /></a></figure>
+  
+  <div class="wp-block-media-text__content">
+    <p>
+      <a href="https://radio.indymedia.pt/" data-type="link" data-id="https://climatejustice.social/@indymediapt">@localhost:8000/</a> | <a href="https://radio.indymedia.pt/" data-type="link" data-id="https://radio.indymedia.pt/">Rádio Paralelo</a> <br />A partir montras desde 2016!
+    </p>
+  </div>
+</div>
+</div>

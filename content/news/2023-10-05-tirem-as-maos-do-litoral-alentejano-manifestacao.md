@@ -1,0 +1,40 @@
+---
+title: Tirem as mãos do Litoral Alentejano – Manifestação
+author: Publicação Comunitária
+type: post
+date: 2023-10-05T17:57:20+00:00
+url: /?p=32474
+classic-editor-remember:
+  - block-editor
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/10/video_2023-10-05_18-49-50.mp4
+        12025491
+        video/mp4
+        
+categories:
+  - Indymedia
+tags:
+  - AltPT
+  - Ecologia
+  - Protesto
+  - PTrevolutionTV
+  - SW Alentejano
+
+---
+<figure class="wp-block-image size-full"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/Captura-de-Ecra-32.png" alt="" class="wp-image-32476" /></figure> 
+
+Hoje decorreu em Sines um protesto em defesa do Sudoeste Alentejano em especial contra os mega projectos de hotelaria e campos de golfe na península de Troia.
+
+Recebemos o vídeo e mensagem que partilhamos abaixo.
+
+&#8220;‼️Hoje saímos à rua, para exigir justiça ambiental e social no Litoral Alentejano.  
+Saímos à rua para dizer à República que a região está a ser sacrificada em nome dos interesses económicos, com graves consequências para o ambiente e para quem aqui vive e trabalha.  
+Exigimos que se trave imediatamente a destruição sistémica da região, o respeito integral pela vontade popular nos processos de decisão e o estudo dos efeitos cumulativos destas opções.&#8221;<figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/video\_2023-10-05\_18-49-50.mp4"></video></figure> 
+
+Se gostas de reportar e informar entra em contacto com o CMI &#8211; Centro de Media Independente ou envia as tuas notícias para nós que nós colocamos a circular nas nossas redes.
+
+Pela soberania da Informação.
+
+PTrevolutionTV Informação sem tretas

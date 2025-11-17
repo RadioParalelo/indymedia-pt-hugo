@@ -1,0 +1,179 @@
+---
+title: Justiça para Cláudia Simões! Reportagem da primeira sessão em tribunal
+author: Publicação Comunitária
+type: post
+date: 2023-11-16T15:24:16+00:00
+url: /?p=207352
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111420916634543244
+categories:
+  - Discriminação
+  - Indymedia
+  - Movimentos Sociais
+  - Repressão
+tags:
+  - Cláudia Simões
+  - Justiça
+  - racismo
+  - Violência Policial
+
+---
+ 
+
+**Justiça para** **C****láudia** **S****imões****!**
+
+**S****olidariedade com todas as vítimas da violência policial racista!**
+
+<span style="text-decoration: underline">19/01/2020</span>
+
+**Ocorrência da agressão e posterior apresentação de queixa contra o agente da psp carlos canha.**
+
+<span style="text-decoration: underline">20/01/2020</span>
+
+**Post de facebook do sindicato unificado da policia de segurança pública, então liderado por peixoto rodrigues.**
+
+<span style="text-decoration: underline">Fevereiro, 2022</span>
+
+**O** **Juíz Carlos Alexandre defende que o polícia seja julgado por sequestro e agressões: o ministério público acusa Canha de três crimes de ofensa à integridade física qualificada, três de sequestro agravado, um de abuso de poder e outro de injúria agravada contra Cláudia Simões.**
+
+<span style="text-decoration: underline">Junho, 2022</span>
+
+**Os três agentes da** **PSP****, João Carlos Cardoso Neto Gouveia e Luís Pereira Rodrigues vêem a juíza de instrução criminal a confirmar a acusação do** **MP****.**
+
+<span style="text-decoration: underline">Janeiro, 2023</span>
+
+**O polícia Carlos Canha, através de um recurso para o tribunal da relação de Lisboa, acabou por pronunciar, também, Claudia Simões para julgamento por um crime de ofensa à integridade física qualificada. Durante o processo de detenção, Cláudia teria «empurrado» o agente e resistido à detenção e, tentado morder o polícia.**
+
+<span style="text-decoration: underline">Novembro, 2023</span>
+
+**No dia 8 de novembro de 2023, Carlos Canha e Cláudia Simões chegam ao tribunal de Sintra tanto como arguidos, como ofendidos.**
+
+&#8211;
+
+O despacho confirma que o agente Carlos Canha, juntamente com João Carlos Cardoso Neto Gouveia e Fernando Luís Pereira Rodrigues, &#8220;_atuaram com violação dos seus deveres funcionais_”, que Cláudia Simões foi &#8220;_ilegalmente detida, algemada, agredida, insultada e conduzida num veículo da PSP para a esquadra_&#8220;, que &#8220;_durante o percurso para a esquadra o agente canha deu vários socos na cabeça e corpo da assistente_&#8220;, e que &#8220;_nenhum dos arguidos que seguiam nos dois bancos da frente do veículo fizeram algo para o parar_”.
+
+**Apesar do reconhecimento de que Cláudia Simões foi ilegalmente detida e violentamente agredida, o Ministério Público leva-a a julgamento na dupla qualidade de vítima (assistente) e arguida.**
+
+Isto significa que, no momento presente, Cláudia Simões é acusada de ofensas à integridade física qualificada. 
+
+Isto porque o tribunal da Relação de Lisboa, em 2022, considerou o recurso de Carlos Canha válido, que insiste na reação de “empurrar e morder&#8221; quando deteve Cláudia ilegalmente.
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    <em><strong>&#8220;Se não lhe mordesse o braço, morria&#8221;, diz Cláudia Simões sobre polícia em tribunal</strong></em>
+  </p>
+  
+  <p>
+    <em>Julgamento arrancou em sintra com claúdia simões e agente da psp carlos canha como arguidos e vítimas em simultâneo, quase quatro anos depois. Mais dois polícias acusados.</em>
+  </p>
+  
+  <cite><em>(recorte de imprensa)</em></cite>
+</blockquote>
+
+A Relação de Lisboa achou que existia “prova indiciária suficiente de que Cláudia Simões&#8221; empurrou Carlos Canha “quando este a queria impedir de se ausentar da paragem de autocarro, tendo sido esse o seu comportamento inicial que levou ao escalar&#8221;.
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    <em><strong>Sindicato unificado da polícia de segurança pública</strong></em>
+  </p>
+  
+  <p>
+    <em>20 de janeiro às 22:49</em>
+  </p>
+  
+  <p>
+    <em>«Foi neste estado em que ficou hoje o colega, ao intervir numa ocorrência na Amadora.</em> <br /><em>As melhoras ao colega e espero que as análises sejam todas negativas a doenças graves. Contudo a defesa da cidadã está a começar a ser orquestada pelo ódiomor de brancos.<br />Está tudo bem, não se passa nada.»</em>
+  </p>
+  
+  <cite><em>(post de Facebook do Sindicado da Polícia)</em></cite>
+</blockquote>
+
+O Ministério Público investigou o Sindicato Unificado da Polícia de Segurança Pública por causa do post que a organização publicou no Facebook em defesa do agente acusado de agredir Cláudia Simões, Carlos Canha, em 2020, na Amadora, onde insinuava que ela poderia ter doenças.
+
+<span style="text-decoration: underline">Novembro 2023: Ponto de Situação Atual</span>
+
+“**Comecou a apertar o meu pescoco para tentar fazer sentar, com muita força mesmo. Foi aí que lhe mordi a mão. Se não lhe mordesse o braço, morria”**
+
+A primeira parte da sessão foi marcada pela prestação de declarações de abertura, tanto de Cláudia Simões, como de Carlos Canha; e por interrupções sucessivas da Juíza Catarina Pires. Cláudia inicia por prestar o seu depoimento, relatando a agressão e respetivas etapas.
+
+**Uma intervencão desproporcionalmente violenta com fundamento na ausência do <u>passe gratuito de uma crianca.</u>**
+
+A agressão começou com o agente a forçá-la a sentar-se na paragem de autocarro e a bater-lhe sucessivamente na mão com que agarrava o telemóvel da filha, dispositivo que utilizou para dialogar com a tia durante a viagem.
+
+O clima de hostilidade no autocarro 163, vindo da Vimeca, ter-se-á iniciado com uma discussão vívida entre o motorista e uma passageira Brasileira, acompanhada pela sua neta, de idade inferior a 12 anos (como recorda o sobrinho de Cláudia, Gerson Calveto) – já aqui, o motorista terá proferido comentários de natureza fortemente xenófoba (&#8220;_isso é na tua terra, vocês estão aqui a dar cabo do nosso país”, “seus pretos, andam a estragar o nosso país, pensam que isso é só chegar e andar sem passe_&#8220;).
+
+No meio do ambiente, já totalmente caótico, Cláudia Simões refere desconhecer a razão pelo qual o agente policial se envolveu e se dirigiu especificamente a si, tendo-lhe agarrado no casaco, na zona do pescoço e puxado o casaco, com níveis de força extrema. Este corresponde ao primeiro momento das agressões, pouco depois das 20:30h, já na rua, junto da paragem de autocarro.
+
+Recorde-se que, a justificação utilizada para a intervenção das forças policiais, residia no facto da filha de 7 anos se ter esquecido do seu passe (de relembrar, também, que as crianças nesta faixa etária têm direito a passe gratuito);
+
+Cláudia disse ao motorista que o seu outro filho estaria na paragem de saída com o documento. Devido à discussão anterior do motorista com a outra utente, o condutor chamou um polícia que no momento nem estava ao serviço, Carlos Canha.
+
+Num ápice, Canha posiciona-se em cima de Cláudia, sentando-se nas suas costas; a filha, assustada, gritava de medo. Entretanto, algemaram Cláudia, começando a empurrá-la em direção à carrinha da polícia.
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+  <p>
+    <strong>&#8220;Quando a carrinha arrancou, começou a bater-me muito&#8221;</strong>
+  </p>
+  
+  <p>
+    <strong>&#8220;Fecharam o vidro e meteram música. Chamaram-me nomes: puta, vaca, macaca, preta do c*ralho.&#8221;</strong>
+  </p>
+  
+  <p>
+    <strong>&#8220;Tentou tirar-me as calças, só me dava socos na cara. Começou a arrancar-me o cabelo com muita, muita força&#8221;</strong>
+  </p>
+  
+  <cite>Testemunho de Cláudia Simões</cite>
+</blockquote>
+
+<span style="text-decoration: underline">19/01/2020, entre as 21h e 22h</span>
+
+Quando a carrinha arrancou, a violência extrema exercida sobre o corpo de Cláudia Simões intensifica- se. As perguntas da juíza foram tão incrivelmente incisivas, de forma insistente e ininterrupta, que, enquanto integrante do público &#8211; e pessoa preta &#8211; não me é possível deixar de relevar um esforço bastante proativo em demonizar o testemunho de Cláudia.
+
+Como o julgamento o evidenciou, a menção de enormes níveis discriminação racial é totalmente ignorada pela juíza. Em tribunal, Cláudia repete os insultos que lhe foram proferidos no dia 19 de Janeiro, ao mesmo tempo incluíndo detalhes profundamente descritivos acerca da agressão da qual acabara de ser vítima. De acordo com o artigo 240°-discriminação e incitamento ao ódio e à violência do código penal, este acontecimento é punível, por lei. No entanto, os atos de Carlos Canha &#8220;_não configuram um crime racista_&#8220;, apenas uma conduta derivada de &#8220;_técnicas de imobilização_”.
+
+**_&#8220;__G__rita, sua filha da p*ta, preta, macacos, vocês são lixo, uma merda.&#8221;_, ouvia-se no vídeo que, em 2020, circulava pelas redes sociais, no momento em que Canha algemou Cláudia.**
+
+Apesar de todas as provas materiais, testemunhas e enumeração de várias evidências a nível dos impactos que a agressão teve tanto a nível físico, como a nível psicossocial, tanto para Cláudia, como para os seus familiares (principalmente, a filha e o marido), verificaram-se, novamente, esforços flagrantes por desvalorizar o testemunho de Cláudia.
+
+Estes foram transversais a todo o julgamento; mas, quando menciona que teve o cabelo arrancado à volta da cabeça e, para o esconder, usa peruca, a Juíza Catarina Pires &#8211; assim como a advogada de defesa do agente da psp &#8211; pediu-lhe para remover a peruca, visando uma observação das lesões que Cláudia &#8220;alegava&#8221; ter. A advogada de Canha, depois do 2º pedido, insinuou, inclusivamente que Cláudia “aparentava rapar o cabelo&#8221;. Tudo isto provocou uma onda de profunda indignação no tribunal. Cláudia age conforme o que lhe é pedido, apesar da condescendência palpável da juíza.
+
+**Uma rétorica de criminalização e desvalorização das vidas e experiência Negras para absolver as instituições judiciais e o sistema.**
+
+A postura da Juíza face a ambos os depoimentos divergiu significativamente.
+
+Canha, pôde falar, pôde justificar-se “Era um agente branco a algemar uma cidadã negra e a maioria das pessoas que ali estavam eram negras”. Alegou, ainda, que Cláudia “esperneava”e que as técnicas de imobilização aplicadas foram “simples”. Negou ter-lhe puxado o cabelo, reiterando a acusação de que Cláudia lhe chamou vários nomes e que se terá atirado para o chão.
+
+Por várias vezes, durante a sessão, a Juíza dirigiu-se a Cláudia: “_S__ente-se direita_”, “_n__ã__o interrompa__&#8220;_, repreendia, inúmeras vezes, não lhe dando qualquer margem de expressão, em comparação com o que se verificou com o depoimento do agente.
+
+&#8212;&#8212;
+
+_Infelizmente, penso que todes nos recordamos dos inúmeros vídeos e imagens que circularam no início de 2020, relativos a um caso de agressão ocorrido na Amadora, junto da paragem de um autocarro.  
+  
+Não incluí imagens das marcas deixadas pelas lesões, pois não quero apelar à solidariedade de ninguém partindo da normalização da partilha excessiva de imagens remetentes a uma brutalização profundamente violenta perante corpos negros.  
+  
+O caso de Cláudia Simões revela-nos, novamente, e de forma bastante flagrante, a enorme des-sensibilização perante uma desumanização tão reveladora das faces mais brutais do racismo institucional em Portugal.  
+  
+Não podemos virar a cara: é impensável que se sente no banco dos réus, a uma distância de 1-2 cadeiras do seu agressor, por se tentar defender, por implorar pelo seu direito à vida. É impensável que não se reflita acerca das pautas raciais que pontuam este caso, mesmo depois da investigação de tantas provas, vídeos, posts (inclusivamente do próprio sindicato da PSP) que manifestamente se posicionam contra a vivência (e mera existência) de comunidades negras. É impensável que dificultem a prestação do seu depoimento, no próprio julgamento, onde é vítima. É impensável; e não tenho palavras.  
+  
+Tentei sintetizar ao máximo o que presenciei na semana passada, no Tribunal de Sintra, assim como o caso em termos gerais e jurídicos &#8211; o que se sabe até agora, o que se tem passado desde 2020. Mas sei que se encontra tudo muito incompleto &#8211; naturalmente, não cabe tudo no mesmo post.  
+  
+Por favor partilhem, tentem comparecer, tentem divulgar a situação, tentem manifestar o vosso apoio através de todos os meios que vos forem possíveis._
+
+&#8212;
+
+Lê mais:
+
+<https://afrolink.pt/julgamento-das-agressoes-a-claudia-simoes-continua-hoje-vamos/>
+
+<https://setentaequatro.pt/cronica/tribunal-dos-horrores-violencia-contra-claudia-simoes-continua>
+
+<https://afrolink.pt/criminalizar-vidas-negras-para-absolver-o-sistema-carta-aberta/>
+
+_  
+  
+_

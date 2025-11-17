@@ -1,0 +1,22 @@
+---
+title: Saiu a edição 40 do Jornal MAPA!
+author: Publicação Comunitária
+type: post
+date: 2024-01-25T01:37:04+00:00
+excerpt: 'Eis-nos chegados ao MAPA #40, no ano em que o 25 de Abril faz 50.'
+url: /?p=216155
+fpsm_author_name:
+  - Jornal MAPA
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+tags:
+  - Jornal Mapa
+
+---
+E eis-nos chegados ao MAPA #40, no ano em que o 25 de Abril faz 50. Um número que é um grito por um cessar-fogo na Palestina, onde a guerra, como sempre, se assemelha a um investimento. Mas que não esquece que, com a normalização das investidas policiais nas universidades, também por cá os tempos não são os melhores para as liberdades. Visitamos Chiapas – cuja experiência zapatista está, ao fim de 30 anos, em processo de alterar a sua estrutura de autogoverno – e Rojava, esta através dum olhar trans não binário. Em terrenos mais próximos, passamos pela Andaluzia na sua luta pela terra, por Covas do Barroso na sua oposição à mineração, por Contumil (Porto) no seu processo de gentrificação, e por Curral das Freiras (Madeira) no seu combate pelo território. Não faltam ainda entrevistas, incluindo a Solveig Nordlund, cineasta fundamental da filmografia de Abril, ao ressurgido Indymedia e a dois pontos onde podes encontrar o MAPA à venda. Notícias também da Europa-Fortaleza, num tempo de cada vez maior utilização da Inteligência Artificial para fins repressivos que Joseph Weizenbaum parece ter previsto em 1976. Destaque central para o Vale dos Vencidos, livro de José Smith Vargas acabadinho de editar. Tudo isto com paragens para humor, literatura, cinema, poesia, ilustração, BD, ….
+
+[Assina o Jornal MAPA][1]! Ele está mortinho por chegar a tua casa.
+
+ [1]: https://www.jornalmapa.pt/assinatura-do-jornal/

@@ -1,0 +1,132 @@
+---
+title: 'Justiça para Odair Moniz: Activistas e moradores do Zambujal inauguram mural em homenagem a Odair Moniz'
+author: Publicação Comunitária
+type: post
+date: 2025-10-18T19:41:14+00:00
+url:
+  - https://www.instagram.com/p/DPyxlACCEYw/?img_index=1
+activitypub_status:
+  - federated
+fpsm_author_name:
+  - Vida Justa
+categories:
+  - Movimentos Sociais
+tags:
+  - Odair Moniz
+
+---
+<div>
+</div>
+
+<div>
+  <div>
+    <p class="_ap3a _aaco _aacu _aacx _aad7 _aade" dir="auto">
+      <a href="https://www.instagram.com/p/DPyxlACCEYw/?img_index=1">Vida Justa:</a><br /> No dia 18 de outubro a partir das 13h00 vamos inaugurar o mural de homenagem ao nosso saudoso irmão Odair Moniz, assassinado por um agente da PSP no dia 21 de outubro de 2024 no Bairro Alto da Cova da Moura.
+    </p>
+    
+    <p>
+      <strong>O assassinato de Odair Moniz não é um caso isolado. Pelo contrário, integra lista de mais uma dezenas de pessoas negras e empobrecidas abatidas pela polícia portuguesa. Inclusive no mesmo mural os moradores incluíram a figura de Carlos Reis (“PTB”), 20 anos, também morador no Zambujal, assassinado em 2003 pela PSP.</strong>
+    </p>
+    
+    <p>
+      O assassinato bárbaro de Odair Moniz, assim como de outros, é a consequência fatal da violência organizada , cuja eufemismo estatal é Zonas Urbanas Sensíveis, que uma minoria rica, racialmente privilegiada, pratica, quotidianamente, sobre a classe trabalhadora dos bairros periféricos e que as suas outras manifestações são a exploração laboral, a desinvestimento público nos equipamentos sociais das nossas comunidades, na negação do direito à habitação digna e de qualidade, na nutrição adequada, na ausência de reconhecimento de doenças profissionais, na prestação deficitária de cuidados de saúde, que resultam em silenciosas mortes prematuras que outrora os operários algures, sabiamente, chamaram de “assassinato social”.
+    </p>
+    
+    <p>
+      Esta homenagem pretende assinalar no espaço público do Zambujal a memória dos nossos saudosos companheiros, em particular o Odair Moniz. E ao mesmo tempo, apelar as nossas comunidades, a todas as pessoas amantes da justiça, que estejam vigilantes e que unem no combate a cultura de impunidade, lutando para que a justiça lembrando-nos o julgamento do agente que matou Odair Moniz começa no dia 15 de outubro ( quarta-feira) às 13h30 no Tribunal de Sintra.
+    </p>
+    
+    <p>
+      Além do almoço comunitário que vai começar a partir das 13h00 e os concertos, também vai ser distribuído o Manual de Sobrevivência que abordar como atuar quando abordado pela Polícia.
+    </p>
+    
+    <p dir="auto">
+      <a href="https://www.instagram.com/p/DPyxlACCEYw/">Vida Justa: https://www.instagram.com/p/DPyxlACCEYw/</a>
+    </p>
+  </div>
+</div>
+
+<div class="header reader-header reader-show-element">
+  <div class="credits reader-credits">
+  </div>
+  
+  <div class="meta-data">
+    <div class="reader-estimated-time" dir="ltr" data-l10n-args="{"range":"3–5","rangePlural":"other"}" data-l10n-id="about-reader-estimated-read-time">
+  </div>
+</div></div> 
+
+* * *
+
+<div class="content">
+  <div class="moz-reader-content reader-show-element">
+    <div id="readability-page-1" class="page">
+      <div id="story-body" data-ad-slots="13" data-io-article-url="https://www.publico.pt/2025/10/18/sociedade/noticia/activistas-moradores-zambujal-juntamse-homenagem-odair-moniz-2151352">
+        <p>
+          Lusa: 18 de Outubro de 2025
+        </p>
+        
+        <div class="story__blurb lead">
+          <p class="headline story__headline">
+            <strong>Activistas e moradores do Zambujal juntam-se em homenagem a Odair Moniz</strong>
+          </p>
+          
+          <p>
+            Cabo-verdiano de 43 anos foi morto pelas autoridades a 21 de outubro de 2024 no bairro da Cova da Moura.
+          </p>
+        </div>
+        
+        <p>
+          Um grupo de activistas com apoios de moradores no bairro do Zambujal, Amadora, inaugurou, este sábado, um mural de homenagem a Odair Moniz, morto há um ano pela polícia, um caso que levou aos protestos dos bairros periféricos de Lisboa.
+        </p>
+        
+        <p>
+          Entre um almoço, música e alguns discursos, os activistas no movimento Vida Justa e moradores do bairro social juntaram-se para a homenagem ao imigrante cabo-verdiano de 43 anos, morto pelas <a href="https://www.publico.pt/2025/10/15/sociedade/noticia/odair-moniz-ha-policias-arguidos-acusados-mentir-mp-arquiva-falsificacao-auto-2150810?ref=odair-moniz&cx=page__content">autoridades</a> a 21 de Outubro de 2024, que incluiu um grande mural numa parede de um prédio, no qual figuram também outros três jovens do bairro, que morreram novos.
+        </p>
+        
+        <p>
+          Um deles, Carlos Reis (conhecido por PTB) foi morto em 2003 num outro caso de <a href="https://www.publico.pt/2024/10/27/sociedade/entrevista/nao-primeira-policia-mata-explicacao-historia-mal-contada-2109615">violência policial</a>, que os moradores quiseram recordar.
+        </p>
+        
+        <p>
+          Os <a href="https://www.publico.pt/2024/10/30/sociedade/noticia/140-ocorrencias-23-detidos-tumultos-area-metropolitana-lisboa-desde-dia-21-2110004">tumultos</a> que se realizaram há um ano, dos quais o movimento Vida Justa se demarca, estão relacionados com a figura de <a href="https://www.publico.pt/odair-moniz">Odair Moniz</a>.
+        </p>
+        
+        <p>
+          &#8220;Era uma pessoa muito querida, não só na nossa Comunidade, mas em várias comunidades&#8221; da zona, afirmou José Carlos, um dos promotores da iniciativa. A acção policial tem sido uma &#8220;reincidência de comportamento&#8221; que se torna agressivo contra os moradores do bairro, disse José Carlos.
+        </p><figure data-media-action="modal" aria-label="media"><figcaption class="caption">José Sena Goulão/Lusa</figcaption></figure> 
+        
+        <p>
+          Aqui, &#8220;as intervenções policiais são realizadas de um modo distinto e é um bocado mais agressivo e realmente isso também é um factor que incomoda&#8221;, afirmou o activista, que integra o colectivo Vida Justa.
+        </p>
+        
+        <p>
+          &#8220;Aproveitamos a homenagem, para homenagear outros jovens que o bairro perdeu e isto também é uma forma de mostrar que os bairros não são só a imagem de violência que os &#8220;<em>media</em> passam&#8221;, afirmou José Carlos, que integra ainda o projecto ZambujArte, responsável pela pintura de vários murais no bairro.
+        </p>
+        
+        <p>
+          &#8220;Pessoas que existem aqui no <a href="https://www.publico.pt/2024/10/26/sociedade/reportagem/nome-odair-implorouse-olhe-bairros-pais-vai-abaixo-2109568">bairro</a> e que são talentosas e criativas e queremos mostrar a boa imagem do bairro&#8221;, ao contrário do que &#8220;passa no telejornal, em que só enfocam naquilo que é negativo&#8221;.
+        </p>
+        
+        <p>
+          Em paralelo, os activistas distribuíram um pequeno livro intitulado &#8220;Manual de Sobrevivência a Intervenções Policiais&#8221;, com a descrição dos direitos dos cidadãos e daquilo que deve ser o comportamento das autoridades, que &#8220;muitas vezes não é cumprido&#8221;.
+        </p>
+        
+        <p>
+          O texto foi construído sob a forma de diálogo, indicando quando é que a polícia pode identificar, os procedimentos adequados, o tempo de detenção ou como funcionam as revistas.
+        </p>
+        
+        <p>
+          O activista Ricardo Sequeira considerou que o comportamento das forças de segurança não tem mudado. &#8220;Semana sim, semana sim, estamos a ver agressões das autoridades&#8221;, afirmou Ricardo Sequeira, morador em Mem Martins, embora salientando que a morte de Odair Moniz trouxe uma &#8220;nova consciência social aos bairros&#8221;.
+        </p>
+        
+        <p>
+          A <a href="https://www.publico.pt/2024/10/21/sociedade/noticia/homem-morre-hospital-baleado-psp-bairro-cova-moura-2108742">morte</a> de Odair Moniz foi uma &#8220;demonstração daquilo que já sabia existir e houve uma vontade geral de responder&#8221;, porque &#8220;as coisas não podem ser assim&#8221; e as autoridades não podem sair impunes, afirmou Ricardo Sequeira.
+        </p>
+        
+        <p>
+          Por isso, a criação do manual também resulta de uma &#8220;estratégia de consciência e de sobrevivência&#8221; por parte dos moradores dos bairros sociais e das periferias de Lisboa, acrescentou.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>

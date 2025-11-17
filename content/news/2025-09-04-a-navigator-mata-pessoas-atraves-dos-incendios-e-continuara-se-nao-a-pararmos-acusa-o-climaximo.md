@@ -1,0 +1,57 @@
+---
+title: “A Navigator mata pessoas através dos incêndios e continuará se não a pararmos”, acusa o Climáximo
+author: Publicação Comunitária
+type: post
+date: 2025-09-04T10:26:11+00:00
+url: /?p=225769
+fpsm_author_name:
+  - Climáximo
+links:
+  - https://www.climaximo.pt/a-navigator-mata-pessoas-atraves-dos-incendios-e-continuara-se-nao-a-pararmos-acusa-o-climaximo/
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Movimentos Sociais
+tags:
+  - AltPT
+
+---
+<div class="elementor-element elementor-element-32e3909 e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="32e3909" data-element_type="container"> 
+
+<div class="e-con-inner">
+  <div class="elementor-element elementor-element-0c47b01 elementor-widget elementor-widget-text-editor" data-id="0c47b01" data-element_type="widget" data-widget_type="text-editor.default"> 
+  
+  <div class="elementor-widget-container">
+    <p>
+      <em>O coletivo por justiça climática fez uma ação na sede da Navigator esta manhã em Lisboa, em dia de mobilizações populares na Galiza contra os incêndios, atribuindo a responsabilidade destes às celuloses e empresas de combustíveis fósseis, e “em apoio com todas as pessoas atualmente a lutar contra as chamas com as suas mãos e corpos.”</em>
+    </p>
+  </div>
+</div></div> </div> <div class="elementor-element elementor-element-af6502d e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="af6502d" data-element_type="container"> 
+
+<div class="e-con-inner">
+  <div class="elementor-element elementor-element-0bbd57f elementor-widget elementor-widget-text-editor" data-id="0bbd57f" data-element_type="widget" data-widget_type="text-editor.default"> 
+  
+  <div class="elementor-widget-container">
+    <p>
+      Esta manhã, apoiantes do Climáximo colaram na fachada da <strong>Navigator</strong> imagens alusivas aos incêndios que estão a devastar o norte e centro do país neste verão, acusando a empresa de estar “a matar, a incendiar casas e a deitar fogo à floresta, numa guerra aberta contra a humanidade e o planeta”. No mesmo dia em que várias manifestações têm lugar na Galiza contra uma “política florestal que queima os nossos montes e as nossas casas”, o coletivo reitera a necessidade de união para além fronteiras – já que o fogo e o caos climático não param com a fronteira – e união entre cidades e meio rural em Portugal. Afirmam que só através desta união popular será possível travar os ataques dos governos e empresas que, através da queima continuada e da transformação do território em eucaliptal inflamável, estão a tornar o país numa “caixa de fósforos”.
+    </p>
+    
+    <p>
+      Leonor Canadas, apoiante do Climáximo e engenheira agrónoma, afirma que <strong>“Governos, Navigator, Altri, Galp e EDP matam e despejam todos os anos centenas de pessoas</strong>, através de ações coordenadas e conscientes para, por um lado, continuar a queimar combustíveis fósseis, levando ao aumento da temperatura, e, no caso das celuloses, transformar a floresta em eucaliptal inflamável. Tudo para manterem os seus lucros, num contexto de desigualdade cada vez maior entre os que tudo têm e todas as outras pessoas que, cada vez mais, lutam todos os dias pela sobrevivência.”
+    </p>
+    
+    <p>
+      “Os sucessivos governos insistem em atirar-nos areia aos olhos com o aumento de medidas securitárias contra incendiários, que ignoram todo o contexto no qual estes incêndios acontecem: um contexto de colapso climático, com ondas de calor e secas cada vez mais intensas e frequentes, que, juntamente com o abandono do meio rural e a monocultura do eucalipto transformam o território numa bomba relógio que explode todos os verões,” afirma Leonor. “A indústria da celulose e as empresas de combustíveis fósseis como a Galp e EDP fazem lucros recorde enquanto as suas emissões levam a recordes de temperatura e milhares de pessoas mortas em ondas de calor: se querem criminosos, é aí que devem procurá-los.”
+    </p>
+    
+    <p>
+      O coletivo afirma que as aldeias foram deixadas ao abandono, sem os recursos necessários para travar os fogos infernais. Apela a que todas as pessoas em Lisboa e restantes cidades mostrem que não consentem com este ataque às populações, e que se juntem ao apelo da iniciativa popular <strong>“<a href="https://florestadofuturo.com/" target="_blank" rel="noopener">Emergência Florestal – Floresta do Futuro</a>“</strong>, saíndo à rua <strong>dia 20 de Setembro</strong> para <strong>“Deseucaliptar, Descarbonizar, Democratizar”.</strong> Esta rede convocou manifestações por todo o país, dado os incêndios brutais e juntando-se à mobilização global <strong><em>Draw The Line / Delimite</em></strong> em que “várias organizações, povos, comunidades e lideranças indígenas, da Amazónia ao Pacífico, nos convocam a retomarmos as rédeas do futuro, pois a única resposta somos nós: as pessoas.”
+    </p>
+    
+    <p>
+      <img loading="lazy" decoding="async" class="attachment-large size-large wp-image-11673 ld-lazyload entered loaded" src="https://www.climaximo.pt/wp-content/uploads/2025/08/1-576x1024.jpg" alt="" width="576" height="1024" data-src="https://www.climaximo.pt/wp-content/uploads/2025/08/1-576x1024.jpg" data-srcset="https://www.climaximo.pt/wp-content/uploads/2025/08/1-576x1024.jpg 576w, https://www.climaximo.pt/wp-content/uploads/2025/08/1-169x300.jpg 169w, https://www.climaximo.pt/wp-content/uploads/2025/08/1.jpg 783w" data-sizes="(max-width: 576px) 100vw, 576px" data-aspect="0.5625" data-ll-status="loaded" />
+    </p>
+  </div>
+</div></div> </div>

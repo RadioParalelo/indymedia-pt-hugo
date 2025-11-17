@@ -1,0 +1,19 @@
+---
+title: '[Lisboa] Manifestação Vida Justa'
+author: Publicação Comunitária
+type: post
+date: 2023-10-21T16:45:14+00:00
+url: /?p=41196
+categories:
+  - Discriminação
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - Livestream
+  - PTrevolutionTV
+
+---
+<figure class="wp-block-video"><video controls src="https://invidious.fdn.fr/latest_version?id=NjAUiT8wJGA&itag=18"></video></figure> <figure class="wp-block-audio"><audio controls src="https://invidious.fdn.fr/latest_version?id=NjAUiT8wJGA&itag=140"></audio></figure> This stream is created with #PRISMLiveStudio <figure class="wp-block-image size-large"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/27_mqdefault.jpg" alt="" /></figure> 
+
+<https://invidious.fdn.fr/watch?v=NjAUiT8wJGA>

@@ -1,0 +1,68 @@
+---
+title: PEDIDO DE DESBLOQUEIO DE MANIFESTAÇÃO DE INTERESSE PARA TODAS PESSOAS QUE JÁ ESTAVAM NO PAÍS DESDE A CRIAÇÃO DA NOVA LEI
+author: Publicação Comunitária
+type: post
+date: 2024-08-26T15:53:20+00:00
+url: /?p=223843
+activitypub_status:
+  - federated
+fpsm_author_email:
+  - indymedia.pt@disroot.org
+fpsm_author_name:
+  - 'Acadi - A casa do Imigrante'
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Discriminação
+
+---
+**Assina a petição:**
+
+<https://peticaopublica.com/pview.aspx?pi=PT116703>
+
+<span id="declaration">No dia 3 de junho de 2024, foi extinto a manifestação de interesse e no mesmo dia já se tornado lei e o site desativado. Portugal quando quer consegue. </span>
+
+<span id="declaration">Portugal precisava ter a sua imigração controlada, como se dizem ”sem portas escancaradas”. </span>
+
+<span id="declaration">Entretanto foi extinto a manifestação de interesse, mas a forma como foi feito, foi muito rápido, sabemos que no país, a muitos imigrantes que não sabem ler, não sabem o idioma, outros não pode usar telemóvel no trabalho e so sai a noite do trabalho entre várias outras situações. </span>
+
+<span id="declaration">Quando foi criado a extinção da manifestação de interesse muitas pessoas foram pega de surpresa, a pessoas que estavam na a espera de recibos da empresa para dar entrada, outros já tinha dado entrada e não tinha anexado os documentos, e por estes fatos entre outros e a falta de informação foram prejudicados, mas essas pessoas já estavam no pais. Não podem ser prejudicadas dessa forma, são pessoas que já contribuem com país.<br /> O governo precisa fazer algo por essas pessoas que já estavam no país desde a criação da Lei em vigor.</p> 
+
+<p>
+  Eis nossa reivindicação: </span>
+</p>
+
+<p>
+  <span id="declaration"><br /> <strong>1. Pedimos o desbloqueio do site das manifestações de interesse para todas pessoas que estavam já em Portugal desde a criação da lei que foi 3 junho 2024. </strong></p> 
+  
+  <p>
+    <strong>2. Pedimos um prazo de 10 dias para estas pessoas a concluírem o seu processo de manifestação de interesse. </strong>
+  </p>
+  
+  <p>
+    <strong>3. Pedimos a criação de um método de regularização tipo o modelo de CPLP, para as pessoas que não falam língua portuguesa, essas pessoas também são gente, elas são as pessoas que mais pagam impostos. Essas pessoas foram as mais injustiçadas com a criação da nova lei. </strong>
+  </p>
+  
+  <p>
+    <strong>4. Pedimos a regulamentação da alteração da lei da nacionalidade, publicada 01 de abril de 2024</strong>
+  </p>
+  
+  <p>
+    Estamos apenas querendo ter uma inclusão na sociedade no país que escolhemos viver. </span>
+  </p>
+  
+  <p>
+    <span id="declaration">Acadi- A casa do Imigrante &#8211; Juliet Cristino</span>
+  </p>
+  
+  <p>
+    &nbsp;
+  </p>
+  
+  <p>
+    <a href="https://www.jn.pt/7728879078/imigrantes-lancam-peticao-para-agilizar-titulos-de-residencia/">https://www.jn.pt/7728879078/imigrantes-lancam-peticao-para-agilizar-titulos-de-residencia/</a>
+  </p>
+  
+  <p>
+    &nbsp;
+  </p>

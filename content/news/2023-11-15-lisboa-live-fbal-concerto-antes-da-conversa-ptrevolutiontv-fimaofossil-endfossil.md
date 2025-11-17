@@ -1,0 +1,33 @@
+---
+title: '[Lisboa Live]. FBAL concerto antes da conversa. #PTrevolutionTV #fimaofossil #EndFossil'
+author: Publicação Comunitária
+type: post
+date: 2023-11-15T13:49:31+00:00
+url: /?p=204309
+embed_privacy_thumbnail_youtube_egGW4hAf8wA:
+  - youtube-egGW4hAf8wA-maxresdefault.jpg
+embed_privacy_thumbnail_youtube_egGW4hAf8wA_url:
+  - https://youtube.com/watch?v=egGW4hAf8wA
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - Livestream
+  - PTrevolutionTV
+
+---
+ <figure class="wp-block-embed is-type-rich is-provider-gestor-de-incorpora-es wp-block-embed-gestor-de-incorpora-es wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div><figcaption class="wp-element-caption">(
+
+[Youtube][1]) ([Invidious][2]) </figcaption></figure> <figure class="wp-block-audio"><audio controls src="https://vid.puffyan.us/latest_version?id=egGW4hAf8wA&itag=140"></audio></figure> 
+
+This stream is created with #PRISMLiveStudio
+
+<!-- /wp:post-content -->
+
+ [1]: https://youtu.be/egGW4hAf8wA
+ [2]: https://vid.puffyan.us/watch?v=egGW4hAf8wA

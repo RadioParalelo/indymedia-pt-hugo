@@ -1,0 +1,74 @@
+---
+title: Caravana pela Justiça Climática 2022
+author: Publicação Comunitária
+type: post
+date: 2023-11-14T13:11:14+00:00
+excerpt: A crise climática é o tempo das nossas vidas. Enquanto empresas e governos repetem fórmulas esgotadas para políticas insuficientes, a degradação do clima destrói o nosso futuro colectivo.
+url: /?p=201095
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodon-toot:
+  - |
+    Caravana pela Justiça Climática 2022
+    
+    A crise climática é o tempo das nossas vidas. Enquanto empresas e governos repetem fórmulas esgotadas para políticas insuficientes, a degradação do clima destrói o nosso futuro colectivo.
+    
+    https://cmi.indymedia.pt/?p=201095
+    
+    #PublicaoAberta #AltPT
+autopostToMastodon-toot-thumbnail:
+  - /usr/share/nginx/indymedia//wp-content/uploads/2023/11/Screenshot-from-2023-11-14-08-24-46-768x432.png
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111409069028598447
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+
+---
+<figure class="wp-block-embed is-type-wp-embed is-provider-peertube wp-block-embed-peertube">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> 
+
+# Manifesto Por Uma Caravana Pela Justiça Climática {.wp-block-heading}<figure class="wp-block-image">
+
+<img decoding="async" src="https://greveclimaticaestudantil.pt/wp-content/uploads/caravana-1020x600.png" alt="" /> </figure> 
+
+[Greve Climática Estudantil][1]
+
+A crise climática é o tempo das nossas vidas. Enquanto empresas e governos repetem fórmulas esgotadas para políticas insuficientes, a degradação do clima destrói o nosso futuro colectivo. Cheias, secas, tempestades fora de época, subida do nível médio dos oceanos, sua acidificação e alteração das complexas correntes marítimas, incêndios florestais, libertação do metano pelo degelo das regiões árcticas, perda irreversível da biodiversidade e degradação do ar, dos solos e das massas de água são a consequência directa de escolhas deliberadas tomadas nas últimas décadas pelo aparelho produtivo e pelo poder político a nível global. Perante este estado de coisas, não estivemos nem ficaremos parados. Em Abril de 2022, em Portugal e por todo o mundo, vamos metermo-nos ao caminho, percorrendo centenas de quilómetros em vários países para assinalar alguns dos responsáveis por esta crise e para falar directamente com as comunidades mais afectadas pela mesma.
+
+## Porque Vamos Meter-nos Ao Caminho? {#porque-vamos-meter-nos-ao-caminho.wp-block-heading}
+
+Porque não aceitamos a repetição absurda de mais do mesmo, a irresponsabilidade, a manipulação, o negacionismo, o jogo do faz-de-conta. A vida não é um jogo e não estamos dispostos a transformarmo-nos em peões.
+
+Porque não aceitamos que COP após COP o mundo fique em suspenso para no final assistir ao desfecho ignóbil do costume: convergência no acordo de que é preciso ir mais longe para fazer face à emergência climática, cujas evidências são, ano após ano, mais claras e mais graves do que as previsões feitas pela comunidade científica; negoceia-se e, quando tudo parece&nbsp;perdido, mudam-se as vírgulas que garantem que nada muda. As instituições não nos vão salvar.
+
+Porque não aceitamos ficar à espera dos incrédulos que “querem ver mais, para acreditar no pior”. Quer queiramos, quer não, os limites do Planeta impõem-nos já e continuarão a impor, a bem ou a mal, mudanças sistémicas. Queremos que a transição possível não aconteça na violência, mas sim numa escolha colectiva pela paz. Para isso a mudança de comportamentos, colectivos e individuais, terá que passar por uma abertura a uma nova visão do mundo alicerçada em modos de sentir, pensar e agir alinhados com a justiça social e com a ecologia do planeta.
+
+Porque nenhum país do mundo está a fazer ou planear os cortes necessários e urgentes de emissões de gases com efeito de estufa. Nem o fará se isso puser em causa o modelo actual de produção e acumulação de riqueza. Portanto não o farão, a sua estratégia é o colapso.
+
+Para que a estratégia actual continue, governos e empresas contam com um povo que acredite que o sistema está atento, apesar de todas as provas em contrário. Contam com a passividade e a resignação à escolha das grandes decisões feita por governos e empresas, proliferando os projectos oportunistas, camuflados de verde e que supostamente contribuem para a suficiência alimentar e industrial.
+
+Contam com um povo refém dos interesses sórdidos, cedendo às exigências de um punhado de indignos que parasitam as forças e as fragilidades das nossas vidas, mesmo sabendo que as aberrações deste capitalismo selvagem, mineiro e destruidor, está a agravar as crises do clima, da água, do ar, dos solos, da floresta, da biodiversidade e, por essa via, das comunidades humanas.
+
+Contam com a indiferença e criam todas as dificuldades para o povo poder encarar como um mal necessário a situação dramática em que estamos, justificando assim o apoio às enormes infraestruturas que cospem para a atmosfera milhões de toneladas de dióxido de carbono todos os dias (as refinarias, as centrais a gás,as fábricas de papel, cimenteiras, centrais de biomassa, entre outros) contribuindo para um agravamento ainda maior da crise climática e da crise social. Contam com a confusão de uma falsa oposição entre salvar o planeta e salvar o emprego ou a economia. Não há nenhuma oposição: queremos salvar-nos. Não há emprego ou economia no colapso ecológico e social.
+
+Não deixaremos as nossas vidas simplesmente colapsar. Iremos percorrer uma boa parte deste país a pé, contactando directamente com as comunidades mais afectadas por esta crise, de Pedrógão Grande a Oleiros, as linhas da frente da crise climática e passando por algumas das infraestruturas que são a origem desta crise climática, da Figueira da Foz a Vila Velha de Ródão, do Pego a Alhandra.
+
+O que os responsáveis por esta crise, os poderosos do sistema querem, é continuar comodamente instalados enquanto nos convidam a imitá-los, martelando que “o céu é o limite” e que “todos os sonhos são possíveis”, bastando para isso que “lutemos” por eles. Enquanto isso, a realidade vai-nos obrigando a cumprir a função social de “pescadinha de rabo na boca” – trabalhar para consumir e consumir para trabalhar – embalados pela propaganda que instala a ditadura das convicções que nos leva pelo caminho do pensamento único para alcançar um futuro melhor – o da exploração e do crescimento económico infinito.
+
+## Vamos Construir O Nosso Caminho {#vamos-construir-o-nosso-caminho.wp-block-heading}
+
+A crise climática é mais a consequência do que a causa dos nossos maiores problemas. O conhecimento que temos hoje sobre as causas é mais do que suficiente para avançarmos para uma nova visão do mundo alavancada por um optimismo realista, alicerçado na solidariedade, no conhecimento, na informação, na justiça e nas práticas que nos permitirão individual e colectivamente avaliar e implementar as soluções que já existem e encontrar outras, novas e melhores soluções.
+
+Trata-se de responder ao desafio de ir ao encontro de um novo sonho que só acontecerá se for partilhado por muitas pessoas, motivadas pela energia que nos devolve a satisfação de fazer a nossa parte e a coisa certa, participando activamente, dignificando a inteligência e a solidariedade humanas, fazendo a nossa história.
+
+Para conseguirmos travar a crise climática e a crise ecológica globais, precisamos de um movimento maior do que o mundo alguma vez já viu. Apelamos por isso a todos os movimentos e organizações que se revejam neste manifesto a que se juntem a nós, transformando a Caravana pela Justiça Climática num momento histórico que, através da força das populações, se insurja contra a irresponsabilidade, a impunidade, a manipulação e a ganância de um sistema capitalista, responsável pela degradação dos ciclos ecológicos que sustentam a vida e que são sustentados por ela.
+
+ [1]: https://greveclimaticaestudantil.pt/author/admin/

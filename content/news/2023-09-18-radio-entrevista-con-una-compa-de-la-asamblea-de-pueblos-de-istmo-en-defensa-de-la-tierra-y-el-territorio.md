@@ -1,0 +1,56 @@
+---
+title: '[Rádio] Entrevista con una Compa de la Asamblea De Pueblos de Istmo en Defensa de la Tierra y el Territorio'
+author: Publicação Comunitária
+type: post
+date: 2023-09-18T17:25:08+00:00
+url: /?p=1340
+enclosure:
+  - |
+    |
+        https://archive.org/download/entrevista-con-una-compa-de-la-assamblea-de-los-pueblos/format=VBR+MP3&ignore=x.mp3
+        0
+        audio/mpeg
+        
+categories:
+  - Cultura e Arte
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+tags:
+  - Radio
+
+---
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+  <figure class="wp-block-audio"><audio controls src="https://archive.org/download/entrevista-con-una-compa-de-la-assamblea-de-los-pueblos/format=VBR+MP3&ignore=x.mp3"></audio></figure> 
+  
+  <p>
+    <img decoding="async" width="160" style="padding-right:3px;float:left" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/get-item-image-1549758-5255372..jpg" />
+    
+    <p>
+      Entrevista con una compa de la Assamblea de Pueblos Istmo en Defensa de la Tierra y el Territorio, de México. Nos habla de las luchas en contra del Corredor Interoceanico, y muchas mas en defensa de la tierra, del territorio e de la vida Grabada en Covas do Barroso, Portugal, durante la acampada en&#8230;.
+    </p>
+    
+    <p>
+      This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, Ogg Vorbis, PNG, Spectrogram, VBR MP3
+    </p>
+  </p>
+  
+  <p>
+    <a href="https://archive.org/details/entrevista-con-una-compa-de-la-assamblea-de-los-pueblos">Entrevista con una Compa de la Asamblea De Pueblos de Istmo en Defensa de la Tierra y el Territorio</a>
+  </p>
+  
+  <div class="wp-block-group has-text-color has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="color:#00000000">
+    <pre class="wp-block-code" style="font-size:0rem"><code>&lt;&lt;&lt;/p></code></pre>
+</div>
+
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:15% auto">
+  <figure class="wp-block-media-text__media"><a href="https://yewtu.be/watch?v=8xe_9fX9rn8"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/Chamada-Aberta-Enviem-os-vossos-audios-8594717.png" alt="" /></a></figure>
+  
+  <div class="wp-block-media-text__content">
+    <p>
+      <a href="https://radio.indymedia.pt/" data-type="link" data-id="https://climatejustice.social/@indymediapt">@localhost:8000/</a> | <a href="https://radio.indymedia.pt/" data-type="link" data-id="https://radio.indymedia.pt/">Rádio Paralelo</a> <br />A partir montras desde 2016!
+    </p>
+  </div>
+</div>
+</div>

@@ -1,0 +1,40 @@
+---
+title: Alunos do Agrupamento de escolas dona Filipa de Lencastre bloqueiam entrada.
+author: Publicação Comunitária
+type: post
+date: 2023-11-13T16:30:23+00:00
+url: /?p=200521
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111404189715439261
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/11/IMG_9992.mov
+        4864334
+        video/quicktime
+        
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - Ecologia
+  - Indymedia
+  - Lisboa
+  - ocupapeloclima
+  - Protesto
+  - PTrevolutionTV
+
+---
+Desta vez é uma Escola Secundária Dona Filipa de Lencastre que se junta as ocupas pelo clima.
+
+&#8220;Agrupamento de escolas dona Filipa de Lencastre com entrada bloqueada pelos estudantes&#8221;<figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/IMG_9992.mov"></video></figure> <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-147 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="200526" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/photo_2023-11-13_15-57-37-1024x768.jpg" alt="" class="wp-image-200526" /> </figure> </figure> 
+
+Pela soberania da informação.

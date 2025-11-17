@@ -1,0 +1,35 @@
+---
+title: Renata Cambra enfrenta Mário Machado em tribunal
+author: Publicação Comunitária
+type: post
+date: 2024-02-06T00:53:44+00:00
+url: /?p=218149
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111881802952617863
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+ 
+
+No dia 6 de fevereiro, às 9h, no Campus da Justiça, a porta-voz do Movimento Alternativa Socialista, Renata Cambra, estará frente a frente com o neonazi Mário Machado em tribunal, representada pelo advogado António Garcia Pereira. Este enfrentamento judicial decorre de acusações apresentadas por Renata Cambra, que denuncia Machado por incitamento ao ódio e à violência contra mulheres de esquerda, e terá como testemunhas nomes como Ana Gomes, Isabel Moreira e Guadalupe Amaro.
+
+A acusação específica baseia-se em mensagens publicadas no Twitter (agora X), onde Mário Machado e Ricardo Pais apelaram à &#8220;prostituição forçada&#8221; das mulheres dos partidos de esquerda “tipo arrastão”, para “motivar as tropas” e visaram diretamente Renata Cambra, afirmando que receberia &#8220;tratamento VIP&#8221;.
+
+Na acusação, deduzida pelo Ministério Público na sequência da queixa apresentada por Renata Cambra, lê-se que os arguidos “sabiam os arguidos que, com conotação que faziam das referidas mulheres à prostituição ofendiam, como ofenderam, a honra e consideração de todas as militantes dos referidos partidos e em especial Renata Coutinho de Almeida Cambra, por estas serem membros de partidos que perfilham ideologias políticas de esquerda, mas sobretudo, por serem mulheres&#8221;.
+
+O arguido Mário Machado, que primeiro publicou um direito de resposta na revista Sábado onde se defendia afirmando que este incitamento ao ódio e à violência se tratava de &#8220;humor&#8221;, agora mente e nega que a conta @mariomachado777 fosse sua, apesar das inúmeras provas em contrário.
+
+Em particular após os acontecimentos de sábado, dia 3 de fevereiro, com a marcha islamofóbica de Mário Machado, que as forças de segurança protegeram, apesar de esta ter sido proibida em diferentes instâncias por apelar ao ódio e à discriminação e ser, por isso, considerada anti-constitucional, torna-se claro que este líder da extrema-direita procura ativamente promover a perseguição e o medo.
+
+Assim, apelamos à solidariedade da comunidade e da sociedade, não apenas para apoiar Renata Cambra neste momento, mas também para denunciar publicamente a disseminação do ódio e da violência perpetrada pela extrema-direita contra as mulheres de esquerda, assim como contra pessoas racializadas, migrantes e pessoas lgbtqia+.
+
+Agradecemos a atenção e o apoio contínuo à luta contra a intolerância, a discriminação e a normalização da extrema-direita e instamos a presença ativa da comunicação social no julgamento, onde Renata Cambra prestará declarações.
+
+Via: [][1]<https://emdefesadomas.net/renata-cambra-enfrenta-mario-machado-em-tribunal>
+
+ [1]: https://emdefesadomas.net/renata-cambra-enfrenta-mario-machado-em-tribunal

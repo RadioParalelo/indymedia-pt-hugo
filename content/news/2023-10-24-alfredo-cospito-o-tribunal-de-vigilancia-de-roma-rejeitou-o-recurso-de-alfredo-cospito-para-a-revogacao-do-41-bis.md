@@ -1,0 +1,28 @@
+---
+title: ALFREDO COSPITO – O Tribunal de Vigilância de Roma rejeitou o recurso de Alfredo Cospito para a revogação do 41 Bis!!
+author: Publicação Comunitária
+type: post
+date: 2023-10-24T09:48:45+00:00
+url: /?p=51236
+admin_form_source:
+  - form65033c1176054
+Ligação:
+  - https://www.anarchistfederation.net/the-surveillance-court-of-rome-rejected-alfredo-cospitos-appeal-for-the-revocation-of-41-bis/
+tema:
+  - 'a:2:{i:0;s:3:"110";i:1;s:3:"113";}'
+categories:
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+  - Repressão
+
+---
+Informamos que no dia 23 de outubro foi anunciado o resultado da audiência de 19 de outubro no Tribunal de Vigilância de Roma: o recurso para a revogação antecipada da detenção em 41 bis do camarada anarquista Alfredo Cossedo foi rejeitado. Recordamos que Alfredo está atualmente detido na prisão de Bancali, em Sassari (endereço: Alfredo COSTIO, C. C. &#8220;G. Bacchiddu&#8221;, Estrada Provincial 56 n. 4, Bancali, 07100 Sassari).  
+Nesta ocasião, embora algumas estruturas antiterroristas (nomeadamente, a Direção Nacional Anti-Máfia e Anti-Terrorismo e a Direção Central da Polícia de Prevenção) tenham manifestado opiniões a favor da revogação da ordem de detenção no 41 bis, prevaleceu a vontade política de manter o camarada neste regime de detenção.  
+Nos últimos dias, os pareceres destas estruturas tiveram um certo destaque nos meios de comunicação social de língua italiana. Em janeiro, a agência anti-terrorismo deu os seus pareceres pela primeira vez por ocasião de um outro pedido de revogação antecipada, nessa altura enviado ao Ministro da Justiça Nordio (para além da DNAA, nessa altura o comando do ROS dos carabinieri também se manifestou). Se há meses atrás, durante a greve de fome por tempo indeterminado, estes pareceres a favor da revogação do 41 bis manifestavam as dinâmicas contraditórias no seio das instituições e do aparelho repressivo desencadeadas pelo movimento de solidariedade internacional, hoje exprimem mais uma vez como a mobilização tornou evidentes e consolidou as contradições no organismo estatal. É este o caminho a seguir, tornando cada vez mais elevado o custo político destas contradições.  
+Ao rejeitar a calúnia nojenta dos tribunais sobre o facto de os anarquistas poderem ter &#8220;líderes&#8221; ou receber ordens, não escondemos que um aviso de dissuasão para todos nós está a ser jogado na pele do camarada. Esse aviso, hoje como no passado, deve ser devolvido ao remetente com a maior firmeza. Os anarquistas não precisam de ser instigados ou guiados por nenhum líder cativo, vocês podem fazê-lo muito bem.  
+Solidariedade revolucionária com Alfredo Cospito e com todos os anarquistas e revolucionários presos
+
+Transformemos a guerra dos patrões em guerra contra os patrões
+
+https://www.anarchistfederation.net/the-surveillance-court-of-rome-rejected-alfredo-cospitos-appeal-for-the-revocation-of-41-bis/

@@ -1,0 +1,84 @@
+---
+title: 'Unidos em Defesa de Covas do Barroso: travar o projecto de Mineração no Barroso!'
+author: Publicação Comunitária
+type: post
+date: 2024-12-12T23:03:09+00:00
+url: /?p=224872
+post_list_status:
+  - off
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+ <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+  https://youtu.be/hdw6xQg83G8
+</div></figure> 
+
+**Unidos em Defesa de Covas do Barroso:  
+Audiência com a comissão de Ambiente e Energia, 11 Dezembro 2024** 
+
+«Em nome da Associação Unidos em Defesa de Covas do Barroso, estamos aqui para elencar as diferentes razões pelas quais o projeto “Mina do Barroso” da Savannah Resources não deve ser considerado “projeto estratégico” e deve ser imediatamente travado.
+
+O projeto da “Mina do Barroso” prevê a abertura de 4 minas a céu aberto, 1 lavaria, que funcionaria todos os dias 24 horas ao dia, 1 barragem de rejeitados permanentes e 3 escombreiras, numa área total de 592 hectares e a escassos 150 metros de casas de pessoas. O projeto ficaria localizado na região do Barroso, a única em Portugal classificada como “Património Agrícola Mundial” pelas Nações Unidas. Há 7 anos que as populações e autoridades locais, assim como movimentos e associações nacionais e internacionais, se opõem a este projeto.
+
+Fazemo-lo por várias razões.
+
+**Desde logo, pela forma como todo o processo relativo ao licenciamento deste projeto tem sido****conduzido, que demonstra que esta é uma escolha política mais do que uma escolha técnica.**
+
+Vejamos:
+
+Em 2006, o Estado assinou um contrato de mineração para quartzo e feldspato para 120 hectares. Em 2016, este contrato foi modificado por completo, através de uma adenda: de 120 passou para 548 hectares, e foi adicionado o mineral lítio &#8211; tudo isto sem consultar as populações e autoridades locais. Este contrato modificado passou para a Savannah em 2017. Em fevereiro de 2022, a Junta de Freguesia de Covas do Barroso entrou com uma ação judicial relativa à forma como a tramitação contratual foi feita.
+
+Em 2020, a Savannah submeteu um Estudo de Impacto Ambiental para uma área de 592 hectares. Este Estudo foi considerado “não conforme” duas vezes pela Agência Portuguesa do Ambiente (APA), em julho e dezembro de 2020. Em janeiro de 2021, a Fundação Montescola solicitou formalmente o acesso a todos os documentos relacionados à Mina do Barroso. A APA ignorou esse pedido. Em março de 2021, a Comissão de Acesso aos Documentos Administrativos emitiu um parecer definitivo ordenando que a APA fornecesse os documentos. No entanto, em vez de cumprir essas exigências, a APA disponibilizou o Estudo de Impacte Ambiental para consulta pública. Estas violações relacionadas ao acesso à informação ambiental e à participação pública também foram levadas ao Parlamento Europeu e ao Comité de Conformidade da Convenção de Aarhus, do qual Portugal é signatário.
+
+Após um ano de espera, em julho de 2022, o projeto recebeu um parecer “desfavorável”: a Comissão de Avaliação da APA apontou “os impactes negativos muito significativos, em alguns casos não minimizáveis, ao nível dos recursos hídricos, dos sistemas ecológicos, da paisagem e da socioeconomia”. Muito embora este parecer técnico da APA tenha sido claro, ele não mereceu apoiopor parte da DGEG, que escreveu: “_O lítio é um mineral que tem papel central em toda a agenda da__transição energética e descarbonização da economia”._
+
+Ao abrigo do artigo 16.o do regime jurídico de Avaliação de Impacte Ambiental, foram concedidos mais seis meses à empresa para reformular o seu projeto. **Foi assim que uma decisão técnica** **rigorosa foi ignorada em prol de uma decisão política**. Em março de 2023, a Savannah entregou o Estudo reformulado. E em maio a APA emitiu uma Declaração de Impacte Ambiental (DIA) condicional favorável. O Enquadramento do parecer da APA é o seguinte: “_O lítio é um mineral que__tem um papel central em toda a agenda da transição energética e descarbonização da economia (&#8230;)__O lítio é um mineral metálico imprescindível para a vida moderna em sociedade, tal como reconhece__a Comissão Europeia, na sua Iniciativa para os Materiais Críticos”._
+
+**Em suma, as sucessivas violações no direito ao acesso à informação e a forma como pareceres técnicos são ignorados em prol de diretrizes políticas demonstram que a emissão desta DIA é uma escolha política.**
+
+Em setembro de 2023, a Junta de Freguesia de Covas do Barroso iniciou duas ações judiciais com vista à impugnação da DIA. Em fevereiro de 2024, o Ministério Público veio dar razão às autoridades locais, fazendo referência a várias leis que foram infringidas, e dando assim razão à tese segundo a qual a **DIA resultou mais de uma vontade política que de um processo de avaliação transparente e****realizado dentro dos parâmetros legais.**
+
+Se mais dúvidas restassem, basta dizer o seguinte: como a empresa não tem acesso aos terrenos porque a população está contra, e porque 71% da área de concessão é em terrenos baldios cujo direito de acesso é feito decisão coletiva, a empresa pediu à DGEG que emitisse uma servidão administrativa para realizar as atividades de prospeção que a DIA lhe exige. Os proprietários privados e os Baldios receberam cartas da DGEG a dizer que a sua “resposta seria muito provavelmente favorável”. Decidimos, de toda a forma, exercer o nosso direito de audiência prévia. Qual não foi o nosso espanto quando, no passado dia 6 de dezembro, lemos em Diário da República que a servidão administrativa foi concedida! **Ou seja, a empresa poderá ter acesso aos terrenos, tanto privados****como baldios, mesmo contra a vontade das populações e das autoridades locais!**
+
+**Desde que recebeu a DIA, a empresa, com a conivência do Estado, tem tentado criminalizar a resistência e silenciar a oposição.**
+
+Entre outubro de 2023 e maio de 2024, Senhores e Senhoras Deputadas, tivemos uma patrulha da GNR destacada diariamente para Covas do Barroso. De acordo com o comando local , estas ordens “vieram de cima”. A empresa também contratou segurança privada. O recurso ao aparato policial e de segurança privado é uma tática para criar intimidação e medo. Tivemos seguranças privados a circular de madrugada em frente a casa de pessoas, quando deveriam apenas estar a ‘guardar’ os terrenos da empresa. Tivemos a GNR a fazer revistas abusivas a pessoas idosas ao anoitecer, sem nenhum fundamento.
+
+Como a empresa não consegiui ter acesso a grande parte dos terrenos que precisa, tentou usurpar um terreno baldio em novembro de 2023. Durante 8 meses mantivemos um bloqueio diário daquelaparcela de terreno até a empresa desistir. Durante os bloqueios, os agentes da GNR protagonizaram vários episódios de abuso de autoridade. Ameaçaram retirar umas pessoas à força e tentaram dissuadir outras por via do medo, dizendo que “teriam de pagar o preço das máquinas paradas”.
+
+Além disso, a empresa já entrou com duas acusações criminais infundadas contra o presidente da nossa Associação. Este tipo de litigância é chamada de litigância estratégica contra a participação pública (SLAPPs, na sigla inglesa), pois é uma clara tentativa de criminalizar e silenciar a oposição, fazendo-a acarretar com custas judiciais. Estas ações violam as regras da E destinadas a proteger as comunidades contra tais ações abusivas, algo que foi, aliás, sublinhado pela nossa Provedora de Justiça no seu último relatório submetido às Nações Unidas, em abril de 2024.
+
+De tudo tentaram para que nos calemos. A última gota é agora a classificação de “projeto estratégico”. Embora seja mais um rótulo que uma licença, esta classificação terá implicações sociais, económicas e ambientais de longa duração. Caso receba esta classificação, o projeto passa a ser considerado de “superior interesse nacional” e é expectável que receba apoio político e financeiro. Infelizmente, quase meio ano após a publicação do Regulamento Europeu sobre Matérias Primas Críticas, não houve nenhum debate alargado sobre os projetos estratégicos e, até hoje, Portugal e a Comissão Europeia recusaram acesso a documentos relativos a candidaturas, pelo que uma nova queixa já se encontra registada na CADA, visto que isso constitui mais uma violação da Convenção de Aarhus.
+
+As instituições da União Europeia afirmam que a mineração no território europeu está sujeita aos mais altos padrões ambientais e sociais do mundo. No entanto, essa noção é infundada por vários motivos. No caso da Mina do Barroso, o método previsto para a barragem de rejeitados é ilegal no Brasil, Chile, Equador e Peru e tem sido inclusive denunciado pela indústria mineira. Ademais, a empresa propõe que esta barragem &#8211; que é permanente &#8211; se localize a menos de 1km do rio, o que seria ilegal até na China. No relatório que submeteu durante a consulta pública para o Estudo de Impacte Ambiental, o Dr. Steven Emerman, um dos maiores especialistas em rejeitados de mina e autor de diretrizes para a sua gestão responsável amplamente reconhecidas pela indústria de mineração, aponta esta ilegalidade e o risco que a barragem de rejeitados representa para a bacia hidrográfica do rio Douro. Os sedimentos poderiam chegar à foz no Porto. No entanto, o seu parecer técnico foi ignorado e não recebeu até hoje qualquer contraditório.
+
+Por tudo o que elencámos, instamos os Senhores e as Senhoras Parlamentares a posicionarem-se firmemente contra a possibilidade de a Mina do Barroso obter a classificação de “projeto estratégico”. Se permitirmos que estas minas sejam feitas, estaremos a cometer um grave erro ecológico, social, político e económico. Estas minas estão longe de ser apenas um problema para a região do Barroso, ou para a região hidrográfica do Douro. Sem dúvida é aí que o seu impacto será mais direto e visível, mas será todo o território nacional que pagará o preço de destruir uma das maiores reservas de água que temos no nosso país e as consequências de uma política de transição energética que se limita a deslocar e ampliar impactos negativos sem resolver os problemas de fundo que enfrentamos. Políticas erradas devem ser questionadas e revistas, não seguidas acríticamente só “porque a Europa assim decidiu”. Precisamos de ação política comprometida com as pessoas e os territórios em vez de caixas de ressonância da Comissão Europeia. O nosso compromisso europeu passa também por questionar o que não está bem. Em plena crise climática, ecológica e ambiental, destruir um dos maiores tesouros de biodiversidade que temos &#8211; o Barroso &#8211; seria o maior erro que o nosso país poderia cometer. Enquanto Comissão de Ambiente, Senhoras e Senhores, pedimos que não se calem e não deixem que este projeto avance. Nós continuaremos a resistir e não será o fantasma da inevitabilidade ou do poder Central que nos demoverão.»
+
+11 de dezembro de 2024
+
+Unidos em Defesa de Covas do Barroso
+
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide is-style-wide--300" />
+
+Audiências de 11 de Dezembro:
+
+Associação Povo e Natureza do Barroso
+
+<https://canal.parlamento.pt/?cid=8217&title=audiencia-com-a-associacao-povo-e-natureza-do-barroso>
+
+Associação Unidos em Defesa de Covas do Barroso
+
+<https://canal.parlamento.pt/?cid=8218&title=audiencia-com-a-associacao-unidos-em-defesa-de-covas-do-barroso>
+
+[Despacho n.º 14474/2024, de 6 de dezembro][1]
+
+Imagem: Jornal Mapa
+
+ [1]: https://diariodarepublica.pt/dr/detalhe/despacho/14474-2024-899202208

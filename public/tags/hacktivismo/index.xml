@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacktivismo on indymedia.pt</title>
+    <link>http://localhost:1313/tags/hacktivismo/</link>
+    <description>Recent content in Hacktivismo on indymedia.pt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Sat, 28 Oct 2023 18:06:49 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hacktivismo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hacktivistas interrompem canal de televisão Israelita.</title>
+      <link>http://localhost:1313/?p=67569/</link>
+      <pubDate>Sat, 28 Oct 2023 18:06:49 +0000</pubDate>
+      <guid>http://localhost:1313/?p=67569/</guid>
+      <description>Ontem a noite um serviço noticioso do canal 13 israelita foi interrompido por um vídeo em apoio a palestina.&#xA;De alguma forma o grupo de Hacktivista conseguiu substituir tanto a imagem do estúdio bem como a do directo com mensagens de apoio a causa palestiniana.&#xA;Pela soberania da informação,</description>
+    </item>
+  </channel>
+</rss>

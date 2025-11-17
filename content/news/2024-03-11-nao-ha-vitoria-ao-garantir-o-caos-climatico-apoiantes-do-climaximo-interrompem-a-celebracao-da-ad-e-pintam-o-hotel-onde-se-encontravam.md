@@ -1,0 +1,29 @@
+---
+title: '“Não há vitória ao garantir o caos climático”: Apoiantes do Climáximo interrompem a celebração da AD e pintam o hotel onde se encontravam'
+author: Publicação Comunitária
+type: post
+date: 2024-03-11T02:29:56+00:00
+url: /?p=221627
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Ecologia e Animais
+
+---
+ 
+
+**Apoiantes do Climáximo atacaram a sede da coligação AD na noite eleitoral, no Hotel Sana, pintando a fachada do edifício onde a AD aguardava os resultados eleitorais, num protesto onde afirmaram que &#8220;não há vitória em garantir o caos climático&#8221;. O Climáximo apela à população para tomar a história nas suas mãos e juntar-se à resistência climática.**<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-286 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img data-id="221629" alt='photo_2024-03-11_02-28-04-5854829-1024x576-5009368-7645841' alt='photo_2024-03-11_02-28-04-5854829-1024x576-5009368' src='https://cmi.indymedia.pt/wp-content/uploads/2024/03/photo_2024-03-11_02-28-04-5854829-1024x576-5009368-7645841.jpg' alt="photo_2024-03-11_02-28-04-5854829" class="wp-image-221629" /> </figure> <figure class="wp-block-image size-large"><img data-id="221631" alt='photo_2024-03-11_02-28-03-6474226-1024x576-6225256-5798306' alt='photo_2024-03-11_02-28-03-6474226-1024x576-6225256' src='https://cmi.indymedia.pt/wp-content/uploads/2024/03/photo_2024-03-11_02-28-03-6474226-1024x576-6225256-5798306.jpg' alt="photo_2024-03-11_02-28-03-6474226" class="wp-image-221631" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="221630" src="http://localhost:8000/wp-content/uploads/2024/03/photo_2024-03-11_02-28-02-4049041.jpg" alt="photo_2024-03-11_02-28-02-4049041" class="wp-image-221630" /></figure> </figure> 
+
+O coletivo por justiça climática fez um protesto na noite eleitoral para manifestar que qualquer novo governo rejeita travar o caos climático, como se torna evidente pela leitura dos programas políticos disponíveis. O Climáximo afirma que &#8220;travar o caos climático não esteve nas urnas e não estará no próximo governo que, com mandato de 2024 a 2028, decide reiterar a guerra contra o planeta e a as pessoas. Cabe às pessoas travá-los&#8221;.
+
+A vitória da AD representa a ascensão do negacionismo climático declarado ao poder, com alianças que negam a crise existencial em que vivemos e que reiteram a guerra ao conjunto da humanidade, quer através da crise climática, quer da perseguição de minorias e encerramento das sociedades atrás de muros de ódio e violência.
+
+António Assunção, porta-voz, afirma que &#8220;Quer a AD, quer qualquer partido que apoie esta coligação para formar governo, deixaram claro nos seus programas que não vão tomar as medidas necessárias para prevenir a morte de milhares de pessoas e a destruição de tudo o que amamos através da crise climática. Eles decidiram premeditadamente desistir da vida em prol do lucro. Nos próximos quatro anos eles e as empresas vão tentar continuar a guerra em vigor contra o planeta e as pessoas. A sociedade não pode continuar a consentir ser dirigida rumo ao caos climático.&#8221;
+
+Cerca de 10 ativistas pintaram a fachada do hotel onde a coligação AD está reunida. António Assunção, acrescenta que &#8220;Estas eleições deixaram claro que travar a crise climática está neste momento apenas nas mãos das pessoas, já que partidos e instituições rejeitam agir. Os próximos quatro anos serão contados como os anos em que todos sabiam da existência da crise climática e suas consequências e deixaram-se guiar para o colapso da civilização, ou em alternativa, como os anos em que a sociedade se juntou para travar o caos, impedir os efeitos mais catastróficos da crise climática e construir uma sociedade em que a vida está no centro, ao invés do lucro. O Climáximo apela à população para, a partir de amanhã e todos os dias seguintes, resistir pela sua vida e pela de milhões de outras pessoas ameaçadas pela crise climática.&#8221;
+
+A população não pode consentir com os planos de extermínio do novo governo. O Climáximo, movimento pela justiça climática, assume a tarefa que o momento histórico exige, de travar o colapso, e apela à população a tomar a história nas suas mãos e juntar-se à resistência climática. Só a mobilização popular, a democracia radical e a ação disruptiva permitirão travar a destruição da vida.

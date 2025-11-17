@@ -1,0 +1,140 @@
+---
+title: Rapper Setubalense regressa com “Carta”
+author: Publicação Comunitária
+type: post
+date: 2024-07-09T16:04:30+00:00
+url: /?p=223651
+activitypub_status:
+  - federated
+fpsm_author_email:
+  - vanessalstb@sapo.pt
+fpsm_author_name:
+  - Luisa Neves
+links:
+  - https://www.instagram.com/krazyeloko
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Cultura e Arte
+
+---
+Krazye Loko lança novo single “Carta” com participação de Jess e produção de Split_86.
+
+O artista Krazye Loko pretende cativar os amantes da música mais uma vez com o lançamento de seu último single, “Carta”.
+
+“Carta” é uma faixa que investiga temas de amor, perda e redenção. A letra da música é combinada com uma batida convincente de Split_86 e acompanhada pela voz de Jess.
+
+Krazye Loko compartilhou sua inspiração para a música:
+
+&#8220;Esta faixa é muito pessoal para mim. É uma carta a um amor passado, uma reflexão sobre o que foi e o que poderia ter sido. Eu queria expressar as emoções cruas e a complexidade dos relacionamentos através da minha música.&#8221;
+
+O single é uma prova do crescimento de Krazye Loko como artista. Sua habilidade lírica e capacidade de transmitir emoções profundas através de sua música lhe renderam uma base de fãs leais. Espera-se que “Carta” ressoe nos ouvintes em um nível pessoal, atraindo-os para o mundo de Krazye Loko.
+
+Para acompanhar o lançamento de “Carta”, Krazye Loko também lançou um videoclipe visualmente deslumbrante que complementa a profundidade emocional da música. Dirigido por Detroino.
+
+Assista ao videoclipe de &#8220;Carta&#8221; aqui: <a href="https://www.youtube.com/watch?v=fTfM64Sqygo" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DfTfM64Sqygo&source=gmail&ust=1720626637286000&usg=AOvVaw1V0lY0L2EaGbrp9rYLMCvS">https://www.youtube.com/watch?v=fTfM64Sqygo</a>
+
+O single já está disponível em todas as principais plataformas de streaming, incluindo Spotify, Apple Music e Amazon Music.
+
+<div>
+</div>
+
+<div>
+  <div>
+    Biografia (Krazye Loko)
+  </div>
+  
+  <div aria-hidden="true">
+  </div>
+  
+  <div>
+    Pedro Miguel dos Santos Castro nascido em Setúbal a 11 de Agosto de 1990, Krazye Loko é filho de mãe portuguesa e pai angolano. Começou como rapper em Setúbal, na mesma cidade onde nasceu e viveu a sua vida inteira.
+  </div>
+  
+  <div aria-hidden="true">
+  </div>
+  
+  <div>
+    Krazye Loko iniciou a sua carreira musical em 2003 apenas com 13 anos de idade, mostrando desde cedo o seu interesse pela cultura e a vontade de se expressar através da música. Entregando-nos um rap inspirado nas suas experiencias de vida, sem filtros e com muito sentimento. Inspirando-se nas camadas multifacetadas da sua história pessoal e nas lutas e triunfos diários que encontra. Inicialmente formando um grupo de hip-hop constituído por quatro elementos (Mc Produções). Conseguindo nessa época alcançar o primeiro lugar no concurso Bocage Rap em 2005, organizado pela Camara Municipal de Setúbal e tendo como júri Boss AC, um dos grandes nomes da música em Portugal. Algum tempo depois, em Agosto de 2006 Krazye Loko saiu do grupo para seguir a sua carreira solo. Em 2008, derivado a problemas pessoais, manteve-se inativo por um extenso período de 3 anos.
+  </div>
+  
+  <div aria-hidden="true">
+  </div>
+  
+  <div>
+    Krazye Loko, regressou em 2011, na exploração do seu passado abraçando graciosamente a noção de uma vida vivida sem arrependimentos, reconhecendo que cada reviravolta contribuiu para a sua evolução atual como artista e como indivíduo. Esta visão profunda confere novamente à sua música autenticidade, oferecendo uma narrativa profunda que fala ao coração dos seus ouvintes, mas agora desta vez bem mais maduro. Lançando assim algumas faixas de destaque na sua carreira musical como “Mafia Family”, a música que lhe deu vida novamente e abriu portas para novos projetos. Com essa faixa concorreu ao concurso Rock Rendez Worten 2011, com um júri composto por Paula Homem, directora geral da Arthouse, uma editora de novos talentos do grupo Valentim de Carvalho, e por Nuno Calado, locutor da Antena 3 e comentador assíduo da SIC Radical. Passando na primeira fase e conseguindo conquistar a semi-final do concurso. Em meados de 2013 Krazye Loko partiu para França, onde gravou as faixas que deram forma ao álbum &#8221;O meu espaço (álbum)&#8221;.
+  </div>
+  
+  <div aria-hidden="true">
+  </div>
+  
+  <div>
+    Depois de feita a pré-produção e a gravação do disco em Brive-la-Gaillarde, Krazye Loko regressou a Portugal, onde registou as vozes que participaram em &#8221;O meu espaço (álbum)&#8221;. O artista convidou nomes como Player, Black Mastah, Prophecy, Dani Xito, Bishop, Maliman. &#8221;O meu espaço&#8221; chegou às distribuidoras digitais ainda em 2013.
+  </div>
+  
+  <div aria-hidden="true">
+  </div>
+  
+  <div>
+    Entre os vários concertos que Krazye Loko deu de norte a sul do país (Portugal), a 15 de Março de 2014 em um concerto na Amora, Seixal no clube Roots, cruzou-se com Allen Halloween que era cabeça de cartaz nessa mesma festa, trocaram palavras no backstage e recebeu um convite para participar em “Hibrido” album de Allen Halloween lançado um ano após o convite, em 2015, participando dessa forma na faixa “O Último mundo”.
+  </div>
+  
+  <div aria-hidden="true">
+  </div>
+  
+  <div>
+    “Haterz” foi outra grande faixa que marcou a carreira de Krazye Loko, lançada em 2018 com a participação de Allen Halloween, em que retratam a desconfiança, traição e maldade do própio ser humano mas lutando contra isso e com vontade de progredir na paz, protegido do mal e com foco nos objetivos.
+  </div>
+  
+  <div aria-hidden="true">
+  </div>
+  
+  <div>
+    Alguns anos depois, já em 2022, Krazye Loko decidiu começar a trabalhar no seu album “Viagem” totalmente produzido, misturado e masterizado por Split_86. O album “Viagem” é composto por uma coleção de dez faixas meticulosamente selecionadas, o álbum promete uma experiência auditiva imersiva que mergulha nas profundezas do espírito humano, servindo como um veículo para profunda introspecção e catarse emocional.
+  </div>
+  
+  <div aria-hidden="true">
+  </div>
+  
+  <div>
+    Atualmente em 2024, Krazye Loko já lançou 3 faixas extraídas do seu album, “Salvação” , “Viagem” e &#8220;Virei Cinza&#8221; estas músicas podem ser ouvidas nas plataformas digitais habituais como Spotify, Apple Music, YouTube&#8230; O mesmo informou que soltará faixa-a-faixa as restante 8 que faltam e inclusive uma saíra ainda neste ano de 2024, “Carta&#8221; foi o último single lançado em Junho de 2024.
+  </div>
+  
+  <div aria-hidden="true">
+  </div>
+  
+  <div aria-hidden="true">
+  </div>
+  
+  <div>
+    Links de Krazye Loko:
+  </div>
+  
+  <div aria-hidden="true">
+  </div>
+  
+  <div>
+    Spotify: <u><a id="m_-9128470347114835667gmail-OWAe1b0dfac-dd30-1b7d-4bdd-8a6196f27950" href="https://open.spotify.com/intl-pt/artist/4I6Abuoma3TJBURyGNTI1G?si=tbhehZiFQACDRlEEi3zuLQ" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=https://open.spotify.com/intl-pt/artist/4I6Abuoma3TJBURyGNTI1G?si%3DtbhehZiFQACDRlEEi3zuLQ&source=gmail&ust=1720626637286000&usg=AOvVaw26Z9oa536EZv3647_lwQdZ">https://open.spotify.com/intl-pt/artist/4I6Abuoma3TJBURyGNTI1G?si=tbhehZiFQACDRlEEi3zuLQ</a></u>
+  </div>
+  
+  <div aria-hidden="true">
+  </div>
+  
+  <div>
+    YouTube: <u><a id="m_-9128470347114835667gmail-OWAf59a3b42-7460-9c3d-ff61-93ec685e3454" href="https://www.youtube.com/channel/UCwOnDMcbn5ijystdBODzs3w" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=https://www.youtube.com/channel/UCwOnDMcbn5ijystdBODzs3w&source=gmail&ust=1720626637286000&usg=AOvVaw19Wh_ihoEQHSjsFXui4rh0">https://www.youtube.com/channel/UCwOnDMcbn5ijystdBODzs3w</a></u>
+  </div>
+  
+  <div aria-hidden="true">
+  </div>
+  
+  <div>
+    Apple Music: <u><a id="m_-9128470347114835667gmail-OWA24564674-a9d3-4d78-0e77-5fe78779d8c1" href="https://music.apple.com/pt/artist/krazye-loko/915870546" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=https://music.apple.com/pt/artist/krazye-loko/915870546&source=gmail&ust=1720626637286000&usg=AOvVaw1EpxWNfdk-Pf8zpnESHoVo">https://music.apple.com/pt/artist/krazye-loko/915870546</a></u>
+  </div>
+  
+  <div aria-hidden="true">
+  </div>
+  
+  <div>
+    Instagram: <u><a id="m_-9128470347114835667gmail-OWA0e2a840f-9707-911d-e606-a36593d51815" href="https://www.instagram.com/krazyeloko/" target="_blank" rel="noopener noreferrer" data-saferedirecturl="https://www.google.com/url?q=https://www.instagram.com/krazyeloko/&source=gmail&ust=1720626637286000&usg=AOvVaw0RMMoFWaX5FkwUfAPpsu3e">https://www.instagram.com/krazyeloko/</a></u>
+  </div>
+</div>

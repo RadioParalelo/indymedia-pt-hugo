@@ -1,0 +1,125 @@
+---
+title: Manifestação Anti-Discriminação em Albufeira
+author: Publicação Comunitária
+type: post
+date: 2025-02-15T03:27:53+00:00
+excerpt: Dia 8 de fevereiro, vamos para a rua mostrar que o Algarve não discrimina, para celebrar a diversidade e para lutar por direitos equitativos para todos. Às 15h na Praça dos Pescadores, em Albufeira
+url: /?p=225070
+fpsm_author_email:
+  - colectivolibertarioevora@gmail.com
+fpsm_author_name:
+  - https://www.instagram.com/fad.algarve/
+links:
+  - https://www.instagram.com/fad.algarve/
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+
+---
+<div class="html-div xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd">
+  <div class="html-div xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd" dir="auto">
+    <div class="html-div xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd" data-ad-rendering-role="story_message">
+      <div id=":rn2:" class="x1l90r2v x1iorvi4 x1ye3gou xn6708d" data-ad-comet-preview="message" data-ad-preview="message">
+        <div class="x78zum5 xdt5ytf xz62fqu x16ldp7u">
+          <div class="xu06os2 x1ok221b">
+            <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+              <div dir="auto">
+                &#8220;O grupo racista 1143 convocou para as 18h do dia 8 de fevereiro uma manifestação, sob o falso pretexto de haver uma relação entre o aumento da criminalidade em Albufeira e a imigração. Não existem quaisquer provas ou indícios que suportem essa afirmação em Albufeira ou em qualquer outra zona do país.
+              </div>
+              
+              <div dir="auto">
+                Pelo contrário, historicamente, o Algarve sempre foi uma região de diversidade cultural quer a nível de turismo quer de trabalhadores. O que tem aumentado nos últimos anos, tem sido sim a desigualdade, afectando população de todas as proveniências. É esse o motivo que obriga a viver situações insustentáveis e à sujeição a condições indignas de trabalho e de habitação. Este não é um problema exclusivo da população migrante.
+              </div>
+              
+              <div dir="auto">
+                O Algarve é a região com maior desigualdade em Portugal continental.
+              </div>
+              
+              <div dir="auto">
+                O verdadeiro problema, que não é de agora e continua sem ser discutido é a falta de serviços públicos essenciais, como saúde e educação, e a completa ausência do direito à habitação. Este é um problema estrutural sem qualquer relação com as comunidades de trabalhadores migrantes ( quem mais contribui para a Segurança Social). É causada por décadas de políticas de desinvestimento nesses sectores em prol do investimento num turismo insustentável, que gera maior precariedade e agrava as desigualdades.
+              </div>
+              
+              <div dir="auto">
+                Queremos por isso celebrar a diferença e todas as aprendizagens que fazemos com esta. Apelar à união para resolver as verdadeiras questões do Algarve e não à segregação ou à discriminação.
+              </div>
+              
+              <div dir="auto">
+                Dia 8 de fevereiro, vamos para a rua mostrar que o Algarve não discrimina, para celebrar a diversidade e para lutar por direitos equitativos para todos.
+              </div>
+              
+              <div dir="auto">
+                Às 15h na Praça dos Pescadores.&#8221;
+              </div>
+              
+              <div dir="auto">
+                aqui: <span class="html-span xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x1hl2dhg x16tdsg8 x1vvkbs"><a class="x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 x1fey0fg x1s688f" role="link" href="https://www.instagram.com/fad.algarve/?fbclid=IwZXh0bgNhZW0CMTAAAR3hrXNYgIwlfTM6-wb9vv49sa5Y7HDHn71-7SsvrPNHTZnFLlm1DBX-Qf0_aem_qkRDD7vHMLRc6L4H_78r5w" target="_blank" rel="nofollow noopener noreferrer">https://www.instagram.com/fad.algarve/</a></span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div id=":rn3:" class="html-div xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x1n2onr6">
+    <div class="html-div xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x1n2onr6">
+      <div class="html-div xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd">
+        <div class="x1n2onr6">
+          <div class="x1n2onr6">
+            <div class="x6ikm8r x10wlt62 x10l6tqk">
+              <div class="html-div xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x6ikm8r x10wlt62">
+                <div class="xqtp20y x6ikm8r x10wlt62 x1n2onr6">
+                  <div class="x10l6tqk x13vifvy">
+                    <img decoding="async" class="xz74otr x1ey2m1c xds687c x5yr21d x10l6tqk x17qophe x13vifvy xh8yej3" src="https://scontent.flis6-1.fna.fbcdn.net/v/t39.30808-6/474519275_916073180702872_8901279792871574416_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KK6mpKdirXoQ7kNvgH0xErt&_nc_zt=23&_nc_ht=scontent.flis6-1.fna&_nc_gid=AR05BOG09waOg2CvwnegHf8&oh=00_AYB5wDJ4ydcSBTXO2tJF9_TGgNry74QhD4VCIQfiJ_7r8A&oe=67A2BB0B" alt="" />
+                  </div>
+                </div>
+                
+                <div class="html-div xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x1nb4dca x1q0q8m5 xso031l x1exxf4d x13fuv20 x178xt8z x1ey2m1c x9f619 xds687c x47corl x10l6tqk x17qophe x13vifvy">
+                </div>
+              </div>
+              
+              <div class="x1ey2m1c xds687c x17qophe xg01cxk x47corl x10l6tqk x13vifvy x1ebt8du x19991ni x1dhq9h x1o1ewxj x3x9cwd x1e5q0jg x13rtm0m" role="none" data-visualcompletion="ignore">
+              </div>
+            </div>
+            
+            <div class="x6ikm8r x10wlt62 x10l6tqk">
+              <div class="html-div xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x6ikm8r x10wlt62">
+                <div class="xqtp20y x6ikm8r x10wlt62 x1n2onr6">
+                  <div class="x10l6tqk x13vifvy">
+                    <img decoding="async" class="xz74otr x1ey2m1c xds687c x5yr21d x10l6tqk x17qophe x13vifvy xh8yej3" src="https://scontent.flis6-1.fna.fbcdn.net/v/t39.30808-6/474518026_916075260702664_2499800801751472144_n.jpg?stp=dst-jpg_p417x417_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qC7heooBCSUQ7kNvgH5wnUA&_nc_zt=23&_nc_ht=scontent.flis6-1.fna&_nc_gid=AR05BOG09waOg2CvwnegHf8&oh=00_AYDDMZ1JgV8tMZwL3ap4zJdFPy9oOtD_0K-n0LhmWLUqxg&oe=67A29161" alt="" />
+                  </div>
+                </div>
+                
+                <div class="html-div xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x1nb4dca x1q0q8m5 xso031l x1exxf4d x13fuv20 x178xt8z x1ey2m1c x9f619 xds687c x47corl x10l6tqk x17qophe x13vifvy">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div>
+  <div class="xabvvm4 xeyy32k x1ia1hqs x1a2w583 x6ikm8r x10wlt62" data-visualcompletion="ignore-dynamic">
+    <div>
+      <div>
+        <div>
+          <div class="x1n2onr6">
+            <div class="x6s0dn4 xi81zsa x78zum5 x6prxxf x13a6bvl xvq8zen xdj266r xat24cr xkhd6sd x4uap5 x80vd3b x1q0q8m5 xso031l x16n37ib xq8finb x1y1aw1k x10b6aqq">
+              <div class="x1c4vz4f x2lah0s xci0xqf">
+              </div>
+              
+              <div class="x9f619 x1ja2u2z x78zum5 x2lah0s x1n2onr6 x1qughib x1qjc9v5 xozqiw3 x1q0g3np xykv574 xbmpl8g x4cne27 xifccgj">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

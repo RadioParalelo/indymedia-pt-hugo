@@ -1,0 +1,89 @@
+---
+title: STOP GEAS (SECA) – Por uma Europa que constrói pontes!
+author: Publicação Comunitária
+type: post
+date: 2023-11-23T20:54:53+00:00
+url: /?p=210655
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111461852773701551
+categories:
+  - Ecologia e Animais
+  - Indymedia
+tags:
+  - AltPT
+  - asylistkeinekrise
+  - asylumisnotacrisis
+  - Direitos Humanos
+  - Indymedia
+  - No Borders
+  - PTrevolutionTV
+  - stopceas
+  - stopgeas
+
+---
+No próximo dia 26 de Novembro estão marcados protestos em mais de 1 dezena de cidades alemãs numa luta contra o GEAS, luta essa que devia interessar a todos nós que vivemos no território da União Europeia.<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/1500x500-1024x341.jpg" alt="" class="wp-image-210775" /> </figure> 
+
+O GEAS, SECA em português, &#8220;Sistema Europeu Comum de Asilo&#8221;, é o que regula a política europeia comum em relação a asilos e refugiados em especial o tratado de Dublin, criado em 2004 que tem sido constantemente retificado, mas com o aumento da pressão migratória bem como o crescimento do nacionalismo na europa é esperada um revisão ainda mais restritiva.
+
+Entre as ideias a debate está a criação de centros de detenção em território europeu para os migrantes, bem como a deportação aleatória e imediata de migrantes o que acaba por dificultar os processos de asilo por motivo religioso por exemplo,<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="de" dir="ltr">
+      Im Frühjahr droht die <a href="https://twitter.com/hashtag/GEAS?src=hash&ref_src=twsrc%5Etfw">#GEAS</a>-Reform auf EU-Ebene verabschiedet zu werden. Damit würde die Entrechtung von Menschen auf der Flucht zur legalen Normalität. Im Video erklären zwei Expertinnen, welche Auswirkungen zu befürchten sind. Dagegen wird am So. (26.11) in Berlin demonstriert! <a href="https://t.co/kIOQllSVFD">pic.twitter.com/kIOQllSVFD</a>
+    </p>&mdash; Leftvision (@LeftvisionClips) 
+    
+    <a href="https://twitter.com/LeftvisionClips/status/1727272986351144993?ref_src=twsrc%5Etfw">November 22, 2023</a>
+  </blockquote>
+</div></figure> 
+
+Infelizmente, a reforma não promete qualquer melhoria na situação daqueles que procuram protecção, mas antes elemina o direito ao asilo individual e causará um agravamento maciço do isolamento da Europa. A UE está assim a ceder às exigências dos populistas de direita e a alimentar a mudança para a direita na Europa. Mas neste momento as instituições da UE ainda estão a negociar com os estados membros sobre a reforma, e muitas organizações como a Amnistia Internacional, Pro Asyl ou Seebrücke (entre outras) exigem que o governo alemão vote contra a reforma: STOP CEAS!
+
+Para te informares mais ao detalhe espreita as fontes no fim do artigo.
+
+<ul class="wp-block-list">
+  <li>
+    Apelo:
+  </li>
+</ul>
+
+Juntos nas ruas contra a abolição do direito de asilo na Europa em 26 de novembro em Berlim
+
+No início de dezembro, o Parlamento Europeu discutirá outro agravamento do Sistema Europeu Comum de Asilo (GEAS). O parlamento votará um conjunto de regulamentos que irão reforçar fundamentalmente o sistema europeu de asilo. Como resultado, haverá violações sistemáticas dos direitos humanos. O direito fundamental ao asilo está em jogo.
+
+Apelamos ao Parlamento da UE para que não concorde com estes cortes históricos, mas que defenda o respeito dos direitos humanos para todos. O direito individual ao asilo deve continuar a ser a base do nosso sistema de protecção!  
+Apelamos ao governo alemão para que cumpra as suas promessas eleitorais e defenda uma política de migração baseada nos direitos humanos.  
+Convidamos a sociedade civil a sair connosco para as ruas, a protestar em conjunto contra estes agravamentos históricos da lei de asilo e a dar um sinal para uma Europa aberta e solidária!
+
+Envolve-te!
+
+Marca o dia 26 de novembro na sua agenda para sair para a rua junto com a gente! Se você deseja fazer parte da aliança, escreva-nos no Twitter, Insta ou por e-mail para stopgeas@posteo.de!
+
+Quer assinar nosso apelo? Então escreva-nos um email para stopgeas@posteo.de. Ficaríamos felizes se tu divulgasses este apelo chamada e consciencializa-se outras pessoas sobre a privação de direitos das pessoas em fuga! #stopgeas #stopceas #asylistkeinekrise #asylumisnotacrisis<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-187 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="210787" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F9RxJfbXoAAUI9P-1024x1024.jpg" alt="" class="wp-image-210787" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="210789" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F9RxJfcXcAAVM7h-1024x1024.jpg" alt="" class="wp-image-210789" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="210788" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F9RxJfdXgAEa22a-1024x1024.jpg" alt="" class="wp-image-210788" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="210790" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F9RxJfjW8AALKLj-1024x1024.jpg" alt="" class="wp-image-210790" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="210791" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F9RxSlSWgAAqUJn-1024x1024.jpg" alt="" class="wp-image-210791" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="210792" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F9RxSlTWMAA_3bw-1024x1024.jpg" alt="" class="wp-image-210792" /></figure> </figure> 
+
+Para estares a par de desenvolvimentos acompanha as seguintes hashtags nas redes sociais
+
+[#stopgeas][1] [#stopceas][2] [#asylistkeinekrise][3] [#asylumisnotacrisis][4]
+
+Fontes:
+
+<https://www.europarl.europa.eu/news/pt/headlines/society/20170627STO78418/reformar-o-sistema-europeu-comum-de-asilo>
+
+<https://voiceforafricanmigrants.org/2023/11/21/borderline-europe-holds-protest-against-ceas-nov-26/?amp=1>
+
+<https://stop-geas.de/>
+
+Pela soberania da informação.
+
+ [1]: https://www.instagram.com/explore/tags/stopgeas/?hl=en
+ [2]: https://www.instagram.com/explore/tags/stopceas/?hl=en
+ [3]: https://www.instagram.com/explore/tags/asylistkeinekrise/?hl=en
+ [4]: https://www.instagram.com/explore/tags/asylumisnotacrisis/?hl=en

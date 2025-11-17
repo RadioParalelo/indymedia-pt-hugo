@@ -1,0 +1,50 @@
+---
+title: Quem lucra com o apartheid é cúmplice de genocídio.
+author: Publicação Comunitária
+type: post
+date: 2023-11-23T10:51:17+00:00
+url: /?p=209536
+classic-editor-remember:
+  - block-editor
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/11/405426445_838986201241992_3460006524279733977_n.mp4
+        4330935
+        video/mp4
+        
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111459479322581683
+categories:
+  - Guerra e Paz
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - FreePalastine
+  - Indymedia
+  - Lisboa
+  - Palestina
+  - PalestinaLivre
+  - PTrevolutionTV
+
+---
+<figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/405426445\_838986201241992\_3460006524279733977_n.mp4"></video></figure> 
+
+Ativistas solidárias com o Coletivo de Libertação da Palestina, o Climáximo e a Greve Climática Estudantil de Lisboa pintaram a fachada do edifício que serve de escritório à The Navigator Company, em Lisboa, onde inscreveram também a palavra “Genocida” com tinta vermelha, colaram cartazes com a frase “Quem lucra com o apartheid é cúmplice de genocídio” e fotografias do presente massacre em Gaza.
+
+A empresa produtora de pasta celulósica e de papel é a sexta maior exportadora de Portugal para Israel, lucrando diretamente com o apartheid sionista e a limpeza étnica do povo palestiniano. Empresas como a Navigator, que aceitam normalizar este projeto colonial através de trocas comerciais, têm também sangue palestiniano nas mãos e não vão conseguir lavá-lo até boicotarem todas as organizações cúmplices com o estado sionista.
+
+A The Navigator Company é também uma das maiores emissores de CO2 do país, perpetuadora da monocultura eucaliptal das nossas florestas e uma das empresas portuguesas que mais contribui para o colapso ambiental global com que nos deparamos. Na Palestina, a emergência climática é acelerada ainda mais pela ocupação. Segundo a Programa das Nações Unidas para o Desenvolvimento, o povo palestiniano enfrenta uma maior exposição a riscos relacionados com o clima – como escassez de água, insegurança alimentar e deslocamento – como resultado da ocupação israelita.
+
+Este protesto é a segunda ação deste género esta semana. Na terça-feira, o alvo foi a Steconfer. No total, há mais de 930 empresas portuguesas a exportar para Israel. Apelamos aos cidadãos portugueses que parem de consentir com o genocídio a decorrer na Palestina, e a resistir contra as empresas que deste beneficiam.
+
+Exigimos que a Navigator e restantes empresas portuguesas cancelem todas as exportações para o estado sionista ou empresas israelitas. Exigimos boicote, desinvestimento e sanções a todas as organizações cúmplices com a ocupação. Exigimos o fim da ocupação da Palestina e a autodeterminação do seu povo. Não assistiremos paradas ao genocídio.
+
+notícia original em <https://www.instagram.com/libertacaopalestina/> e <https://www.instagram.com/gcelisboa/>.<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-186 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="209539" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/403860658_1714635436024362_257769333793870818_n-819x1024.jpg" alt="" class="wp-image-209539" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="209540" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/403891948_128435790363055_2831623447995081612_n-1-819x1024.jpg" alt="" class="wp-image-209540" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="209542" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/403892556_2277560392581393_5336338171325064694_n-819x1024.jpg" alt="" class="wp-image-209542" /></figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="209541" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/405269030_898929681598340_3297312779315658826_n-819x1024.jpg" alt="" class="wp-image-209541" /></figure> </figure> 
+
+Pela soberania da informação.

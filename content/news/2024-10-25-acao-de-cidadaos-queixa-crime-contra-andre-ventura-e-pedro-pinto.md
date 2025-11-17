@@ -1,0 +1,179 @@
+---
+title: Ação de cidadãos – Queixa-crime contra André Ventura e Pedro Pinto
+author: Publicação Comunitária
+type: post
+date: 2024-10-25T17:03:27+00:00
+url: /?p=224726
+fpsm_author_name:
+  - Iniciativa Cidadã
+links:
+  - https://peticaopublica.com/?pi=PT122809
+activitypub_status:
+  - federate
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Discriminação
+
+---
+<https://peticaopublica.com/?pi=PT122809>
+
+&nbsp;
+
+Os cidadãos abaixo-assinados vêm apresentar:
+
+António Garcia Pereira, Anabela Mota Ribeiro, Bernardo Marques Vidal, Bruno Ferreira, Catarina Marcelino, Catarina Silva, Carmen Granja, Carla Castelo, Célia Costa, Cristina Maria Sá Pinto, Cláudia Semedo, Daniel Oliveira, Eva Rap Diva, Francisca Van Dunem, Filipe Espinha, Inês Melo Sampaio, João Maria Jonet, João Costa, João Miranda, Luísa Semedo, Maria Castello Branco, Mamadou Ba, Maria Escaja, Mafalda Anjos, Miguel Prata Roque, Miguel Baumgartner, Myriam Taylor, Pedro Marques Lopes, Pedro Alpuim, Pedro Tavares, Pedro Vieira, Pedro Coelho dos Santos, Priscila Valadão, Porfírio Silva, Rita Ferro Rodrigues, Ricardo Sá Fernandes, Telma Tavares, Teresa Pizarro Beleza, Vasco Mendonça, Vicente Valentim.
+
+PARTICIPAÇÃO CRIMINAL
+
+Pelos crimes de:
+
+INSTIGAÇÃO À PRÁTICA DE CRIME  
+(p.p. artigo 297.º do Código Penal)
+
+APOLOGIA DA PRÁTICA DE CRIME  
+(p.p. artigo 298.º do Código Penal)
+
+INCITAMENTO À DESOBEDIÊNCIA COLETIVA  
+(p.p. artigo 330.º do Código Penal)
+
+E dar conta do preenchimento do ilícito criminal de:
+
+OFENSA À MEMÓRIA DE PESSOA FALECIDA  
+(p.p. artigo 185.º do Código Penal)
+
+Contra
+
+ANDRÉ CLARO AMARAL VENTURA, jurista e deputado, com domicílio profissional no Palácio de São Bento, Praça da Constituição de 1976, 1249-068 Lisboa;
+
+PEDRO MIGUEL SOARES PINTO, empresário e deputado, com domicílio no Palácio de São Bento, Praça da Constituição de 1976, 1249-068 Lisboa;
+
+E
+
+RICARDO LOPES REIS, assessor parlamentar, com domicílio profissional no Palácio de São Bento, Praça da Constituição de 1976, 1249-068 Lisboa;
+
+O que fazem pelos seguintes factos:
+
+1. No dia 22 de outubro de 2024, o cidadão Odair Moniz foi mortalmente alvejado, por um elemento da força de segurança PSP, em circunstâncias ainda por apurar.
+
+2. No dia 23 de outubro de 2024, o suspeito André Ventura proferiu estas declarações, perante todo o país, nas instalações da Assembleia da República, em declarações públicas filmadas, difundidas e registadas por vários órgãos de comunicação social, conforme se comprova pelo vídeo que ora se junta como Doc. n.º 1, através de remissão para a sua hiperligação https://www.youtube.com/watch?v=MvnHGgMTgTo (cfr. passagem de 00m54s):
+
+«E há um ataque perpetrado por alguém que especificamente quis atacar polícias e fugir à sua autoridade. Que acaba morto numa ação policial.»
+
+3. E continuou (cfr. Doc. n.º 1, passagem de 01m14s):
+
+«Eu vou dizer isto com todas as palavras: nós não devíamos constituir este homem arguido; nós devíamos agradecer a este polícia o trabalho que fez. Devíamos agradecer a este polícia o trabalho que fez. De parar um criminoso que estava disponível com armas brancas, para atacar polícias. Que estava disponível para desobedecer à sua ordem e à sua autoridade. Que estava disponível para colocar em causa a ordem pública.»
+
+4. E mais disse (cfr. Doc. n.º 1, passagem de 02m49s):
+
+«Este polícia, nós devemos agradecer-lhe. Nós devíamos condecorá-lo e não de o constituir arguido, de o ameaçar com processos ou ameaçar prendê-lo.»
+
+5. Através de um vídeo difundido, para todo o país, através da plataforma eletrónica da rede social “X” (ex-“Twitter”), a 22 de outubro de 2024, o suspeito André Ventura também proferiu as seguintes declarações (cfr. Doc. n.º 2, que ora se junta através de remissão para a hiperligação https://x.com/AndreCVentura/status/1848840069505032359, com duração de 54 segundos):
+
+«Obrigado. Obrigado. Era esta a palavra que devíamos estar a dar ao polícia que disparou sobre mais este bandido na Cova da Moura. Mas não. Agora, multiplicam-se as narrativas de que ele era boa pessoa, que ajudava muito, que era um tipo simpático e porreiro. A única coisa: tentou esfaquear polícias, estava a fugir deles e ia cometer crimes, com toda a probabilidade. Mas era bom tipo. (&#8230;) Por isso, ao contrário de todos os outros: Não, este bandido não era boa pessoa. Sim, o polícia esteve bem. Obrigado. Era o que os políticos, hoje, os políticos decentes deviam dizer. Obrigado.»
+
+6. Todas as acusações eram falsas, inventadas e apenas visavam incendiar os ânimos sociais, provocando tumultos sociais, raiva, ressentimento e violência.
+
+7. Confirmou-se já que a pessoa falecida que foi ofendida por André Ventura não tinha cometido crime nenhum, no momento em que foi abordado por agentes das forças de segurança, não tendo furtado ou roubado o veículo em que se deslocava, que lhe pertencia (cfr. Doc. n.º 3, que ora se junta e cujo conteúdo se dá por reproduzido).
+
+8. Também foi tornado público, pelos órgãos de comunicação social, através de fontes relativas ao processo-crime em curso, que há gravações de vídeo, através das câmaras de videovigilância pública, que a pessoa falecida que foi ofendida por André Ventura não atacou, nem ameaçou os agentes das forças de segurança com nenhuma faca (cfr. Doc. n.º 4, que ora se junta e cujo conteúdo se dá por reproduzido).
+
+9. Independemente da existência de qualquer registo criminal de anteriores ilícitos cujas penas já terão sido cumpridas (que se ignora existir ou não), nenhum ser humano – ainda para mais quando ainda nem sequer foi enterrado e a família está a velar o seu morto e a viver o seu luto – pode ser caraterizado, humilhado e despersonalizado como “bandido”, apenas para fomentar uma maior adesão popular às mentiras que determinado indivíduo difunde, designadamente, em redes sociais e outras plataformas de comunicação.
+
+10. O artigo 185.º do Código Penal é claríssimo quando determina a punição do crime de ofensa à memória de pessoa falecida:
+
+«Artigo 185.º  
+Ofensa à memória de pessoa falecida  
+1 &#8211; Quem, por qualquer forma, ofender gravemente a memória de pessoa falecida é punido com pena de prisão até 6 meses ou com pena de multa até 240 dias.  
+2 &#8211; É correspondentemente aplicável o disposto:  
+a) Nos n.os 2, 3 e 4 do artigo 180.º; e  
+b) No artigo 183.º.»
+
+11. Nos termos do artigo 183.º, n.º 2, alínea b), do Código Penal, essa pena de prisão deve ser agravada em um terço, por a ofensa ter sido amplamente difundida pelo suspeito André Ventura.
+
+12. O suspeito André Ventura é doutorado em Direito Penal, pelo que tinha perfeita consciência do que estava a imputar ao falecido Odair Moniz, bem sabendo que a sua família é pobre e tem poucos recursos, pelo que não poderia reagir adequadamente, e que as mentiras que se dedicou a espalhar através de meios de comunicação em massa (em especial, nas redes sociais) nunca poderiam ser eliminadas ou desmentidas.
+
+13. Tratando-se de um crime particular, que depende de queixa e dedução de acusação particular, pelo(s) titular(es) do bem jurídico que foi lesado, nos termos do artigo 188.º, do Código Penal, os Participantes não dispõem de legitimidade processual para apresentar queixa.
+
+14. Porém, tendo em conta a repercussão social e pública dos factos relatados e tendo em conta que o Ministério Público é responsável pela tutela da legalidade democrática, nos termos do artigo 219.º, da Constituição da República Portuguesa, requer-se a V.ª Ex.ª que notifique a família do falecido ofendido, garantindo que a mesma dispõe dos meios (incluindo financeiros) para exercício desse direito, em estrito cumprimento do artigo 20.º, n.ºs 1 e 2, da Constituição.
+
+15. Acresce ainda que o elogio de uma atuação policial que implicou a perda de uma vida humana corresponde, obviamente, à apologia de um crime (sem prejuízo, claro está, da possibilidade de esse crime poder vir a ser justificado ou ter a sua ilicitude excluída se, após a devida investigação criminal, se concluir ter havido legítima defesa ou outra causa de exclusão da ilicitude).
+
+16. Ora, a apologia pública de um crime constitui crime previsto e punido pelo artigo 298.º do Código Penal:
+
+«Artigo 298.º  
+Apologia pública de um crime  
+1 &#8211; Quem, em reunião pública, através de meio de comunicação social, por divulgação de escrito ou outro meio de reprodução técnica, recompensar ou louvar outra pessoa por ter praticado um crime, de forma adequada a criar perigo da prática de outro crime da mesma espécie, é punido com pena de prisão até 6 meses ou com pena de multa até 60 dias, se pena mais grave lhe não couber por força de outra disposição legal.  
+(&#8230;)»
+
+17. Mais uma vez, o suspeito André Ventura é doutorado em Direito e sabe muito bem que “quem matar outrém” comete o crime de homicídio, ainda que o mesmo possa vir a ver a sua ilicitude excluída, por via do reconhecimento judicial de uma causa de justificação, como é o caso da legítima defesa.
+
+18. Ao elogiar publicamente um ato policial que conduziu à morte de um cidadão, o suspeito André Ventura sabe que cria nas pessoas que não dispõem de conhecimentos jurídicos especializados a convicção de que as forças de segurança podem usar armas de fogo sempre que um cidadão não desrespeite uma ordem delas emanada, incluindo de detenção.
+
+19. O suspeito André Ventura conhece muito bem o regime jurídico do porte e uso de armas de fogo pelas forças de segurança, não só porque é doutorado em Direito, como porque é deputado, participando na tomada de decisão legislativa, pelo que não desconhece que o uso excessivo e desproporcionado de arma de fogo, por agente das forças de segurança, constitui crime.
+
+20. Acresce que as declarações públicas que pretendem incentivar a desordem e a desobediência dos agentes das forças de segurança face aos seus superiores hierárquicos – em especial, a Ministra da Administração Interna e o Governo, a quem cabe dirigir a política geral do país, incluindo em matéria de segurança interna (cfr. artigo 182.º da Constituição) – configura ainda um crime de incitamento à desobediência coletiva, previsto e punido pelo artigo 330.º do Código Penal:
+
+«Artigo 330.º  
+Incitamento à desobediência coletiva  
+1 &#8211; Quem, com intenção de destruir, alterar ou subverter pela violência o Estado de direito constitucionalmente estabelecido, incitar, em reunião pública ou por qualquer meio de comunicação com o público, à desobediência colectiva de leis de ordem pública, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.  
+2 &#8211; Na mesma pena incorre quem, com a intenção referida no número anterior, publicamente ou por qualquer meio de comunicação com o público:  
+a) Divulgar notícias falsas ou tendenciosas susceptíveis de provocar alarme ou inquietação na população;  
+b) Provocar ou tentar provocar, pelos meios referidos na alínea anterior, divisões no seio das Forças Armadas, entre estas e as forças militarizadas ou de segurança, ou entre qualquer destas e os órgãos de soberania; ou  
+c) Incitar à luta política pela violência.»
+
+21. Ao afirmar que o Governo da República e que os demais partidos políticos perseguem os agentes das forças de segurança e que estes são desrespeitados e não louvados, em detrimento de “criminosos” – que o suspeito André Ventura afirma serem protegidos pelo Governo e pelos demais órgãos de soberania –, o suspeito André Ventura difundiu “notícias falsas ou tendenciosas susceptíveis de provocar alarme ou inquietação na população”, visando apenas gerar o caos, a desordem pública e a revolta dentro das próprias forças de segurança.
+
+22. Ora, nos termos da alínea b) do n.º 2 do artigo 330.º do Código Penal, constitui crime de incitamento à desobediência coletiva, a tentativa de provocar divisões dentro das forças de segurança, que se encontram sujeitas ao dever de obediência hierárquica e ao escrupuloso respeito da Constituição e da Lei.
+
+23. Bem sabendo as limitações jurídicas a que os agentes das forças de segurança estão sujeitos, em matéria de porte e uso de arma de fogo, o suspeito André Ventura, pretendeu acicatar os ânimos dentro das forças de segurança e estimular eventuais reações de revolta e de uso excessivo da força e de arma de fogo, o que coloca em causa o Estado de Direito democrático e potencia uma alteração autoritária do regime político que é defendido pela Constituição da República Portuguesa.
+
+Por outro lado,
+
+24. A 23 de outubro de 2024, o suspeito Pedro Pinto também proferiu declarações que constituem a prática de vários crimes durante um debate que manteve num programa informativo da RTP3 designado 360º, iniciado às 21h00.
+
+25. Com efeito, o suspeito Pedro Pinto proferiu as seguintes declarações, conforme se comprova pelo vídeo que ora se junta como Doc. n.º 5, através de remissão para a sua hiperligação https://www.youtube.com/watch?v=MvnHGgMTgTo (cfr. passagem de 00m54s):
+
+«Se calhar, se disparassem mais a matar, o país estava mais na ordem.»
+
+26. Esta afirmação não só corresponde à apologia de um crime, previsto e punido pelo já transcrito artigo 298.º do Código Penal, como se enquadra igualmente no crime de incitamento à prática de um crime, previsto e punido pelo artigo 297.º do Código Penal:
+
+«Artigo 297.º  
+Instigação pública a um crime  
+1 &#8211; Quem, em reunião pública, através de meio de comunicação social, por divulgação de escrito ou outro meio de reprodução técnica, provocar ou incitar à prática de um crime determinado é punido com pena de prisão até 3 anos ou com pena de multa, se pena mais grave lhe não couber por força de outra disposição legal.
+
+2 &#8211; É correspondentemente aplicável o disposto no n.º 2 do artigo 295.º»
+
+27. O suspeito Pedro Pinto incentivou que agentes das forças de segurança usassem, indevidamente, as armas que lhes são entregues pela República Portuguesa, em nome de todos os cidadãos, para matar outros concidadãos na via pública, através de execuções sumárias – por não serem precedidos do devido processo criminal justo e independente (“due process of law”) – que são proibidas pela Constituição e por todos os textos internacionais de defesa dos direitos humanos.
+
+28. Não procede aqui qualquer argumento de liberdade de expressão, na medida em que o artigo 37.º, n.º 3, da Constituição da República Portuguesa, expressamente determina que o seu livre exercício se encontra limitado pelo cometimento de crimes no seu uso.
+
+29. O suspeito Pedro Pinto sabe muito bem que, ao arrogar-se de defensor dos agentes das forças de segurança – invertendo a disciplina e dever de obediência hierárquica que cabe ao Governo e, em especial, à Ministra da Administração Interna –, não pode incentivar esses mesmos agentes a disparar a matar ou a incumprir a Constituição e a Lei, através do uso excessivo da força e, em especial, de armas de fogo.
+
+30. Mais uma vez, com estas declarações, o suspeito Pedro Pinto também cometeu o mesmo crime de incitamento à desobediência coletiva das forças de segurança que foi cometido pelo suspeito André Ventura.
+
+31. Com efeito, este apelo direto a que agentes das forças de segurança matem pessoas, no exercício das suas funções, com vista a restabelecer uma (pretensa) ordem – que só constitui ordem pública, num regime totalitário em que a Lei é imposta pela brutalidade e pela violência – constitui um crime de incitamento à desobediência coletiva, previsto e punido pelo artigo 330.º do Código Penal, pois visa alterar a ordem constitucional democrática, através do uso indevido de armas por parte de agentes das forças de segurança e, assim, através da instigação de uma rebelião e desobediência generalizada no seio das forças de segurança da República Portuguesa.
+
+Por fim,
+
+32. A 23 de outubro de 2024, o suspeito Ricardo Reis, que é assessor parlamentar, conforme se comprova pelo respetivo despacho de nomeação (cfr. Doc. n.º 6, que ora se junta), proferiu as seguintes declarações, através da plataforma eletrónica da rede social “X” (ex-“Twitter”), perante todo o país, em função da sua enorme difusão (cfr. Doc. n.º 7, que ora se junta):
+
+33. Estas declarações configuram a apologia de um crime, previsto e punido pelo artigo 298.º do Código Penal, na medida em que o suspeito Ricardo Reis louva a morte de uma pessoa por outrém. Como já se demonstrou, supra, independentemente da ação policial poder vir a ser justificada por legítima defesa ou outra causa de exclusão de ilicitude, estaremos sempre perante o preenchimento dos elementos do tipo objetivo de crime de homicídio.
+
+34. O suspeito Ricardo Reis, sendo funcionário público e recebendo um salário pago por todos os contribuintes portugueses (incluindo, as pessoas racializadas e aquelas/es que o mesmo apelida de “criminosos”), bem sabia que a repercussão das suas palavras seria intensa e de âmbito generalizado, por força do uso de uma rede social de grande difusão.
+
+35. Tanto assim é que as suas palavras foram alvo de reprodução pública e de disseminação generalizada, como se comprova pelas notícias publicadas nos dias 23 e 24 de outubro de 2024 (cfr. Doc. n.º 8, que ora se junta).
+
+36. Acresce que, à semelhança e em conluio com o suspeito André Ventura, o suspeito Ricardo Reis também ofendeu, de modo imoral e contrário ao respeito que é devido aos mortos (e, também, à família enlutada), a memória de Odair Moniz, despersonalizando-o, estigmatizando-os e tratando-o como um criminoso.
+
+37. Pior do que isso, comprazeu-se e louvou a sua morte, difundindo a uma rede muito alargada de leitores e destinatários a ideia de que a vida de Odair Moniz não tem valor algum e de que era legítimo que agentes das forças de segurança abatessem a tiro suspeitos da prática de crimes, aparentando defender a aplicação, pelo Estado português, de execuções sumárias, sem o devido processo judicial, de uma (inadmissível) “pena de morte”, em plena via pública.
+
+38. Deste modo, o suspeito Ricardo Reis cometeu, também, o crime de ofensa à memória de pessoa falecida, previsto e punido pelo artigo 185.º do Código Penal.
+
+Pelo exposto, face a estas notícias de crimes, requer-se a V.ª Ex.ª que:
+
+A) Ordene a devida abertura de inquérito criminal pelos factos relatados na presente queixa-crime;
+
+B) Notifique e garante o apoio jurídico à família do falecido ofendido, para efeitos de ponderação sobre a dedução de queixa e acusação particular, pelo crime previsto e punido pelo artigo 185.º do Código Penal.
+
+As/os Cidadãs/ãos

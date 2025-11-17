@@ -1,0 +1,79 @@
+---
+title: From Palestine to Portugal – From Beirut to Zambujal – Globalize the Intifada
+author: Publicação Comunitária
+type: post
+date: 2024-10-24T02:05:03+00:00
+url: /?p=224709
+fpsm_author_name:
+  - Activists of the Palestine Liberation Movement in Portugal
+activitypub_status:
+  - federated
+post_list_status:
+  - off
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Discriminação
+  - Guerra e Paz
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+  - Repressão
+
+---
+<p style="text-align: center;">
+  <b>no more racist murders! </b>
+</p>
+
+<p style="text-align: center;">
+  <b>no more genocide!</b>
+</p>
+
+<p style="text-align: center;">
+  <b>from palestine to portugal </b>
+</p>
+
+<p style="text-align: center;">
+  <b>from beirut to zambujal</b>
+</p>
+
+<p style="text-align: center;">
+  <b>globalize the intifada!</b>
+</p>
+
+On the morning of Monday, October 21st, the Portuguese state carried out another extra-judicial execution of a Black worker.
+
+The murder of Odair Moniz, a 43 year-old resident of Zambujal in Amadora, on the outskirts of Lisbon, by an officer of the PSP (Public Security Police), is but another demonstration of the complete disregard for Black lives in Portugal, as well as of the pervasive sense of impunity among its police forces. His name now joins a long list of victims for whom the encounter with the Portuguese state turned out to be fatal.
+
+Like in the numerous cases of police violence in the past, everything is surrounded by a cloud of (un)certainty quickly justifying the action of the aggressor as a necessary evil. In this case, the quickly disseminated lie about an escape in a stolen vehicle.
+
+Faced with the failure of the attempts to inscribe the victim as a criminal evading arrest, the usual excuse emerged, with the fatal wounding of Odair’s chest being justified as self defense against the threat of a knife.
+
+This direct violence by the Portuguese state be cannot be dissociated from a national political context characterised by the normalisation of racist discourses and the growth of the far-right political forces, with its ensuing legitimation of state and non-state violence against not only all racialized people of colour, but also women and queer, trans and non-binary persons.
+
+Such a national context, in turn, cannot be divorced from the international context in which we are living, with a racist genocide being carried out for more than a year by the imperialist and colonialist regimes of the USA, Canada, and of the European countries, against the populations of Palestine, Lebanon, Syria, Yemen, and Iraq — through their zionist enclave in the Middle East — as well as against the populations of Congo, Sudan, and Western Sahara.
+
+As is the case with the racist murders and violence in Portugal, the egregious violence by the State of Israel is also not an exception: historically, it is the continuation of a long history of colonial violence and extermination at a planetary scale; at present, it is the cutting edge of a new global fascism throwing an ever-increasing number of the racialized populations of the global majority into the category of surplus populations, concentrated in colonies, camps, bairros, prisons and other such zones of exception, where at any moment their lives can be arbitrarily terminated.
+
+From the killing of Odair to the holocaust in the tents of the Al-Aqsa Martyrs’ Hospital in Deir Al-Balah, Gaza, to the repression of anti-genocide students and demonstrators all over the West: all of this is part of what our ruling classes and our governments decided will be normal.
+
+The struggle for Palestinian liberation is, therefore, a global fight. As part of the movement for Palestinian liberation in Portugal, we express our total solidarity, first and foremost to Odair’s grieving and mourning family, friends and neighbours; but also to all people making up Portugal’s Black and racialized working class, forced to endure on a daily basis the brutality and dehumanisation of the racist and colonial regime of a country that relies on the super-exploitation of their labour.
+
+In Portugal as in Palestine, our solidarity does not mistake those who oppress and those who resist oppression. In the same way we refuse to condemn the heroic resistance by the people of Palestine, whose armed resistance forces were able to inflict a humiliating blow to the Zionist occupier, continuing since then to proudly resist in the face of the most brutal forms of violence, we likewise support and call for the participation in all forms and moments of resistance and combat against the racist Portuguese state that come to be adopted and called for by the Black and racialized populations of Portugal in their uprising towards their liberation, self-determination and dignity.
+
+<p style="text-align: center;">
+  <b>Odair Shaheed lives!</b>
+</p>
+
+<p style="text-align: center;">
+  <b>honour and glory to all martyrs!</b>
+</p>
+
+<p style="text-align: center;">
+  <b>from palestine to portugal, down with all the murderous colonial and racist regimes and governments!</b>
+</p>
+
+<p style="text-align: center;">
+  <b>from gaza to cova da moura — globalize the intifada!</b>
+</p>
+
+<p style="text-align: center;">

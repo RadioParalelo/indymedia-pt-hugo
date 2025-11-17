@@ -1,0 +1,386 @@
+---
+title: Carta Aberta: Profissionais de Saúde pela Palestina
+author: Publicação Comunitária
+type: post
+date: 2023-11-26T13:40:43+00:00
+url: /?p=211633
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111477132632046171
+categories:
+  - Guerra e Paz
+  - Indymedia
+tags:
+  - AltPT
+  - FreePalestine
+  - Indymedia
+  - Palestina
+  - PTrevolutionTV
+
+---
+**Exmas/os. Bastonárias/os das Ordens Profissionais da Saúde** Exmo. Bastonário da Ordem dos Médicos, Carlos Cortes&nbsp;
+
+Exma. Bastonária da Ordem dos Enfermeiros, Ana Rita Cavaco&nbsp;
+
+Exmo. Bastonário da Ordem dos Psicólogos, Francisco Miranda Rodrigues Exma. Bastonária da Ordem dos Nutricionistas, Liliana Sousa&nbsp;
+
+Exmo. Bastonário da Ordem dos Médicos Dentistas, Miguel Pavão&nbsp;
+
+Exmo. Bastonário da Ordem dos Farmacêuticos, Helder Mota Filipe&nbsp;
+
+Exmo. Bastonário da Ordem dos Fisioterapeutas, António Manuel Fernandes Lopes&nbsp;
+
+É urgente e imprescindível a tomada de posição sobre a crise humanitária que se agrava desde o dia 7 de Outubro, em Gaza. **Até ao momento, foram assassinadas, pelo estado de Israel, mais de 14 mil pessoas, das quais 5.600 (40%) são crianças.** A estas vítimas, somam-se as mais de 33.000 pessoas feridas, não contabilizando as mais de 6.000 pessoas ainda desaparecidas nos escombros dos edifícios destruídos<sup>1,2</sup>. Isto significa que, a cada dia, são mortas ou feridas cerca de 420 crianças, algumas destas com apenas alguns meses de vida<sup>3</sup>. Os ataques intencionais e sistemáticos a infraestruturas civis não cessam, tendo já obrigado à deslocação forçada de 1,7 milhões de pessoas. Os alvos incluem campos de refugiados, escolas, abrigos, hospitais e ambulâncias. **Enquanto profissionais de várias áreas da saúde, exigimos uma tomada de posição que contribua para a pressão internacional por um cessar-fogo imediato.&nbsp;**
+
+**Segundo a Organização Mundial de Saúde (OMS), o estado de Israel já atacou, à data da redação desta carta, 164 infraestruturas médicas e foram mortos mais de 220 profissionais de saúde em Gaza****<sup>,4,5</sup>****.** Cerca de 70% dos centros de saúde e 26 dos 35 hospitais estão, atualmente, fora de serviço devido à destruição das infraestruturas, à insegurança, falta de combustível, electricidade, água, alimentos e medicamentos<sup>6</sup>. O Hospital de Al-Shifa e o Hospital Indonésio eram alguns dos únicos locais de Gaza onde poderiam ser fornecidos cuidados de emergência que salvam vidas, mas foram alvo de ataques contínuos que levaram ao seu colapso<sup>7,8,9,10</sup>. Profissionais de saúde estão a trabalhar em condições hediondas, improvisando soluções pela falta de meios, como, por exemplo, proceder a amputações, cesarianas ou outras cirurgias sem anestesia, lutando diariamente contra a exaustão e o desespero. Prevê-se que mais de 50 mil grávidas não tenham acesso a cuidados pré-natais essenciais e que, só este mês, cerca de 5.000 partos venham a ter lugar, sem assistência, em campos improvisados<sup>11</sup>. Para além disso, por ausência de acesso a condições sanitárias mínimas, prevê-se um aumento da transmissão de doenças infeto-contagiosas, correspondendo a uma emergência de saúde pública<sup>12</sup>.&nbsp;
+
+**A proteção de hospitais e profissionais de saúde em conflitos armados está explicitamente assegurada segundo a legislação humanitária internacional. Atacar, deliberadamente, hospitais é um crime de guerra perfeitamente tipificado na legislação internacional. Esta tática foi já denunciada e condenada internacionalmente noutros contextos recentes****<sup>13</sup>****.&nbsp;**
+
+Ademais, na Cisjordânia, de acordo com o ministério da saúde palestiniano, pelo menos 218 pessoas palestinianas foram mortas e cerca de 2.850 ficaram feridas pelas forças militares do estado de Israel, desde 7 de Outubro<sup>14</sup>. **Antes do ataque do Hamas, 2023 já** ******era o ano mais mortífero para as pessoas palestinianas na Cisjordânia em mais de** ******duas décadas, com 250 mortes, a maioria durante operações militares do estado de** ******Israel,** **a somar aos** **ataques de colonos ilegais israelitas****<sup>15</sup>****.**
+
+**Relembramos que a violência que o estado de Israel exerce sobre o povo palestiniano não começou no passado dia 7 de Outubro. Começou há mais de 75 anos, aquando da fundação do estado colonial de Israel e com a ocupação ilegal da Palestina, reconhecida como tal pela Organização das Nações Unidas (ONU)****<sup>16</sup>****. Desde então, agravado pelo bloqueio total imposto a Gaza em 2007,** tem sido limitado severamente o acesso daquela população a elementos de sobrevivência essenciais como água limpa, medicamentos e material médico, condenando a população de Gaza a doenças, de outro modo, preveníveis e tratáveis. Múltiplas organizações internacionais de profissionais de todo o mundo, como a OMS e a Médicos Sem Fronteiras, têm estado no terreno para tentar mitigar as consequências da política de apartheid do estado de Israel sobre Gaza.&nbsp;
+
+**Não iremos compactuar com o silêncio nem com o apoio a crimes de guerra que massacram e punem coletivamente toda a população de Gaza e não ficaremos inertes perante a violência e o assassinato intencional de colegas de profissão e destruição de hospitais.&nbsp;**
+
+**Assim, os profissionais de saúde signatários, em solidariedade com os colegas em Gaza que continuam a servir a população em circunstâncias terríveis, convidam as Ordens Profissionais da Saúde em Portugal para que se juntem numa exigência comum:&nbsp;**
+
+● A condenação da violência e a destruição que o estado de Israel está a infligir contra o povo palestiniano, principalmente, mas não só, em Gaza;&nbsp;
+
+● A condenação dos ataques sistemáticos a estruturas como hospitais, centros de saúde e ambulâncias, bem como, o assassinato de profissionais de saúde, relembrando que o direito internacional proíbe o ataque deliberado a estruturas médicas e exige que os profissionais de saúde sejam respeitados e protegidos durante os conflitos;&nbsp;
+
+● O apelo ao cessar-fogo definitivo e incondicional, bem como, o acesso imediato e sem restrições à ajuda humanitária em Gaza;&nbsp;
+
+● O apelo ao fim do bloqueio imposto em Gaza desde 2007, e o fim do regime de apartheid imposto pelo estado de Israel desde 1948, que limita o acesso a direitos fundamentais, como a acesso à saúde, a cidadãos palestinianos;&nbsp;
+
+● Uma declaração de solidariedade e apoio a colegas profissionais de saúde em Gaza;&nbsp;
+
+● Pressão política junto do Ministro da Saúde e do Governo Português para que haja a defesa inequívoca e imediata do cessar-fogo, a condenação clara dos ataques do estado de Israel em Gaza, o reconhecimento dos crimes e violações do direito internacional a ser cometidos, bem como, a aplicação de medidas de boicote e sanções ao estado de Israel.&nbsp;
+
+Pausas humanitárias não chegam e os hospitais não são um alvo.&nbsp;
+
+**Cessar-fogo já! Palestina livre já!&nbsp;**
+
+**26 de Novembro de 2023**
+
+**Referências:&nbsp;**
+
+<sup>1 </sup>Hostilities in the Gaza Strip and Israel &#8211; reported impact | Day 44 (19/11/2023), United Nations Office for the Coordination of Humanitarian Affairs: https://www.ochaopt.org/content/hostilities-gaza-strip-and-israel-reported-impact-day-44&nbsp;
+
+<sup>2 </sup>Defense for Children International statement on children’s rights in Palestine (19/11/2023): https://defenceforchildren.org/defence-for-children-international-statement-on-childrens-rights-in-palestine/&nbsp;
+
+<sup>3 </sup>Women and newborns bearing the brunt of the conflict in Gaza, UN agencies warn (03/11/2023): https://www.who.int/news/item/03-11-2023-women-and-newborns-bearing-the-brunt-of-the-conflict-in-gaza-un-ag encies-warn&nbsp;
+
+<sup>4 </sup>Healthcare Workers Watch &#8211; Palestine (19/11/2023) : https://twitter.com/HCWWatch/status/1726436650840990026/photo/4&nbsp;
+
+<sup>5 </sup>Doctors are among the many dead in Gaza. These are their stories (16/11/2023): https://www.npr.org/2023/11/16/1213307710/gaza-doctors-al-shifa-hospital&nbsp;
+
+<sup>6 </sup>The World Health Organization says nearly two-thirds of Gaza’s health facilities have ceased functioning, ABC News:&nbsp;
+
+https://abcnews.go.com/International/wireStory/world-health-organization-thirds-gazas-health-facilities-ceased-10 4245935&nbsp;
+
+https://www.reuters.com/world/middle-east/surgeon-flees-gaza-citys-last-functioning-hospital-after-anaesthetics-r un-out-2023-11-17/&nbsp;
+
+<sup>7 </sup>URGENT: Patients and medical staff trapped in hospitals under fire in Gaza (11/11/2023): https://www.doctorswithoutborders.org/latest/urgent-patients-and-medical-staff-trapped-hospitals-under-fire-gaza&nbsp;
+
+<sup>8 </sup>WHO appalled by latest attack on Indonesian Hospital in Gaza (20/11/2023): https://www.emro.who.int/media/news/who-appalled-by-latest-attack-on-indonesian-hospital-in-gaza.html&nbsp;
+
+<sup>9 </sup>Hospital indonésio em Gaza totalmente evacuado. Detido diretor do Al-Shifa (23/11/2023): https://www.tsf.pt/mundo/hospital-indonesio-em-gaza-totalmente-evacuado-detido-diretor-do-al-shifa-17386072.h tml&nbsp;
+
+<sup>10 </sup>Hospitals in northern Gaza completely out of service: Health official (21/11/2023): https://www.aljazeera.com/news/2023/11/21/hospitals-in-northern-gaza-completely-out-of-service-health-official&nbsp;
+
+<sup>11 </sup>Women and newborns bearing the brunt of the conflict in Gaza, UN agencies warn (3/11/2023) https://www.who.int/news/item/03-11-2023-women-and-newborns-bearing-the-brunt-of-the-conflict-in-gaza-un-ag encies-warn&nbsp;
+
+<sup>12 </sup>Risk of disease spread soars in Gaza as health facilities, water and sanitation systems disrupted (8/11/2023) https://www.emro.who.int/media/news/risk-of-disease-spread-soars-in-gaza-as-health-facilities-water-and-sanitati on-systems-disrupted.html&nbsp;
+
+<sup>13 </sup>Stop attacks on health care in Ukraine &#8211; World Health Organization statement (13/03/2022): https://www.who.int/news/item/13-03-2022-stop-attacks-on-health-care-in-ukraine&nbsp;
+
+<sup>14</sup>Another Palestinian killed by Israeli fire in West Bank, death toll rises to 218 (21/11/2023): https://www.aa.com.tr/en/middle-east/another-palestinian-killed-by-israeli-fire-in-west-bank-death-toll-rises-to-218 /3060577&nbsp;
+
+<sup>15</sup>Israeli settler attacks on West Bank Palestinians have escalated since Oct. 7, UN says (20/11/2023): https://www.pbs.org/newshour/world/israeli-settler-attacks-on-west-bank-palestinians-have-escalated-since-oct-7- un-says&nbsp;
+
+<sup>16 </sup>Dismantling Israel’s illegal occupation is a sine qua non for Palestinian right to self-determination: UN expert (27/10/2022)&nbsp;
+
+https://www.ohchr.org/en/press-releases/2022/10/dismantling-israels-illegal-occupation-sine-qua-non-palestinian right-self
+
+**Primeiras assinaturas:&nbsp;**
+
+Adriana Pires Barrento Bugalho, Psicóloga, Cédula 24238&nbsp;
+
+Afonso Maria da Silva Moreira, Médico, Saúde Pública, OM 60732&nbsp;
+
+Ágata de Oliveira Baginha, Enfermeira, Mestre em Saúde Pública, OE 68772 Alice Fernandes Pinto, Enfermeira, OE 75405&nbsp;
+
+Amelia Chiara Trombetta, Médica, Imunoalergologia, OM 73415&nbsp;
+
+Anabela Salgado, Médica Dentista, OMD 4420&nbsp;
+
+Anabela Lopes Moura, Enfermeira, OE 1971&nbsp;
+
+Ana Catarina Afonso Quintão, Médica, Psiquiatria, OM 62120&nbsp;
+
+Ana Catarina Lima de Almeida Gomes, Enfermeira, OE 62082&nbsp;
+
+Ana Filipa Marques Brasileiro, Médica, Dermatologia, OM 49634&nbsp;
+
+Ana Isabel Martins Gonçalves, Médica, OM 64105&nbsp;
+
+Ana Luísa Abreu, Psicóloga, OPP 020995&nbsp;
+
+Ana Luísa Pescada, Enfermeira, 58677&nbsp;
+
+Ana Maria Caeiro dos Santos Custódio, Fisioterapeuta, OF 3595&nbsp;
+
+Ana Maria Carvalho Valinho, Enfermeira, Urgência e Ajuda Humanitária, OE 64854 Ana Maria Correia de Campos,Médica OM17652&nbsp;
+
+Ana Paula Cruz, Médica, MGF, OM 62637&nbsp;
+
+Ana Raquel Pereira Correia, Farmacêutica&nbsp;
+
+Ana Rita da Costa Maurício, Enfermeira, OE 89008&nbsp;
+
+Ana Rita Marques da Silva, Médica Dentista, OMD 6532&nbsp;
+
+Ana Sofia Gonçalves Novo e Rodrigues de Oliveira, médica, MGF, OM 70945 Ana Sofia Pereira Pinheiro, Enfermeira, OE 93333&nbsp;
+
+André Beja, Enfermeiro e Investigador, OE 43403&nbsp;
+
+André Almeida, Médico, Medicina Interna, OM 4866&nbsp;
+
+Andréa Varanda, enfermeira, especialista em saúde mental, Oe 57788 Ângelo Miguel Marques Simões, Psicólogo, OPP 22862&nbsp;
+
+Arminda Monteiro, Enfermeira, OE 28958&nbsp;
+
+Arianna Borelli, Médica, MGF, OM 65037&nbsp;
+
+Artur Jorge Correia de Almeida, Enfermeiro Especialista em Enfermagem de Reabilitação, OE 41143&nbsp;
+
+Alda Sofia Pereira, Enfermeira, OE&nbsp;
+
+Augusta Sousa, Enfermeira, OE 4&nbsp;
+
+Beatriz Bartilotti Matos, Médica, MGF, OM 71203&nbsp;
+
+Beatriz M. Neves, Médica, Interna de Ginecologia e Obstetrícia, OM 68570 Beatriz Parreira, Médica, MGF, OM 66784&nbsp;
+
+Berta Marilia Câmara Pacheco, Psicóloga Clínica e da Saúde, OPP 9352 Branca Raquel Almeida, Psicóloga Clínica, OPP 8490&nbsp;
+
+Bruno Maia, Médico Intensivista/Neurologista, OM 46364&nbsp;
+
+Carina Castro Silva, Médica Interna de Saúde Pública, OM 68704&nbsp;
+
+Carolina Ferreira dos Santos, Médica, Psiquiatria, OM 68155&nbsp;
+
+Catarina Capella, Médica, MGF, OM 66263&nbsp;
+
+Catarina Marques, Psicóloga, OPP 25018&nbsp;
+
+Catarina Pais Rodrigues de Oliveira Paulo, Médica, Doenças Infeciosas, OM 52721 Catarina Rodrigues, Psicóloga Clínica, OPP 19565&nbsp;
+
+Cátia Alexandra Veiga de Carvalho, Psicóloga, OPP 9665&nbsp;
+
+Cátia Sofia Ministro Henriques, Farmacêutica, CP 24641
+
+Cidalia Teresinha da Rocha, Psicóloga, OPP 3390&nbsp;
+
+Conceição Rodrigues, Enfermeira, OE 20415&nbsp;
+
+Daniela Camarinha Costa, Psicóloga, OPP 125170&nbsp;
+
+Débora Lucindo, Psicóloga Clínica, OPP 26238&nbsp;
+
+Diana Isabel Andrade Neves, Médica, OM 48552&nbsp;
+
+Diana Póvoas, Médica, OM 48397&nbsp;
+
+Diogo Lana Monte-Mór, Psicólogo, OPP 21390&nbsp;
+
+Elsa Sá, Enfermeira, OE 2903&nbsp;
+
+Ema Eça da Silva Pos, Médica, Doenças Infeciosas, OM 67143&nbsp;
+
+Filipa Ferreira, Enfermeira, OE 88370&nbsp;
+
+Filipa Magalhães Abrantes, OE 98942&nbsp;
+
+Flávia Severino Polido, Médica, Psiquiatria,bOM 50374&nbsp;
+
+Francisca Bartilotti Matos, Médica, Doenças Infecciosas, OM 63745 Francisca Silva Ferreira, Psicóloga da Educação e do Desenvolvimento , OPP 20068 Francisca Pulido Valente, Médica, OM 64881&nbsp;
+
+Generosa Matias, Enfermeira, OE 11478&nbsp;
+
+Gonçalo Reis Dias, Médico generalista, OM 70658&nbsp;
+
+Guadalupe Simões, Enfermeira, OE 24379&nbsp;
+
+Helena Gonçalves, Enfermeira, OE 45597&nbsp;
+
+Inês F. Ferreira, Médica, Pediatria&nbsp;
+
+Inês Furtado,Médica, Anestesia, OM 54660&nbsp;
+
+Inês Machado, Médica, MGF, OM 65696&nbsp;
+
+Inês Mendonça, médica, intensivista, Om 66906&nbsp;
+
+Inês Namorado Correia, Enfermeira, Mestre em Saúde Comunitária, OE 77003 Inês Oliveira Matos Viegas, Psicóloga, OPP O19832&nbsp;
+
+Isabel Duarte, Psicóloga Clínica, OPP 21300&nbsp;
+
+Isabel Santos, Médica, Cardiologista, OM 32336&nbsp;
+
+Joana Azevedo, Médica, OM 42842&nbsp;
+
+Joana Amado Pinto, Médica, OM 65397&nbsp;
+
+Joana Correia Pires, Enfermeira e Investigadora, OE 93516&nbsp;
+
+Joana de Carvalho Flores, Médica, psiquiatria de infância, OM 70119 Joana de São João Rodrigues, Psicóloga Clínica, OPP 11281&nbsp;
+
+Joana Duarte Simões Arsénio, Psicóloga, OPP 24677&nbsp;
+
+Joana Fontes Ribeiro, Enfermeira, OE 97395&nbsp;
+
+Joana Neiva, Psicóloga, OPP 26635&nbsp;
+
+Joana Vaz de Freitas Botelho Cardoso, Médica, Doenças Infecciosas, OM 66467 João Fernandes Serôdio, Médico, Medicina Interna, OM 58767&nbsp;
+
+João Miguel Lopes, Médico, Medicina Geral e Familiar, OM 62010 João Santos Pereira, Médico Dentista, Endodontista, OMD 10086 José Carlos Martins, Enfermeiro, OE 32839&nbsp;
+
+João Rui Galvão Mendes, Médico Dentista, OMD 5982&nbsp;
+
+José Esteves Ferreira, Enfermeiro, OE 7615&nbsp;
+
+Jorge Rebelo, Enfermeiro, OE 29802&nbsp;
+
+Júlia Isabel Marques Martinho, Médica, Interna de Saúde Pública, OM 68391 Juliana Pereira Morais, Nutricionista, 3719N&nbsp;
+
+Karla Costa, Nutricionista Estagiária, 4113NE&nbsp;
+
+Lara Afonso, Farmacêutica, OF 15536&nbsp;
+
+Leonor Baptista de Oliveira, Psicóloga Clínica, OPP 15878
+
+Leonor Sentieiro, Psicóloga Clínica, OPP 26219&nbsp;
+
+Luana Cunha Ferreira, Psicóloga Clinica, OPP 13034&nbsp;
+
+Lucas Basto Sampaio, Psicólogo, MOPP: 27794&nbsp;
+
+Luciana dos Reis Gomes, Médica, Interna de Saúde Pública, OM 64293 Luciano de Barros de Jesus, Psicólogo, OPP 10514&nbsp;
+
+Luísa Dornelas, Médica, OM 69437&nbsp;
+
+Luísa Russo, Médica, MGF, OM 68367&nbsp;
+
+Manuela Alexandra Teixeira dos Santos, Enfermeira, OE 37960&nbsp;
+
+Margarida Dionísio Vieira, Psicóloga, OPP 27636&nbsp;
+
+Margarida Faro Trindade, Psicóloga, OPP 121791&nbsp;
+
+Maria Ana Capinha Gil Pimenta Charneca, Nutricionista, C.P. 3821N&nbsp;
+
+Maria Conde Moreno, Médica, Psiquiatria, OM 67952&nbsp;
+
+Maria Cifuentes Reis, Psicóloga, OPP 27545&nbsp;
+
+Maria Inês de Azevedo Torres Marinho, Enfermeira, OE 80187&nbsp;
+
+Maria Inês Moreira Grácio, Psicóloga Júnior&nbsp;
+
+Maria Isabel Viegas Galvão Casella Maltez, Médica, Doenças Infecciosas, OM 53762 Maria João Corte-Real, Médica, MGF, OM 75819&nbsp;
+
+Maria José Campos, Médica, medicina Interna OM 27680&nbsp;
+
+Maria Madalena Wolf Travassos de Carvalho, OM 74692&nbsp;
+
+Maria Pires Cameira, Médica, Psiquiatria, OM 72237&nbsp;
+
+Mariana Faria de Andrade, Médica, Psiquiatria, OM 68374&nbsp;
+
+Mariana Bragança, Médica, OM 66905&nbsp;
+
+Mariana Pinção Cardoso, Médica, Saúde Pública, OM 70338&nbsp;
+
+Mariana Rodo, Enfermeira e Investigadora em Saúde pública&nbsp;
+
+Marina Hintze, Psicóloga, OPP 25349&nbsp;
+
+Marina Pinheiro, Médica Interna, Saúde Pública, OM 70523&nbsp;
+
+Mário André Macedo, Enfermeiro OE 61644&nbsp;
+
+Marta Bernardo, Médica, MGF, OM 62967&nbsp;
+
+Miguel Saraiva, Médico, Endocrinologia, OM 63446&nbsp;
+
+Miguel Francisco Filipe, Psicólogo, OPP 27239&nbsp;
+
+Miguel Rocha, Enfermeiro de Saúde Pública, OE 62172&nbsp;
+
+Nahida Darwich Sobrino, Médica Medicina Geral e Familiar, OM 45693 Nair Ferreira, Psicóloga, OPP 11734&nbsp;
+
+Natália Oviedo, Médica, OM 52379&nbsp;
+
+Nuno Manjua, Enfermeiro, OE 38533&nbsp;
+
+Nídia Manuela da Silva Rocha, médica dentista, ortodontista, 5996 OMD Patricia Alcântara Almeida, Psicóloga, OPP 22082&nbsp;
+
+Patrícia Seixas Silva Santos, Psicóloga Clínica, OPP 1951&nbsp;
+
+Pedro Enes, Médico, Medicina Legal, OM 70643&nbsp;
+
+Pedro Frias, Médico Psiquiatra, OM 60492&nbsp;
+
+Pedro Isidoro Silvestre Enfermeiro Especialista em Enfermagem de Saúde Infantil e Pediatria NO: 85063&nbsp;
+
+Pedro de Sousa Pizarro Madureira, médico, OM 51861&nbsp;
+
+Raffaele Junior Aliberti, Médico, Medicina Interna , OM 65454&nbsp;
+
+Raul Manarte, psicólogo, OPP 1452&nbsp;
+
+Renata Correia, Médica, MGF, OM 68779&nbsp;
+
+Rita Valentim, Psicóloga, OPP 27578&nbsp;
+
+Rosa Couto, Médica Interna, Neurorradiologia, OM 69935
+
+Rute Silva Médica Dentista OMD 3519&nbsp;
+
+Sandra Catarina da Silva Moreira , Enfermeira, OE 44732&nbsp;
+
+Sandra Helena, Psicóloga OPP 2323&nbsp;
+
+Sara Alexandra Barreiro Pinto, Enfermeira, OE 54213&nbsp;
+
+Sara Alves de Brito, Enfermeira, OE 7835&nbsp;
+
+Sara de Carvalho Ferreira, Médica, MGF, OM 47237&nbsp;
+
+Sara de Oliveira Lau Melo, Psicóloga Comportamento Desviante e Justiça, OPP 20050 Sara Filipa Louro da Costa, Psicóloga, OPP 27651&nbsp;
+
+Sara Simões Gonçalves, Psicologa Clínica, OPP 12096&nbsp;
+
+Sérgio Bruno Sousa, Enfermeiro, OE 36747&nbsp;
+
+Sílvia Eliana Domingos Dias, Psicóloga Clínica e da Saúde e Psicoterapeuta, OPP 5041 Sónia Almeida Pinto, Enfermeira de Família, OE 53786&nbsp;
+
+Sónia Lopes, Enfermeira, OE 56580&nbsp;
+
+Telma Susana Vieira Azevedo, médica Infecciologista, OM 51325&nbsp;
+
+Tiago Subtil, Enfermeiro, OE 40791&nbsp;
+
+Vasco Branco Rodrigues Freire, Médico, MGF, OM 44336&nbsp;
+
+Vera Bernardino, Médica, Medicina Interna, OM 49453&nbsp;
+
+Vera Mousinho Paepke, Enfermeira, OE 68673&nbsp;
+
+Virginia Moneti, Médica, Doenças Infeciosas, OM 49714&nbsp;
+
+Vítor Filipe Oliveira Gonçalves Pimenta, Médico, Psiquiatra, OM 50958<figure class="wp-block-image size-large">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/1-819x1024.jpeg" alt="" class="wp-image-211634" /> </figure>

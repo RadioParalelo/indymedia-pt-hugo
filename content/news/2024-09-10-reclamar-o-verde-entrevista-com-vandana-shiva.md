@@ -1,0 +1,30 @@
+---
+title: Reclamar o verde, entrevista com Vandana Shiva
+author: Publicação Comunitária
+type: post
+date: 2024-09-10T18:00:39+00:00
+url: /?p=224011
+fpsm_author_email:
+  - geral@jornalmapa.pt
+fpsm_author_name:
+  - Jornal MAPA
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Ecologia e Animais
+  - Queer Feminismo
+
+---
+#### A guardiã de sementes e activista ecofeminista aponta a exploração de lítio como potenciadora de novos desastres ambientais que estão a ser cometidos em nome da economia verde.
+
+* * *
+
+Sentada à tarde na cabana, encontrei Vandana Shiva na sua quinta Navdanya, enquanto o sol envolvia as árvores em Uttarakhand, no Norte da Índia. Nesta quinta à porta dos Himalaias, participávamos em atividades agrícolas diárias, cavando, semeando e cozinhando em sintonia com os ciclos de mudança da estação. Navdanya – nove sementes – é «um movimento centrado na Terra e nas mulheres, liderado por agricultores para a proteção da diversidade biológica e cultural.» Juntos conservam o património de sementes de alimentos nutritivos e resistentes ao clima, em mais de 150 bancos de sementes comunitários, guardando, partilhando e cultivando livremente variedades de sementes nativas. Fundado há mais de trinta e cinco anos, o movimento que se espalha agora por 22 estados da Índia, tem na sua origem valores anti-globalização, e práticas como a agroecologia e a agricultura orgânica regenerativa. Celebrando a diversidade da vida e as múltiplas formas de intervenção na biosfera como um ato político de regeneração da Terra, Navdanya é também um importante centro internacional para a reflexão crítica nos moldes do Ecofeminismo e das Ecofilosofias mais amplas, acolhendo cursos regulares.
+
+Foi neste local de encontro restaurativo que conheci Vandana Shiva e tive a oportunidade de conversar com ela sobre como o seu trabalho como ativista cresceu ao longo das décadas. Mas também como a região da sua quinta enfrentou desafios semelhantes aos da Península Ibérica, e se transformou ao longo dos tempos pelas mãos de comunidades activas que continuam a reclamar a vida.
+
+**Lê a entrevista completa [aqui][1]**
+
+ [1]: https://www.jornalmapa.pt/2024/09/08/reclamar-o-verde-entrevista-com-vandana-shiva/

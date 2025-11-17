@@ -1,0 +1,45 @@
+---
+title: Huelga de sed y hambre de Jose Alfredo Miranda Oblanca
+author: Publicação Comunitária
+type: post
+date: 2025-01-15T15:36:50+00:00
+excerpt: Greve de fome e sede de prisioneiro psiquiátrico, Instagram para a apoio no link abaixo
+url: /?p=225037
+fpsm_author_name:
+  - https://huelgajosealfredo.weebly.com/
+links:
+  - https://www.instagram.com/huelgajosealfredo/
+activitypub_status:
+  - federated
+post_list_status:
+  - off
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Cultura e Arte
+  - Ecologia e Animais
+  - Guerra e Paz
+  - Habitação
+  - Movimentos Sociais
+  - Queer Feminismo
+
+---
+<li class="paragraph">
+  <strong>Jose Alfredo Miranda Oblanca está encerrado en el <a href="https://www.saludcastillayleon.es/CHLeon/es/hospital-santa-isabel" target="_blank" rel="noopener">psiquiátrico de Santa Isabel</a> desde hace más de 5 años en contra de su voluntad. Desde el viernes 9 de enero de 2025 toma la decisión de empezar una huelga de hambre y de sed para decir basta a los abusos que él y sus compañerxs viven allí día a día.</strong> <p>
+    A la hora de difundir este comunicado a varies de nosotres nos surge querer aclarar que no compartimos algunos de los posicionamientos políticos que aquí se plantean (ya sea el socialismo, el rechazo a la teoría queer…) pero no queremos que esto sea un muro más que nos separe de la lucha contra los encierros, las cárceles, los psiquiátricos, las torturas, las contenciones, la privación de libertad, el control de la vida, la medicación forzosa, el aislamiento…
+  </p>
+  
+  <p>
+    Por eso, damos difusión al comunicado que ha escrito él mismo, así como al audio al que se hace referencia, con la intención de que todo el mundo se entere, se interpele y piense qué va a hacer para que Jose Alfredo no se quede solo resistiendo, para que no pase hambre y sed en medio del silencio general.
+  </p>
+  
+  <p>
+    <strong>Algo que nos mezcla y mucho es ABAJO LOS MUROS DE LAS PRISIONES.</strong>
+  </p>
+  
+  <p>
+    En esta web se irá actualizando el avance de la huelga. También daremos difusión a través del instagram <a href="https://www.instagram.com/huelgajosealfredo" target="_blank" rel="noopener">@huelgajosealfredo</a>
+  </p>
+  
+  <p>
+    <a href="https://x.com/SeongunJeongchi/status/1284539850075537409" target="_blank" rel="noopener">Aquí</a> Jose Alfredo cuenta su historia de represión.</li> </ol>

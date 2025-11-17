@@ -1,0 +1,74 @@
+---
+title: 75 anos da Declaração Universal dos Direitos Humanos, só para alguns e Greve Global pela Palestina.
+author: Publicação Comunitária
+type: post
+date: 2023-12-10T13:37:04+00:00
+url: /?p=214169
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/12/10000000_201241683039636_6330837066070400365_n-1.mp4
+        9501250
+        video/mp4
+        
+categories:
+  - Guerra e Paz
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - AltPT
+  - FreePalestine
+  - Indymedia
+  - Lisboa
+  - Palestina
+  - PalestinaLivre
+  - Protesto
+  - PTrevolutionTV
+  - StrikeForGaza
+
+---
+ 
+
+Na data que se celebra os 75 anos da Declaração Universal dos Direitos Humanos é relembrado que ainda hoje esses direitos não são para todos em especial para aqueles que vivem em Gaza.<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="en" dir="ltr">
+      75 years …<br /><br />75 years since the Universal Declaration of Human Rights ..<br /><br />75 years since the occupation of Palestine.<a href="https://twitter.com/hashtag/Gaza_under_attack?src=hash&ref_src=twsrc%5Etfw">#Gaza_under_attack</a> <a href="https://twitter.com/hashtag/total_strike?src=hash&ref_src=twsrc%5Etfw">#total_strike</a> <a href="https://t.co/T9E5IDzLXz">pic.twitter.com/T9E5IDzLXz</a>
+    </p>&mdash; تـالا &#8211; TALA (@TalaAlshafi) 
+    
+    <a href="https://twitter.com/TalaAlshafi/status/1733816138423841186?ref_src=twsrc%5Etfw">December 10, 2023</a>
+  </blockquote>
+</div></figure> 
+
+Tudo isto numa altura que começa a ganhar força a ideia de uma Greve Global em solidariedade com o povo Palestiniano.
+
+#StrikeForGaza incluirá todos os aspectos da vida. Desde transporte, aviação, comércio, bancos e portos até escolas e universidades, Não Trabalhes, não compres nada, em vez disso, usa esse dia para agir pela #Palestina 🇵🇸✌️Junte-se e faça parte desta greve moral em 11 de dezembro ✌️#CeasefireNowInGaza<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-209 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="214170" src="https://cmi.indymedia.pt/wp-content/uploads/2023/12/1000002652-1024x1002.jpg" alt="" class="wp-image-214170" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="214171" src="https://cmi.indymedia.pt/wp-content/uploads/2023/12/1000002651-1024x990.jpg" alt="" class="wp-image-214171" /></figure> </figure> 
+
+Como participar na greve global por Gaza na segunda-feira, 11 de dezembro de 2023?
+
+1. Não compre nada (dinheiro ou online)
+
+2. Não use sua conta bancária e não faça nenhuma transação
+
+3. Não saia de casa
+
+4. Desative suas contas do Facebook e Instagram
+
+5. Tweet usando a hashtag #StrikeForGaza
+
+Por Lisboa multiplicam-se as acções de solidariedade, tal com o vídeo lançado pelo colectivo https://t.me/BesiegedButNotSilenced no Telegram gravado na Praça do Martim Moniz,<figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/12/10000000\_201241683039636\_6330837066070400365_n-1.mp4"></video></figure> 
+
+bem como a vigília semanal às quartas-feiras em frente a Câmara Municipal de Lisboa a partir das 19h00 e no próximo dia 16 de Dezembro um Cordão Humano a começar as 12h30 junto ao Hospital Santa Maria.<figure class="wp-block-image size-large">
+
+[<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/12/408441773_192840820562280_4814534918016170755_n-1024x1024.jpg" alt="" class="wp-image-214173" />][1]</figure> 
+
+Nós lá estaremos tanto na vigília como no cordão humano e caso não possas marcar presença podes seguir tudo nas nossas redes.
+
+A PTrevolutionTV é um projecto auto financiado se puderes ajudar com os custos associados ao nosso trabalho entra em contacto connosco.
+
+Pela soberania da informação.
+
+ [1]: https://eventos.coletivos.org/event/cordao-humano-pela-palestina-lisboa

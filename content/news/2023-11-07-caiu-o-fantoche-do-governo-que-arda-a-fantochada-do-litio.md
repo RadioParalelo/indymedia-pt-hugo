@@ -1,0 +1,41 @@
+---
+title: 'Caiu o fantoche do Governo: que arda a fantochada do Lítio!'
+author: Publicação Comunitária
+type: post
+date: 2023-11-07T23:35:27+00:00
+url: /?p=150706
+admin_form_source:
+  - form65033c1176054
+Ligação:
+  - https://t.me/minanao/2563
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+
+---
+#### Após a queda do Governo hoje por motivo de investigações sobre a corrupção na atribuição de direitos de mineração à Lusorecursos para o projecto \”mina do Romano\” em Morgade (Montalegre) – relação já de conhecimento e debate públicos desde 2019 – fica a evidente questão da queda dos projectos mineiros propulsados, propagandeados e impostos pelo ex-Governo e estatistas investigados.
+
+Enquanto o espectáculo político dos necrófagos partidários se inicia, em que nenhum se comprometeu na oposição à mineração, e todos têm olhos postos nas eleições, a questão ambiental e de agressão estatal às populações pouco ou nada é referida.
+
+É responsabilidade dos grupos, movimentos e activistas contra a mineração, em Montalegre e em todos os territórios ameaçados, de levarem a cabo as iniciativas necessárias, e não permitir que o debate se centre somente na habitual corrupção no seio dos sucessivos Governos e de quem a praticará no próximo Governo, sempeterno argumento do mais decrépito politiqueio partidário, mas sim ter o foco na acção concreta, real, imediata, para a desarticulação dos esforços até hoje levados a cabo pelo Estado e pelas empresas nos territórios e da destruição física e decisiva dos projectos mineiros.
+
+A mina do Romano em Montalegre e a oposição popular à mesma no Barroso não ficou conhecida por uma reportagem sobre a corrupção.  
+Ficou conhecida pela bravura da população que repetidamente negou legitimar Eurodeputados, Legislatura e Presidente da República boicotando fantochadas eleitorais, que negou o terreno às mineradoras, que se mobiliza em Montalegre todos os anos para mostrar a sua força.
+
+Não deixemos que a luta se monopolize no vazio e vão discurso político e partidário. Não esperemos que defendam por nós o que nos cabe a nós defender. Não esperemos que as empresas se vão embora sem sermos nós quem as expulsemos, fisicamente.  
+Não esperemos que as coisas caiam por si sós sem por sermos nós quem as façamos cair.
+
+**Sem luta na rua e nos montes, não há vitória, e sem Governo, sim que poderão sempre haver minas.**
+
+**É hora da insurgir-se em defesa do território, pelas nossas mãos.**
+
+ 
+
+##### [Segundo boicote eleitoral, em particular contra as eleições legislativas, Morgade 2019][1]</p> 
+
+[Reportagem Sexta às 9 sobre a corrupção no negócio do lítio, que dá conta do início do inquérito crime sobre os negócios com a Lusorecursos em 2019][2]</h5>
+
+ [1]: //www.rtp.pt/noticias/politica/protesto-ambiental-populacao-de-morgade-boicota-eleicoes_v1177370″
+ [2]: //www.youtube.com/watch?v=Tt4o0m8OECU”

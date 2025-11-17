@@ -1,0 +1,41 @@
+---
+title: Todo o nosso trabalho é auto financiado.
+author: Publicação Comunitária
+type: post
+date: 2023-10-27T15:26:36+00:00
+url: /?p=63058
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111307679846830725
+enclosure:
+  - |
+    |
+        https://cmi.indymedia.pt/wp-content/uploads/2023/10/FINANC-23-10.mp4
+        173495
+        video/mp4
+        
+categories:
+  - Indymedia
+tags:
+  - AltPT
+  - Indymedia
+  - Media Independente
+  - PTrevolutionTV
+
+---
+<figure class="wp-block-video"><video controls src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/FINANC-23-10.mp4"></video></figure> 
+
+Se conheces o nosso trabalho, sabes que todos os custos associados aos nossos directos, são cobertos pelos nosso ninjas (livestreamers) e queremos muito alargar a nossa equipas bem como ajudar os nosso ninjas com esses custos.
+
+Felizmente ao longo dos anos tivemos capacidade para ir melhorando o nosso equipamento ao longo destes quase 11 anos de convivência nas ruas mas estamos sempre abertos donativos para aligeirar os custos que os nosso ninjas suportam ao longo destes anos.
+
+Se quiseres e puderes contribuir entra em contacto connosco.
+
+Pela soberania da informação, informação sem tratar.
+
+A PTrevolutionTV integra o CMI, se gostas de reportar o que se passa no teu bairro entra em contacto connosco.<figure class="wp-block-image size-full">
+
+<img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/10/358629614_781121340681132_4936358550742372408_n.jpg" alt="" class="wp-image-63060" /> </figure>

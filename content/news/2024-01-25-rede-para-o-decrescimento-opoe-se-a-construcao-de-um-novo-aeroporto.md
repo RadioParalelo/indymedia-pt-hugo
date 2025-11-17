@@ -1,0 +1,45 @@
+---
+title: Rede para o Decrescimento opõe-se à construção de um novo aeroporto
+author: Publicação Comunitária
+type: post
+date: 2024-01-25T14:01:33+00:00
+url: /?p=216211
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111816953121677916
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Indymedia
+tags:
+  - AltPT
+  - Ecologia
+  - Indymedia
+
+---
+ <figure class="wp-block-image size-full"><img alt='white_icon-7330297-9290804-5385619-9617383-7785248' alt='white_icon-7330297-9290804-5385619-9617383' alt='white_icon-7330297-9290804-5385619' alt='white_icon-7330297-9290804' src='https://cmi.indymedia.pt/wp-content/uploads/2024/01/white_icon-7330297-9290804-5385619-9617383-7785248.png' class="wp-image-216212" /></figure> 
+
+**Rede para o Decrescimento opõe-se&nbsp;****à construção de um novo aeroporto**
+
+No dia 26 de janeiro de 2024 termina o prazo da consulta pública do relatório ambiental da Comissão Técnica Independente e o parecer da&nbsp;<a href="https://www.decrescimento.pt/" rel="noreferrer noopener" target="_blank">Rede para o Decrescimento</a>&nbsp;é categórico: a aviação representa a forma de transporte que mais prejudica o clima e&nbsp;<a href="https://stay-grounded.org/get-information/#impact" rel="noreferrer noopener" target="_blank">qualquer novo projeto aeroportuário é incompatível com a imprescindível redução da emissão de gases com efeito de estufa</a>&nbsp;e com a preservação e restauração dos ecossistemas e da biodiversidade que suportam a vida humana e não humana na Terra.
+
+A Rede para o Decrescimento exige a redução imediata do número de voos no Aeroporto Humberto Delgado em Lisboa com vista ao seu encerramento definitivo, uma vez que a operação atual deste aeroporto prejudica gravemente a saúde da população local, pondo em causa o seu direito ao bem-estar e qualidade de vida, consagrado no artigo 9.º da Constituição da República Portuguesa. Também o nível de poluição sonora associada à operação aeroportuária viola a legislação em vigor, nomeadamente o Regulamento-Geral do Ruído, excedendo largamente as recomendações da Organização Mundial de Saúde.
+
+A Rede para o Decrescimento alerta ainda para a sobre-exploração turística da cidade de Lisboa, associada ao número de passageiros do Aeroporto Humberto Delgado, que é lesiva dos direitos da população residente, designadamente no que diz respeito ao direito à habitação e à vida social.
+
+Como salienta Hans Eickhoff, médico, ativista e membro da Rede para o Decrescimento, “_apenas a implementação de limites em relação ao número de voos movidos a combustíveis fósseis em todos os aeroportos nacionais permite que se cumpra o Roteiro para a Neutralidade Carbónica em 2050 e a Lei de Bases do Clima de forma consequente, incluindo a contabilização de todas as emissões do tráfego aéreo internacional com origem em aeroportos portugueses”_.
+
+Torna-se urgente repensar o futuro do sector da aviação de uma forma radicalmente diferente. O relatório “<a href="https://stay-grounded.org/report-degrowth-of-aviation/" rel="noreferrer noopener" target="_blank">Decrescimento da Aviação – Reduzir as viagens aéreas de forma justa</a>”, resultado de uma conferência internacional que teve lugar em julho de 2019 em Barcelona e juntou mais de 150 peritos e ativistas, sem que um único voo tenha sido tomado pelos participantes presenciais ou por videoconferência, sublinha que é preciso reduzir o tráfego aéreo se quisermos manter o aquecimento global abaixo de 1,5ºC, conforme inscrito no Acordo de Paris, e assegurar que o planeta Terra continue habitável para a espécie humana.
+
+O relatório propõe medidas para reduzir a aviação de uma forma justa e sustentada que incluem a eliminação de isenções fiscais sobre o querosene, sobre os bilhetes e o IVA, bem como a aplicação de uma taxa de carbono adequada, para acabar com os benefícios atuais da aviação que absurdamente permitem voar a preços baixos e colocar em desvantagem as alternativas de mobilidade mais sustentáveis.
+
+Essas medidas devem ainda fazer os passageiros frequentes pagar mais, através de uma tarifa específica, para desincentivar a utilização do avião e financiar alternativas, reduzindo e suprimindo a aviação privada e voos de curta distância (como os voos dentro de Portugal e da Península Ibérica) que podem ser substituídos por viagens de comboio (diurnos e noturnos).
+
+No entanto, embora essas medidas possam contribuir para a redução da aviação, é imprescindível fixar metas para a efetiva diminuição de voos a nível nacional e, de forma mais drástica, nos aeroportos que colocam a saúde da população em risco e não cumprem a legislação em vigor, como é o caso do Aeroporto Humberto Delgado em Lisboa.
+
+Pel&#8217;A Rede para o Decrescimento,
+
+HansEickhoff
+
+Anexo: Parecer da Rede para o Decrescimento sobre o Relatório Ambiental da CTI / Comunicado de Imprensa

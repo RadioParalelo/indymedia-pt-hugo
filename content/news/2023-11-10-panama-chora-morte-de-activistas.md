@@ -1,0 +1,54 @@
+---
+title: Panamá, activistas anti mineração atingidos a tiro.
+author: Publicação Comunitária
+type: post
+date: 2023-11-10T10:38:05+00:00
+url: /?p=186471
+classic-editor-remember:
+  - block-editor
+autopostToMastodon-post-status:
+  - off
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111385817498922486
+mf2_syndication:
+  - 'a:1:{i:0;s:61:"https://climatejustice.social/@indymediapt/111385829370639879";}'
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+  - Repressão
+tags:
+  - AltPT
+  - Ecologia
+  - Indymedia
+  - Minas Não
+  - PanamaValeMasSinMineria
+  - Protesto
+  - PTrevolutionTV
+
+---
+No final do mês passado publicamos um [artigo][1] sobre a luta no Panamá contra a construção da maior mina a céu aberto de Cobre da America Central.
+
+Apesar da garantia do governo da realização de um referendo a este projecto de uma empresa Canadiana, os activistas não desmobilizaram e mantiveram alguns protestos e bloqueios para garantir a realização do dito referendo.<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-141 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="186473" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F-c74vxXwAAH0xv.jpg" alt="" class="wp-image-186473" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="186472" src="https://cmi.indymedia.pt/wp-content/uploads/2023/11/F-kKPwNWwAAQMCt.jpg" alt="" class="wp-image-186472" /></figure> </figure> 
+
+Foi num destes bloqueios que um cidadão Americano, Kenneth Darlington, quando confrontado com um grupo de activistas a bloquear uma autoestrada, depois de tentar demover os activistas pelo dialogo, acaba por se dirigir ao carro para pegar no seu revólver e atingir dois dos activistas presentes.<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  https://twitter.com/i/status/1722637779895455766
+</div></figure> 
+
+O autor é um cidadão americano que circulava numa auto estrada de 35500 kms que une o Alaska a Argentina e é um médico advogado com 77 anos.
+
+Infelizmente são cada vez mais os casos de justiceiros que respondem de forma violenta a quem protesta pacificamente, acabando por se substituir a polícia e estes são os que são realmente perigosos, já que não têm normas de conduta a seguir, pelo que é muito importante cuidar-mos de nós e dos nossos, evitando por exemplo ir e vir de protestos sozinhos e manter sempre uma posição de vigilância.<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  https://twitter.com/i/status/1722431373368005077
+</div></figure> 
+
+Todo o nosso trabalho é auto financiado, se puderes contribuir entra em contacto connosco.
+
+Pela soberania da informação.
+
+ [1]: https://cmi.indymedia.pt/2023/10/30/luta-no-panama-contra-a-mineracao/

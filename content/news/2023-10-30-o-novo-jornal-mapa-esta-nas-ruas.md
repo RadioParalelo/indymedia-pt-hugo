@@ -1,0 +1,29 @@
+---
+title: O novo Jornal MAPA está nas ruas
+author: Publicação Comunitária
+type: post
+date: 2023-10-30T15:07:10+00:00
+url: /?p=74296
+admin_form_source:
+  - form65033c1176054
+Ligação:
+  - https://www.jornalmapa.pt/
+classic-editor-remember:
+  - block-editor
+categories:
+  - Habitação
+  - Indymedia
+  - Movimentos Sociais
+
+---
+#### Edição 39 (Out-Nov-Dez)
+
+Os tempos são críticos para o Ocidente «fortaleza», com a sua falsa paz ameaçada pela guerra global e pelo aumento de fluxos migratórios. O Mediterrâneo não é um cemitério, é um local de crime, e a gestão militarizada das fronteiras é potenciada pela monitorização e vigilância a todos os níveis, com particular uso das apps digitais. Além dessa matéria de destaque da Edição 39 (Out-Dez), acompanhamos os protestos pela habitação e convidamos a descobrir o projecto de habitação comunitária Akra em Montemor-o-Novo; e olhamos ao esvaziamento da cidade do Porto, num arco que vai do despejo do STOP aos despejos de anteriores espaços comunitários.
+
+Nestes 50 anos de Abril, evocamos a Reforma Agrária no concelho de Vimieiro, naquela que é a primeira parte de uma necessária memória para a construção política da Agroecologia. Questão da terra que prossegue, neste número, com a memória da escravatura negra nos arrozais do Sado, ou das lutas dos baldios em Sever do Vouga. Estas ultimas que, de volta à actualidade, nos levam às monoculturas da floresta industrial e a questionar a perseguição policial lançada em nome da prevenção dos incêndios sobre os poucos habitantes que restam nesses territórios. Assunto que se liga ao extractivismo que ameaça o Barroso e outras serras onde ecoa o grito «Não às Minas». Preenchem as demais páginas notícias de resistência, vozes de presos/as, sugestões de filmes e livros, entre outras peças, em mais uma edição deste projecto de Informação Crítica inteiramente feito por um colectivo de voluntários. O mesmo que apela à assinatura de um jornal que convida à leitura pausada, mas inquieta, de 40 páginas em papel, postas a circular de 3 em 3 meses, e à espera de seguir para a tua morada.
+
+<blockquote class="wp-embedded-content" data-secret="ai9jIFLUfi">
+  <p>
+    <a href="https://www.jornalmapa.pt/assinatura-do-jornal/">Assinaturas</a>
+  </p>
+</blockquote>

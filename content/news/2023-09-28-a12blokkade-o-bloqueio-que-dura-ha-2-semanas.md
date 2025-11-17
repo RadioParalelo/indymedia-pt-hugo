@@ -1,0 +1,90 @@
+---
+title: '[Países Baixos] #A12blokkade – O bloqueio que dura há 2 semanas.'
+author: Publicação Comunitária
+type: post
+date: 2023-09-28T12:14:45+00:00
+url: /?p=8495
+classic-editor-remember:
+  - block-editor
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+tags:
+  - A12
+  - AltPT
+  - day X
+  - Ecologia
+  - Protesto
+  - PTrevolutionTV
+
+---
+ <figure class="wp-block-image size-full"><img decoding="async" src="https://cmi.indymedia.pt/wp-content/uploads/2023/09/F_NS-5eB-4238585.jpg" alt="f_ns-5eb-4238585" class="wp-image-8623" /></figure> 
+
+Para quem como nós todos os dias acompanha o que se vai passando no mundo, via internet, já sabe que a partir das 11h00 (12h00 locais) é hora de ver o que se vai passando nos Países Baixos num troço do Autoestrada 12 que tem sido constantemente bloqueada por activistas climáticos que exigem o fim da subsidiação por parte do governo dos combustíveis fósseis.
+
+Já é quase um ritual às 12h00 locais em redor da&nbsp;A12&nbsp;centenas de activistas, maioritariamente ligados a&nbsp;Extincion&nbsp;Rebellion, se reunirem para bloquearem mais um troço da mesma.
+
+A polícia já respondeu com canhões de água, que resultou numa grande festa da mangueira, literal, já apreendeu instrumentos musicais, já proibiu transportes públicos, usou técnicas intimidação mas a realidade é que os protestos se vão repetindo dia após dia.
+
+O apelo para participar nos protestos vem sempre acompanha com data e local para uma acção de formação onde é explicado o que se vai fazer, como se vai fazer e quais as consequências legais da mesma.
+
+Se quiseres saber mais detalhes do que se vai passando nos Países Baixos podes:
+
+Acompanhar os directos que acontecem no conta de instagram https://www.instagram.com/xr.gouda
+
+pesquisa nas redes as seguintes hashtags #A12 #A12blokkade #ExtinctionRebellion #klimaatverandering #klimaatwaanzin  
+#dayX
+
+ou acompanhar as atualizações que vamos fazendo sobre o assunto nas nossas diferentes redes.
+
+Deixamos aqui alguns dos vários vídeos que podes encontrar na internet:<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  https://twitter.com/vanderaanet/status/1702995732456714680
+</div><figcaption class="wp-element-caption">Não podemos levar os instrumentos? Não há problema.</figcaption></figure> <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="nl" dir="ltr">
+      Waterwerper opnieuw ingezet door politie. <a href="https://twitter.com/hashtag/ExtinctionRebellion?src=hash&ref_src=twsrc%5Etfw">#ExtinctionRebellion</a> <a href="https://t.co/UVQJ5AO3XM">pic.twitter.com/UVQJ5AO3XM</a>
+    </p>&mdash; Owen (@_owenobrien_) 
+    
+    <a href="https://twitter.com/_owenobrien_/status/1703004694442877373?ref_src=twsrc%5Etfw">September 16, 2023</a>
+  </blockquote>
+</div><figcaption class="wp-element-caption">Polícia usa canhões de água para desmobilizar activistas</figcaption></figure> <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="nl" dir="ltr">
+      Ook vandaag staan we weer in de tunnelbak <a href="https://twitter.com/hashtag/A12?src=hash&ref_src=twsrc%5Etfw">#A12</a>, geen politie aanwezig. En ja, soms gaan we even aan de kant. <br /><br />Stop met de jaarlijks 39,7 tot 46,4 miljard euro fossiele subsidies. Dit beleid is misdadig. <a href="https://twitter.com/hashtag/StopFossieleSubsidies?src=hash&ref_src=twsrc%5Etfw">#StopFossieleSubsidies</a> <a href="https://twitter.com/hashtag/Klimaatrechtvaardigheid?src=hash&ref_src=twsrc%5Etfw">#Klimaatrechtvaardigheid</a> <a href="https://t.co/Ycqh7MyKLP">pic.twitter.com/Ycqh7MyKLP</a>
+    </p>&mdash; Extinction Rebellion Nederland (@NLRebellion) 
+    
+    <a href="https://twitter.com/NLRebellion/status/1707340098893750673?ref_src=twsrc%5Etfw">September 28, 2023</a>
+  </blockquote>
+</div><figcaption class="wp-element-caption">Activistas abrem passagem para uma ambulância passar.</figcaption></figure> <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="nl" dir="ltr">
+      Weghalen activisten is begonnen. <a href="https://twitter.com/hashtag/A12?src=hash&ref_src=twsrc%5Etfw">#A12</a>. <a href="https://twitter.com/omroepwest?ref_src=twsrc%5Etfw">@omroepwest</a> <a href="https://t.co/XXtnkk4BGq">pic.twitter.com/XXtnkk4BGq</a>
+    </p>&mdash; Monica Overdijkink (@Moontje_O) 
+    
+    <a href="https://twitter.com/Moontje_O/status/1706997497107816877?ref_src=twsrc%5Etfw">September 27, 2023</a>
+  </blockquote>
+</div><figcaption class="wp-element-caption">Activistas detidos são encaminhados para autocarro pela polícia.</figcaption></figure> <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+
+<div class="wp-block-embed__wrapper">
+  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+    <p lang="nl" dir="ltr">
+      De hippies uit de sixties zingen gezellig liedjes met elkaar…<br />Nu het kampvuurtje nog….<br /><br />Sluit jij morgen ook aan op de <a href="https://twitter.com/hashtag/A12?src=hash&ref_src=twsrc%5Etfw">#A12</a>?<br /> 🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄<a href="https://twitter.com/hashtag/ExtinctionRebellion?src=hash&ref_src=twsrc%5Etfw">#ExtinctionRebellion</a> <br /> <a href="https://t.co/4uxV1BA7ue">pic.twitter.com/4uxV1BA7ue</a>
+    </p>&mdash; GC (@GirbeCameron) 
+    
+    <a href="https://twitter.com/GirbeCameron/status/1706338448938860732?ref_src=twsrc%5Etfw">September 25, 2023</a>
+  </blockquote>
+</div><figcaption class="wp-element-caption">Activistas a serem detidos pela polícia.</figcaption></figure> 
+
+E muito mais há para ver basta pesquisares um pouco.
+
+Pela soberania da informação  
+PTrevolutionTV

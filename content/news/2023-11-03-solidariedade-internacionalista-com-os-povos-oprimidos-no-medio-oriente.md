@@ -1,0 +1,57 @@
+---
+title: Solidariedade Internacionalista com os Povos oprimidos no Médio Oriente!
+author: Publicação Comunitária
+type: post
+date: 2023-11-03T13:40:36+00:00
+url: /?p=105164
+admin_form_source:
+  - form65033c1176054
+imagem_2:
+  - 105163
+Ligação:
+  - 'https://www.instagram.com/p/CzLilE9Mbol/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA=='
+categories:
+  - Guerra e Paz
+  - Indymedia
+  - Movimentos Sociais
+  - Poder e Autodeterminação
+
+---
+Nas últimas semanas, o mundo tem assistido a enormes momentos de devastação pelo Médio Oriente, à medida que as forças imperialistas desferem pesados golpes genocidas sobre os povos de toda essa região.
+
+A 19 de setembro, após meses de provocações, ameaças e ataques, as forças do Estado do Azerbaijão invadiram a região autónoma arménia de Artsaque, destruindo a sua autodeterminação e levando à fuga de dezenas de milhares de arménios, destruindo uma cultura milenar da região. Mais uma limpeza étnica levado a cabo pelo Estado Azeri.
+
+Em Rojava, desde 5 de outubro, o Estado Turco tem levado a cabo uma campanha de bombardeamentos que têm como alvo a infraestrutura de eletricidade, água e outras necessidades humanas básicas na região. Estes ataques são aos olhos da lei internacional crimes de guerra e apesar disto a comunidade internacional, a ONU e estados aliados à Turquia como o Português continuam em silêncio. Estes ataques, que apenas desde de dia 5 mataram e feriram perto de 100 pessoas, continuam e visam aterrorizar povos que têm nos últimos 11 anos lutado para manter uma revolução que serve de exemplo para o mundo.
+
+E desde 9 de outubro, o Estado sionista tem imposto sobre a Faixa de Gaza um bloqueio desumano, esfomeando a população palestiniana enquanto a bombardeia sem misericórdia, causando uma crise humanitária sem precedentes.
+
+Perante esta sucessão de massacres, os Estados Ocidentais e os seus aparelhos mediáticos ou se mantiveram silenciosos ou apoiaram as máquinas de propaganda genocida, que defendem as descontroladas atrocidades que acontecem à frente dos nossos olhos como sendo mera autodefesa desses Estados.
+
+Mas contra esta posição cobarde e desumana, avança pelo mundo um movimento de solidariedade que, enchendo as ruas e contradizendo a narrativa oficial dos estados, levanta-se contra a lógica genocida e pela humanidade.
+
+A força desta solidariedade tem sido a única barreira que impede a destruição da faixa de Gaza, e forçado o Estado sionista, e os seus aliados ocidentais, a pôr um travão nas suas ambições genocidas.
+
+Através deste movimento, fica demonstrado a força da solidariedade internacional. Mas esta não pode ficar pelos palestinianos – tem de se estender aos arménios, aos curdos, aos assírios, a todos os povos que hoje enfrentam a fúria imperialista.
+
+A nossa solidariedade está com todos os povos oprimidos desde a Arménia passando pelo Curdistão até à Palestina!
+
+A nossa raiva está contra todos os Estados e forças fascistas genocidas!
+
+Solidariedade internacional!
+
+Plataforma de Solidariedade com os Povos do Curdistão  
+28-10-2023
+
+https://www.instagram.com/p/CzLilE9Mbol/?utm\_source=ig\_web\_copy\_link&igshid=MzRlODBiNWFlZA==
+
+ 
+
+Instagram: @plataformasol_curdistao
+
+Twitter: @<span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">PlataformaCurd</span>
+
+ 
+
+ 
+
+ 

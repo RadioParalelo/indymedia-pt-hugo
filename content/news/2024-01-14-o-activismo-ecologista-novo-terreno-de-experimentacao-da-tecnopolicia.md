@@ -1,0 +1,31 @@
+---
+title: O activismo ecologista, novo terreno de experimentação da tecnopolícia
+author: Publicação Comunitária
+type: post
+date: 2024-01-14T22:49:50+00:00
+excerpt: A deriva autoritária em França vista através do incremento de novas técnicas de vigilância sobre os militantes ecologistas
+url: /?p=215638
+fpsm_author_name:
+  - Jornal MAPA
+links:
+  - https://www.jornalmapa.pt/2024/01/14/o-activismo-ecologista-novo-terreno-de-experimentacao-da-tecnopolicia/
+mf2_syndication:
+  - 'a:1:{i:0;s:61:"https://climatejustice.social/@indymediapt/111756756925812636";}'
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Ecologia e Animais
+  - Indymedia
+  - Movimentos Sociais
+  - Repressão
+tags:
+  - Repressão Policial
+
+---
+**A deriva autoritária em França vista através do incremento de novas técnicas de vigilância sobre os militantes ecologistas**
+
+Vários casos recentes revelaram a vigilância particularmente intensiva que os militantes ecologistas estão a enfrentar. Além do arsenal administrativo e repressivo utilizado pelo Estado para os punir, é a própria natureza dos meios utilizados que surpreende: drones, reconhecimento facial, marcadores químicos codificados… O Ministério da Administração Interna experimenta e aperfeiçoa nos activistas ecologistas os seus instrumentos tecnopoliciais.
+
+Lê o resto [**aqui**][1]
+
+ [1]: https://www.jornalmapa.pt/2024/01/14/o-activismo-ecologista-novo-terreno-de-experimentacao-da-tecnopolicia/

@@ -1,0 +1,47 @@
+---
+title: Anti-Fascistas Anti-Racistas pegam fogo a propaganda do Chega.
+author: Publicação Comunitária
+type: post
+date: 2024-01-29T11:53:05+00:00
+url: /?p=216584
+autopostToMastodon-post-status:
+  - off
+enclosure:
+  - |
+    |
+        https://indymedia.pt/wp-content/uploads/2024/01/1000005639-5530202.mp4
+        50211288
+        video/mp4
+        
+autopostToMastodonshare-lastSuccessfullTootURL:
+  - https://social.coletivos.org/@ptrevolutiontv/111839097167591067
+activitypub_status:
+  - federated
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Discriminação
+  - Indymedia
+  - Movimentos Sociais
+  - Repressão
+tags:
+  - AltPT
+  - Indymedia
+  - Lisboa
+
+---
+ 
+
+Um Cartaz do Chega situado na Alameda em Lisboa foi incendiado e juntamente com as imagens e vídeo chegou a seguinte mensagem.<figure class="wp-block-video"><video controls src="http://localhost:8000/wp-content/uploads/2024/01/1000005639-5530202.mp4"></video></figure> 
+
+
+
+&#8220;Este ano comemoram-se os 50 anos do 25 de Abril — o suposto fim do fascismo. Mas o fascismo continua vivo. Os partidos e a democracia parlamentar são cúmplices desse crescimento, validando-o e alimentando-o com cada medida que torna as nossas vidas cada vez mais precárias. Não é deles que esperamos qualquer tipo de solução.
+
+Sem partidos e instituições, o fascismo combate-se colectivamente nas ruas.
+
+Já há demasiado tempo vemos caras de fascistas no espaço público, em outdoors pela cidade fora. Como anti-fascistas e anti-racistas, não toleraremos este tipo de propaganda. Vamo-nos continuar a organizar com todas as ferramentas que temos ao nosso dispor na luta diária contra o fascismo. &#8220;<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-246 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
+
+<img decoding="async" data-id="216586" src="https://cmi.indymedia.pt/wp-content/uploads/2024/01/1000005641-4108171-1024x576.webp" alt="1000005641-4108171" class="wp-image-216586" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" data-id="216587" src="https://cmi.indymedia.pt/wp-content/uploads/2024/01/1000005642-7814399-1024x576.webp" alt="1000005642-7814399" class="wp-image-216587" /></figure> </figure> 
+
+Pela soberania da informação.
