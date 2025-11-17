@@ -7,3 +7,5 @@ It's Hosted directly on github, and deployed through netlify.
 The main features we want to develop further are:
 - Automatic RSS import of posts from the RSS feed of the main site, for mantaining the backup operational.
 - A native CMS for content submission.
+
+![](https://raw.githubusercontent.com/RadioParalelo/indymedia-pt-hugo/refs/heads/main/static/images/capa.png)
