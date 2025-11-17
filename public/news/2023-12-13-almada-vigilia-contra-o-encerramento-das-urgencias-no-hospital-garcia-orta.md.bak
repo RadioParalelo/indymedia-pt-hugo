@@ -19,7 +19,7 @@ autopostToMastodon-toot:
         
         
         
-        #Sade 
+        Sade 
 autopostToMastodon-toot-thumbnail:
   - /usr/share/nginx/indymedia//wp-content/uploads/2023/12/sikj7cl5ukrd-768x512.webp
 categories:

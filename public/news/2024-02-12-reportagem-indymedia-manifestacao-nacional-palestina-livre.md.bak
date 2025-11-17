@@ -113,7 +113,7 @@ Se também não consegues ficar indiferente ao que vai acontecendo na região do
 
 <https://calendar.google.com/calendar/embed?src=722c2480f952b8339b5ef61c4a2f00f9f4e7d114533745d220f4b964c7bb00c3%40group.calendar.google.com&ctz=Europe%2FLisbon>
 
-#### Angra do Heroísmo {#angra-do-heroismo.wp-block-heading}
+ Angra do Heroísmo {angra-do-heroismo.wp-block-heading}
 
 Fotoreportagem<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-259 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
 
@@ -121,7 +121,7 @@ Fotoreportagem<figure class="wp-block-gallery has-nested-images columns-default 
 
 Vídeos<figure class="wp-block-video"><video controls src="http://localhost:8000/wp-content/uploads/2024/02/VID\_20240210\_113450-1141148.mp4"></video></figure> <figure class="wp-block-video"><video controls src="http://localhost:8000/wp-content/uploads/2024/02/VID-20240210-WA0035-3867157.mp4"></video></figure> <figure class="wp-block-video"><video controls src="http://localhost:8000/wp-content/uploads/2024/02/VID-20240210-WA0036-2261075.mp4"></video></figure> 
 
-#### Braga {#braga.wp-block-heading}
+ Braga {braga.wp-block-heading}
 
 Livestream:<figure class="wp-block-video"><video controls src="https://vid.puffyan.us/latest_version?id=HeXZbBINBWg&itag=22"></video></figure> 
 
@@ -141,7 +141,7 @@ Vídeos<figure class="wp-block-video"><video controls src="http://localhost:8000
   </div>
 </div>
 
-#### Faro {#faro.wp-block-heading}
+ Faro {faro.wp-block-heading}
 
 Fotoreportagem<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-261 is-layout-flex wp-block-gallery-is-layout-flex"> <figure class="wp-block-image size-large">
 
@@ -159,7 +159,7 @@ Vídeos
   </div>
 </div>
 
-#### Lisboa {#lisboa.wp-block-heading}
+ Lisboa {lisboa.wp-block-heading}
 
 Livestream PTrevolutionTV
 
@@ -183,7 +183,7 @@ Vídeos<figure class="wp-block-video"><video controls src="http://localhost:8000
   </div>
 </div>
 
- [1]: http://localhost:8000/2024/02/12/reportagem-indymedia-manifestacao-nacional-palestina-livre/#angra-do-heroismo
- [2]: http://localhost:8000/2024/02/12/reportagem-indymedia-manifestacao-nacional-palestina-livre/#braga
- [3]: http://localhost:8000/2024/02/12/reportagem-indymedia-manifestacao-nacional-palestina-livre/#faro
- [4]: http://localhost:8000/2024/02/12/reportagem-indymedia-manifestacao-nacional-palestina-livre/#lisboa
+ [1]: http://localhost:8000/2024/02/12/reportagem-indymedia-manifestacao-nacional-palestina-livre/angra-do-heroismo
+ [2]: http://localhost:8000/2024/02/12/reportagem-indymedia-manifestacao-nacional-palestina-livre/braga
+ [3]: http://localhost:8000/2024/02/12/reportagem-indymedia-manifestacao-nacional-palestina-livre/faro
+ [4]: http://localhost:8000/2024/02/12/reportagem-indymedia-manifestacao-nacional-palestina-livre/lisboa

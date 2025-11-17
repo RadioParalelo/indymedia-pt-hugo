@@ -44,7 +44,7 @@ categories:
   1. [Comunicado de Imprensa da Organização][1]{.wp-block-table-of-contents__entry}
   2. [Nota de Repúdio: Associação dos Imigrantes nos Açores (AIPA):][2]{.wp-block-table-of-contents__entry}</nav> 
 
-#### **Comunicado de Imprensa da Organização** {#comunicado-de-imprensa-da-organizacao.wp-block-heading}
+ **Comunicado de Imprensa da Organização** {comunicado-de-imprensa-da-organizacao.wp-block-heading}
 
 **Vigília por Ademir Moreno junta mais de 200 pessoas no Faial**
 
@@ -116,7 +116,7 @@ Pela organização da vigília,<figure class="wp-block-image size-full">
   </div>
 </div>
 
-#### **_Nota de Repúdio_: Associação dos Imigrantes nos Açores (AIPA):** {#nota-de-repudio-associacao-dos-imigrantes-nos-acores-aipa.wp-block-heading}
+ **_Nota de Repúdio_: Associação dos Imigrantes nos Açores (AIPA):** {nota-de-repudio-associacao-dos-imigrantes-nos-acores-aipa.wp-block-heading}
 
 Tendo tomado conhecimento da brutal agressão, ocorrida na madrugada do dia 16 de março (sábado), que levou à morte de um cidadão imigrante de nacionalidade caboverdiana, residente na ilha do Faial, a Associação dos Imigrantes nos Açores (AIPA) vem, por esta via, repudiar atos de violência verbal e física contra qualquer ser humano, independentemente de se tratar de um imigrante ou autóctone.  
   
@@ -128,7 +128,7 @@ Aos familiares e amigos/as da vítima, a AIPA presta as sentidas condolências n
   
 O Presidente da Direção, Leoter Viegas  
   
-[AIPA &#8211; **Associação dos Imigrantes nos Açores**][3]
+[AIPA &8211; **Associação dos Imigrantes nos Açores**][3]
 
 + info:
 
@@ -136,6 +136,6 @@ O Presidente da Direção, Leoter Viegas
 
 <https://www.publico.pt/2024/03/19/sociedade/noticia/caboverdiano-agredido-junto-discoteca-faial-acabou-morrer-2084120>
 
- [1]: http://localhost:8000/2024/03/20/faial-justica-pelo-ademir-vigilia-e-manifestacao-contra-o-racismo/#comunicado-de-imprensa-da-organizacao
- [2]: http://localhost:8000/2024/03/20/faial-justica-pelo-ademir-vigilia-e-manifestacao-contra-o-racismo/#nota-de-repudio-associacao-dos-imigrantes-nos-acores-aipa
+ [1]: http://localhost:8000/2024/03/20/faial-justica-pelo-ademir-vigilia-e-manifestacao-contra-o-racismo/comunicado-de-imprensa-da-organizacao
+ [2]: http://localhost:8000/2024/03/20/faial-justica-pelo-ademir-vigilia-e-manifestacao-contra-o-racismo/nota-de-repudio-associacao-dos-imigrantes-nos-acores-aipa
  [3]: https://www.facebook.com/associacaodosimigrantesnosacores

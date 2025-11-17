@@ -1,0 +1,213 @@
+---
+title: Segunda Declaração Panafricanista de Lisboa – Cabral Sempre!
+author: Publicação Comunitária
+type: post
+date: 2025-09-30T11:43:29+00:00
+url:
+  - https://www.buala.org/pt/a-ler/segunda-grande-marxa-cabral-em-portugal
+activitypub_status:
+  - federated
+fpsm_author_name:
+  - Konferénsia panafrikanu di Lisboa 
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Movimentos Sociais
+tags:
+  - Panafricanismo
+
+---
+<p class="p1">
+  <em>DI POVU PA POVU: LIBERTAÇÃO, DIGNIDADE, SOBERANIA POPULAR!</p> 
+  
+  <p>
+    </em>As lutas pela libertação fizeram parte de uma revolução panafricana que derrotou o colonialismo português, contribuiu para o derrube do fascismo, colocando África no centro de um processo histórico-político de reconstrução e re-humanização das relações no mundo.
+  </p>
+  
+  <p class="p3">
+    CONVOCADA pelos povos da Guiné-Bissau, Cabo Verde, Angola, Moçambique e São Tomé e Príncipe, mobilizada e organizada pelos movimentos de libertação sob a liderança de figuras como Amílcar Cabral, Samora Machel, Eduardo Mondlane, Mário Pinto de Andrade, Agostinho Neto, entre tantos outros que, em diferentes frentes e latitudes, se levantaram contra o colonialismo, esta luta forjada na unidade, foi a expressão concreta da vontade e das aspiração mais profunda destes povos.
+  </p>
+  
+  <p class="p3">
+    CONVICTA de que, para existir plenamente, um povo deve assumir inteiramente a autoridade sobre a sua própria vida, esta luta foi uma ação firme de recuperação do nosso destino e da nossa história.
+  </p>
+  
+  <p class="p5">
+    COMPROMETIDA com os princípios de progresso, soberania e solidariedade combativa internacionalista entre todas as comunidades humanas, foi uma LUTA DO POVO, PELO POVO, PARA FAZER POVO.
+  </p>
+  
+  <p class="p5">
+    Neste “setembro vitorioso”, em que celebramos o nascimento de Amílcar Cabral, pensador e combatente inconfundível da longa tradição radical panafricana, relembramos os sentidos, a potência e a atualidade do mote: “A luta continua”. Um lema que nos lembra da importância de não reivindicarmos “vitórias fáceis” e de não abandonarmos o sonho e o projeto africano de soberania popular.
+  </p>
+  
+  <p class="p3">
+    A segunda Marxa Cabral em Portugal celebra o cinquentenário das independências de Guiné-Bissau, Cabo Verde, Angola, Moçambique e São Tomé e Príncipe, países cujos povos decidiram pegar nas armas como instrumento político contra um sistema colonial e assumir dignamente o seu destino africano: livre e soberano. Proclamada unilateralmente pela Guiné-Bissau, em 1973, essas independências fizeram parte de uma vaga mais ampla de libertação panafricana, articulada numa solidariedade tricontinental – África, Ásia, América. A conjugação deste poderoso fenómeno de contágio culminou no desmoronamento dos impérios coloniais e abriu caminho para a afirmação coletiva destas nações africanas .
+  </p>
+  
+  <p class="p3">
+    Esta celebração, que acontece no contexto do centenário dos nascimentos de Frantz Fanon, Patrice Lumumba e Malcolm X, lembra-nos a riqueza das ideias de libertação e desafia-nos a fazer um movimento Sankofa para recuperar o que foi amputado e relembrar o que foi esquecido.
+  </p>
+  
+  <p class="p3">
+    Neste sentido, esta Marxa é, fundamentalmente, uma marxa de afirmação do compromisso da nossa geração com o legado de Amílcar Cabral : preservar a independência dos nossos países e lutar pela soberania plena dos nossos povos. Este compromisso de ação, aqui em Portugal, território onde Cabral e a sua geração, bem antes de iniciarem a luta pela libertação em África, começaram a lutar ao lado do povo português, particularmente no Alentejo, ensinando, ouvindo e partilhando o seu conhecimento com os jornaleiros agrícolas, é também um desafio à consciência do povo português para assumir a sua responsabilidade histórica: destruir todas as formas de opressão e exploração e combater qualquer ameaça de ressurgimento do odioso fascismo.
+  </p>
+  
+  <p class="p3">
+    Nesta Marxa, sob o mote “<em>Di povu pa povu:</em> Libertação, Dignidade e Soberania popular”, reconhecendo a importância indiscutível das lutas pela independência, olhamos criticamente para o percurso feito até agora e afirmamos o nosso compromisso com a luta pela soberania popular e panafricana ainda por construir.
+  </p>
+  
+  <p class="p3">
+    Saudamos os povos irmãos da Aliança do Sahel: Burkina Faso, Mali e Níger, cuja coragem em defender a sua dignidade e soberania diante da política imperialista da França é, para nós, fonte de inspiração e aprendizagem.
+  </p>
+  
+  <p class="p3">
+    Afirmamos a nossa solidariedade total, combativa e ativa com todos os povos resistentes do mundo, nomeadamente os povos do Congo, Sudão, Saara Ocidental e Palestina, que apoiamos incondicionalmente, os povos irmãos da Guiné-Bissau e Angola, que resistem contra o brutalismo de Estado, e não nos esquecemos da Líbia, destruída pela aliança imperialista e os seus cúmplices. A nossa dignidade está em risco nesses territórios onde o colonialismo e a ferocidade imperialista atuam com total impunidade.
+  </p>
+  
+  <p class="p3">
+    Denunciamos o genocídio contra o povo palestiniano, praticado pelo Estado colonialista e sionista de Israel, com o apoio da União Europeia, os Estados Unidos e o silêncio traidor de grande parte dos governos dos chamados “países árabes” e dos Estados africanos. Aos nossos países que mantêm relações políticas, económicas ou militares com este regime, dizemos com firmeza:
+  </p>
+  
+  <p class="p3">
+    NÃO EM NOSSO NOME!
+  </p>
+  
+  <p class="p5">
+    Rejeitamos o servilismo de líderes africanos e das elites económicas comprometidas com os projetos imperialistas e neocoloniais. Condenamos a sua subserviência às grandes corporações capitalistas que continuam a saquear o continente africano e a sacrificar a vida e a soberania dos povos.
+  </p>
+  
+  <p class="p5">
+    Saudamos todas as comunidades migrantes em Portugal, particularmente os nossos irmãos e irmãs de outras partes do Sul Global, e toda a comunidade cigana cuja presença, viva e resistente é, por si só, um contributo fundamental para o avanço deste país. A nossa luta diária, dignidade e trabalho, são sementes de transformação deste sistema decadente. Juntos, somos uma força imbatível contra o que está por vir. Somos sujeitos essenciais na construção de uma outra sociedade.
+  </p>
+  
+  <p class="p3">
+    Assumimos o nosso papel dentro da diáspora enquanto uma frente panafricana, para travar o avanço do imperialismo e desconectar as linhas imperiais.
+  </p>
+  
+  <p class="p3">
+    Afirmamos, uma vez mais, que: “o 25 de Abril nasceu em África”. Assim, lembramos que o contributo internacionalista de Amílcar Cabral e dos seus camaradas foi crucial para que as portas da revolução se abrissem. Foi a longa e dura luta dos povos africanos, mormente aquela liderada por Amílcar Cabral em Cabo Verde e na Guiné-Bissau, que contribuiu para a derrota do fascismo. Esta resistência unificada foi uma força fundamental e determinante.
+  </p>
+  
+  <p class="p3">
+    Por isso, declaramos que: O reconhecimento e a inscrição concreta da figura de Amílcar Cabral e dos movimentos africanos de libertação na memória e na história da democratização de Portugal, nos manuais escolares, nas datas comemorativas, em monumentos, nos discursos políticos, etc, são formas de reparar a própria história do país e honrar a memória e o trabalho por ele desenvolvido em Portugal.
+  </p>
+  
+  <p class="p3">
+    Para construir um futuro coletivo, precisamos de voltar atrás e encontrar momentos de convergência, processos que conectaram pessoas na construção de pontes rumo a um futuro comum. Esta engenharia de construção, obra do povo africano, mobilizado por Amílcar Cabral, permitiu abrir a larga estrada da esperança. Cabral é o nosso ancestral comum!
+  </p>
+  
+  <p class="p3">
+    Porque “é ainda fecundo o ventre que gerou a besta imunda” do fascismo, da xenofobia, do racismo e do colonialismo, numa União Europeia de Estados cada vez mais neoliberais, securitários, racistas, xenófobos, declaramos que é urgente voltarmos a fazer povo.
+  </p>
+  
+  <p class="p3">
+    A nossa luta, contra o imperialismo e todas as formas de opressão, não obstante a nossa diversidade, é uma só.
+  </p>
+  
+  <p class="p3">
+    Face a esta luta, cada vez mais violenta, é urgente que todas as forças vivas, anticoloniais e anticapitalistas, e antipatriarcais, construam uma unidade antifascista comprometida com as causas justas. <em>DJUNTU,</em> devemos construir territórios de encontro, de ideias e práticas vivificantes que promovam o progresso, a hospitalidade e a dignidade humana.
+  </p>
+  
+  <p class="p3">
+    Renovando os compromissos de setembro de 2024, hoje, e em cada Setembro, com Cabral e todos os cabralistas, marchemos sempre, e juntos:
+  </p>
+  
+  <ul class="ul1">
+    <li class="li3">
+      Contra as guerras, a brutalidade policial, a miséria, a injustiça e as fomes.
+    </li>
+    <li class="li3">
+      Contra o extrativismo e a exploração que empobrecem e matam os povos do Sul Global e todas as formas de vida, particularmente em África.
+    </li>
+    <li class="li3">
+      Por todas as vidas perdidas nos desastres climáticos que assolam o planeta. Manifestamos profunda solidariedade às vítimas das chuvas torrenciais que devastaram a ilha de São Vicente, em Cabo Verde. Exigimos justiça climática e apoio urgente às comunidades afetadas, lembrando que a crise ambiental é também uma questão de soberania e dignidade popular.
+    </li>
+    <li class="li3">
+      Contra todos os acordos comerciais, sobretudo os de pesca, que destroem e pilham ecossistemas e economias africanas.
+    </li>
+  </ul>
+  
+  <ul class="ul1">
+    <li class="li3">
+      Contra o patriarcado e todas as formas de fobia que matam pessoas LGBTQIA+, nomeadamente pessoas cuir negras, historicamente violentadas e invisibilizadas. Rejeitamos toda ingerência imperialista em políticas e direitos sexuais e de gênero em África e exigimos respeito à autonomia das suas comunidades, à sua dignidade e direito de existir, garantindo espaços seguros e proteção para todas as identidades e corpos. Voltar às fontes implica resgatar todos os princípios africanos de humanidade. Lembramos particularmente a histórica declaração de Mande:
+    </li>
+  </ul>
+  
+  <p class="p9">
+    “Toda vida é uma vida; nenhuma vida é superior a outra vida”.
+  </p>
+  
+  <ul class="ul1">
+    <li class="li3">
+      Contra o racismo religioso, sobretudo a islamofobia e a perseguição às espiritualidades africanas.
+    </li>
+    <li class="li3">
+      Contra o esquecimento, o apagamento e o silenciamento.
+    </li>
+    <li class="li3">
+      Contra a precariedade, por uma vida justa!
+    </li>
+    <li class="li3">
+      Por todas as pessoas migrantes que cruzam o Mediterrâneo e outras rotas enfrentando a morte prematura e os muros do mundo.
+    </li>
+    <li class="li3">
+      Por Cláudia Simões, Bruno Candé, Daniel Rodrigues, Danijoy Pontes, Giovani Rodrigues, Mumia Abu Jamal, Maria Luemba, Ana Sílvia Mubiala, Gabriel Pereira Sousa, Youri Rafael, e todas as pessoas que ainda hoje enfrentam a brutalidade dos poderes capitalistas, fascistas, xenófobos, patriarcais, racistas, afrofóbicos e neocoloniais.
+    </li>
+    <li class="li3">
+      Pelo direito de existir, resistir, circular e habitar. Que cessem os despejos forçados e a destruição de bairros como o Talude onde famílias inteiras foram expulsas e deixadas ao relento, sem teto. Para estas pessoas exigimos habitação digna.
+    </li>
+    <li class="li3">
+      Pelo direito ao lugar para a Cova da Moura, a ficar onde está localizada com investimento público para a qualificação e regularização do seu terreno.
+    </li>
+    <li class="li3">
+      Pelo trabalho digno, sobretudo das mulheres que trabalham no sector das limpezas.
+    </li>
+    <li class="li3">
+      Em solidariedade combativa com todos os povos resistentes do mundo, nomeadamente  da Palestina,  bem como do Congo, Sudão, Saara Ocidental, Guiné-Bissau, Angola e Moçambique, que enfrentam poderes traidores dos princípios da liberdade e de soberania popular, fundadores das lutas de libertação africana.
+    </li>
+    <li class="li3">
+      Pela luta mobilizada pelos movimentos anti-franco CFA e pelo fim das bases militares estrangeiras em todo o continente africano.
+    </li>
+    <li class="li3">
+      Pela nossa história, memória e pelo direito à esperança, porque os povos também precisam de existir no imaginário.
+    </li>
+    <li class="li3">
+      Pelas nossas crianças, “as flores da revolução”. Protegê-las de todo o tipo de ataques, principalmente dos fascistas, é um dever de todos nós. Reafirmamos o compromisso de construir um mundo onde possam viver a sua infância de forma plena, segura, “<em>bunita</em>” e digna.
+    </li>
+    <li class="li3">
+      Pela soberania popular e panafricana.
+    </li>
+    <li class="li3">
+      Pela panafricanização dos atos e dos espíritos.
+    </li>
+    <li class="li3">
+      Pelo planeta, a nossa casa comum, por todas as resistências da Terra.
+    </li>
+  </ul>
+  
+  <p class="p3">
+    Que Cabral seja sempre nosso, do mundo em luta contra a opressão e a exploração, porque ele encarna todas as nossas revoluções: anticapitalista, antifascista, anticolonial, antipatriarcal, revolucionário, panafricanista.
+  </p>
+  
+  <p class="p3">
+    Estas são as características que definem as nossas Marxas Cabral: uma Marxa independente, constituída por pessoas deste amplo e diverso movimento negro e panafricanista, que Marxa, age e pensa pela sua própria cabeça.
+  </p>
+  
+  <p class="p3">
+    Unificador das lutas, Cabral sempre!
+  </p>
+  
+  <p class="p3">
+    Esta é a nossa declaração, de nós, os resistentes da Terra, unidos para formar povo. Um povo livre, unido na sua diversidade, fraterno, soberano: comunicamo-la a todos os povos em luta. Dirigimo-la a todas as forças opressoras de todo o mundo!
+  </p>
+  
+  <p class="p10">
+    <em>Luta ka kaba! Nu sta djuntu, nu sta fórti!</em>
+  </p>
+  
+  <p class="p10">
+    <em>Konferénsia panafrikanu di Lisboa</p> 
+    
+    <p>
+      Original:<a href="https://www.buala.org/pt/a-ler/segunda-grande-marxa-cabral-em-portugal"> https://www.buala.org/pt/a-ler/segunda-grande-marxa-cabral-em-portugal</a></em>
+    </p>

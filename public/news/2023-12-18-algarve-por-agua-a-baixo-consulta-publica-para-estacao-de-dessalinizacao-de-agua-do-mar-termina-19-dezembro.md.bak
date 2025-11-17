@@ -19,7 +19,7 @@ autopostToMastodon-toot:
         
         
         
-        #indymedia 
+        indymedia 
 autopostToMastodon-toot-thumbnail:
   - /usr/share/nginx/indymedia//wp-content/uploads/2023/12/Screenshot-2023-12-18-at-01-16-44-07_eia_rnt20231027113713.pdf.png
 classic-editor-remember:
@@ -31,19 +31,19 @@ categories:
 ---
 A [Plataforma Água Sustentável][1] organizou no passado dia 15 uma [sessão de esclarecimento][2] à comunidade sobre a projectada Estação de Dessalinização de Água do Mar, em Albufeira, no Algarve, que está em consulta pública até dia 19 de Dezembro, um mega projecto de 45 milhões de euros.
 
-No fim de novembro, a [TSF noticiava][3] que &#8220;a escassez de água no Algarve é a pior de sempre&#8221;.
+No fim de novembro, a [TSF noticiava][3] que &8220;a escassez de água no Algarve é a pior de sempre&8221;.
 
 É possivel ver a sessão na página de Facebook da PAS:
 
 A PAS tem vindo a demonstrar a sua oposição ao projecto e [preparou um modelo de participação na consulta][4] para que a comunidade possa expressar a sua oposição.
 
-O projecto é promovido pelas águas do Algarve, com a justificação de &#8220;criar uma alternativa capaz de garantir a resiliência do abastecimento público à população da região, mesmo em períodos de seca prolongada.&#8221;
+O projecto é promovido pelas águas do Algarve, com a justificação de &8220;criar uma alternativa capaz de garantir a resiliência do abastecimento público à população da região, mesmo em períodos de seca prolongada.&8221;
 
 A água da dessalinizadora seria para consumo humano. Além de não cobrir as necessidades da população, pode funcionar como justificativa para continuar a gastar água em campos de golfe e na agricultura intensiva. 
 
-A PAS sublinha que os impactos negativos estão a ser desvalorizados com &#8220;destaque para o elevado consumo de combustíveis e os problemas relativos à deposição / dispersão no mar dos efluentes salinos e águas sujas. A qualidade da água marinha vai diminuir, impactando a vida marinha e as praias algarvias e assim, indiretamente, as pescas e o turismo.&#8221;
+A PAS sublinha que os impactos negativos estão a ser desvalorizados com &8220;destaque para o elevado consumo de combustíveis e os problemas relativos à deposição / dispersão no mar dos efluentes salinos e águas sujas. A qualidade da água marinha vai diminuir, impactando a vida marinha e as praias algarvias e assim, indiretamente, as pescas e o turismo.&8221;
 
-Além disso, os consumos de água &#8220;selvagens&#8221; no Algarve prosseguem, seja nos campos de golfe, no consumo intensivo de Abacate, ou nos novos furos que surgem todos os dias. Em reposta ao consumo industrial e às consequências que este traz no contexto das chamadas &#8220;alterações climáticas&#8221; a câmara municipal, decide iniciar a dessalinização de água, em vez de cuidar e moderar o consumo da água potável que já existe, com a desculpa de dar uma resposta à seca.
+Além disso, os consumos de água &8220;selvagens&8221; no Algarve prosseguem, seja nos campos de golfe, no consumo intensivo de Abacate, ou nos novos furos que surgem todos os dias. Em reposta ao consumo industrial e às consequências que este traz no contexto das chamadas &8220;alterações climáticas&8221; a câmara municipal, decide iniciar a dessalinização de água, em vez de cuidar e moderar o consumo da água potável que já existe, com a desculpa de dar uma resposta à seca.
 
 Os participantes na sessão apresentaram a sua oposição ao projecto, dizendo que é um desastre ambiental, e argumentando desde a falta de respeito pelas leis ambientais do próprio governo, às consequências do projecto para a fauna e flora, e a falsa solução que o projecto apresenta à seca e ao aquecimento global.
 
@@ -65,7 +65,7 @@ Consulta pública (podes participar até dia 19):
     Os <strong>impactes negativos deste projeto estão desvalorizados</strong>. Há estudos científicos e técnicos relativos aos impactos ambientais das centrais de dessalinização, com destaque para o elevado consumo de combustíveis e os problemas relativos à deposição / dispersão no mar dos efluentes salinos e águas sujas. A qualidade da água marinha vai diminuir, impactando a vida marinha e as praias algarvias e assim, indiretamente, as pescas e o turismo.&nbsp;<br />
   </li>
   <li>
-    <strong>A concretização do projecto não está alinhado com as diretrizes e os planos nacionais, que, aos vários níveis, visam melhorar a obtenção e gestão do recurso água</strong>, pelo que <strong>não resolvem o problema da exiguidade dos recursos hídricos regionais</strong> &#8211; é incoerente com o&nbsp; Plano Nacional da Água (PNA) e Questões Significativas da Gestão da Água (QSiGA); bem como com a Estratégia&nbsp; Nacional de Adaptação às Alterações Cimáticas (ENAAC), pelo que não é útil para uma eficaz transição climática &#8211; foi uma hipótese estudada no âmbito do Plano Intermunicipal de Adaptação às Alterações Climáticas (PIAAC) Algarve, que a admite como eventualmente a analisar no longo prazo.<br />
+    <strong>A concretização do projecto não está alinhado com as diretrizes e os planos nacionais, que, aos vários níveis, visam melhorar a obtenção e gestão do recurso água</strong>, pelo que <strong>não resolvem o problema da exiguidade dos recursos hídricos regionais</strong> &8211; é incoerente com o&nbsp; Plano Nacional da Água (PNA) e Questões Significativas da Gestão da Água (QSiGA); bem como com a Estratégia&nbsp; Nacional de Adaptação às Alterações Cimáticas (ENAAC), pelo que não é útil para uma eficaz transição climática &8211; foi uma hipótese estudada no âmbito do Plano Intermunicipal de Adaptação às Alterações Climáticas (PIAAC) Algarve, que a admite como eventualmente a analisar no longo prazo.<br />
   </li>
   <li>
     <strong>A construção da Estação de Dessalinização é contraditória com Diretrizes da União Europeia, </strong>porque<strong> </strong>não promove a proteção das zonas costeiras e do mar do Algarve,<strong> e não respeita o principio base de «não prejudicar significativamente (DNSH)» </strong>do Regulamento (EU) dos financiamentos públicos e privados<strong>, nomeadamente </strong>em termos de proteção dos recursos marinhos, da biodiversidade e dos ecossistemas, <strong>não considerando a Directiva Quadro da Estratégia Marinha (DQEM), nem a da Directiva das águas balneares</strong> .&nbsp;<br />
@@ -138,7 +138,7 @@ Neste enquadramento temos considerado prioritárias e estruturantes as seguintes
     A aprovação da expansão do tecido urbano dedicado à exploração sazonal e/ou turística, bem como qualquer aumento urbanístico só poderá ocorrer depois de verificadas as condições de sustentabilidade relativas à utilização e acesso a bens e recursos vitais, quer no litoral (sendo que a orla costeira é das regiões mais vulneráveis às alterações), quer no interior, assim como restringir rigorosamente a construção de novas piscinas, sob o prisma dos seus impactos no recurso hídrico.
   </li>
   <li>
-    Informação rigorosa, acessível e atempada aos habitantes e aos turistas, sobre a monotorização e o estado dos recursos hídricos, assim como a gestão e o uso da água no Algarve e no país, garantindo a sensibilização sobre o estado dos recursos hídricos do Algarve e do país. como &#8220;Informação rigoroso, acessível e atempadamente sobre a monitorização e o estado dos recursos, assim como a gestão e o uso da água.
+    Informação rigorosa, acessível e atempada aos habitantes e aos turistas, sobre a monotorização e o estado dos recursos hídricos, assim como a gestão e o uso da água no Algarve e no país, garantindo a sensibilização sobre o estado dos recursos hídricos do Algarve e do país. como &8220;Informação rigoroso, acessível e atempadamente sobre a monitorização e o estado dos recursos, assim como a gestão e o uso da água.
   </li>
   <li>
     Por último, a questão da gestão da água, que necessita de uma urgente reflexão, dum debate que seja inclusivo e integrador de toda a sociedade civil.

@@ -1,5 +1,5 @@
 ---
-title: 'Apresentação: “Dissidências..” #PTrevolutionTV #AltPT'
+title: 'Apresentação: “Dissidências..” PTrevolutionTV AltPT'
 author: Publicação Comunitária
 type: post
 date: 2024-09-21T16:11:50+00:00
@@ -15,7 +15,7 @@ tags:
   - PTrevolutionTV
 
 ---
-Apresentação: &#8220;Dissidências..&#8221; #PTrevolutionTV #AltPT
+Apresentação: &8220;Dissidências..&8221; PTrevolutionTV AltPT
 
 
 
@@ -27,7 +27,7 @@ Apresentação: &#8220;Dissidências..&#8221; #PTrevolutionTV #AltPT
 <!-- wp:group {"layout":{"type":"constrained"}} -->
 
 <div class="wp-block-group">
-  <!-- wp:lightweight-accordion/lightweight-accordion {"title":"YouTube","title_text_color":null,"title_background_color":"#cf2e2e","accordion_open":true} -->
+  <!-- wp:lightweight-accordion/lightweight-accordion {"title":"YouTube","title_text_color":null,"title_background_color":"cf2e2e","accordion_open":true} -->
   
   <!-- wp:group {"layout":{"type":"constrained"}} -->
   
@@ -65,7 +65,7 @@ Instâncias [Invidious][1] alternativas:
 
 <!-- /wp:paragraph -->
 
-<!-- wp:lightweight-accordion/lightweight-accordion {"title":"Imagem","title_text_color":null,"title_background_color":"#000000"} -->
+<!-- wp:lightweight-accordion/lightweight-accordion {"title":"Imagem","title_text_color":null,"title_background_color":"000000"} -->
 
 <!-- wp:image {"sizeSlug":"large"} --><figure class="wp-block-image size-large">
 

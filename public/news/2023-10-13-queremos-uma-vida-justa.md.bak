@@ -20,7 +20,7 @@ autopostToMastodon-toot:
     
     
     
-    #PublicaoAberta #Protesto #VidaJusta
+    PublicaoAberta Protesto VidaJusta
 autopostToMastodon-toot-thumbnail:
   - /usr/share/nginx/indymedia//wp-content/uploads/2023/10/vj_21out_ig-1-768x767.jpg
 categories:
