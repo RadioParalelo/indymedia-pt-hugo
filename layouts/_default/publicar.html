@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang | default "en" }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publicar - {{ .Site.Title }}</title>
+    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+</head>
+<body>
+    <!-- This div is where Decap CMS will mount -->
+    <script>
+        CMS.init({
+            config: {
+                backend: {
+                    name: 'github',
+                    repo: 'RadioParalelo/indymedia-pt-hugo',
+                    branch: 'main'
+                },
+                media_folder: 'static/images',
+                public_folder: '/images',
+                collections: [{
+                    name: 'posts',
+                    label: 'Posts',
+                    folder: 'content/posts',
+                    create: true,
+                    fields: [
+                        { name: 'title', label: 'Title', widget: 'string' },
+                        { name: 'date', label: 'Date', widget: 'datetime' },
+                        { name: 'body', label: 'Body', widget: 'markdown' }
+                    ]
+                }]
+            }
+        });
+    </script>
+</body>
+</html>
