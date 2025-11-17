@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>STOP on indymedia.pt</title>
-    <link>http://localhost:1313/tags/stop/</link>
+    <link>https://blog.indymedia.pt/tags/stop/</link>
     <description>Recent content in STOP on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Mon, 04 Sep 2023 13:49:53 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/stop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/stop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abaixo Asssinado em Defesa dos Músicos do CC STOP, do Porto, da Cultura e da Transparência no Processo Urbanístico</title>
-      <link>http://localhost:1313/?p=1627/</link>
+      <link>https://blog.indymedia.pt/?p=1627/</link>
       <pubDate>Mon, 04 Sep 2023 13:49:53 +0000</pubDate>
-      <guid>http://localhost:1313/?p=1627/</guid>
+      <guid>https://blog.indymedia.pt/?p=1627/</guid>
       <description>Assina já: https://peticaopublica.com/pview.aspx?pi=PT117519&#xA;Vimos por este meio expressar a nossa profunda preocupação para com a ameaça iminente de evacuação dos músicos do Centro Comercial STOP. Reconhecemos o inestimável valor desses agentes para a riqueza cultural de nossa cidade e do nosso país.&#xA;Os músicos do Porto não são apenas intérpretes e compositores talentosos, são também guardiões da nossa herança musical e geradores de nova expressão artística. Eles enriquecem a sociedade de maneiras que não podem ser subestimadas.</description>
     </item>
   </channel>

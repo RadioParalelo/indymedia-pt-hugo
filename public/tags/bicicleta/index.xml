@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bicicleta on indymedia.pt</title>
-    <link>http://localhost:1313/tags/bicicleta/</link>
+    <link>https://blog.indymedia.pt/tags/bicicleta/</link>
     <description>Recent content in Bicicleta on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Wed, 18 Oct 2023 09:52:42 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/bicicleta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/bicicleta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uma centena de pessoas contra a remoção da Ciclovia da Avenida de Berna</title>
-      <link>http://localhost:1313/?p=33057/</link>
+      <link>https://blog.indymedia.pt/?p=33057/</link>
       <pubDate>Wed, 18 Oct 2023 09:52:42 +0000</pubDate>
-      <guid>http://localhost:1313/?p=33057/</guid>
+      <guid>https://blog.indymedia.pt/?p=33057/</guid>
       <description>No apelo da internet que circulou a convidar ciclistas e outros a juntarem-se a uma Massa Crítica em defesa da Ciclovia da Avenida de Berna podia-se ler:&#xA;A remoção da ciclovia da Avenida de Berna está iminente! Na semana passada a CML divulgou o seu plano para “anular a ciclovia unidirecional no lado norte da Avenida, em toda a sua extensão, e também no lado sul, entre o Largo Azeredo Perdigão e a Avenida da República&amp;#8221;.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alemanha on indymedia.pt</title>
-    <link>http://localhost:1313/tags/alemanha/</link>
+    <link>https://blog.indymedia.pt/tags/alemanha/</link>
     <description>Recent content in Alemanha on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Thu, 04 Jan 2024 22:12:08 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/alemanha/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/alemanha/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grande manifestação de agricultores esta noite em Straubing, Alemanha.</title>
-      <link>http://localhost:1313/?p=215557/</link>
+      <link>https://blog.indymedia.pt/?p=215557/</link>
       <pubDate>Thu, 04 Jan 2024 22:12:08 +0000</pubDate>
-      <guid>http://localhost:1313/?p=215557/</guid>
+      <guid>https://blog.indymedia.pt/?p=215557/</guid>
       <description>Grande manifestação de agricultores esta noite em Straubing, Alemanha.&#xA;O movimento ganha força à medida que se aproxima o dia 8 de janeiro, quando são esperados bloqueios e manifestações em todo o país durante vários dias.&#xA;informação via t.me/AnonymeCitoyen</description>
     </item>
   </channel>

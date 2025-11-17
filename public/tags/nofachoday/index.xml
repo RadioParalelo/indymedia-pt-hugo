@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NoFachoDay on indymedia.pt</title>
-    <link>http://localhost:1313/tags/nofachoday/</link>
+    <link>https://blog.indymedia.pt/tags/nofachoday/</link>
     <description>Recent content in NoFachoDay on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sat, 01 Nov 2025 12:32:07 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/nofachoday/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/nofachoday/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>#NOFACHODAY</title>
-      <link>http://localhost:1313/?p=229062/</link>
+      <link>https://blog.indymedia.pt/?p=229062/</link>
       <pubDate>Sat, 01 Nov 2025 12:32:07 +0000</pubDate>
-      <guid>http://localhost:1313/?p=229062/</guid>
+      <guid>https://blog.indymedia.pt/?p=229062/</guid>
       <description>O #NoFachoDay chega a 1 de dezembro, o dia em que a Restauração da Independência ganha outro significado: restaurar a liberdade, a empatia e a resistência cultural.&#xA;Inspirado no espírito do NoKingsDay, este é um gesto coletivo que une arte, música, humor e ação cívica contra o autoritarismo e a normalização do ódio.&#xA;Portugal precisa de um novo tipo de celebração, uma que não se limite a recordar o passado, mas que lute pelo presente.</description>
     </item>
   </channel>

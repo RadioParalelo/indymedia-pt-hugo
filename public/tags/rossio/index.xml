@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rossio on indymedia.pt</title>
-    <link>http://localhost:1313/tags/rossio/</link>
+    <link>https://blog.indymedia.pt/tags/rossio/</link>
     <description>Recent content in Rossio on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sun, 05 Oct 2025 07:12:14 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/rossio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/rossio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estação do Rossio em Lisboa ocupada em Protesto pela Palestina</title>
-      <link>http://localhost:1313/?p=227834/</link>
+      <link>https://blog.indymedia.pt/?p=227834/</link>
       <pubDate>Sun, 05 Oct 2025 07:12:14 +0000</pubDate>
-      <guid>http://localhost:1313/?p=227834/</guid>
+      <guid>https://blog.indymedia.pt/?p=227834/</guid>
       <description>A estação de comboios do Rossio em Lisboa foi ocupada durante o protesto de ontem, 4 de Outubro, por centenas de pessoas, no seguimento de uma marcha no centro da cidade, com mais de três mil pessoas.&#xA;“A concentração realizou-se na Praça Martim Moniz, em Lisboa, para desfilarem na manifestação pela libertação dos quatro cidadãos portugueses que participaram na flotilha humanitária Global Sumud.”&#xA;“Por volta das 18h20, os manifestantes começaram a dirigir-se para a estação apesar de já não terem, neste local, autorização para a realizar e sentaram-se no chão.</description>
     </item>
   </channel>

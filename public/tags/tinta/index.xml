@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tinta on indymedia.pt</title>
-    <link>http://localhost:1313/tags/tinta/</link>
+    <link>https://blog.indymedia.pt/tags/tinta/</link>
     <description>Recent content in Tinta on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Fri, 27 Oct 2023 18:15:35 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tinta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/tinta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Activistas ambientais pintam pirâmide do Louvre em Paris</title>
-      <link>http://localhost:1313/?p=63329/</link>
+      <link>https://blog.indymedia.pt/?p=63329/</link>
       <pubDate>Fri, 27 Oct 2023 18:15:35 +0000</pubDate>
-      <guid>http://localhost:1313/?p=63329/</guid>
+      <guid>https://blog.indymedia.pt/?p=63329/</guid>
       <description>https://elblog.com/activistas-climaticos-vandalizan-la-piramide-del-museo-del-louvre-en-francia/ Activistas do grupo climático “Dernière Renovation” durante o dia de hoje, 27 de Outubro de 2023, atiraram tinta na pirâmide do Louvre em Paris, França.&#xA;Os sujeitos pintaram de cor de laranja os vidros da pirâmide, enquanto as autoridades tentavam impedir que continuassem com o ato vandálico.&#xA;Um dos manifestantes subiu à pirâmide, onde despejou tinta tinta e mostrou uma mensagem.&#xA;Por todo o mundo são cada vez mais os protestos deste gênero que servem como um último recurso para levar estas lutas ao média convencionais, já que este tipo de notícias vende mais que expor a realidade climática do planeta e quais os verdadeiros responsáveis pela situação que atravessamos.</description>
     </item>
   </channel>

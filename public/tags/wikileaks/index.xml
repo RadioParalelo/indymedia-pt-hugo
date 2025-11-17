@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wikileaks on indymedia.pt</title>
-    <link>http://localhost:1313/tags/wikileaks/</link>
+    <link>https://blog.indymedia.pt/tags/wikileaks/</link>
     <description>Recent content in Wikileaks on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Wed, 04 Oct 2023 19:53:57 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/wikileaks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/wikileaks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Foi neste dia em 2006, que Julian Assange criou a Wikileaks.</title>
-      <link>http://localhost:1313/?p=32366/</link>
+      <link>https://blog.indymedia.pt/?p=32366/</link>
       <pubDate>Wed, 04 Oct 2023 19:53:57 +0000</pubDate>
-      <guid>http://localhost:1313/?p=32366/</guid>
+      <guid>https://blog.indymedia.pt/?p=32366/</guid>
       <description>Julian tem agora 52 anos e quando tinha 38 anos criou a WikiLeaks e publicou o vídeo “Collateral Murder”.&#xA;O vídeo mostra o exército dos EUA a matar uma dúzia de civis, incluindo dois funcionários da Reuters em missão e as equipas de resgate que pararam para ajudar os feridos. A Reuters tentou formalmente obter o vídeo, mas o Pentágono recusou-se a entregá-lo.&#xA;As provas do que aconteceu permaneceram nos servidores dos militares dos EUA até que Chelsea Manning as enviou ao WikiLeaks.</description>
     </item>
   </channel>

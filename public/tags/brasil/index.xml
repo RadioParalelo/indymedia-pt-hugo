@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brasil on indymedia.pt</title>
-    <link>http://localhost:1313/tags/brasil/</link>
+    <link>https://blog.indymedia.pt/tags/brasil/</link>
     <description>Recent content in Brasil on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sun, 01 Oct 2023 16:36:32 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/brasil/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/brasil/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Brasil] Tomar o poder Não é depredar palácios vazios (2023)</title>
-      <link>http://localhost:1313/?p=27440/</link>
+      <link>https://blog.indymedia.pt/?p=27440/</link>
       <pubDate>Sun, 01 Oct 2023 16:36:32 +0000</pubDate>
-      <guid>http://localhost:1313/?p=27440/</guid>
+      <guid>https://blog.indymedia.pt/?p=27440/</guid>
       <description>O poder não reside nos palácios, nem mesmo nas instituições e no próprio Estado.&#xA;O poder é exercido através de relações sociais. Para mudar seu exercício, é preciso mudar estas relações sociais.&#xA;VÍDEO CENSURADO NO YT</description>
     </item>
   </channel>

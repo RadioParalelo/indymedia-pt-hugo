@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Freekoulchi on indymedia.pt</title>
-    <link>http://localhost:1313/tags/freekoulchi/</link>
+    <link>https://blog.indymedia.pt/tags/freekoulchi/</link>
     <description>Recent content in Freekoulchi on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sun, 19 Oct 2025 02:40:27 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/freekoulchi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/freekoulchi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tribunal de Agadir, em Marrocos condenou 17 pessoas com penas coletivas de 162 anos</title>
-      <link>http://localhost:1313/news/2025-10-19-tribunal-de-agadir-em-marroocos-condenou-17-pessoas-com-penas-coletivas-de-162-anos/</link>
+      <link>https://blog.indymedia.pt/news/2025-10-19-tribunal-de-agadir-em-marroocos-condenou-17-pessoas-com-penas-coletivas-de-162-anos/</link>
       <pubDate>Sun, 19 Oct 2025 02:40:27 +0000</pubDate>
-      <guid>http://localhost:1313/news/2025-10-19-tribunal-de-agadir-em-marroocos-condenou-17-pessoas-com-penas-coletivas-de-162-anos/</guid>
+      <guid>https://blog.indymedia.pt/news/2025-10-19-tribunal-de-agadir-em-marroocos-condenou-17-pessoas-com-penas-coletivas-de-162-anos/</guid>
       <description>Rabat – O Tribunal de Apelação em Agadir emitiu veredictos severos na terça-feira, sentenciando 17 jovens adultos a um total combinado de 162 anos de prisão por seu envolvimento em motins e atos de vandalismo que sacudiram a área de Ait Amira na província de Chtouka Ait Baha.&#xA;De acordo com fontes judiciais relatadas, os réus foram condenados por múltiplas acusações, incluindo deliberadamente incendiando a propriedade pública, particularmente veículos pertencentes a forças de segurança, ao lado de atos violentos e destruição de bens públicos e privados.</description>
     </item>
   </channel>

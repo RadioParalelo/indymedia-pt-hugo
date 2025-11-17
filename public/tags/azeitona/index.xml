@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Azeitona on indymedia.pt</title>
-    <link>http://localhost:1313/tags/azeitona/</link>
+    <link>https://blog.indymedia.pt/tags/azeitona/</link>
     <description>Recent content in Azeitona on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Mon, 13 Oct 2025 11:56:55 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/azeitona/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/azeitona/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Relatos da Apanha da Azeitona na Palestina Ocupada</title>
-      <link>http://localhost:1313/news/2025-10-13-relatos-da-apanha-da-azeitona-na-palestina-ocupada/</link>
+      <link>https://blog.indymedia.pt/news/2025-10-13-relatos-da-apanha-da-azeitona-na-palestina-ocupada/</link>
       <pubDate>Mon, 13 Oct 2025 11:56:55 +0000</pubDate>
-      <guid>http://localhost:1313/news/2025-10-13-relatos-da-apanha-da-azeitona-na-palestina-ocupada/</guid>
+      <guid>https://blog.indymedia.pt/news/2025-10-13-relatos-da-apanha-da-azeitona-na-palestina-ocupada/</guid>
       <description>Um grupo de Jornalistas portgueses tem estado nos últimos dias a apoiar a apanha da azeitona nos territórios Palestinos ocupados da cisjordânia, juntamente com cerca de 25 ativistas internacionais. A página com os relatos diários da Cisjordânia Ocupada pode ser seguida no instagram na página “Estórias da Palestina”: @estoriasdapalestina&#xA;Aqui ficam os relatos dos últimos três dias, sendo que haverá mais atualizações diárias na página @estoriasdapalestina&#xA;3° dia da apanha da azeitona, em Idna.</description>
     </item>
   </channel>

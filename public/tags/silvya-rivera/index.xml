@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Silvya Rivera on indymedia.pt</title>
-    <link>http://localhost:1313/tags/silvya-rivera/</link>
+    <link>https://blog.indymedia.pt/tags/silvya-rivera/</link>
     <description>Recent content in Silvya Rivera on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sun, 22 Oct 2023 14:44:22 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/silvya-rivera/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/silvya-rivera/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dia Internacional pela Despatologização das Identidades Trans</title>
-      <link>http://localhost:1313/?p=45138/</link>
+      <link>https://blog.indymedia.pt/?p=45138/</link>
       <pubDate>Sun, 22 Oct 2023 14:44:22 +0000</pubDate>
-      <guid>http://localhost:1313/?p=45138/</guid>
+      <guid>https://blog.indymedia.pt/?p=45138/</guid>
       <description>A 22 de Outubro, assinala-se o Dia Internacional pela Despatologização das Identidades Trans. Este dia, convocado pela STP – Stop Trans Pathologization e resulta de uma iniciativa de ativistas na primeira década do século XXI. Desde 2007 que são realizadas mobilizações pela despatologização das identidades trans. Historicamente, esta campanha visa a retirada da classificação dos processos de reafirmação de género como trastorno mental no catálogo de diagnósticos (DSM da Associação de Psiquiatria Americana e CID da Organização Mundial de Saúde).</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bloqueio on indymedia.pt</title>
-    <link>http://localhost:1313/tags/bloqueio/</link>
+    <link>https://blog.indymedia.pt/tags/bloqueio/</link>
     <description>Recent content in Bloqueio on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Thu, 09 Nov 2023 14:33:01 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/bloqueio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/bloqueio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Block Cop City</title>
-      <link>http://localhost:1313/?p=173925/</link>
+      <link>https://blog.indymedia.pt/?p=173925/</link>
       <pubDate>Thu, 09 Nov 2023 14:33:01 +0000</pubDate>
-      <guid>http://localhost:1313/?p=173925/</guid>
+      <guid>https://blog.indymedia.pt/?p=173925/</guid>
       <description>Nós marchamos no local da construção. Vamos salvar WEELA UNEE.&#xA;“Em Novembro deste ano, os opositores da Cop City reunir-se-ão na Floresta de South River para uma acção directa não-violenta em massa.&#xA;Durante dois anos, um movimento popular atrasou os trabalhos em Cop City, em Atlanta, Geórgia. Mas agora a construção está pronta para começar.&#xA;Mais de cem mil residentes locais assinaram uma petição para um referendo sobre Cop City, que permitiria ao povo de Atlanta decidir o destino do projeto através de voto popular.</description>
     </item>
     <item>
       <title>[Lisboa] Ativistas bloqueiam segunda circular. “Os governos e as empresas declararam guerra à sociedade e ao planeta.”</title>
-      <link>http://localhost:1313/?p=30694/</link>
+      <link>https://blog.indymedia.pt/?p=30694/</link>
       <pubDate>Tue, 03 Oct 2023 09:28:30 +0000</pubDate>
-      <guid>http://localhost:1313/?p=30694/</guid>
+      <guid>https://blog.indymedia.pt/?p=30694/</guid>
       <description>COMUNICADO “Os governos e as empresas declararam guerra à sociedade e ao planeta.” Ativistas bloqueiam segunda circular. Esta manhã, um grupo de trabalhadores e estudantes do Climáximo bloquearam o trânsito na segunda circular, em Lisboa, em frente à sede da Galp. Dez ativistas sentaram-se no chão e dois subiram à ponte pedonal, segurando uma faixa onde se leu “Os governos e as empresas declararam guerra à sociedade e ao planeta”.</description>
     </item>
   </channel>

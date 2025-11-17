@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Barricada De Livros on indymedia.pt</title>
-    <link>http://localhost:1313/tags/barricada-de-livros/</link>
+    <link>https://blog.indymedia.pt/tags/barricada-de-livros/</link>
     <description>Recent content in Barricada De Livros on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sun, 28 Jan 2024 02:49:56 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/barricada-de-livros/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/barricada-de-livros/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>31 Janeiro – Conversas com Editores – Mário Rui Pinto [Barricada de Livros]</title>
-      <link>http://localhost:1313/?p=216486/</link>
+      <link>https://blog.indymedia.pt/?p=216486/</link>
       <pubDate>Sun, 28 Jan 2024 02:49:56 +0000</pubDate>
-      <guid>http://localhost:1313/?p=216486/</guid>
+      <guid>https://blog.indymedia.pt/?p=216486/</guid>
       <description>Quarta-feira, 31 de Janeiro, às 18h30&#xA;Conversas com Editores | Mário Rui Pinto (Barricada de Livros) Prosseguimos com Mário Rui Pinto, da Barricada de Livros, a série de conversas com editores que iniciámos em Fevereiro de 2023. Partindo do percurso particular de cada um dos nossos convidados, pretendemos conversar sobre o estado actual da edição, as suas dificuldades e possibilidades, o que se pode imaginar para o seu eventual futuro.</description>
     </item>
   </channel>

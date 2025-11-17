@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Madeira on indymedia.pt</title>
-    <link>http://localhost:1313/tags/madeira/</link>
+    <link>https://blog.indymedia.pt/tags/madeira/</link>
     <description>Recent content in Madeira on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Wed, 29 Nov 2023 15:31:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/madeira/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/madeira/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Concentração contra o Teleférico de Curral das Freiras</title>
-      <link>http://localhost:1313/?p=213699/</link>
+      <link>https://blog.indymedia.pt/?p=213699/</link>
       <pubDate>Wed, 29 Nov 2023 15:31:00 +0000</pubDate>
-      <guid>http://localhost:1313/?p=213699/</guid>
+      <guid>https://blog.indymedia.pt/?p=213699/</guid>
       <description>O @movimentoimpediradestruicao vai organizar uma concentração dia 1 de Dezembro, às 11horas, no miradouro da Eira do Serrado, contra o projecto do Teleférico no Curral das Freiras.&#xA;Pedimos a todos os que estejam na Madeira e que possam, para se juntarem e juntos mostrarmos que não aceitamos a privatização dos últimos redutos de Biodiversidade em Portugal.&#xA;É inaceitável o desvirtuamento de Zonas Especiais de Conservação, que são por lei as zonas com maior proteção ambiental.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terrorismo on indymedia.pt</title>
-    <link>http://localhost:1313/tags/terrorismo/</link>
+    <link>https://blog.indymedia.pt/tags/terrorismo/</link>
     <description>Recent content in Terrorismo on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Tue, 21 Oct 2025 12:54:28 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/terrorismo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/terrorismo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Membro de extrema direita detido após ameaças de morte a jornalista brasileira em Portugal</title>
-      <link>http://localhost:1313/news/2025-10-21-membro-de-extrema-direita-detido-apos-ameacas-de-morte-a-jornalista-independente-em-portugal/</link>
+      <link>https://blog.indymedia.pt/news/2025-10-21-membro-de-extrema-direita-detido-apos-ameacas-de-morte-a-jornalista-independente-em-portugal/</link>
       <pubDate>Tue, 21 Oct 2025 12:54:28 +0000</pubDate>
-      <guid>http://localhost:1313/news/2025-10-21-membro-de-extrema-direita-detido-apos-ameacas-de-morte-a-jornalista-independente-em-portugal/</guid>
+      <guid>https://blog.indymedia.pt/news/2025-10-21-membro-de-extrema-direita-detido-apos-ameacas-de-morte-a-jornalista-independente-em-portugal/</guid>
       <description>Membro de extrema direita detido pela PJ por ameaças de morte a jornalista brasileira. Ameaças foram cometidas em setembro. A Unidade de Contraterrorismo da Polícia Judiciária deteve na manhã desta terça-feira um elemento de extrema-direita por incitamento ao ódio e ameaças de morte à jornalista brasileira Stefani Costa, que trabalha em Portugal, apurou a CNN Portugal. Na rede social X, entre outras publicações onde faz comentários nomeadamente de apologia neonazi, Bruno Silva afirmou oferecer dinheiro “a quem realizar um massacre e exterminar pelo menos 100 brasileiros em Portugal”.</description>
     </item>
   </channel>

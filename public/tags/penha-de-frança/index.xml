@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Penha De França on indymedia.pt</title>
-    <link>http://localhost:1313/tags/penha-de-fran%C3%A7a/</link>
+    <link>https://blog.indymedia.pt/tags/penha-de-fran%C3%A7a/</link>
     <description>Recent content in Penha De França on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sun, 17 Sep 2023 11:46:29 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/penha-de-fran%C3%A7a/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/penha-de-fran%C3%A7a/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Lisboa] O Vale de Santo António: Uma consulta alternativa</title>
-      <link>http://localhost:1313/?p=450/</link>
+      <link>https://blog.indymedia.pt/?p=450/</link>
       <pubDate>Sun, 17 Sep 2023 11:46:29 +0000</pubDate>
-      <guid>http://localhost:1313/?p=450/</guid>
+      <guid>https://blog.indymedia.pt/?p=450/</guid>
       <description>Está em curso uma consulta alternativa ao projecto de urbanização do vale de Santo António.&#xA;O inquérito é direcionado a residentes de Lisboa que tenham, ou possam vir a ter, interesse no projeto do Vale de Santo António. O objetivo é recolher opiniões sobre o destino deste sítio.&#xA;Este inquérito surge de uma preocupação com o impacto desta construção, bem como de um desejo de pensar noutras utilizações do espaço ao serviço das pessoas e da natureza.</description>
     </item>
     <item>
       <title>Pelo Direito ao Sentar! “Infraestrutura Pública” instala cadeiras na praça Paiva Couceiro</title>
-      <link>http://localhost:1313/?p=495/</link>
+      <link>https://blog.indymedia.pt/?p=495/</link>
       <pubDate>Wed, 13 Sep 2023 18:32:14 +0000</pubDate>
-      <guid>http://localhost:1313/?p=495/</guid>
+      <guid>https://blog.indymedia.pt/?p=495/</guid>
       <description>No dia 24 de Março de 2020 a Junta de Freguesia da Penha de França escreveu no Facebook “Para garantir a saúde de todos e evitar aglomerações, retirámos hoje de manhã os bancos e as mesas da Praça Paiva Couceiro.” Estamos no fim de 2023 e estamos a exgir que nos devolvam o que nos tiraram.&#xA;Senta-te aqui. Temos o direito a sentar. A sentar em espaços que não sejam de consumo.</description>
     </item>
   </channel>

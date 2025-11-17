@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saúde on indymedia.pt</title>
-    <link>http://localhost:1313/tags/sa%C3%BAde/</link>
+    <link>https://blog.indymedia.pt/tags/sa%C3%BAde/</link>
     <description>Recent content in Saúde on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Tue, 03 Oct 2023 21:01:57 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/sa%C3%BAde/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/sa%C3%BAde/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Ovar] 3500 pessoas manifestam-se por Serviços de Saúde de Proximidade</title>
-      <link>http://localhost:1313/?p=31509/</link>
+      <link>https://blog.indymedia.pt/?p=31509/</link>
       <pubDate>Tue, 03 Oct 2023 21:01:57 +0000</pubDate>
-      <guid>http://localhost:1313/?p=31509/</guid>
+      <guid>https://blog.indymedia.pt/?p=31509/</guid>
       <description>A plataforma cívica “Coração Vareiro” convocou uma manifestação com adesão mais de 3500 pessoas em Ovar, aquela que foi a maior marcha cívica apartidária em Ovar, em defesa dos Serviços de Saúde de Proximidade.&#xA;Em causa, a tentativa de referenciar os utentes dos serviços de saúde residentes em Ovar para os serviços de saúde em Aveiro, a 50 quilómetros de distância. A população rejeita esta tentativa de afastamento e exige agora um que a população seja ouvida.</description>
     </item>
   </channel>

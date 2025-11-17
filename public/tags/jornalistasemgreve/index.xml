@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JornalistasEmGreve on indymedia.pt</title>
-    <link>http://localhost:1313/tags/jornalistasemgreve/</link>
+    <link>https://blog.indymedia.pt/tags/jornalistasemgreve/</link>
     <description>Recent content in JornalistasEmGreve on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Wed, 13 Mar 2024 22:18:03 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/jornalistasemgreve/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/jornalistasemgreve/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Greve Geral de Jornalistas: 14 de março</title>
-      <link>http://localhost:1313/?p=221749/</link>
+      <link>https://blog.indymedia.pt/?p=221749/</link>
       <pubDate>Wed, 13 Mar 2024 22:18:03 +0000</pubDate>
-      <guid>http://localhost:1313/?p=221749/</guid>
+      <guid>https://blog.indymedia.pt/?p=221749/</guid>
       <description>Chegou o momento de passarmos das palavras aos atos. Há muito que o diagnóstico está feito: degradou-se o exercício do jornalismo. Sobrevivemos com baixos salários, precariedade, sujeitos a uma irrazoável pressão para o imediatismo, à constante falta de tempo. Chegou o momento de exigirmos respeito.&#xA;As conclusões do último Congresso de Jornalistas são claras: “a paixão dos jornalistas pela profissão não pode servir de pretexto para a exploração do seu trabalho por parte das empresas”.</description>
     </item>
   </channel>

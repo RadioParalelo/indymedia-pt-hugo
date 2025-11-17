@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UNITE on indymedia.pt</title>
-    <link>http://localhost:1313/tags/unite/</link>
+    <link>https://blog.indymedia.pt/tags/unite/</link>
     <description>Recent content in UNITE on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sat, 09 Mar 2024 15:46:35 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/unite/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/unite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MANAS reivindicam estratégia nacional com políticas inovadoras sobre consumo de drogas</title>
-      <link>http://localhost:1313/?p=221300/</link>
+      <link>https://blog.indymedia.pt/?p=221300/</link>
       <pubDate>Sat, 09 Mar 2024 15:46:35 +0000</pubDate>
-      <guid>http://localhost:1313/?p=221300/</guid>
+      <guid>https://blog.indymedia.pt/?p=221300/</guid>
       <description>GAT Portugal&#xA;Nós, Mulheres que Usamos Drogas, Existimos! – Intervenções dirigidas às mulheres que usam drogas&#xA;As MANAS – Grupo de apoio mútuo para mulheres sobreviventes a múltiplas violências, e GAT IN Mouraria, centro de base comunitária do GAT direcionado para a população que usa drogas, organizaram a conferência “Nós, Mulheres que Usamos Drogas, Existimos!”, incluída na campanha internacional #UNITE pela Eliminação da Violência contra as Mulheres. Cumpriu-se o propósito de trazer as mulheres que usam drogas para o centro da discussão académica, política e comunitária.</description>
     </item>
   </channel>

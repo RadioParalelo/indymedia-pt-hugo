@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maratona on indymedia.pt</title>
-    <link>http://localhost:1313/tags/maratona/</link>
+    <link>https://blog.indymedia.pt/tags/maratona/</link>
     <description>Recent content in Maratona on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Sun, 08 Oct 2023 09:36:28 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/maratona/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/maratona/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Doze pessoas detidas por estarem reunidas. Verdadeiros criminosos permanecem impunes.</title>
-      <link>http://localhost:1313/?p=32530/</link>
+      <link>https://blog.indymedia.pt/?p=32530/</link>
       <pubDate>Sun, 08 Oct 2023 09:36:28 +0000</pubDate>
-      <guid>http://localhost:1313/?p=32530/</guid>
+      <guid>https://blog.indymedia.pt/?p=32530/</guid>
       <description>COMUNICADO&#xA;Doze pessoas detidas por estarem reunidas. Verdadeiros criminosos permanecem impunes.&#xA;Esta manhã, doze pessoas reunidas perto da maratona EDP foram levadas, por polícia à paisana, para a esquadra de Cascais, onde tiveram de permanecer por várias horas sem ter sido dada justificação legal. Climáximo denuncia ataque à liberdade e democracia.&#xA;Esta manhã, num local público próximo da partida da maratona EDP, em Cascais, dez agentes à paisana, vestidos com o equipamento oficial da corrida, detiveram doze apoiantes do Climáximo que estavam reunidos a conversar, levando-os para a Divisão Policial de Cascais, onde tiveram de permanecer 2 horas.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lousã on indymedia.pt</title>
-    <link>http://localhost:1313/tags/lous%C3%A3/</link>
+    <link>https://blog.indymedia.pt/tags/lous%C3%A3/</link>
     <description>Recent content in Lousã on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Fri, 23 Feb 2024 16:00:10 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/lous%C3%A3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/lous%C3%A3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Lousã] Montarias não foram autorizadas, após 2000 emails e mobilização para evitar caça de veados e javalis</title>
-      <link>http://localhost:1313/?p=214381/</link>
+      <link>https://blog.indymedia.pt/?p=214381/</link>
       <pubDate>Fri, 23 Feb 2024 16:00:10 +0000</pubDate>
-      <guid>http://localhost:1313/?p=214381/</guid>
+      <guid>https://blog.indymedia.pt/?p=214381/</guid>
       <description>Update (Fevereiro 2024):&#xA;&amp;#8220;VITÓRIA!! CONSEGUIMOS!!! Após a mobilização de centenas de pessoas e o envio de quase 2 mil emails, as entidades competentes confirmaram que NÃO irão ser autorizadas as 2 montarias agendadas para este mês de fevereiro, nos dias 24 e 29 de fevereiro, na zona de caça turística na Serra da Lousã pela empresa Serracaça. Confirmaram também que a montaria do passado dia 13 de Fevereiro aconteceu sem autorização, pelo que não conseguimos entender como é que esta decorreu quando estiverem presentes no local entidades competentes.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anti-Latada on indymedia.pt</title>
-    <link>http://localhost:1313/tags/anti-latada/</link>
+    <link>https://blog.indymedia.pt/tags/anti-latada/</link>
     <description>Recent content in Anti-Latada on indymedia.pt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Tue, 03 Oct 2023 12:06:35 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/anti-latada/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.indymedia.pt/tags/anti-latada/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Coimbra] Manifesto Anti-Latada Feminista</title>
-      <link>http://localhost:1313/?p=30708/</link>
+      <link>https://blog.indymedia.pt/?p=30708/</link>
       <pubDate>Tue, 03 Oct 2023 12:06:35 +0000</pubDate>
-      <guid>http://localhost:1313/?p=30708/</guid>
+      <guid>https://blog.indymedia.pt/?p=30708/</guid>
       <description>Decorre hoje 3/10, em Coimbra, a Anti-Latada Feminista, na praça em frente à República Marias do Loureiro. Parte do programa alternativo à praxe, Cria’ctividade que termina com este evento.&#xA;A Anti-Latada Feminista é um evento desenvolvido por um grupo informal de pessoas, que se organiza de forma autónoma e livre. Vemos na praxe uma prática contra os direitos humanos mais elementares, nomeadamente a liberdade, a igualdade, a integridade física e psicológica.</description>
     </item>
   </channel>
