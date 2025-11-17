@@ -1,0 +1,96 @@
+---
+title: 20 hospitais fora de serviço, sistema de saúde colapsa em Gaza. OMS e MSF alertam sobre a catástrofe
+author: Publicação Comunitária
+type: post
+date: 2025-09-27T14:09:24+00:00
+url:
+  - https://english.palinfo.com/news/2025/09/27/348633/
+activitypub_status:
+  - federated
+fpsm_author_name:
+  - Palestinian Information Centre (PIC)
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Guerra e Paz
+tags:
+  - Palestina
+
+---
+GAZA, (PIC) &#8211; Sábado 27-Setembro-2025
+
+**A Organização Mundial da Saúde (OMS) e os Médicos Sem Fronteiras (MSF) emitiram avisos graves na sexta-feira sobre o colapso total do setor de saúde de Gaza, sendo que o genocídio contínuo de Israel continua a devastar o território sitiado.**
+
+**Os dados publicados pelo Ministério da Saúde palestino mostraram que 20 hospitais em Gaza e no norte de Gaza foram forçosamente eliminados devido à guerra israelense, enquanto 8 hospitais permanecem parcialmente operacionais sob ameaça grave.**
+
+O porta-voz da OMS, Tarik Jasarevic, disse que mais de 15.000 palestinos feridos, incluindo muitas crianças, estão em necessidade urgente de intervenção médica, mas não podem acessar os cuidados devido ao assalto e bloqueio israelenses implacáveis. “A agressão contínua está bloqueando a ajuda humanitária e prolongando o pesadelo para a população de Gaza. Reitemos o nosso apelo para um cessar-fogo imediato”, disse Jasarevic.
+
+Ele observou que quatro hospitais fecharam nos últimos dez dias, deixando apenas 14 parcialmente funcionando na cidade de Gaza. Mais da metade de todas as instalações de saúde estão fora de serviço, incluindo o hospital especializado de reabilitação de Hamad.
+
+“Muitas pessoas feridas não podem receber cuidados, enquanto os moradores não podem deixar Gaza para procurar tratamento em outros lugares”, advertiu, acrescentando que a OMS não pode entregar carregamentos médicos de emergência devido à intensidade de bombardeios israelenses.
+
+A OMS também relatou um aumento acentuado de mortes relacionadas à desnutrição entre janeiro e setembro, com 502 crianças admitidas em centros de tratamento.
+
+“Esta crise não se limitará à fome, também levará a mortes evitáveis por feridas, doenças e ao colapso do sistema de saúde”, disse Jasarevic, ressaltando que o acesso à comida e à medicina depende inteiramente de um cessar-fogo.
+
+**Ecoando este aviso, os Médicos Sem Fronteiras anunciaram a suspensão de suas operações em Gaza após as forças de ocupação israelenses (IOF) cercaram suas últimas clínicas.**
+
+Coordenador de emergência Jacob Grange, de Genebra, disse: “Não tivemos escolha senão suspender nosso trabalho depois que as tropas do IOF cercaram nossas instalações. Esta foi a última coisa que queríamos, dada as necessidades esmagadoras em Gaza, recém-nascidos, pacientes gravemente feridos, e aqueles com condições de risco de vida são deixados sem cuidados. ”
+
+“Os quartos hospitalares que devem ser preenchidos com gritos recém-nascidos e pacientes que encontram alívio em meio a um genocídio agora ficam vazios porque fomos forçados a evacuar”, disse o MSF em uma declaração.
+
+O grupo acrescentou que milhares permanecem presos na cidade de Gaza sem qualquer apoio médico como tanques e ataques aéreos avançançam dentro de um quilômetro das instalações médicas da MSF.
+
+Desde 7 de outubro de 2023, Israel, apoiado pelos Estados Unidos e países europeus, realizou um genocídio em Gaza, matando e ferindo 233.000 palestinos através de bombardeios, fome e deslocamento. A maioria das vítimas são mulheres e crianças. Mais de 11 mil pessoas permanecem desaparecidas, enquanto centenas de milhares foram forçadas a sair de suas casas. Bairros inteiros foram apagados do mapa.
+
+<https://english.palinfo.com/news/2025/09/27/348622/>
+
+GAZA, (PIC)
+
+O ministério da saúde, através de seu canal Telegram, listou os hospitais que foram forçados a sair do serviço:  
+Hospital Al-Rantisi  
+Hospital do olho  
+Hospital Kamal Adwan  
+Hospital indonésio  
+Hospital Beit Hanoun  
+Hospital Al-Durra  
+Hospital de Haifa  
+Hospital Al-Yemen Al-Saeed  
+Hospital de Amizade Turco  
+Hospital Psiquiátrico  
+Hospital Al-Awda – Jabalia  
+Reabilitação do Hamad Hospital  
+Hospital Al-Karama  
+Hospital St. John  
+Hospital de Especialistas Muçulmanos  
+Hospital Especial de Olhos  
+Hospital Maternidade Mahdi  
+Hospital Al-Hayat  
+Hospital Jordaniano de Campo – Gaza  
+Hospital Al-Quds – Gaza
+
+Os hospitais que ainda operam sob ameaça em Gaza e no norte de Gaza são:  
+Complexo Médico Al-Shifa  
+Amigos do Hospital do Paciente  
+Serviço geral Hospital  
+Complexo Médico de Al-Sahaba  
+Hospital árabe Al-Ahli  
+Hospital de Reabilitação Al-Wafa  
+Hospital Al-Helou  
+Hospital de Campo Crescente Vermelho – Al-Saraya
+
+Mais cedo, o Centro Palestiniano para os Direitos Humanos (PCHR) de Gaza expressou profunda preocupação sobre a escalada sistemática dos ataques israelenses contra hospitais e instalações de saúde na cidade de Gaza, observando que isso se tornou um padrão consistente que visa desmantelar todo o sistema de saúde e eliminar qualquer capacidade para salvar vidas, especialmente em meio à intensa guerra militar israelense que busca deslocar violentamente os moradores da cidade como parte da maior política de limpezas étnicas em curso dentro das operações civis.
+
+O centro enfatizou em sua declaração que a maioria dos hospitais que operam na cidade de Gaza foram forçados completamente ou parcialmente fora de serviço devido à intensificação de ataques israelenses. Ele apontou que o Hospital Al-Quds, afiliado à Sociedade do Crescente Vermelho Palestino e localizado no bairro de Tel al-Hawa, no sul da cidade de Gaza, está sob estrito cerco devido à implantação de forças de ocupação ao seu redor, impedindo a entrada ou saída de pacientes e funcionários médicos, ameaçando ainda mais suas vidas.
+
+O grupo de direitos afirmou que Israel deliberadamente derruba instalações de saúde através de bombardeamento direto, cerco e negação de acesso seguro. Isso deixou milhares de pacientes e os feridos incapazes de chegar a hospitais ainda funcionando em parte, como o Complexo Médico Al-Shifa e o Hospital Batista Al-Ahli.
+
+Também observou que a escassez severa de unidades de sangue e derivados, juntamente com o esgotamento de combustível, representam crises adicionais que ameaçam desligar departamentos vitais dentro de dias, sinalizando uma iminente catástrofe humanitária.
+
+A PCHR, baseada em Gaza, alertou que a continuação deste padrão israelense visa destruir o sistema de saúde como ferramenta de genocídio, impondo condições inviáveis, ao lado de forçar centenas de milhares de moradores a deixar a cidade de Gaza, privando-os do último refúgio representado pelos hospitais.
+
+O centro destacou que o direito humanitário internacional obriga a proteção especial para instalações médicas e funcionários, e qualquer alvo deliberado constitui um crime de guerra de pleno direito.
+
+Chamou a comunidade internacional a intervir de imediato e eficazmente para impedir os ataques às instalações de saúde de Gaza, garantir o acesso seguro aos pacientes e aos feridos, e responsabilizar Israel por seus crimes contra o sistema de saúde e a população civil.
+
+<https://english.palinfo.com/news/2025/09/27/348633/>

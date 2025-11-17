@@ -1,0 +1,74 @@
+---
+title: '[Petição] Pelo direito a uma vida digna para pessoas refugiadas em Portugal'
+author: Publicação Comunitária
+type: post
+date: 2025-10-23T06:18:41+00:00
+excerpt: 'Em Portugal vivem hoje diversas pessoas - cerca de 73.000, de acordo com os dados de 2024 - que, tendo fugido de perseguições, guerras ou graves violações dos direitos humanos, procuraram no nosso país segurança e proteção'
+url:
+  - https://peticaopublica.com/pview.aspx?pi=PT127979
+activitypub_status:
+  - federated
+fpsm_author_name:
+  - Petição Pública
+classic-editor-remember:
+  - classic-editor
+categories:
+  - Poder e Autodeterminação
+tags:
+  - Refugiados
+  - VidaJusta
+
+---
+<span id="declaration">Em Portugal vivem hoje diversas pessoas &#8211; cerca de 73.000, de acordo com os dados de 2024 &#8211; que, tendo fugido de perseguições, guerras ou graves violações dos direitos humanos, procuraram no nosso país segurança e proteção. Muitas delas receberam o estatuto de refugiado ou de proteção subsidiária, enquanto outras aguardam por períodos longos e incertos a resposta ao seu pedido. Em ambos os casos, aquilo que constatamos, é que em vez de encontrarem a estabilidade necessária para reconstruírem as suas vidas, muitos refugiados enfrentam hoje obstáculos administrativos e barreiras de acesso a direitos fundamentais como a saúde, a habitação, a educação e o trabalho que agravam a sua vulnerabilidade psicossocial.</p> 
+
+<p>
+  Nos últimos meses têm-se multiplicado relatos de dificuldades graves no acesso à documentação – um dos direitos fundamentais &#8211; entre a comunidade que recorre à União de Refugiados em Portugal e ao Fórum Refúgio Portugal, dos quais destacamos:<br /> Falta de resposta da AIMA às solicitações individuais para esclarecimento de dúvidas ou problemas relacionados com a renovação da documentação.<br /> Atrasos na emissão dos cartões de autorização de residência para pessoas já reconhecidas como refugiadas ou beneficiárias de proteção subsidiária. Em vários casos, os únicos documentos emitidos são Autorizações de Residência Provisórias (ARP), válidos por apenas seis meses e com menções no verso que contradizem a decisão de proteção já concedida.
+</p>
+
+<p>
+  Noutros casos, é emitida uma renovação temporária de dois meses, que obriga os refugiados a deslocar-se repetidamente a duas localizações distintas da AIMA (uma para triagem e outra para solicitação de renovação), perdendo dias de trabalho/estudo.<br /> As consequências são devastadoras:
+</p>
+
+<p>
+  -Contratos de trabalho indeferidos.<br /> -Barreiras no acesso à educação, formação, contratos de arrendamento e usufruto dos serviços de saúde a que têm direito.<br /> -Dependência de processos burocráticos humilhantes e desgastantes que perpetuam a instabilidade psicossocial e a exclusão social.
+</p>
+
+<p>
+  Chegam até nós situações extremas de precariedade, por exemplo refugiados recolocados em Portugal desde 2018, que nunca tiveram um cartão físico de residência, ou pessoas que tendo obtido proteção subsidiária em 2023, continuam à data sem ter acesso a qualquer documento definitivo que lhes permita celebrar contratos de trabalho.
+</p>
+
+<p>
+  Alguns menores não acompanhados vivem agora, já adultos, na periferia de Lisboa, em situação de sobrelotação habitacional e expostos a riscos de saúde pública, sendo obrigados a deslocar-se ao centro da cidade para renovar a sua documentação de 60 em 60 dias, por períodos que ultrapassam já os 12 meses. Muitos destes jovens desconhecem quaisquer serviços de apoio à comunidade, além dos esforços isolados de algumas iniciativas comunitárias da sociedade civil.
+</p>
+
+<p>
+  Mais grave ainda, têm sido reportadas situações em que pessoas refugiadas foram aconselhadas na AIMA a cancelar os seus pedidos de asilo e a procurar a regularização via contrato de trabalho, uma prática eticamente questionável e que mina o direito internacional e nacional de proteção a refugiados.
+</p>
+
+<p>
+  Relembramos que os problemas de documentação e regularização não se limitam à mera dificuldade na emissão de documentos. A regularização é um direito fundamental de cidadania que permite construir uma vida digna, em que o acesso aos serviços de saúde, à habitação e ao apoio social poderão reduzir as situações de precariedade e vulnerabilidade social, contribuindo para uma integração plena &#8211; uma obrigação do Estado perante as pessoas refugiadas.
+</p>
+
+<p>
+  Observamos, ainda, que as respostas sociais à integração de pessoas refugiadas se têm reduzido nos últimos anos, resumindo-se na atualidade a uma escassez preocupante de serviços fragmentados e descoordenados:
+</p>
+
+<p>
+  &#8211; Refugiados com problemas crónicos de saúde são frequentemente encaminhados para serviços de urgência, sem qualquer mediação linguística adequada.<br /> &#8211; Jovens e famílias recorrem cada vez mais a quartos sobrelotados, alguns em que convivem até 15 pessoas num só espaço.<br /> &#8211; Após o período inicial de 18 meses de acolhimento garantidos pelo Estado &#8211; que recebe fundos Europeus de apoio à integração de refugiados, estes são abandonados a um mercado imobiliário em que é praticamente impossível encontrar casa.<br /> &#8211; Famílias com crianças em idade escolar reportam dificuldades no apoio à inclusão dos seus filhos e à aprendizagem da língua.<br /> &#8211; Famílias com carências alimentares e materiais não acedem a respostas sociais estruturadas, dependendo do apoio informal de associações locais ou de Juntas de Freguesia.
+</p>
+
+<p>
+  O acolhimento digno não pode ser apenas um compromisso no papel e uma frase repetida nos discursos oficiais do dia internacional dos refugiados. É uma responsabilidade ética, legal e social que exige um compromisso continuado e coordenado dos organismos públicos competentes. Apelamos assim ao Governo, às organizações da sociedade civil e a toda a comunidade que sejam criadas soluções urgentes e estruturadas para integrar as pessoas refugiadas em Portugal. As pessoas refugiadas não pedem privilégios. Pedem apenas o reconhecimento e a concretização dos seus direitos fundamentais. Pedem a oportunidade de viver em paz, contribuir para a sociedade Portuguesa e reconstruir as suas vidas com dignidade.
+</p>
+
+<p>
+  É urgente que Portugal reforce os seus mecanismos de integração e proteção às pessoas refugiadas, garantindo:
+</p>
+
+<p>
+  &#8211; Emissão célere e definitiva de autorizações de residência para todas as pessoas com estatuto reconhecido.<br /> &#8211; Respostas integradas e interdisciplinares, com equipas de apoio capacitadas e especializadas em saúde, habitação, educação e empregabilidade.<br /> &#8211; Reforço da articulação entre serviços públicos e sociedade civil, assegurando que ninguém fique refém de filas intermináveis e informações contraditórias.<br /> &#8211; Cumprimento efetivo das obrigações internacionais que Portugal assumiu ao ratificar a Convenção de Genebra e a legislação europeia em matéria de asilo.
+</p>
+
+<p>
+  Solicitamos uma ação urgente do Governo para corrigir estas insuficiências no acolhimento e inclusão social das pessoas refugiadas em Portugal.</span>
+</p>

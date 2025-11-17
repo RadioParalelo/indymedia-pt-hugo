@@ -1,0 +1,82 @@
+---
+title: A Guerra contra o Sahara Ocidental
+author: Publicação Comunitária
+type: post
+date: 2025-11-02T15:50:48+00:00
+url:
+  - https://aapsocidental.blogspot.com
+activitypub_status:
+  - federated
+fpsm_author_name:
+  - 'Sahara Ocidental Informação - AAPSO'
+categories:
+  - Guerra e Paz
+tags:
+  - Sahara Ocidental
+
+---
+Três meses de guerra de desgaste no Sahara Ocidental (agosto a outubro de 2025)
+
+O Exército de Libertação do Povo Saharaui (ELPS) manteve, entre agosto e outubro de 2025, uma intensa campanha militar contra as forças marroquinas no Sahara Ocidental, com mais de 30 ataques registados em diferentes frentes. A ofensiva, concentrada ao longo do chamado “muro da vergonha” — a barreira de 2.700 quilómetros construída por Marrocos na década de 1980 — confirma a continuidade da guerra de desgaste iniciada em novembro de 2020, após o colapso do cessar-fogo mediado pela ONU.
+
+Ofensiva contínuada
+
+Os ataques saharauis, registados sobretudo nos setores de Mahbes, Guelta, Hauza, Smara, Farsía e Amgala – norte, nordeste e centro do Sahara Ocidental ocupado, visaram bases de artilharia, centros logísticos e comandos de batalhão do exército marroquino. Segundo comunicados do Estado-Maior do ELPS, as operações provocaram invariavelmente “perdas humanas e materiais significativas” entre as tropas de ocupação — números que não são confirmados de forma independente, já que a MINURSO, missão da ONU no terreno, limita-se a monitorizar os confrontos sem verificar baixas.
+
+O «muro da vergonha», com 2.720 km de extensão.  
+Divide um território nacional e todo um povo&#8230;
+
+Agosto: artilharia e mobilidade
+
+Durante agosto, as forças saharauis realizaram nove ataques, com destaque para bombardeamentos em Mahbes, Hauza e Farsía. O comando marroquino em Grarat Alhatàsa foi atingido, e várias posições em Amgala e Guelta foram alvo de fogo concentrado de artilharia.
+
+Setembro: foco no nordeste
+
+Em setembro, a ofensiva intensificou-se com dez operações, a maioria nas regiões de Farsía e Guelta, incluindo ataques simultâneos a bases logísticas e postos fortificados. As ações mais significativas ocorreram a 23 e 24 de setembro, com bombardeamentos sucessivos em Gararat Achadida e Alfeiyin, na região de Farsía, no noirdeste do território do SO ocupado.
+
+Outubro: ataques coordenados
+
+O mês de outubro foi o mais ativo do trimestre, com pelo menos 12 ataques. As operações envolveram ações coordenadas de artilharia pesada e mobilidade tática, sobretudo nos sectores de Guelta e Mahbes, regiões de elevado valor estratégico. Entre os dias 16 e 31 de outubro, o ELPS atacou comandos de batalhão, sedes de artilharia e quartéis de retaguarda, incluindo um bombardeamento de grande escala em Gleib Alach (Amgala).
+
+Guerra prolongada
+
+Cinco anos após o fim do cessar-fogo de 1991, o conflito no Sahara Ocidental mantém-se numa fase de baixa intensidade, mas contínua, sem perspetivas de mediação eficaz.
+
+Enquanto o Marrocos consolida o controlo das principais cidades a oeste do muro, a Frente Polisario afirma continuar a “lutar até à autodeterminação” do povo saharaui, denunciando o bloqueio político e a “inércia da ONU”.
+
+Em três meses de combates, o Sahara Ocidental permanece o mesmo campo minado diplomático e militar de sempre — uma guerra silenciosa, sem fronteiras claras nem fim à vista. A resolução do Conselho de Segurança aprovada no dia 31 de outubro corre o risco de vir ainda deitar mais petróleo para a fogueira da guerra no Sahara Ocidental e conduzir a um aumento da tensão em toda aquela região do Norte de África
+
+Associação de Amizade Portugal &#8211; Sahara Ocidental.
+
+https://aapsocidental.blogspot.com/2025/11/tres-meses-de-guerra-de-desgaste-no.html?m=1
+
+&nbsp;
+
+&nbsp;
+
+Resolução do Conselho de Segurança da ONU &#8211; A posição da Frente POLISARIO
+
+Frente POLISARIO
+
+COMUNICADO
+
+[Bir Lehlou, República Saharaui &#8211; 31 de outubro de 2025] &#8211; Em 31 de outubro de 2025, o Conselho de Segurança adotou a resolução 2795 (2025), pela qual decidiu prorrogar o mandato da Missão das Nações Unidas para o Referendo do Sahara Ocidental (MINURSO) até 31 de outubro de 2026. A prorrogação do mandato da MINURSO demonstra o compromisso contínuo do Conselho de Segurança com uma solução justa e duradoura, em conformidade com as suas resoluções pertinentes sobre o Sahara Ocidental.  
+Na sua resolução, o Conselho de Segurança recorda e reafirma todas as suas resoluções anteriores sobre o Sahara Ocidental e reafirma o seu compromisso em ajudar as partes a alcançar uma solução política justa, duradoura e mutuamente aceitável, em conformidade com os princípios e propósitos da Carta das Nações Unidas, que prevê a autodeterminação do povo do Sahara Ocidental.
+
+Além disso, exorta as duas partes a encetarem conversações sem condições prévias e deixa em aberto a possibilidade de debater todas as propostas que contribuam para uma solução final mutuamente aceitável.
+
+O pleno reconhecimento por parte do Conselho de Segurança de que o conflito não pode ser resolvido sem o povo saharaui e sem o exercício do seu direito inalienável à autodeterminação constitui uma resposta clara às tentativas de Marrocos, o Estado ocupante, que, com o firme apoio de algumas potências, pretendia que o Conselho adotasse uma resolução que resolvesse definitivamente o conflito a favor da sua posição expansionista no prazo de alguns meses.
+
+A Frente POLISARIO, no entanto, tomou nota de alguns elementos da resolução que constituem um desvio muito perigoso e sem precedentes da base sobre a qual o Conselho de Segurança abordou a questão do Sahara Ocidental, em conformidade com os princípios consagrados na Carta das Nações Unidas. Esses elementos também violam o estatuto internacional do Sahara Ocidental como questão de descolonização, minam os fundamentos do processo de paz da ONU no Sahara Ocidental e obstam os esforços do Secretário-Geral da ONU e do seu Enviado Pessoal.
+
+Além disso, a resolução não leva em consideração nem aborda de forma eficaz todas as questões substantivas levantadas pela maioria dos Estados-Membros do Conselho de Segurança e pela Frente POLISARIO, tanto na sua carta dirigida ao presidente do Conselho de Segurança em 23 de outubro de 2025 como nas suas reuniões bilaterais com a redatora da resolução e todas as partes interessadas.
+
+A Frente POLISARIO é a voz e o único representante legítimo do povo saharaui, que se manifestou massivamente nas ruas de todo o mundo nos últimos dias para expressar com firmeza o seu direito inalienável à autodeterminação e independência e para defender os seus direitos e soberania por todos os meios legítimos.
+
+Embora reafirme a sua disposição contínua em participar de forma construtiva no processo de paz patrocinado pela ONU no Sahara Ocidental, a Frente POLISARIO sublinha que não fará parte de nenhum processo político ou negociação baseada em propostas, independentemente da sua origem, que pretendam «legitimar» a ocupação militar ilegal do Sahara Ocidental por Marrocos e privar o povo saharaui do seu direito inalienável, inegociável e imprescritível à autodeterminação e à soberania sobre a sua pátria.
+
+A Frente POLISARIO apresentou a sua proposta ao Secretário-Geral das Nações Unidas em 10 de abril de 2007, a qual foi levada em consideração pelo Conselho de Segurança na sua resolução 1754 (2007) e em resoluções posteriores. Além disso, apresentou uma proposta ampliada ao Secretário-Geral das Nações Unidas em 20 de outubro de 2025, como prova adicional do seu firme compromisso com a consecução de uma paz justa e duradoura, e continua disposta a participar ativamente no processo de paz e a encetar negociações diretas com a outra parte, com base no espírito e no conteúdo da sua proposta ampliada e em conformidade com a resolução 1514 (XV) da Assembleia Geral e outras resoluções pertinentes das Nações Unidas.
+
+Em conclusão, a Frente POLISARIO salienta que as posições unilaterais que procuram sacrificar o Estado de direito, a justiça e a paz em nome de conveniências políticas de curto prazo apenas agravarão o conflito e colocarão em risco a paz, a segurança e a estabilidade em toda a região.
+
+https://aapsocidental.blogspot.com/2025/11/frente-polisario-comunicado-bir-lehlou.html?m=1

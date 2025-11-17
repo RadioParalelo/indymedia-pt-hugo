@@ -1,0 +1,48 @@
+---
+title: Contaminação grave por metais pesados na antiga Mina da Borralha
+author: Publicação Comunitária
+type: post
+date: 2025-10-18T18:27:05+00:00
+url:
+  - https://vmtv.sapo.pt/estudo-confirma-contaminacao-grave-por-metais-pesados-na-antiga-mina-da-borralha/
+activitypub_status:
+  - federated
+fpsm_author_name:
+  - VMTV
+categories:
+  - Ecologia e Animais
+tags:
+  - Borralha
+
+---
+<p class="post-title entry-title fittexted_for_single_post_title">
+  Estudo confirma contaminação grave por metais pesados na antiga Mina da Borralha
+</p>
+
+#### Arsénio, chumbo e cobre entre os elementos tóxicos detetados em níveis muito superiores aos limites legais. Poluição já afeta também freguesias de Vieira do Minho. {.wp-block-heading.fittexted_for_content_h2}
+
+<p class="">
+  Foi divulgado recentemente o <strong class="">Estudo Hidrogeológico de Base</strong>, incluído no <strong class="">Anexo 5 do Estudo de Impacte Ambiental da Mina da Borralha</strong>, em Montalegre. O documento revela que <strong class="">as águas e os solos da antiga exploração mineira continuam contaminados por metais pesados</strong>, confirmando suspeitas antigas sobre a persistência da poluição no local.
+</p>
+
+<p class="">
+  De acordo com o estudo, <strong class="">foram detetadas concentrações elevadas de arsénio, chumbo, cobre, ferro, manganês e molibdénio</strong>, valores que, em vários casos, <strong class="">ultrapassam os limites legais definidos pela Agência Portuguesa do Ambiente (APA)</strong>. Em determinadas amostras, os níveis de cobre e ferro registam-se <strong class="">muitas vezes acima do permitido</strong> para águas destinadas ao consumo ou à irrigação agrícola.
+</p>
+
+<p class="">
+  Os dados apontam para a <strong class="">disseminação das substâncias contaminantes através dos lençóis freáticos</strong> e do curso natural das ribeiras da <strong class="">Borralha e da Amiar</strong>, com repercussões já identificadas <strong class="">nas zonas agrícolas e em localidades próximas</strong>. O fenómeno <strong class="">abrange não só o concelho de Montalegre, mas também o de Vieira do Minho</strong>, afetando particularmente as freguesias de <strong class="">Ruivães e Campos</strong>.
+</p>
+
+<p class="">
+  Especialistas alertam que a presença prolongada de metais pesados <strong class="">pode representar riscos sérios para a saúde pública</strong>, uma vez que elementos como o arsénio e o chumbo <strong class="">têm efeito cumulativo no organismo</strong> e estão associados a <strong class="">doenças neurológicas, renais e cancerígenas</strong>.
+</p>
+
+<p class="">
+  Com a publicação do estudo, <strong class="">autoridades locais e população pedem uma intervenção urgente</strong>. Defendem que <strong class="">a APA e a Administração Regional de Saúde do Norte (ARS Norte)</strong> devem intensificar a <strong class="">monitorização das águas e solos</strong>, bem como <strong class="">avaliar o impacto na saúde das populações expostas</strong>.
+</p>
+
+<p class="">
+  O <strong class="">Município de Vieira do Minho</strong>, recorde-se, <strong class="">emitiu parecer negativo</strong> à reativação da concessão mineira em 2020. Entretanto, decorre a análise de um <strong class="">novo projeto mineiro</strong> cuja <strong class="">área de exploração prevista é superior à anterior</strong>, como mostra o mapa disponível no portal da <strong class="">Direção-Geral de Energia e Geologia</strong>: <a class="" href="https://www.dgeg.gov.pt/media/kcapgnm4/mapa_borralha.pdf" target="_blank" rel="noopener">ver mapa da Borralha</a>.
+</p>
+
+<https://vmtv.sapo.pt/estudo-confirma-contaminacao-grave-por-metais-pesados-na-antiga-mina-da-borralha/>

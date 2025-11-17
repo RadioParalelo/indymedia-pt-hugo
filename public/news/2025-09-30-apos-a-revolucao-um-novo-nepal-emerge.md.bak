@@ -1,0 +1,153 @@
+---
+title: Após a Revolução, um Novo Nepal Emerge
+author: Publicação Comunitária
+type: post
+date: 2025-09-30T07:20:24+00:00
+url:
+  - https://crimethinc.com/2025/09/29/in-the-afterglow-of-revolution-a-new-nepal-emerges-gen-z-fights-against-corruption-developing-political-consciousness
+iworks_yt_thumbnails:
+  - 'a:4:{s:11:"F0iCUV9ySDE";a:5:{s:3:"url";s:55:"http://img.youtube.com/vi/F0iCUV9ySDE/maxresdefault.jpg";s:10:"secure_url";s:56:"https://img.youtube.com/vi/F0iCUV9ySDE/maxresdefault.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:4:"type";s:10:"image/jpeg";}s:11:"-7etygjngfc";a:5:{s:3:"url";s:55:"http://img.youtube.com/vi/-7etygjngfc/maxresdefault.jpg";s:10:"secure_url";s:56:"https://img.youtube.com/vi/-7etygjngfc/maxresdefault.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:4:"type";s:10:"image/jpeg";}s:11:"fnN-5mBc-9Q";a:5:{s:3:"url";s:55:"http://img.youtube.com/vi/fnN-5mBc-9Q/maxresdefault.jpg";s:10:"secure_url";s:56:"https://img.youtube.com/vi/fnN-5mBc-9Q/maxresdefault.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:4:"type";s:10:"image/jpeg";}s:11:"dhuC7zQRNvc";a:5:{s:3:"url";s:55:"http://img.youtube.com/vi/dhuC7zQRNvc/maxresdefault.jpg";s:10:"secure_url";s:56:"https://img.youtube.com/vi/dhuC7zQRNvc/maxresdefault.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:4:"type";s:10:"image/jpeg";}}'
+activitypub_status:
+  - federated
+fpsm_author_name:
+  - CrimethInc. Ex-Workers Collective
+burst_page_id_upgraded:
+  - 1
+categories:
+  - Movimentos Sociais
+tags:
+  - Nepal
+  - Nepobaby
+
+---
+**Lutando contra a corrupção, a “Gen Z” Desenvolve Consciência Política**
+
+2025-09-29
+
+Escalado pela violência policial, um movimento de protesto no Nepal tornou-se numa insurreição espontânea, culminando a 9 de setembro de 2025 com a derrubada do governo. Para acompanhar a [entrevista][1] com Black Book Distro em Kathmandu, buscamos mais contexto para as condições que produziram a revolução e as formas que assumiu de umx jornalista nepalêse atualmente localizadx em Portugal, [Ira Regmi.][2]
+
+Em 8 de setembro de 2025, o Nepal testemunhou uma revolução enquanto milhares de jovens predominantemente gen Z saíram às ruas em protesto. Esta ação coletiva foi recebida com [repressão estatal brutal][3], resultando em um massacre em massa de manifestantes e estudantes de classe trabalhadora em uniformes escolares. A [contagem de mortes][4] atual é de [74][5], incluindo três policias e aproximadamente [10 indivíduos encarcerados][6].
+
+A causa mais ampla do movimento foi enraizada em oposição à corrupção; pode ser entendida como o culminar dos movimentos “Enough is Enough” liderados pelos jovens de 2019. O catalisador imediato para esta ação surgiu quando ativistas do Gen Z iniciaram [uma campanha de redes sociais][7] expondo o luxo em que viviam os jovens da elite política, argumentando que tais estilos de vida foram subsidiados através de fundos públicos. A hashtag #Nepobaby rapidamente ganhou tração em plataformas digitais e a subsequente censura do governo, que bloqueou 26 plataformas de mídia social, catalisou protestos generalizados. Apenas cinco plataformas registadas permaneceram acessíveis: Viber, TikTok, Nimbuzz, WeTalk e Popo Live. Os criadores de conteúdo relataram que TikTok e outras plataformas estavam ativamente suprimindo críticas anti-governamentais. Esta repressão intensificou a consciência, impulsionando os organizadores para alavancar canais de comunicação alternativos e para contornar a censura do estado usando VPNs, acelerando a mobilização além da capacidade do regime para suprimi-lo.
+
+Em um ato solene que marcou o início da justiça revolucionária, o governo interino recém-formado liderado pelo primeiro-ministro Sushila Karki declarou oficialmente os manifestantes caídos para ser [mártires][8] desta luta. O estado honrou o falecido com uma digna cerimónia de cremação nacional e proclamou 17 de setembro um dia oficial de luto nacional. Seu sangue sancionou o nascimento de um novo Nepal, e sua memória deve inspirar para sempre transformações revolucionárias em todo o mundo. No entanto, o público deixou claro que apenas as comemorações são insuficientes e a responsabilidade adicional pela violência do Estado permanece não negociável.
+
+O movimento Gen Z no Nepal representa uma saída fundamental do acordo político pós-2006 que governou o país desde a abolição formal da monarquia e evoluiu para um desafio significativo para os fundamentos estruturais da corrupção institucionalizada do Nepal.
+
+Este artigo examina as condições materiais por trás desta mobilização em massa e interroga as questões constitucionais, políticas e sociais que trouxe à superfície. Explicações detalhadas do curso exato de eventos também podem ser encontradas nas [contas de jornalistas independentes][9] e [criadores de conteúdo][10] de mídia social.<figure class="wp-block-image size-large">
+
+<img decoding="async" src="http://localhost:8000/wp-content/uploads/2025/09/image-4-1024x682.png" alt="" class="wp-image-227405" /> </figure> 
+
+Foto de Sulav Shrestha.
+
+**Violência do Estado, Resposta Revolucionária e Capital como alvo**
+
+A violência começou, como sempre, com o estado. O governo escalou protestos pacíficos através da repressão brutal, disparando indiscriminadamente em multidões, disparando balas letais diretamente nas cabeças e peitos de jovens em uniformes escolares. Esta brutalidade, que causou o maior número de mortos em um dia para protestos no Nepal, não foi isolada. Representava a violência sistemática através da qual o Estado nepalês tem mantido o poder nos últimos anos, [suprimindo regularmente a dissidência][11] através da força letal.
+
+No dia seguinte, a raiva acumulada das pessoas se manifestou como ação direta contra os símbolos e infra-estrutura de poder e capital. Os manifestantes [sabotaram][12] instituições públicas, incluindo o parlamento, edifícios de administração do governo, o banco de reserva e o tribunal supremo. As casas e as empresas de elites políticas e de negócios também foram atacadas. O vale de Katmandu tornou-se preto com fumaça enquanto os manifestantes desencadearam a manifestação material da raiva revolucionária – uma incorporação de “queimar tudo” que transformou o horizonte da capital em uma tela de desafio.
+
+Entre as empresas visadas, a cadeia de supermercados Choudhary Group, [NCELL][13] e [Bhatbhateni][14] sofreu danos significativos, com 12 dos 24 pontos de Bhatbhateni destruídos. Os ticóons de negócios rapidamente emitiu declarações enfatizando sua [resiliência][15], mas notavelmente ausente foi qualquer introspeção significativa sobre por que estes especificamente se tornaram alvos de raiva pública.
+
+A crítica generalizada da classe milionária do Nepal, aliada a objeções liberais à destruição da propriedade, mostra a importância da análise anticapitalista radical dentro desta revolta histórica. Os industriais visados pelas massas estão completamente expostos como inimigos de classe da juventude revolucionária, como sua riqueza foi construída sobre um fundamento de exploração e corrupção. A dinastia Choudhary enfrenta [alegações][16] de ocultar ativos nos paraísos fiscais do Panamá, orquestrar esquemas de fraude de seguros e confiscar ilegalmente fábricas estatais. Da mesma forma, Min Bahadur Gurung, o proprietário do império Bhatbhateni, participou do [roubo de terras públicas][17] e cometeu e[vasão de IVA][18] totalizando aproximadamente 1 bilhão de Rupias nepalesas. NCELL esteve envolvido no [maior escândalo de evasão fiscal][13] e lavagem de dinheiro no país. O [emaranhamento entre o capital privado e o aparato político corrupto][19] do Nepal – onde a riqueza compra políticas e proteção – exige um exame crítico implacável, assim como a imoralidade fundamental de tal acumulação de riqueza obscena.
+
+Enquanto provocadores contra-revolucionários, sem dúvida, participaram desses eventos e garantem uma análise e investigação rigorosas, grande parte da destruição de propriedade pública e privada originou-se de uma verdadeira indignação pública. Exigências urgentes para a de-escalação após a renúncia do primeiro-ministro foram críticas, especialmente como provas conclusivas agora confirmam que violentas facções partidárias pró-monarquistas e partidárias deliberadamente instigaram a maioria do caos durante a última metade de 9 de setembro.
+
+No entanto, também presenciamos inconfundivelmente burgueses lutando mão sobre [danos de propriedade][20] que é indicativo do caráter de classe de tais críticas. O impulso liberal para equilibrar a destruição da propriedade capitalista com violência contra as pessoas constitui uma profunda descaracterização da praxis revolucionária e mascara a verdadeira natureza da violência cometida contra o povo nepalês.<figure class="wp-block-image size-large">
+
+<img decoding="async" src="http://localhost:8000/wp-content/uploads/2025/09/image-11-1024x682.png" alt="" class="wp-image-227412" /> </figure> 
+
+Foto de Sulav Shrestha.
+
+**O Espectro da Corrupção**
+
+Como o jornalista independente Pranay Rana [escreve][9] em seu boletim Kalam Weekly, “A campanha refletiu uma frustração mais ampla com o status quo” e surgiu da natureza sistêmica da corrupção pública no Nepal. Alguns dos principais exemplos de escândalos de corrupção incluíram o registro fraudulento dos cidadãos nepaleses como [refugiados butaneses para reassentamento][21] em países terceiros; irregularidades na atribuição de contratantes para a construção do [Aeroporto Internacional de Pokhara][22]; [transferência sistemática de terras públicas][23] para entidades privadas; e o escândalo de [distribuição de eletricidade][24] onde as autoridades forneceram poder ininterrupto para interesses comerciais, submetendo a população geral a até 18 horas de surtos de energia diária.
+
+Mas a questão da corrupção foi sempre mais do que apenas grandes escândalos envolvendo elites políticas de alto perfil. A corrupção [permeia a sociedade civil][16] através de suborno normalizado em ambientes profissionais e através da distribuição sistemática de nomeações institucionais de cargos ministeriais a chancelarias universitárias baseadas em redes de patrocínio em vez de mérito. Essas condições resultaram em profunda alienação entre as massas. Ao longo das esferas profissionais, industriais e burocráticas do Nepal, a corrupção visivelmente corrói a sociedade como a ferrugem comendo através do metal.
+
+A antiga administração sob KP Oli acelerou ainda mais esta alienação, exibindo [tendências cada vez mais autoritárias][25] mascaradas pela retórica hipernacionalista. Enquanto isso, os chamados partidos de oposição colidiram com os partidos no poder para estabelecer um sistema de governo giratório &#8211; um arranjo cínico onde eles concordaram em girar a liderança executiva entre si, basicamente esvaziando qualquer pretensão de democracia.<figure class="wp-block-image size-large">
+
+<img decoding="async" src="http://localhost:8000/wp-content/uploads/2025/09/image-10-1024x682.png" alt="" class="wp-image-227411" /> </figure> 
+
+Foto de [Sulav Shrestha][26].
+
+**Praxis revolucionário encontra Crise Constitucional**
+
+A tensão entre o constitucionalismo burguês e a necessidade revolucionária surgiu como a contradição central nesta luta. Uma geração de ativistas predominantemente adolescentes e vinte e poucos confrontou questões constitucionais profundas dentro de meros dias, enquanto os académicos legais estabelecidos rejeitaram em grande parte os imperativos revolucionários como fundamentalmente inconstitucionais.
+
+A constituição do Nepal – produto de um movimento de massas, embora um liderado por partidos políticos – representa uma cristalização do compromisso político que estabeleceu uma ordem democrática formal. No entanto, este quadro constitucional trai a imaginação limitada de seus arquitetos, que eram em grande parte membros de partidos políticos legados, bem como uma elite intelectual que talvez nunca imaginou (ou imaginou e queria evitar) um cenário em que a legitimidade popular poderia se afastar de seu governo. Consequentemente, o documento carece de modalidades para estabelecer governos interinos quando as condições políticas exigem. Esta ausência estrutural revela que a principal função da constituição era regular a competição de elite em vez de facilitar a soberania popular autêntica.
+
+Um impulso fundamental por trás desta revolução foi a erosão total da confiança nos ramos executivo e legislativo do governo. No entanto, qualquer caminho estritamente constitucional, tal como definido pelas elites legais, implicaria necessariamente a legislatura – a própria instituição cuja dissolução surgiu como uma demanda revolucionária central. Como escrito, a constituição prioriza tentativas de formar um governo de dentro do parlamento existente através de alguma combinação dos seguintes passos: 1) Mais de 50% dos parlamentares apoiam a dissolução, 2) Ou uma sessão parlamentar formal ou o executivo recomenda a dissolução ao presidente. A realidade empírica, no entanto, tornou estes caminhos impossível. O Poder Executivo e a maioria dos 275 membros do Parlamento ficaram implicados na exploração sistemática e na corrupção, vinculados pela lealdade de classe ao estabelecimento político parasitário que o povo derrubou com justiça.
+
+Consequentemente, o movimento avançou uma interpretação da legitimidade constitucional que desafiou o monopólio da classe dominante em seu significado, capacitando o povo a estabelecer um governo cuidador enquanto dissolve o parlamento. Jovens estudiosos legais identificaram corretamente várias vias interpretativas através das quais um governo de cuidador poderia ser estabelecido sem abandono constitucional completo. Eles lembraram as pessoas e os defensores séniores que a constituição existe para servir as pessoas, para não prendê-las em um sistema corrupto.
+
+O trabalho oportuno da [educação pública e da advocacia][27] pelo advogado Ojjaswi Bhattarai, juntamente com um grupo de outros jovens estudiosos e influenciadores da internet, permitiu que o movimento mantivesse a continuidade constitucional. Eles defendiam por essas interpretações invocando uma doutrina que permite que partes específicas de uma constituição sejam temporariamente inoperante (ou “elipsado”) quando circunstâncias extraordinárias tornam sua aplicação normal impossível. Eles também argumentaram que, uma vez que a revolução canalizou inequivocamente a vontade coletiva do povo, isso poderia substituir outros imperativos legais formais. Não havia dúvida de que o movimento claramente demonstrou um mandato popular tanto para formar um governo de cuidador quanto para dissolver o parlamento, fundamentando sua reinterpretação constitucional em legítima legitimidade democrática.<figure class="wp-block-image size-large">
+
+<img decoding="async" src="http://localhost:8000/wp-content/uploads/2025/09/image-9-1024x753.png" alt="" class="wp-image-227410" /> </figure> 
+
+Alunos passam perto do restos de um autocarro público em Kathmandu a 15 de setembro de 2025, o dia em que as escolas reabriram. Fotografia de [Narendra Shrestha][28].
+
+**Experimentos Democratas e a Batalha pelo Controle Narrativo**
+
+Estas discussões legais e estratégicas se desenrolaram principalmente em espaços digitais, produzindo formas sem precedentes de praxis democráticos. Mais de 120.000 jovens nepaleses mobilizados através de Discord para determinar coletivamente o candidato do primeiro-ministro interino &#8211; uma experiência radical na democracia direta com as massas criando novas formas organizacionais além das restrições das estruturas políticas burguesas. Após a nomeação de Sushila Karki, os coletivos de jovens iniciaram salas de cidades digitais e em pessoa para traçar o caminho para a frente.
+
+Atualmente, vários grupos estão se esforçando para articular [um mandato revolucionário][29] formal com demandas concretas e os meios para estabelecer novas instituições de responsabilidade que sirvam autenticamente os interesses das pessoas. Há também [grupos anarquistas trabalhando duro][1] para construir a solidariedade em toda a esquerda nepalesa e estão comprometidos em se organizar fora das normas tradicionais da hierarquia.
+
+Esta experimentação democrática através de plataformas digitais apresentou desafios mesmo para os revolucionários &#8211; incluindo a vigilância do estado, a repressão digital, a infiltração, e a tendência para essas plataformas se tornarem máquinas de propaganda que descarrilam a vontade expressa do povo. Este exercício constituiu uma ruptura tão fundamental com normas democráticas liberais que os participantes naturalmente experimentaram alguma desorientação inicial.
+
+Além disso, como [apontam][30] os escritores do Cold Takes da Boju Bajai, o atual aparelho de mídia corporativa lutou profundamente para interpretar esses desenvolvimentos, já que muitos jornalistas seniores não tinham familiaridade básica com plataformas como Discord. Como a Kantipur TV continuou a transmitir contra o pano de fundo de sua [sede corporativa incinerada][31], os conglomerados de mídia também revelaram seu caráter de classe através de sua cobertura persistente de formações políticas obsoletas, não entendendo que as condições materiais para o discurso tinham se transformado fundamentalmente durante a noite.
+
+Um contraste surgiu entre a consciência revolucionária desenvolvendo-se entre os jovens em Discord e Instagram contra as tendências reformistas prevalentes em plataformas como Facebook e Twitter. A burguesia e as gerações mais velhas, que monopolizaram o discurso político por décadas, experimentaram confusão dessa transformação, incapazes de compreender que sua hegemonia sobre a expressão política havia sido decisivamente quebrada.
+
+Ao mesmo tempo, enquanto esta revolução digital amplificava vozes de juventude anteriormente marginalizadas, também era exclusiva, deixando para trás as gerações mais velhas e aquelas que não tinham acesso tecnológico.<figure class="wp-block-image size-large">
+
+<img decoding="async" src="http://localhost:8000/wp-content/uploads/2025/09/image-8-1024x682.png" alt="" class="wp-image-227409" /> </figure> 
+
+Um menino olha para um mural feito por artistas Riddhi Sagar e Somic Shrestha, retratando o sapato branco de 28 anos Prakash Bohara, que foi baleado durante os protestos no Nepal. Fotografia por Skanda Gautam e Sahana Vajracharya.
+
+**Inclusão radical significa classe, casta, género**
+
+Enquanto este movimento revolucionário representava uma ruptura significativa na ordem política, educadores e ativistas como Ujjwala Maharjan, Anjali Shah e Tasha Lhozam [apontaram][32] que permanece incompleta sem abordar as contradições fundamentais da casta, classe e gênero que estruturam a sociedade nepalesa.
+
+Criticar a corrupção sem interrogar a imoralidade inerente da acumulação de capital é confundir os sintomas com a doença. A classe política agora sob ataque por nepotismo e corrupção inevitavelmente tentara lavar sua riqueza obscena como legitimamente merecida com a ajuda da economia ortodoxa burguesa. Esta manobra contra-revolucionária só pode ter sucesso se o movimento revolucionário não confrontar a verdade desconfortável que muitas aspirações dentro de suas próprias fileiras permanecem contaminadas por fantasias capitalistas de avanço individual dentro das estruturas existentes. Sem uma crítica ao próprio capitalismo, este momento revolucionário corre o risco de cair no mero reformismo.
+
+Uma consciência verdadeiramente revolucionária deve sintetizar o anticapitalismo com a oposição militante às hierarquias de castas e subjugação patriarcal, mantendo uma perspectiva abolicionista. Nunca devemos esquecer que entre os falecidos estavam jovens encarcerados cujas mortes nas mãos das forças do Estado, [ao tentar escapar de condições brutais de confinamento][33], constituem assassinato de classe. O próprio conceito de centros de detenção juvenil representa a individualização de problemas sociais. O próprio crime deve ser entendido não como falhas morais individuais, mas como o resultado previsível das condições materiais criadas pelas relações sociais. O impulso para reabilitar as instituições de violência do Estado -exemplificado por aqueles que se apressaram para restaurar a infraestrutura policial &#8211; revela a contaminação ideológica da política de respeitabilidade. O humanismo revolucionário exige a abolição, não a reforma, dessas instituições carcerárias.
+
+Finalmente, a proliferação espontânea de bandeiras trans e queer através do servidor Discord revelou o caráter progressivo latente do movimento. Este movimento, embora apresentando uma frente unificada, contém dentro dele diversas experiências materiais— Povos indígenas, comunidades oprimidas por castas e minorias sexuais cujas formas específicas de exploração devem ser articuladas dentro de um programa revolucionário coerente. Os elementos historicamente privilegiados do movimento—cis, heterossexuais, masculinos, jovens de alto escalão—devem envolver-se numa autocrítica implacável em relação ao seu privilégio acumulado. Somente através deste processo pode surgir uma vanguarda interseccional anticapitalista deste momento histórico de radicalização em massa.<figure class="wp-block-image size-full">
+
+<img decoding="async" src="http://localhost:8000/wp-content/uploads/2025/09/image-12.png" alt="" class="wp-image-227420" /> </figure> 
+
+<https://crimethinc.com/2025/09/22/nepali-anarchists-on-the-toppling-of-the-government-an-interview-with-black-book-distro>
+
+ [1]: https://crimethinc.com/2025/09/22/nepali-anarchists-on-the-toppling-of-the-government-an-interview-with-black-book-distro
+ [2]: https://iraregmicom.wordpress.com/
+ [3]: https://kalamweekly.substack.com/p/the-kp-oli-government-has-murdered
+ [4]: https://english.onlinekhabar.com/charred-body-found-at-koteshwor-bhatbhateni-gen-z-protest-death-toll-rises-to-74.html
+ [5]: https://www.instagram.com/p/DOsYOYNDE8w/
+ [6]: https://english.onlinekhabar.com/death-toll-in-gen-z-movement-rises-to-72.html
+ [7]: https://www.himalmag.com/reportage/nepal-genz-protests-timeline-discord-social-media
+ [8]: https://en.setopati.com/political/165262
+ [9]: https://kalamweekly.substack.com/p/a-primer-for-what-is-happening-in
+ [10]: https://youtu.be/F0iCUV9ySDE?si=D7ydR0drzCELI0yt
+ [11]: https://kathmandupost.com/national/2023/12/30/two-korea-job-hopefuls-barred-from-exam-killed-during-protest
+ [12]: https://kathmandupost.com/money/2025/09/14/billions-lost-thousands-jobless-as-nepal-counts-cost-of-gen-z-uprising
+ [13]: https://kathmandupost.com/national/2019/01/16/how-businessmen-used-ncell-to-launder-black-money-to-nepal
+ [14]: https://www.fiscalnepal.com/2025/09/10/22144/12-bhatbhateni-stores-destroyed-9-looted-in-gen-z-unrest/
+ [15]: https://themorningtelegraph.com/32903/
+ [16]: https://nepalitimes.com/here-now/nepals-only-growth-industry-private-sector-corruption
+ [17]: https://kathmandupost.com/national/2024/02/15/special-court-acquits-former-ministers-as-it-convicts-civil-servants-on-lalita-niwas-land-scam
+ [18]: https://myrepublica.nagariknetwork.com/news/sc-rules-bhatbhateni-guilty-of-vat-evasion-orders-it-to-pay-rs-1-6-billion-to-govt/
+ [19]: https://nepalitimes.com/news/the-business-of-politics-in-nepal
+ [20]: https://kathmandupost.com/money/2025/09/18/police-flooded-with-evidence-as-looting-details-emerge-after-gen-z-protests
+ [21]: https://en.wikipedia.org/wiki/Bhutanese_refugees_scam
+ [22]: https://en.nepalkhabar.com/news/detail/13617/
+ [23]: https://en.wikipedia.org/wiki/Lalita_Niwas_land_grab_scam
+ [24]: https://youtu.be/-7etygjngfc?si=zdwURKuz2W69tr_p
+ [25]: https://www.recordnepal.com/oli-sacrifices-the-constitution-to-save-his-skin
+ [26]: https://www.instagram.com/sulav.photo/
+ [27]: https://youtu.be/fnN-5mBc-9Q?si=fxK-3G89F1JzGxp3
+ [28]: https://www.instagram.com/narenphoto/
+ [29]: https://speakupnepal.org/post/bQnDecwGGJcMdKCU
+ [30]: https://bojubajai.substack.com/p/take-71-is-this-the-end-of-access
+ [31]: https://organiser.org/2025/09/09/314998/world/nepal-burns-gen-z-protesters-set-kantipur-tv-headquarters-presidents-office-parliament-building-on-fire/
+ [32]: https://youtu.be/dhuC7zQRNvc
+ [33]: https://myrepublica.nagariknetwork.com/news/human-rights-committee-directs-govt-to-implement-suggestions-given-by-sub-committee/

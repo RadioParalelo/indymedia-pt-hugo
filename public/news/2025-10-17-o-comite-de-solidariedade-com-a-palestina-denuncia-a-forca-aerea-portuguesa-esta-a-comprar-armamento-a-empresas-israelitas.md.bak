@@ -1,0 +1,83 @@
+---
+title: 'O Comité de Solidariedade com a Palestina denuncia: a Força Aérea Portuguesa está a comprar armamento a empresas israelitas'
+author: Publicação Comunitária
+type: post
+date: 2025-10-17T00:32:21+00:00
+url:
+  - https://palestinavence.blogs.sapo.pt/comunicado-a-imprensa-112568
+activitypub_status:
+  - federated
+fpsm_author_name:
+  - Comité de Solidariedade com a Palestina / BDS Portugal
+classic-editor-remember:
+  - classic-editor
+categories:
+  - Uncategorized
+
+---
+<div class="default-style">
+  <strong><br /> </strong></p> 
+  
+  <div>
+    O Comité de Solidariedade com a Palestina vem denunciar as compras que a Força Aérea Portuguesa (FAP)  continua a fazer  à empresa de armamento israelita Elbit, e vem exigir aos Ministérios da Defesa e dos Negócios Estrangeiros que façam cessar imediatamente essas aquisições, que são um apoio à máquina de guerra israelita.
+  </div>
+  
+  <div class="default-style">
+  </div>
+  
+  <p>
+    A última compra que a Força Aérea Portuguesa (FAP) fez à Elbit,no valor de 81.170 euros, foi na semana passada (!), a 7 de outubro de 2025.  A 17 de dezembro de 2024, em pleno genocídio de Gaza, e <a href="https://www.base.gov.pt/Base4/pt/pesquisa/?type=contratos&texto=Elbit&tipo=0&tipocontrato=0&cpv=&aqinfo=&adjudicante=&adjudicataria=&sel_price=price_c1&desdeprecocontrato=&ateprecocontrato=&desdeprecoefectivo=&ateprecoefectivo=&desdeprazoexecucao=&ateprazoexecucao=&sel_date=date_c1&desdedatacontrato=&atedatacontrato=&desdedatapublicacao=&atedatapublicacao=&desdedatafecho=&atedatafecho=&pais=0&distrito=0&concelho=0" target="_blank" rel="noopener">conforme o que está registado no  portal de compras públicas Base.gov.pt</a>, a FAP adquiriu equipamento militar no valor de 439.950 euros!</div> 
+    
+    <div class="default-style">
+    </div>
+    
+    <div class="default-style">
+      Trata-se, em ambos os casos, de equipamento para os aviões F-16 da FAP. Na semana passada foram adquiridos serviços de peritagem. Em  dezembro de 2024 foi um  &#8220;<a href="https://www.forumdefesa.com/forum/index.php?topic=5342.3180" target="_blank" rel="noopener">Contrato por ajuste direto para o fornecimento de componentes estruturais para a integração do sistema digital de aviso antecipado de ameaças radar (vulgo, Radar Warning Receiver &#8211; RWR) Elbit Systems SPS-45(V)5 na frota F-16M.</a>&#8220;
+    </div>
+    
+    <div class="default-style">
+    </div>
+    
+    <div class="default-style">
+      A Força Aérea Portuguesa <a href="https://aerospaceglobalnews.com/news/elbits-self-protection-suite-tested-on-portuguese-air-force-c-390/" target="_blank" rel="noopener">prepara-se ainda para comprar mais equipamento à Elbit, desta vez para os aviões Embraer C-390</a>.
+    </div>
+    
+    <div class="default-style">
+    </div>
+    
+    <div class="default-style">
+      Listada no recente relatório da ONU sobre aqueles que lucram com o genocídio, a Elbit Systems é uma das maiores empresas militares de Israel. Em 2014, a região do Rio Grande do Sul, no Brasil, decidiu cancelar um projeto de colaboração de pesquisa em larga escala com a Elbit Systems, e a participação desta empresa numa produção brasileira de drones foi encerrada em 2016.   Em dezembro de 2018, o banco HSBC anunciou que se desfez da Elbit Systems após uma campanha sustentada da sociedade civil. A Elbit também perdeu contratos na Dinamarca e na França após campanhas públicas. Mais recentemente, uma dúzia de instituições financeiras, incluindo quase todos os principais fundos de pensão escandinavos, deixaram de investir nesta empresa.  Decorre ainda uma campanha internacional para que a  empresa de seguros AXA abandone os seus investimentos na Elbit.
+    </div>
+    
+    <div class="default-style">
+    </div>
+    
+    <div class="default-style">
+      Em contrapartida, em Portugal, estas compras com o aval do governo estão a ser feitas enquanto continua a decorrer uma <a href="https://www.icj-cij.org/index.php/case/192" target="_blank" rel="noopener">investigação do Tribunal Internacional de Justiça sobre crimes de Genocídio cometidos por Israel em Gaza</a>, e quando existe uma <a href="https://news.un.org/en/story/2024/09/1154496" target="_blank" rel="noopener">resolução aprovada pela Assembleia Geral das Nações Unidas exigindo a Israel que termine a sua ocupação ilegal dos Territórios Palestinianos Ocupados</a>, onde a violência contra os civis é diária. Nessa resolução faz-se a seguinte exigência:
+    </div>
+    
+    <div class="default-style">
+      “A Assembleia instou os Estados a assegurarem-se de que não prestam ajuda ou assistência para manter a situação criada pela ocupação. Isto inclui tomar medidas para impedir que os seus cidadãos, empresas e entidades sob a sua jurisdição se envolvam em atividades que apoiem ou sustentem a ocupação de Israel.”
+    </div>
+    
+    <div class="default-style">
+    </div>
+    
+    <div class="default-style">
+      Portugal não pode continuar a ignorar as resoluções da ONU e a apoiar a indústria de armamento de Israel, numa altura em que a fragilidade do acordo de cessar-fogo em Gaza é aparente, e quando continuam os ataques de colonos e do exército israelita aos palestinianos da Cisjordânia. Exigimos aos Ministérios da Defesa e dos Negócios Estrangeiros que façam cessar imediatamente estas aquisições, que constituem um apoio à máquina de guerra israelita.
+    </div>
+    
+    <div class="default-style">
+      <strong><br /> </strong></p> 
+      
+      <div>
+        Comité de Solidariedade com a Palestina  / BDS Portugal
+      </div>
+      
+      <div>
+      </div>
+      
+      <div class="default-style">
+        Mais <span class="color">informação <a href="https://bdsportugal.org/sancoes/" target="_blank" rel="noopener">aqui</a></span>
+      </div>
+    </div>
