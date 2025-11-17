@@ -1,7 +1,7 @@
 [build]
   command = "hugo"
-  publish = "public"
+  publish = "public"  # Make sure this is correct
 
-[publish]
 [build.environment]
-  HUGO_VERSION = "0.88.0" # Specify the version of Hugo you want
+  HUGO_VERSION = "0.88.0" # Specify the Hugo version
+
