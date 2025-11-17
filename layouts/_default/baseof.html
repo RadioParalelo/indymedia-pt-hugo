@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <script src="https://cdn.jsdelivr.net/npm/decap-cms@latest/dist/decap-cms.js"></script>
     {{ $style := resources.Get "css/style.css" }}
     {{ if $style }}
         {{ $secureStyle := $style | resources.Minify | resources.Fingerprint }}
@@ -54,6 +55,12 @@
             </tr>
         </table>
     </div>
+ <!-- Initialize Decap CMS here -->
+    <script>
+    CMS.init({
+        load_config_file: '/cms/config.yml'  // Adjust the path if necessary
+    });
+    </script>
     {{ block "footer" . }}{{ end }}
 </body>
 </html>
